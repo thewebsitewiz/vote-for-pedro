@@ -1,0 +1,47 @@
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"/>
+
+<style type="text/css">
+  .title-header {
+  margin-top: 30px;
+  }
+  
+  .parent {
+  width: 100%;
+  }
+  
+  .nav {
+  width: 150px;
+  display: inline;
+  background-color: grey;
+  }
+  
+  .display {
+  width: 300px;
+  display: none;
+  }
+  
+  .nav-item {
+  color: white;
+  }
+  
+  .display-item {
+  color: yellow;
+  }
+  
+</style>
+<div class="parent">
+  <div class="nav">
+    <div class="nav-item" navId="first">first</div>
+    <div class="nav-item" navId="second">second</div>
+    <div class="nav-item" navId="third">third</div>
+    <div class="nav-item" navId="forth">forth</div>
+    <div class="nav-item" navId="fifth">Fifth</div>
+  </div>
+  <div class="display">
+    <div class="display-item" id="first">first</div>
+    <div class="display-item" id="second">second</div>
+    <div class="display-item" id="third">third</div>
+    <div class="display-item" id="forth">forth</div>
+    <div class="display-item" id="fifth">Fifth</div>
+  </div>
+</div> <!-- close parent -->

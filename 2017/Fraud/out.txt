@@ -1,0 +1,2 @@
+Can't locate String/Random.pm in @INC (you may need to install the String::Random module) (@INC contains: C:/Strawberry/perl/site/lib C:/Strawberry/perl/vendor/lib C:/Strawberry/perl/lib .) at fraudVote.pl line 6.
+BEGIN failed--compilation aborted at fraudVote.pl line 6.

@@ -1,0 +1,11 @@
+{ "sessions" : [
+  {
+    "access_token": "wzxdpn40qup",
+    "embedded_errors": [],
+    "id": 117666921,
+    "organization_id": 1559,
+    "organization_user_guid": "f3601ef6-7c83-482b-88cb-4a2702d9d644",
+    "organization_user_id": 107166791,
+    "username": "SantiagoBraun@lycos.com"
+  }
+] }

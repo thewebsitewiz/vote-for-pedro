@@ -1,0 +1,4321 @@
+NY|Queens|Woodside|25th Avenue|11377
+NY|Queens|Woodside|27th Avenue|11377
+NY|Queens|Woodside|28th Avenue|11377
+NY|Queens|Woodside|30th Avenue|11377
+NY|Queens|Woodside|31st Avenue|11377
+NY|Queens|Woodside|32nd Avenue|11377
+NY|Queens|Woodside|34th Avenue|11377
+NY|Queens|Woodside|35th Avenue|11377
+NY|Queens|Woodside|35th Road|11377
+NY|Queens|Woodside|37th Avenue|11377
+NY|Queens|Woodside|37th Road|11377
+NY|Queens|Woodside|38th Avenue|11377
+NY|Queens|Woodside|39th Avenue|11377
+NY|Queens|Woodside|39th Drive|11377
+NY|Queens|Woodside|39th Road|11377
+NY|Queens|Woodside|41st Avenue|11377
+NY|Queens|Woodside|41st Drive|11377
+NY|Queens|Woodside|43rd Avenue|11377
+NY|Queens|Woodside|43rd Street|11377
+NY|Queens|Woodside|44th Avenue|11377
+NY|Queens|Woodside|44th Street|11377
+NY|Queens|Woodside|45th Avenue|11377
+NY|Queens|Woodside|45th Street|11377
+NY|Queens|Woodside|46th Street|11377
+NY|Queens|Woodside|47th Avenue|11377
+NY|Queens|Woodside|47th Street|11377
+NY|Queens|Woodside|48th Avenue|11377
+NY|Queens|Woodside|48th Street|11377
+NY|Queens|Woodside|49th Avenue|11377
+NY|Queens|Woodside|49th Street|11377
+NY|Queens|Woodside|50th Avenue|11377
+NY|Queens|Woodside|50th Street|11377
+NY|Queens|Woodside|51st Avenue|11377
+NY|Queens|Woodside|51st Drive|11377
+NY|Queens|Woodside|51st Road|11377
+NY|Queens|Woodside|52nd Avenue|11377
+NY|Queens|Woodside|52nd Road|11377
+NY|Queens|Woodside|52nd Street|11377
+NY|Queens|Woodside|53rd Place|11377
+NY|Queens|Woodside|53rd Street|11377
+NY|Queens|Woodside|54th Street|11377
+NY|Queens|Woodside|55th Street|11377
+NY|Queens|Woodside|56th Place|11377
+NY|Queens|Woodside|56th Street|11377
+NY|Queens|Woodside|57th Street|11377
+NY|Queens|Woodside|58th Lane|11377
+NY|Queens|Woodside|51st Street|11377
+NY|Queens|Woodside|58th Street|11377
+NY|Queens|Woodside|59th Place|11377
+NY|Queens|Woodside|59th Street|11377
+NY|Queens|Woodside|60th Place|11377
+NY|Queens|Woodside|60th Street|11377
+NY|Queens|Woodside|61st Street|11377
+NY|Queens|Woodside|62nd Street|11377
+NY|Queens|Woodside|63rd Street|11377
+NY|Queens|Woodside|64th Street|11377
+NY|Queens|Woodside|65th Place|11377
+NY|Queens|Woodside|65th Street|11377
+NY|Queens|Woodside|66th Street|11377
+NY|Queens|Woodside|67th Street|11377
+NY|Queens|Woodside|68th Street|11377
+NY|Queens|Woodside|69th Place|11377
+NY|Queens|Woodside|69th Street|11377
+NY|Queens|Woodside|70th Street|11377
+NY|Queens|Woodside|71st Street|11377
+NY|Queens|Woodside|72nd Place|11377
+NY|Queens|Woodside|73rd Place|11377
+NY|Queens|Woodside|73rd Street|11377
+NY|Queens|Woodside|Berkey Avenue|11377
+NY|Queens|Woodside|Boody Street|11377
+NY|Queens|Woodside|Borough Place|11377
+NY|Queens|Woodside|Broadway|11377
+NY|Queens|Woodside|58th Place|11377
+NY|Queens|Woodside|Burrough Place|11377
+NY|Queens|Woodside|Calamus Avenue|11377
+NY|Queens|Woodside|Celtic Avenue|11377
+NY|Queens|Woodside|Garfield Avenue|11377
+NY|Queens|Woodside|Henry Avenue|11377
+NY|Queens|Woodside|Hicks Drive|11377
+NY|Queens|Woodside|Hobart Street|11377
+NY|Queens|Woodside|Interstate 278|11377
+NY|Queens|Woodside|Laurel Hill Boulevard|11377
+NY|Queens|Woodside|Mackintosh Street|11377
+NY|Queens|Woodside|Maurice Avenue|11377
+NY|Queens|Woodside|Newtown Road|11377
+NY|Queens|Woodside|Northern Boulevard|11377
+NY|Queens|Woodside|Queens Boulevard|11377
+NY|Queens|Woodside|Roosevelt Avenue|11377
+NY|Queens|Woodside|Skillman Avenue|11377
+NY|Queens|Woodside|State Highway 25|11377
+NY|Queens|Woodside|State Highway 25 Alt|11377
+NY|Queens|Woodside|Trimble Road|11377
+NY|Queens|Woodside|Tyler Avenue|11377
+NY|Queens|Woodside|Woodside Avenue|11377
+NY|Queens|Woodside|72nd Street|11377
+NY|Queens|Woodside|Brooklyn Queens Expy|11377
+NY|Queens|Woodhaven|74th Place|11421
+NY|Queens|Woodhaven|75th Street|11421
+NY|Queens|Woodhaven|76th Street|11421
+NY|Queens|Woodhaven|77th Street|11421
+NY|Queens|Woodhaven|78th Street|11421
+NY|Queens|Woodhaven|79th Street|11421
+NY|Queens|Woodhaven|80th Street|11421
+NY|Queens|Woodhaven|81st Street|11421
+NY|Queens|Woodhaven|84th Street|11421
+NY|Queens|Woodhaven|85th Avenue|11421
+NY|Queens|Woodhaven|85th Drive|11421
+NY|Queens|Woodhaven|85th Road|11421
+NY|Queens|Woodhaven|85th Street|11421
+NY|Queens|Woodhaven|86th Avenue|11421
+NY|Queens|Woodhaven|86th Drive|11421
+NY|Queens|Woodhaven|86th Road|11421
+NY|Queens|Woodhaven|87th Avenue|11421
+NY|Queens|Woodhaven|87th Road|11421
+NY|Queens|Woodhaven|87th Street|11421
+NY|Queens|Woodhaven|88th Avenue|11421
+NY|Queens|Woodhaven|88th Place|11421
+NY|Queens|Woodhaven|88th Road|11421
+NY|Queens|Woodhaven|88th Street|11421
+NY|Queens|Woodhaven|89th Avenue|11421
+NY|Queens|Woodhaven|89th Street|11421
+NY|Queens|Woodhaven|90th Avenue|11421
+NY|Queens|Woodhaven|90th Road|11421
+NY|Queens|Woodhaven|90th Street|11421
+NY|Queens|Woodhaven|91st Avenue|11421
+NY|Queens|Woodhaven|91st Road|11421
+NY|Queens|Woodhaven|91st Street|11421
+NY|Queens|Woodhaven|92nd Avenue|11421
+NY|Queens|Woodhaven|92nd Street|11421
+NY|Queens|Woodhaven|93rd Avenue|11421
+NY|Queens|Woodhaven|94th Street|11421
+NY|Queens|Woodhaven|86th Street|11421
+NY|Queens|Woodhaven|96th Street|11421
+NY|Queens|Woodhaven|97th Street|11421
+NY|Queens|Woodhaven|98th Street|11421
+NY|Queens|Woodhaven|Atlantic Avenue|11421
+NY|Queens|Woodhaven|Clemente Court|11421
+NY|Queens|Woodhaven|Dexter Court|11421
+NY|Queens|Woodhaven|95th Street|11421
+NY|Queens|Woodhaven|Forest Pkwy|11421
+NY|Queens|Woodhaven|Jamaica Avenue|11421
+NY|Queens|Woodhaven|Park Lane S|11421
+NY|Queens|Woodhaven|Rockaway Boulevard|11421
+NY|Queens|Woodhaven|82nd Street|11421
+NY|Queens|Springfield Gardens|122nd Avenue|11413
+NY|Queens|Springfield Gardens|125th Avenue|11413
+NY|Queens|Springfield Gardens|126th Avenue|11413
+NY|Queens|Springfield Gardens|128th Avenue|11413
+NY|Queens|Springfield Gardens|128th Drive|11413
+NY|Queens|Springfield Gardens|128th Road|11413
+NY|Queens|Springfield Gardens|129th Avenue|11413
+NY|Queens|Woodhaven|Woodhaven Boulevard|11421
+NY|Queens|Springfield Gardens|130th Avenue|11413
+NY|Queens|Springfield Gardens|130th Road|11413
+NY|Queens|Springfield Gardens|131st Avenue|11413
+NY|Queens|Springfield Gardens|132nd Avenue|11413
+NY|Queens|Springfield Gardens|132nd Road|11413
+NY|Queens|Springfield Gardens|133rd Avenue|11413
+NY|Queens|Springfield Gardens|133rd Road|11413
+NY|Queens|Springfield Gardens|134th Road|11413
+NY|Queens|Springfield Gardens|135th Avenue|11413
+NY|Queens|Springfield Gardens|130th Drive|11413
+NY|Queens|Springfield Gardens|136th Road|11413
+NY|Queens|Springfield Gardens|137th Avenue|11413
+NY|Queens|Springfield Gardens|137th Road|11413
+NY|Queens|Springfield Gardens|138th Avenue|11413
+NY|Queens|Springfield Gardens|138th Road|11413
+NY|Queens|Springfield Gardens|139th Avenue|11413
+NY|Queens|Springfield Gardens|140th Avenue|11413
+NY|Queens|Springfield Gardens|141st Avenue|11413
+NY|Queens|Springfield Gardens|141st Road|11413
+NY|Queens|Springfield Gardens|142nd Road|11413
+NY|Queens|Springfield Gardens|143rd Avenue|11413
+NY|Queens|Springfield Gardens|143rd Road|11413
+NY|Queens|Springfield Gardens|144th Avenue|11413
+NY|Queens|Springfield Gardens|144th Road|11413
+NY|Queens|Springfield Gardens|145th Avenue|11413
+NY|Queens|Springfield Gardens|145th Drive|11413
+NY|Queens|Springfield Gardens|145th Road|11413
+NY|Queens|Springfield Gardens|146th Avenue|11413
+NY|Queens|Springfield Gardens|146th Terrace|11413
+NY|Queens|Springfield Gardens|147th Avenue|11413
+NY|Queens|Springfield Gardens|148th Avenue|11413
+NY|Queens|Springfield Gardens|149th Avenue|11413
+NY|Queens|Springfield Gardens|149th Road|11413
+NY|Queens|Woodhaven|Eldert Lane|11421
+NY|Queens|Springfield Gardens|150th Drive|11413
+NY|Queens|Springfield Gardens|150th Road|11413
+NY|Queens|Springfield Gardens|181st Place|11413
+NY|Queens|Springfield Gardens|181st Street|11413
+NY|Queens|Springfield Gardens|182nd Place|11413
+NY|Queens|Springfield Gardens|182nd Street|11413
+NY|Queens|Woodhaven|91st Drive|11421
+NY|Queens|Springfield Gardens|184th Street|11413
+NY|Queens|Springfield Gardens|185th Street|11413
+NY|Queens|Springfield Gardens|191st Street|11413
+NY|Queens|Springfield Gardens|136th Avenue|11413
+NY|Queens|Springfield Gardens|193rd Street|11413
+NY|Queens|Springfield Gardens|194th Street|11413
+NY|Queens|Springfield Gardens|195th Street|11413
+NY|Queens|Springfield Gardens|196th Street|11413
+NY|Queens|Springfield Gardens|197th Street|11413
+NY|Queens|Springfield Gardens|198th Street|11413
+NY|Queens|Springfield Gardens|199th Street|11413
+NY|Queens|Springfield Gardens|217th Street|11413
+NY|Queens|Springfield Gardens|218th Street|11413
+NY|Queens|Springfield Gardens|219th Street|11413
+NY|Queens|Springfield Gardens|220th Place|11413
+NY|Queens|Springfield Gardens|220th Street|11413
+NY|Queens|Springfield Gardens|221st Street|11413
+NY|Queens|Springfield Gardens|222nd Street|11413
+NY|Queens|Springfield Gardens|223rd Street|11413
+NY|Queens|Springfield Gardens|224th Street|11413
+NY|Queens|Springfield Gardens|225th Street|11413
+NY|Queens|Springfield Gardens|226th Street|11413
+NY|Queens|Springfield Gardens|227th Street|11413
+NY|Queens|Springfield Gardens|228th Street|11413
+NY|Queens|Springfield Gardens|229th Street|11413
+NY|Queens|Springfield Gardens|230th Place|11413
+NY|Queens|Springfield Gardens|230th Street|11413
+NY|Queens|Springfield Gardens|231st Street|11413
+NY|Queens|Springfield Gardens|232nd Street|11413
+NY|Queens|Springfield Gardens|Adair Street|11413
+NY|Queens|Springfield Gardens|Alecia Avenue|11413
+NY|Queens|Springfield Gardens|Arthur Street|11413
+NY|Queens|Springfield Gardens|Bedell Street|11413
+NY|Queens|Springfield Gardens|Belknap Street|11413
+NY|Queens|Springfield Gardens|Bennett Street|11413
+NY|Queens|Springfield Gardens|Benton Street|11413
+NY|Queens|Springfield Gardens|Carson Street|11413
+NY|Queens|Springfield Gardens|Conduit Avenue, North|11413
+NY|Queens|Springfield Gardens|Conduit Avenue, South|11413
+NY|Queens|Springfield Gardens|Coombs Street|11413
+NY|Queens|Springfield Gardens|Defoe Street|11413
+NY|Queens|Springfield Gardens|Eastgate Plaza|11413
+NY|Queens|Springfield Gardens|Edgewood Avenue|11413
+NY|Queens|Springfield Gardens|Farmers Boulevard|11413
+NY|Queens|Springfield Gardens|Francis Lewis Boulevard|11413
+NY|Queens|Springfield Gardens|Grayson Street|11413
+NY|Queens|Springfield Gardens|Lansing Avenue|11413
+NY|Queens|Springfield Gardens|Laurelton Pkwy|11413
+NY|Queens|Springfield Gardens|Lucas Street|11413
+NY|Queens|Springfield Gardens|Marissa Street|11413
+NY|Queens|Springfield Gardens|Mentone Avenue|11413
+NY|Queens|Springfield Gardens|Merrick Boulevard|11413
+NY|Queens|Springfield Gardens|Milburn Street|11413
+NY|Queens|Springfield Gardens|Montauk Street|11413
+NY|Queens|Springfield Gardens|N Conduit Avenue|11413
+NY|Queens|Springfield Gardens|Nashville Boulevard|11413
+NY|Queens|Springfield Gardens|Nellis Street|11413
+NY|Queens|Springfield Gardens|Nepton Street|11413
+NY|Queens|Springfield Gardens|Pineville Lane|11413
+NY|Queens|Springfield Gardens|Prospect Court|11413
+NY|Queens|Springfield Gardens|Ridgedale Street|11413
+NY|Queens|Springfield Gardens|Rockaway Boulevard|11413
+NY|Queens|Springfield Gardens|Ryan Road|11413
+NY|Queens|Springfield Gardens|S Conduit Avenue|11413
+NY|Queens|Springfield Gardens|192nd Street|11413
+NY|Queens|Springfield Gardens|Southgate Plaza|11413
+NY|Queens|Springfield Gardens|Southgate Street|11413
+NY|Queens|Springfield Gardens|Springfield Boulevard|11413
+NY|Queens|Springfield Gardens|Springfield Lane|11413
+NY|Queens|Springfield Gardens|State Highway 27|11413
+NY|Queens|Springfield Gardens|State Route 27|11413
+NY|Queens|Springfield Gardens|Thurston Street|11413
+NY|Queens|Springfield Gardens|Westgate Street|11413
+NY|Queens|Springfield Gardens|Williamson Avenue|11413
+NY|Queens|Springfield Gardens|150th Avenue|11413
+NY|Queens|Springfield Gardens|183rd Street|11413
+NY|Queens|Springfield Gardens|Sloan Street|11413
+NY|Queens|Bellerose|237th Street|11426
+NY|Queens|Bellerose|238th Street|11426
+NY|Queens|Bellerose|239th Street|11426
+NY|Queens|Bellerose|240th Street|11426
+NY|Queens|Bellerose|241st Street|11426
+NY|Queens|Bellerose|242nd Street|11426
+NY|Queens|Bellerose|243rd Street|11426
+NY|Queens|Bellerose|244th Street|11426
+NY|Queens|Bellerose|245th Street|11426
+NY|Queens|Bellerose|246th Street|11426
+NY|Queens|Bellerose|247th Street|11426
+NY|Queens|Bellerose|248th Street|11426
+NY|Queens|Bellerose|250th Street|11426
+NY|Queens|Bellerose|249th Street|11426
+NY|Queens|Bellerose|251st Street|11426
+NY|Queens|Bellerose|252nd Street|11426
+NY|Queens|Bellerose|253rd Street|11426
+NY|Queens|Bellerose|254th Street|11426
+NY|Queens|Bellerose|71st Road|11426
+NY|Queens|Bellerose|72nd Avenue|11426
+NY|Queens|Bellerose|76th Avenue|11426
+NY|Queens|Bellerose|77th Cres|11426
+NY|Queens|Bellerose|80th Avenue|11426
+NY|Queens|Bellerose|80th Road|11426
+NY|Queens|Bellerose|81st Avenue|11426
+NY|Queens|Bellerose|82nd Avenue|11426
+NY|Queens|Bellerose|82nd Road|11426
+NY|Queens|Bellerose|83rd Avenue|11426
+NY|Queens|Bellerose|82nd Drive|11426
+NY|Queens|Bellerose|84th Road|11426
+NY|Queens|Bellerose|85th Avenue|11426
+NY|Queens|Bellerose|86th Avenue|11426
+NY|Queens|Bellerose|85th Road|11426
+NY|Queens|Bellerose|86th Road|11426
+NY|Queens|Bellerose|87th Avenue|11426
+NY|Queens|Bellerose|87th Drive|11426
+NY|Queens|Bellerose|87th Road|11426
+NY|Queens|Bellerose|88th Avenue|11426
+NY|Queens|Bellerose|88th Drive|11426
+NY|Queens|Bellerose|89th Avenue|11426
+NY|Queens|Bellerose|71st Avenue|11426
+NY|Queens|Bellerose|91st Avenue|11426
+NY|Queens|Bellerose|92nd Road|11426
+NY|Queens|Bellerose|93rd Avenue|11426
+NY|Queens|Bellerose|93rd Road|11426
+NY|Queens|Bellerose|Braddock Avenue|11426
+NY|Queens|Bellerose|Commonwealth Boulevard|11426
+NY|Queens|Bellerose|Cross Island Pkwy|11426
+NY|Queens|Bellerose|Cross Island Pkwy Svc Road|11426
+NY|Queens|Bellerose|Davenport Avenue|11426
+NY|Queens|Bellerose|Edmore Avenue|11426
+NY|Queens|Bellerose|Elkmont Avenue|11426
+NY|Queens|Bellerose|Gettysburg Street|11426
+NY|Queens|Bellerose|Fairbury Avenue|11426
+NY|Queens|Bellerose|Grand Central Pkwy|11426
+NY|Queens|Bellerose|Grand Central Pkwy Svc Road|11426
+NY|Queens|Bellerose|Hillside Avenue|11426
+NY|Queens|Bellerose|Jamaica Avenue|11426
+NY|Queens|Bellerose|Jericho Tpke|11426
+NY|Queens|Bellerose|Shiloh Avenue|11426
+NY|Queens|Bellerose|State Highway 25|11426
+NY|Queens|Bellerose|State Highway 25B|11426
+NY|Queens|Bellerose|State Route 25|11426
+NY|Queens|Bellerose|Union Tpke|11426
+NY|Queens|Bellerose|90th Avenue|11426
+NY|Queens|Bellerose|88th Road|11426
+NY|Queens|Bellerose|84th Drive|11426
+NY|Queens|Kew Gardens|118th Street|11415
+NY|Queens|Kew Gardens|119th Street|11415
+NY|Queens|Kew Gardens|120th Street|11415
+NY|Queens|Kew Gardens|121st Street|11415
+NY|Queens|Kew Gardens|122nd Street|11415
+NY|Queens|Kew Gardens|123rd Street|11415
+NY|Queens|Kew Gardens|124th Place|11415
+NY|Queens|Kew Gardens|124th Street|11415
+NY|Queens|Kew Gardens|125th Street|11415
+NY|Queens|Kew Gardens|126th Street|11415
+NY|Queens|Kew Gardens|127th Street|11415
+NY|Queens|Kew Gardens|129th Street|11415
+NY|Queens|Kew Gardens|130th Street|11415
+NY|Queens|Kew Gardens|131st Street|11415
+NY|Queens|Kew Gardens|80th Avenue|11415
+NY|Queens|Kew Gardens|80th Road|11415
+NY|Queens|Kew Gardens|81st Avenue|11415
+NY|Queens|Kew Gardens|82nd Avenue|11415
+NY|Queens|Kew Gardens|82nd Drive|11415
+NY|Queens|Kew Gardens|83rd Avenue|11415
+NY|Queens|Kew Gardens|82nd Road|11415
+NY|Queens|Kew Gardens|83rd Drive|11415
+NY|Queens|Kew Gardens|84th Avenue|11415
+NY|Queens|Kew Gardens|84th Drive|11415
+NY|Queens|Kew Gardens|84th Road|11415
+NY|Queens|Kew Gardens|85th Avenue|11415
+NY|Queens|Kew Gardens|Abingdon Road|11415
+NY|Queens|Kew Gardens|Audley Street|11415
+NY|Queens|Kew Gardens|Austin Street|11415
+NY|Queens|Kew Gardens|Beverly Road|11415
+NY|Queens|Kew Gardens|Brevoort Street|11415
+NY|Queens|Kew Gardens|Cuthbert Road|11415
+NY|Queens|Kew Gardens|Grenfell Street|11415
+NY|Queens|Kew Gardens|Kew Gardens Road|11415
+NY|Queens|Kew Gardens|Lefferts Boulevard|11415
+NY|Queens|Kew Gardens|Metropolitan Avenue|11415
+NY|Queens|Kew Gardens|Mowbray Drive|11415
+NY|Queens|Kew Gardens|Onslow Place|11415
+NY|Queens|Kew Gardens|Park Lane|11415
+NY|Queens|Kew Gardens|Park Lane S|11415
+NY|Queens|Kew Gardens|Queens Boulevard|11415
+NY|Queens|Kew Gardens|State Highway 25|11415
+NY|Queens|Kew Gardens|Talbot Street|11415
+NY|Queens|Kew Gardens|Union Tpke|11415
+NY|Queens|Middle Village|57th Road|11379
+NY|Queens|Middle Village|58th Avenue|11379
+NY|Queens|Middle Village|58th Road|11379
+NY|Queens|Middle Village|60th Avenue|11379
+NY|Queens|Middle Village|60th Drive|11379
+NY|Queens|Middle Village|60th Road|11379
+NY|Queens|Middle Village|61st Drive|11379
+NY|Queens|Middle Village|61st Road|11379
+NY|Queens|Middle Village|62nd Avenue|11379
+NY|Queens|Middle Village|62nd Drive|11379
+NY|Queens|Middle Village|62nd Road|11379
+NY|Queens|Middle Village|62nd Street|11379
+NY|Queens|Middle Village|63rd Avenue|11379
+NY|Queens|Middle Village|63rd Road|11379
+NY|Queens|Middle Village|63rd Street|11379
+NY|Queens|Middle Village|64th Road|11379
+NY|Queens|Middle Village|64th Street|11379
+NY|Queens|Middle Village|65th Drive|11379
+NY|Queens|Middle Village|65th Lane|11379
+NY|Queens|Middle Village|65th Place|11379
+NY|Queens|Middle Village|65th Street|11379
+NY|Queens|Middle Village|66th Drive|11379
+NY|Queens|Middle Village|66th Road|11379
+NY|Queens|Middle Village|67th Drive|11379
+NY|Queens|Middle Village|67th Road|11379
+NY|Queens|Middle Village|67th Street|11379
+NY|Queens|Middle Village|68th Avenue|11379
+NY|Queens|Middle Village|68th Road|11379
+NY|Queens|Middle Village|68th Street|11379
+NY|Queens|Middle Village|69th Avenue|11379
+NY|Queens|Middle Village|69th Drive|11379
+NY|Queens|Middle Village|69th Lane|11379
+NY|Queens|Middle Village|69th Place|11379
+NY|Queens|Middle Village|69th Road|11379
+NY|Queens|Middle Village|69th Street|11379
+NY|Queens|Middle Village|70th Street|11379
+NY|Queens|Middle Village|71st Avenue|11379
+NY|Queens|Middle Village|71st Street|11379
+NY|Queens|Middle Village|72nd Street|11379
+NY|Queens|Middle Village|73rd Place|11379
+NY|Queens|Middle Village|74th Street|11379
+NY|Queens|Middle Village|75th Place|11379
+NY|Queens|Middle Village|75th Street|11379
+NY|Queens|Middle Village|76th Street|11379
+NY|Queens|Middle Village|77th Place|11379
+NY|Queens|Middle Village|77th Street|11379
+NY|Queens|Middle Village|78th Street|11379
+NY|Queens|Middle Village|79th Place|11379
+NY|Queens|Middle Village|79th Street|11379
+NY|Queens|Middle Village|80th Street|11379
+NY|Queens|Middle Village|81st Street|11379
+NY|Queens|Middle Village|82nd Place|11379
+NY|Queens|Middle Village|82nd Street|11379
+NY|Queens|Middle Village|83rd Place|11379
+NY|Queens|Middle Village|83rd Street|11379
+NY|Queens|Middle Village|84th Place|11379
+NY|Queens|Middle Village|84th Street|11379
+NY|Queens|Middle Village|85th Street|11379
+NY|Queens|Middle Village|86th Street|11379
+NY|Queens|Middle Village|Admiral Avenue|11379
+NY|Queens|Middle Village|Caldwell Avenue|11379
+NY|Queens|Middle Village|Cook Avenue|11379
+NY|Queens|Middle Village|Cowles Court|11379
+NY|Queens|Middle Village|Dana Court|11379
+NY|Queens|Middle Village|Dry Harbor Road|11379
+NY|Queens|Middle Village|Eliot Avenue|11379
+NY|Queens|Middle Village|Fleet Court|11379
+NY|Queens|Middle Village|Fresh Pond Road|11379
+NY|Queens|Middle Village|Furmanville Avenue|11379
+NY|Queens|Middle Village|Goldington Court|11379
+NY|Queens|Middle Village|Gray Street|11379
+NY|Queens|Middle Village|Juniper Blvd N|11379
+NY|Queens|Middle Village|Juniper Blvd S|11379
+NY|Queens|Middle Village|Juniper Boulevard|11379
+NY|Queens|Middle Village|Juniper Valley Road|11379
+NY|Queens|Middle Village|Mount Olivet Cres|11379
+NY|Queens|Middle Village|Penelope Avenue|11379
+NY|Queens|Middle Village|Metropolitan Avenue|11379
+NY|Queens|Middle Village|Qn Midtown Expressway en Eb|11379
+NY|Queens|Middle Village|Queens Midtown Expy|11379
+NY|Queens|Middle Village|Terrace Court|11379
+NY|Queens|Middle Village|Pleasantview Street|11379
+NY|Queens|Queens Village|100th Avenue|11429
+NY|Queens|Queens Village|102nd Avenue|11429
+NY|Queens|Queens Village|103rd Avenue|11429
+NY|Queens|Queens Village|104th Avenue|11429
+NY|Queens|Queens Village|104th Road|11429
+NY|Queens|Queens Village|105th Avenue|11429
+NY|Queens|Queens Village|106th Avenue|11429
+NY|Queens|Queens Village|107th Avenue|11429
+NY|Queens|Queens Village|108th Avenue|11429
+NY|Queens|Queens Village|101st Avenue|11429
+NY|Queens|Queens Village|110th Avenue|11429
+NY|Queens|Queens Village|110th Road|11429
+NY|Queens|Queens Village|111th Avenue|11429
+NY|Queens|Queens Village|111th Road|11429
+NY|Queens|Queens Village|112th Avenue|11429
+NY|Queens|Queens Village|112th Road|11429
+NY|Queens|Queens Village|113th Avenue|11429
+NY|Queens|Queens Village|113th Drive|11429
+NY|Queens|Queens Village|206th Street|11427
+NY|Queens|Queens Village|206th Street|11428
+NY|Queens|Queens Village|100th Drive|11429
+NY|Queens|Queens Village|207th Street|11428
+NY|Queens|Queens Village|207th Street|11429
+NY|Queens|Queens Village|208th Street|11427
+NY|Queens|Queens Village|208th Street|11428
+NY|Queens|Queens Village|208th Street|11429
+NY|Queens|Queens Village|209th Street|11427
+NY|Queens|Queens Village|209th Place|11429
+NY|Queens|Queens Village|209th Street|11428
+NY|Queens|Queens Village|209th Street|11429
+NY|Queens|Queens Village|210th Place|11427
+NY|Queens|Queens Village|210th Place|11428
+NY|Queens|Queens Village|210th Street|11427
+NY|Queens|Queens Village|210th Street|11428
+NY|Queens|Queens Village|210th Street|11429
+NY|Queens|Queens Village|211th Place|11428
+NY|Queens|Queens Village|211th Place|11429
+NY|Queens|Queens Village|211th Street|11427
+NY|Queens|Queens Village|211th Street|11428
+NY|Queens|Queens Village|211th Street|11429
+NY|Queens|Queens Village|212th Place|11427
+NY|Queens|Queens Village|212th Place|11428
+NY|Queens|Queens Village|212th Street|11427
+NY|Queens|Queens Village|212th Street|11428
+NY|Queens|Queens Village|212th Street|11429
+NY|Queens|Queens Village|213th Street|11427
+NY|Queens|Queens Village|213th Street|11428
+NY|Queens|Queens Village|213th Street|11429
+NY|Queens|Queens Village|100th Road|11429
+NY|Queens|Queens Village|214th Street|11427
+NY|Queens|Queens Village|214th Street|11428
+NY|Queens|Queens Village|214th Street|11429
+NY|Queens|Queens Village|215th Place|11427
+NY|Queens|Queens Village|215th Place|11428
+NY|Queens|Queens Village|215th Street|11427
+NY|Queens|Queens Village|215th Street|11428
+NY|Queens|Queens Village|215th Street|11429
+NY|Queens|Queens Village|216th Street|11427
+NY|Queens|Queens Village|216th Street|11428
+NY|Queens|Queens Village|216th Street|11429
+NY|Queens|Queens Village|217th Lane|11429
+NY|Queens|Queens Village|217th Place|11429
+NY|Queens|Queens Village|217th Street|11427
+NY|Queens|Queens Village|217th Street|11428
+NY|Queens|Queens Village|217th Street|11429
+NY|Queens|Queens Village|218th Place|11427
+NY|Queens|Queens Village|218th Place|11428
+NY|Queens|Queens Village|218th Place|11429
+NY|Queens|Queens Village|218th Street|11427
+NY|Queens|Queens Village|218th Street|11428
+NY|Queens|Queens Village|218th Street|11429
+NY|Queens|Queens Village|219th Street|11427
+NY|Queens|Queens Village|219th Street|11428
+NY|Queens|Queens Village|219th Street|11429
+NY|Queens|Queens Village|220th Street|11428
+NY|Queens|Queens Village|220th Street|11429
+NY|Queens|Queens Village|221st Place|11427
+NY|Queens|Queens Village|221st Place|11428
+NY|Queens|Queens Village|221st Street|11427
+NY|Queens|Queens Village|221st Street|11428
+NY|Queens|Queens Village|221st Street|11429
+NY|Queens|Queens Village|222nd Street|11427
+NY|Queens|Queens Village|222nd Street|11428
+NY|Queens|Queens Village|222nd Street|11429
+NY|Queens|Queens Village|223rd Street|11427
+NY|Queens|Queens Village|223rd Street|11429
+NY|Queens|Queens Village|224th Street|11428
+NY|Queens|Queens Village|224th Street|11429
+NY|Queens|Queens Village|225th Street|11428
+NY|Queens|Queens Village|225th Street|11429
+NY|Queens|Queens Village|227th Street|11429
+NY|Queens|Queens Village|229th Street|11427
+NY|Queens|Queens Village|230th Street|11427
+NY|Queens|Queens Village|231st Street|11427
+NY|Queens|Queens Village|109th Avenue|11429
+NY|Queens|Queens Village|233rd Street|11427
+NY|Queens|Queens Village|234th Street|11427
+NY|Queens|Queens Village|235th Court|11427
+NY|Queens|Queens Village|235th Street|11427
+NY|Queens|Queens Village|214th Place|11428
+NY|Queens|Queens Village|237th Street|11427
+NY|Queens|Queens Village|82nd Avenue|11427
+NY|Queens|Queens Village|85th Avenue|11427
+NY|Queens|Queens Village|86th Avenue|11427
+NY|Queens|Queens Village|86th Drive|11427
+NY|Queens|Queens Village|86th Road|11427
+NY|Queens|Queens Village|87th Avenue|11427
+NY|Queens|Queens Village|88th Avenue|11427
+NY|Queens|Queens Village|232nd Street|11427
+NY|Queens|Queens Village|207th Street|11427
+NY|Queens|Queens Village|236th Street|11427
+NY|Queens|Queens Village|88th Road|11427
+NY|Queens|Queens Village|90th Court|11428
+NY|Queens|Queens Village|91st Avenue|11428
+NY|Queens|Queens Village|91st Road|11428
+NY|Queens|Queens Village|92nd Avenue|11428
+NY|Queens|Queens Village|92nd Road|11428
+NY|Queens|Queens Village|93rd Avenue|11428
+NY|Queens|Queens Village|93rd Road|11428
+NY|Queens|Queens Village|94th Avenue|11428
+NY|Queens|Queens Village|94th Drive|11428
+NY|Queens|Queens Village|94th Road|11428
+NY|Queens|Queens Village|95th Avenue|11429
+NY|Queens|Queens Village|96th Avenue|11429
+NY|Queens|Queens Village|96th Road|11429
+NY|Queens|Queens Village|97th Avenue|11429
+NY|Queens|Queens Village|98th Avenue|11429
+NY|Queens|Queens Village|99th Avenue|11429
+NY|Queens|Queens Village|Amboy Lane|11429
+NY|Queens|Queens Village|89th Road|11427
+NY|Queens|Queens Village|Bardwell Avenue|11429
+NY|Queens|Queens Village|Bell Boulevard|11427
+NY|Queens|Queens Village|Bellaire Place|11429
+NY|Queens|Queens Village|90th Avenue|11428
+NY|Queens|Queens Village|Borkel Place|11428
+NY|Queens|Queens Village|Braddock Avenue|11427
+NY|Queens|Queens Village|Braddock Avenue|11428
+NY|Queens|Queens Village|Colfax Street|11429
+NY|Queens|Queens Village|Country Pointe Circle|11427
+NY|Queens|Queens Village|Cross Island Pkwy|11429
+NY|Queens|Queens Village|Cross Island Pkwy Svc Road|11429
+NY|Queens|Queens Village|Davenport Avenue|11428
+NY|Queens|Queens Village|Delevan Street|11429
+NY|Queens|Queens Village|Edmore Avenue|11428
+NY|Queens|Queens Village|Epsom Crse|11427
+NY|Queens|Queens Village|Fairbury Avenue|11428
+NY|Queens|Queens Village|Francis Lewis Boulevard|11427
+NY|Queens|Queens Village|Francis Lewis Boulevard|11428
+NY|Queens|Queens Village|Francis Lewis Boulevard|11429
+NY|Queens|Queens Village|Grand Central Pkwy|11427
+NY|Queens|Queens Village|Hartland Avenue|11427
+NY|Queens|Queens Village|Hempstead Avenue|11429
+NY|Queens|Queens Village|Hillside Avenue|11427
+NY|Queens|Queens Village|Hollis Avenue|11429
+NY|Queens|Queens Village|89th Avenue|11427
+NY|Queens|Queens Village|Hollis Court Boulevard|11427
+NY|Queens|Queens Village|Hollis Court Boulevard|11428
+NY|Queens|Queens Village|Hollis Hills Terrace|11427
+NY|Queens|Queens Village|Jamaica Avenue|11428
+NY|Queens|Queens Village|Jamaica Avenue|11429
+NY|Queens|Queens Village|Jericho Tpke|11428
+NY|Queens|Queens Village|Lyman Street|11427
+NY|Queens|Queens Village|Lyman Street|11428
+NY|Queens|Queens Village|Manor Road|11427
+NY|Queens|Queens Village|Moline Street|11427
+NY|Queens|Queens Village|Moline Street|11428
+NY|Queens|Queens Village|Monterey Street|11429
+NY|Queens|Queens Village|Murdock Avenue|11429
+NY|Queens|Queens Village|Musket Street|11427
+NY|Queens|Queens Village|Nashville Boulevard|11429
+NY|Queens|Queens Village|Peck Avenue|11427
+NY|Queens|Queens Village|Penny Court|11428
+NY|Queens|Queens Village|Penny Place|11428
+NY|Queens|Queens Village|Pontiac Street|11427
+NY|Queens|Queens Village|Range Street|11427
+NY|Queens|Queens Village|Ransom Street|11427
+NY|Queens|Queens Village|Robard Lane|11429
+NY|Queens|Queens Village|Sabre Street|11427
+NY|Queens|Queens Village|Sawyer Avenue|11427
+NY|Queens|Queens Village|Seward Avenue|11427
+NY|Queens|Queens Village|Spencer Avenue|11427
+NY|Queens|Queens Village|Springfield Boulevard|11427
+NY|Queens|Queens Village|Springfield Boulevard|11428
+NY|Queens|Queens Village|Springfield Boulevard|11429
+NY|Queens|Queens Village|State Highway 25|11427
+NY|Queens|Queens Village|State Highway 25|11428
+NY|Queens|Queens Village|State Highway 25B|11427
+NY|Queens|Queens Village|Stewart Road|11427
+NY|Queens|Queens Village|Stronghurst Avenue|11427
+NY|Queens|Queens Village|Union Tpke|11427
+NY|Queens|Queens Village|Vanderveer Street|11427
+NY|Queens|Queens Village|Vanderveer Street|11428
+NY|Queens|Queens Village|Whitehall Terrace|11427
+NY|Queens|Queens Village|Winchester Boulevard|11427
+NY|Queens|Queens Village|Winchester Boulevard|11428
+NY|Queens|Queens Village|Witthoff Avenue|11429
+NY|Queens|Queens Village|Witthoff Street|11429
+NY|Queens|Floral Park|Grand Central Pkwy|11005
+NY|Queens|Richmond Hill|101st Street|11418
+NY|Queens|Richmond Hill|102nd Street|11418
+NY|Queens|Richmond Hill|104th Street|11418
+NY|Queens|Richmond Hill|105th Street|11418
+NY|Queens|Richmond Hill|106th Street|11418
+NY|Queens|Richmond Hill|107th Street|11418
+NY|Queens|Richmond Hill|108th Street|11418
+NY|Queens|Richmond Hill|109th Street|11418
+NY|Queens|Richmond Hill|110th Street|11418
+NY|Queens|Richmond Hill|111th Street|11418
+NY|Queens|Queens Village|Hollis Boulevard|11429
+NY|Queens|Richmond Hill|112th Street|11418
+NY|Queens|Richmond Hill|114th Street|11418
+NY|Queens|Richmond Hill|115th Street|11418
+NY|Queens|Richmond Hill|116th Street|11418
+NY|Queens|Richmond Hill|117th Street|11418
+NY|Queens|Richmond Hill|118th Street|11418
+NY|Queens|Richmond Hill|119th Street|11418
+NY|Queens|Richmond Hill|120th Street|11418
+NY|Queens|Richmond Hill|122nd Street|11418
+NY|Queens|Richmond Hill|121st Street|11418
+NY|Queens|Richmond Hill|123rd Street|11418
+NY|Queens|Richmond Hill|124th Street|11418
+NY|Queens|Richmond Hill|125th Street|11418
+NY|Queens|Richmond Hill|113th Street|11418
+NY|Queens|Richmond Hill|127th Street|11418
+NY|Queens|Richmond Hill|126th Street|11418
+NY|Queens|Queens Village|Ashford Street|11427
+NY|Queens|Richmond Hill|131st Street|11418
+NY|Queens|Richmond Hill|132nd Street|11418
+NY|Queens|Richmond Hill|133rd Street|11418
+NY|Queens|Richmond Hill|134th Street|11418
+NY|Queens|Richmond Hill|135th Street|11418
+NY|Queens|Richmond Hill|136th Street|11418
+NY|Queens|Richmond Hill|83rd Drive|11418
+NY|Queens|Richmond Hill|84th Avenue|11418
+NY|Queens|Richmond Hill|85th Avenue|11418
+NY|Queens|Queens Village|Billings Street|11427
+NY|Queens|Richmond Hill|130th Street|11418
+NY|Queens|Richmond Hill|85th Road|11418
+NY|Queens|Richmond Hill|85th Drive|11418
+NY|Queens|Richmond Hill|86th Avenue|11418
+NY|Queens|Richmond Hill|87th Road|11418
+NY|Queens|Richmond Hill|88th Avenue|11418
+NY|Queens|Richmond Hill|88th Road|11418
+NY|Queens|Richmond Hill|89th Avenue|11418
+NY|Queens|Richmond Hill|89th Road|11418
+NY|Queens|Richmond Hill|90th Avenue|11418
+NY|Queens|Richmond Hill|91st Avenue|11418
+NY|Queens|Richmond Hill|92nd Avenue|11418
+NY|Queens|Richmond Hill|93rd Avenue|11418
+NY|Queens|Richmond Hill|93rd Road|11418
+NY|Queens|Richmond Hill|Atlantic Avenue|11418
+NY|Queens|Richmond Hill|Audley Street|11418
+NY|Queens|Richmond Hill|Babbage Street|11418
+NY|Queens|Richmond Hill|Bessemer Street|11418
+NY|Queens|Richmond Hill|Curzon Road|11418
+NY|Queens|Richmond Hill|Grosvenor Road|11418
+NY|Queens|Richmond Hill|Hillside Avenue|11418
+NY|Queens|Richmond Hill|Jamaica Avenue|11418
+NY|Queens|Richmond Hill|Kew Gardens Road|11418
+NY|Queens|Richmond Hill|Lefferts Boulevard|11418
+NY|Queens|Richmond Hill|Mayfair Road|11418
+NY|Queens|Richmond Hill|Metropolitan Avenue|11418
+NY|Queens|Richmond Hill|Myrtle Avenue|11418
+NY|Queens|Richmond Hill|Park Lane S|11418
+NY|Queens|Richmond Hill|State Highway 25|11418
+NY|Queens|Richmond Hill|Van Wyck Expy|11418
+NY|Queens|Richmond Hill|Van Wyck Expy W|11418
+NY|Queens|Rockaway Park|Beach 100th Street|11694
+NY|Queens|Rockaway Park|Beach 101st Street|11694
+NY|Queens|Rockaway Park|Beach 102nd Street|11694
+NY|Queens|Rockaway Park|Beach 104th Street|11694
+NY|Queens|Rockaway Park|Beach 105th Street|11694
+NY|Queens|Rockaway Park|Beach 106th Street|11694
+NY|Queens|Rockaway Park|Beach 108th Street|11694
+NY|Queens|Rockaway Park|Beach 109th Street|11694
+NY|Queens|Rockaway Park|Beach 110th Street|11694
+NY|Queens|Rockaway Park|Beach 111th Street|11694
+NY|Queens|Rockaway Park|Beach 112th Street|11694
+NY|Queens|Rockaway Park|Beach 113th Street|11694
+NY|Queens|Rockaway Park|Beach 114th Street|11694
+NY|Queens|Rockaway Park|Beach 115th Street|11694
+NY|Queens|Rockaway Park|Beach 116th Street|11694
+NY|Queens|Rockaway Park|Beach 117th Street|11694
+NY|Queens|Rockaway Park|Beach 118th Street|11694
+NY|Queens|Rockaway Park|Beach 119th Street|11694
+NY|Queens|Rockaway Park|Beach 120th Street|11694
+NY|Queens|Rockaway Park|Beach 121st Street|11694
+NY|Queens|Rockaway Park|Beach 122nd Street|11694
+NY|Queens|Rockaway Park|Beach 123rd Street|11694
+NY|Queens|Rockaway Park|Beach 124th Street|11694
+NY|Queens|Rockaway Park|Beach 125th Street|11694
+NY|Queens|Rockaway Park|Beach 126th Street|11694
+NY|Queens|Rockaway Park|Beach 127th Street|11694
+NY|Queens|Rockaway Park|Beach 128th Street|11694
+NY|Queens|Rockaway Park|Beach 129th Street|11694
+NY|Queens|Rockaway Park|Beach 130th Street|11694
+NY|Queens|Rockaway Park|Beach 131st Street|11694
+NY|Queens|Rockaway Park|Beach 132nd Street|11694
+NY|Queens|Rockaway Park|Beach 133rd Street|11694
+NY|Queens|Rockaway Park|Beach 134th Street|11694
+NY|Queens|Rockaway Park|Beach 135th Street|11694
+NY|Queens|Rockaway Park|Beach 136th Street|11694
+NY|Queens|Rockaway Park|Beach 137th Street|11694
+NY|Queens|Rockaway Park|Beach 138th Street|11694
+NY|Queens|Rockaway Park|Beach 139th Street|11694
+NY|Queens|Rockaway Park|Beach 140th Street|11694
+NY|Queens|Rockaway Park|Beach 141st Street|11694
+NY|Queens|Rockaway Park|Beach 142nd Street|11694
+NY|Queens|Rockaway Park|Beach 143rd Street|11694
+NY|Queens|Rockaway Park|Beach 144th Street|11694
+NY|Queens|Rockaway Park|Beach 145th Street|11694
+NY|Queens|Rockaway Park|Beach 146th Street|11694
+NY|Queens|Rockaway Park|Beach 147th Street|11694
+NY|Queens|Rockaway Park|Beach 148th Street|11694
+NY|Queens|Rockaway Park|Beach 149th Street|11694
+NY|Queens|Rockaway Park|Beach 98th Street|11694
+NY|Queens|Rockaway Park|Beach 99th Street|11694
+NY|Queens|Rockaway Park|Beach Channel Drive|11694
+NY|Queens|Rockaway Park|Cronston Avenue|11694
+NY|Queens|Rockaway Park|Neponsit Avenue|11694
+NY|Queens|Rockaway Park|Newport Avenue|11694
+NY|Queens|Rockaway Park|Ocean Promenade|11694
+NY|Queens|Rockaway Park|Ocean Promenade Walkway|11694
+NY|Queens|Rockaway Park|Riis Avenue|11694
+NY|Queens|Rockaway Park|Rockaway Beach Drive|11694
+NY|Queens|Rockaway Park|Rockaway Beach Boulevard|11694
+NY|Queens|Rockaway Park|Seaside Avenue|11694
+NY|Queens|Rockaway Park|Shore Front Pkwy|11694
+NY|Queens|Rockaway Park|Steeplechase Court|11694
+NY|Queens|Rockaway Park|Wainwright Court|11694
+NY|Queens|Howard Beach|100th Street|11414
+NY|Queens|Richmond Hill|86th Road|11418
+NY|Queens|Howard Beach|102nd Street|11414
+NY|Queens|Howard Beach|103rd Street|11414
+NY|Queens|Howard Beach|104th Street|11414
+NY|Queens|Howard Beach|133rd Avenue|11414
+NY|Queens|Howard Beach|135th Avenue|11414
+NY|Queens|Howard Beach|149th Avenue|11414
+NY|Queens|Howard Beach|153rd Avenue|11414
+NY|Queens|Howard Beach|151st Avenue|11414
+NY|Queens|Howard Beach|155th Avenue|11414
+NY|Queens|Howard Beach|156th Avenue|11414
+NY|Queens|Howard Beach|157th Avenue|11414
+NY|Queens|Howard Beach|158th Avenue|11414
+NY|Queens|Howard Beach|159th Avenue|11414
+NY|Queens|Howard Beach|159th Drive|11414
+NY|Queens|Howard Beach|159th Road|11414
+NY|Queens|Howard Beach|160th Avenue|11414
+NY|Queens|Howard Beach|161st Avenue|11414
+NY|Queens|Howard Beach|162nd Avenue|11414
+NY|Queens|Howard Beach|163rd Avenue|11414
+NY|Queens|Howard Beach|163rd Drive|11414
+NY|Queens|Howard Beach|163rd Road|11414
+NY|Queens|Howard Beach|164th Avenue|11414
+NY|Queens|Howard Beach|164th Drive|11414
+NY|Queens|Howard Beach|164th Road|11414
+NY|Queens|Howard Beach|165th Avenue|11414
+NY|Queens|Howard Beach|1st Street|11414
+NY|Queens|Howard Beach|75th Street|11414
+NY|Queens|Howard Beach|76th Street|11414
+NY|Queens|Howard Beach|77th Street|11414
+NY|Queens|Howard Beach|78th Street|11414
+NY|Queens|Howard Beach|79th Street|11414
+NY|Queens|Howard Beach|80th Street|11414
+NY|Queens|Howard Beach|81st Street|11414
+NY|Queens|Howard Beach|82nd Street|11414
+NY|Queens|Howard Beach|83rd Street|11414
+NY|Queens|Howard Beach|84th Street|11414
+NY|Queens|Howard Beach|85th Street|11414
+NY|Queens|Howard Beach|86th Street|11414
+NY|Queens|Howard Beach|87th Street|11414
+NY|Queens|Howard Beach|88th Street|11414
+NY|Queens|Howard Beach|89th Street|11414
+NY|Queens|Howard Beach|90th Street|11414
+NY|Queens|Howard Beach|91st Street|11414
+NY|Queens|Howard Beach|92nd Street|11414
+NY|Queens|Howard Beach|94th Street|11414
+NY|Queens|Howard Beach|95th Street|11414
+NY|Queens|Howard Beach|96th Street|11414
+NY|Queens|Howard Beach|97th Street|11414
+NY|Queens|Howard Beach|98th Street|11414
+NY|Queens|Howard Beach|99th Street|11414
+NY|Queens|Howard Beach|Amber Street|11414
+NY|Queens|Howard Beach|Bayview Avenue|11414
+NY|Queens|Howard Beach|Belt Pkwy|11414
+NY|Queens|Howard Beach|Blake Avenue|11414
+NY|Queens|Howard Beach|Bridge Street|11414
+NY|Queens|Howard Beach|Bridgeton Street|11414
+NY|Queens|Howard Beach|Broadway|11414
+NY|Queens|Howard Beach|Church|11414
+NY|Queens|Howard Beach|Cohancy Street|11414
+NY|Queens|Richmond Hill|129th Street|11418
+NY|Queens|Howard Beach|Conduit Avenue, South|11414
+NY|Queens|Howard Beach|Cozine Avenue|11414
+NY|Queens|Howard Beach|Crossbay Boulevard|11414
+NY|Queens|Howard Beach|Davenport Court|11414
+NY|Queens|Howard Beach|Dumont Avenue|11414
+NY|Queens|Howard Beach|Dunton Court|11414
+NY|Queens|Howard Beach|Emerald Street|11414
+NY|Queens|Richmond Hill|87th Avenue|11418
+NY|Queens|Howard Beach|Killarney Street|11414
+NY|Queens|Howard Beach|Lahn Street|11414
+NY|Queens|Howard Beach|Larson Court|11414
+NY|Queens|Howard Beach|Linden Boulevard|11414
+NY|Queens|Howard Beach|Lockwood Court|11414
+NY|Queens|Howard Beach|101st Street|11414
+NY|Queens|Howard Beach|Remson Place|11414
+NY|Queens|Howard Beach|Ruby Street|11414
+NY|Queens|Howard Beach|Russell Street|11414
+NY|Queens|Howard Beach|Coleman Square|11414
+NY|Queens|Howard Beach|Sapphire Avenue|11414
+NY|Queens|Howard Beach|Sapphire Street|11414
+NY|Queens|Howard Beach|S Conduit Avenue|11414
+NY|Queens|Howard Beach|Shore Pkwy|11414
+NY|Queens|Howard Beach|State Route 27|11414
+NY|Queens|Howard Beach|Shore Pkwy Svc Road|11414
+NY|Queens|Sunnyside|38th Avenue|11104
+NY|Queens|Sunnyside|39th Avenue|11104
+NY|Queens|Sunnyside|39th Place|11104
+NY|Queens|Sunnyside|39th Street|11104
+NY|Queens|Sunnyside|40th Street|11104
+NY|Queens|Sunnyside|41st Street|11104
+NY|Queens|Sunnyside|42nd Street|11104
+NY|Queens|Sunnyside|43rd Avenue|11104
+NY|Queens|Sunnyside|43rd Street|11104
+NY|Queens|Sunnyside|44th Street|11104
+NY|Queens|Sunnyside|45th Street|11104
+NY|Queens|Sunnyside|46th Street|11104
+NY|Queens|Sunnyside|47th Avenue|11104
+NY|Queens|Sunnyside|47th Street|11104
+NY|Queens|Sunnyside|48th Avenue|11104
+NY|Queens|Sunnyside|48th Street|11104
+NY|Queens|Sunnyside|49th Street|11104
+NY|Queens|Sunnyside|50th Avenue|11104
+NY|Queens|Sunnyside|51st Street|11104
+NY|Queens|Sunnyside|52nd Street|11104
+NY|Queens|Sunnyside|Barnett Avenue|11104
+NY|Queens|Sunnyside|Carolyn Avenue|11104
+NY|Queens|Sunnyside|Gossman Avenue|11104
+NY|Queens|Sunnyside|Greenpoint Avenue|11104
+NY|Queens|Sunnyside|Heiser Street|11104
+NY|Queens|Sunnyside|Queens Boulevard|11104
+NY|Queens|Sunnyside|Skillman Avenue|11104
+NY|Queens|Sunnyside|State Highway 25|11104
+NY|Queens|Sunnyside|Woodside Avenue|11104
+NY|Queens|Howard Beach|Rau Court|11414
+NY|Queens|College Point|10th Avenue|11356
+NY|Queens|College Point|111th Street|11356
+NY|Queens|College Point|112th Street|11356
+NY|Queens|College Point|113th Street|11356
+NY|Queens|College Point|114th Street|11356
+NY|Queens|College Point|115th Street|11356
+NY|Queens|College Point|116th Street|11356
+NY|Queens|Howard Beach|Huron Street|11414
+NY|Queens|College Point|118th Street|11356
+NY|Queens|Howard Beach|Williams Court|11414
+NY|Queens|College Point|11th Avenue|11356
+NY|Queens|College Point|120th Street|11356
+NY|Queens|College Point|121st Street|11356
+NY|Queens|College Point|122nd Street|11356
+NY|Queens|College Point|123rd Street|11356
+NY|Queens|College Point|124th Street|11356
+NY|Queens|College Point|125th Street|11356
+NY|Queens|College Point|126th Street|11356
+NY|Queens|College Point|127th Street|11356
+NY|Queens|College Point|128th Street|11356
+NY|Queens|College Point|129th Street|11356
+NY|Queens|College Point|12th Avenue|11356
+NY|Queens|College Point|130th Street|11356
+NY|Queens|College Point|131st Street|11356
+NY|Queens|College Point|132nd Street|11356
+NY|Queens|College Point|133rd Place|11356
+NY|Queens|College Point|135th Street|11356
+NY|Queens|College Point|136th Street|11356
+NY|Queens|College Point|137th Street|11356
+NY|Queens|College Point|138th Place|11356
+NY|Queens|College Point|138th Street|11356
+NY|Queens|College Point|13th Avenue|11356
+NY|Queens|College Point|14th Avenue|11356
+NY|Queens|College Point|14th Road|11356
+NY|Queens|College Point|15th Avenue|11356
+NY|Queens|College Point|18th Avenue|11356
+NY|Queens|College Point|20th Avenue|11356
+NY|Queens|College Point|21st Avenue|11356
+NY|Queens|College Point|22nd Avenue|11356
+NY|Queens|College Point|23rd Avenue|11356
+NY|Queens|College Point|25th Avenue|11356
+NY|Queens|College Point|5th Avenue|11356
+NY|Queens|College Point|6th Avenue|11356
+NY|Queens|College Point|7th Avenue|11356
+NY|Queens|College Point|8th Avenue|11356
+NY|Queens|College Point|9th Avenue|11356
+NY|Queens|College Point|9th Road|11356
+NY|Queens|College Point|Beech Court|11356
+NY|Queens|College Point|Beech Court Circle|11356
+NY|Queens|College Point|Beech Ct Circle|11356
+NY|Queens|College Point|Boker Court|11356
+NY|Queens|College Point|Capstan Court|11356
+NY|Queens|College Point|College Place|11356
+NY|Queens|College Point|College Point Boulevard|11356
+NY|Queens|College Point|Cove Court|11356
+NY|Queens|College Point|Dalian Court|11356
+NY|Queens|College Point|Julius Road|11356
+NY|Queens|College Point|Keel Court|11356
+NY|Queens|College Point|Ketch Court|11356
+NY|Queens|College Point|Lax Avenue|11356
+NY|Queens|College Point|Park Cres|11356
+NY|Queens|College Point|Pearl Road|11356
+NY|Queens|College Point|Poppenhusen Avenue|11356
+NY|Queens|College Point|117th Street|11356
+NY|Queens|College Point|Riviera Court|11356
+NY|Queens|College Point|Schorr Drive|11356
+NY|Queens|College Point|Soundview Lane|11356
+NY|Queens|Jackson Heights|34th Avenue|11372
+NY|Queens|Jackson Heights|34th Road|11372
+NY|Queens|Jackson Heights|35th Avenue|11372
+NY|Queens|Jackson Heights|37th Avenue|11372
+NY|Queens|Jackson Heights|37th Road|11372
+NY|Queens|College Point|Powells Cove Boulevard|11356
+NY|Queens|Jackson Heights|71st Street|11372
+NY|Queens|Jackson Heights|72nd Street|11372
+NY|Queens|Jackson Heights|73rd Street|11372
+NY|Queens|Jackson Heights|74th Street|11372
+NY|Queens|Jackson Heights|75th Street|11372
+NY|Queens|Jackson Heights|70th Street|11372
+NY|Queens|Jackson Heights|77th Street|11372
+NY|Queens|Jackson Heights|78th Street|11372
+NY|Queens|Jackson Heights|79th Street|11372
+NY|Queens|Jackson Heights|80th Street|11372
+NY|Queens|Jackson Heights|81st Street|11372
+NY|Queens|Jackson Heights|82nd Street|11372
+NY|Queens|Jackson Heights|83rd Street|11372
+NY|Queens|Jackson Heights|84th Street|11372
+NY|Queens|Jackson Heights|85th Street|11372
+NY|Queens|Jackson Heights|86th Street|11372
+NY|Queens|College Point|110th Street|11356
+NY|Queens|Jackson Heights|88th Street|11372
+NY|Queens|Jackson Heights|89th Street|11372
+NY|Queens|Jackson Heights|87th Street|11372
+NY|Queens|Jackson Heights|91st Street|11372
+NY|Queens|Jackson Heights|92nd Street|11372
+NY|Queens|Jackson Heights|93rd Street|11372
+NY|Queens|Jackson Heights|94th Street|11372
+NY|Queens|Jackson Heights|76th Street|11372
+NY|Queens|Jackson Heights|Broadway|11372
+NY|Queens|Jackson Heights|Elmhurst Avenue|11372
+NY|Queens|Jackson Heights|Junction Boulevard|11372
+NY|Queens|Jackson Heights|Leverich Street|11372
+NY|Queens|Jackson Heights|Northern Boulevard|11372
+NY|Queens|Jackson Heights|Roosevelt Avenue|11372
+NY|Queens|Jackson Heights|90th Street|11372
+NY|Queens|Jackson Heights|Warren Street|11372
+NY|Queens|Fresh Meadows|159th Street|11365
+NY|Queens|Fresh Meadows|160th Street|11365
+NY|Queens|Fresh Meadows|160th Street|11366
+NY|Queens|Fresh Meadows|161st Street|11365
+NY|Queens|Fresh Meadows|162nd Street|11365
+NY|Queens|Fresh Meadows|162nd Street|11366
+NY|Queens|Fresh Meadows|163rd Street|11365
+NY|Queens|Fresh Meadows|164th Street|11365
+NY|Queens|Fresh Meadows|164th Street|11366
+NY|Queens|Fresh Meadows|165th Street|11365
+NY|Queens|Fresh Meadows|165th Street|11366
+NY|Queens|Fresh Meadows|166th Street|11365
+NY|Queens|Fresh Meadows|166th Street|11366
+NY|Queens|Fresh Meadows|167th Street|11365
+NY|Queens|Fresh Meadows|167th Street|11366
+NY|Queens|Jackson Heights|95th Street|11372
+NY|Queens|Fresh Meadows|168th Street|11366
+NY|Queens|Fresh Meadows|169th Street|11365
+NY|Queens|Fresh Meadows|169th Street|11366
+NY|Queens|Fresh Meadows|170th Place|11365
+NY|Queens|Fresh Meadows|170th Street|11365
+NY|Queens|Fresh Meadows|170th Street|11366
+NY|Queens|Fresh Meadows|171st Street|11365
+NY|Queens|Fresh Meadows|171st Street|11366
+NY|Queens|Fresh Meadows|172nd Street|11365
+NY|Queens|Fresh Meadows|172nd Street|11366
+NY|Queens|Fresh Meadows|173rd Street|11365
+NY|Queens|Fresh Meadows|173rd Street|11366
+NY|Queens|Fresh Meadows|174th Street|11366
+NY|Queens|Fresh Meadows|174th Street|11365
+NY|Queens|Fresh Meadows|175th Place|11365
+NY|Queens|Fresh Meadows|175th Street|11366
+NY|Queens|Fresh Meadows|175th Street|11365
+NY|Queens|Fresh Meadows|176th Street|11366
+NY|Queens|Fresh Meadows|177th Street|11366
+NY|Queens|Fresh Meadows|178th Street|11365
+NY|Queens|Fresh Meadows|178th Street|11366
+NY|Queens|Fresh Meadows|179th Street|11365
+NY|Queens|College Point|119th Street|11356
+NY|Queens|Fresh Meadows|180th Street|11365
+NY|Queens|Fresh Meadows|180th Street|11366
+NY|Queens|Fresh Meadows|181st Street|11365
+NY|Queens|Fresh Meadows|181st Street|11366
+NY|Queens|Fresh Meadows|182nd Street|11365
+NY|Queens|Fresh Meadows|182nd Street|11366
+NY|Queens|Fresh Meadows|183rd Street|11365
+NY|Queens|Fresh Meadows|183rd Street|11366
+NY|Queens|Fresh Meadows|184th Street|11365
+NY|Queens|Fresh Meadows|184th Street|11366
+NY|Queens|Fresh Meadows|185th Street|11365
+NY|Queens|Fresh Meadows|179th Street|11366
+NY|Queens|Fresh Meadows|186th Lane|11365
+NY|Queens|Fresh Meadows|186th Street|11365
+NY|Queens|Fresh Meadows|186th Street|11366
+NY|Queens|Fresh Meadows|187th Street|11365
+NY|Queens|Fresh Meadows|187th Street|11366
+NY|Queens|Fresh Meadows|188th Street|11365
+NY|Queens|Fresh Meadows|188th Street|11366
+NY|Queens|Fresh Meadows|189th Street|11365
+NY|Queens|Fresh Meadows|189th Street|11366
+NY|Queens|Fresh Meadows|190th Lane|11365
+NY|Queens|Fresh Meadows|190th Street|11365
+NY|Queens|Fresh Meadows|190th Street|11366
+NY|Queens|Fresh Meadows|192nd Street|11365
+NY|Queens|Fresh Meadows|192nd Street|11366
+NY|Queens|Fresh Meadows|193rd Lane|11365
+NY|Queens|Fresh Meadows|193rd Street|11365
+NY|Queens|Fresh Meadows|193rd Street|11366
+NY|Queens|Fresh Meadows|194th Lane|11365
+NY|Queens|Fresh Meadows|194th Street|11365
+NY|Queens|Fresh Meadows|194th Street|11366
+NY|Queens|Fresh Meadows|195th Lane|11365
+NY|Queens|Fresh Meadows|195th Street|11365
+NY|Queens|Fresh Meadows|195th Street|11366
+NY|Queens|Fresh Meadows|196th Place|11365
+NY|Queens|Fresh Meadows|196th Place|11366
+NY|Queens|Fresh Meadows|196th Street|11365
+NY|Queens|Fresh Meadows|196th Street|11366
+NY|Queens|Fresh Meadows|168th Street|11365
+NY|Queens|Fresh Meadows|197th Street|11366
+NY|Queens|Fresh Meadows|198th Street|11365
+NY|Queens|Fresh Meadows|198th Street|11366
+NY|Queens|Fresh Meadows|199th Street|11365
+NY|Queens|Fresh Meadows|199th Street|11366
+NY|Queens|Fresh Meadows|48th Avenue|11365
+NY|Queens|Fresh Meadows|49th Avenue|11365
+NY|Queens|Fresh Meadows|185th Street|11366
+NY|Queens|Fresh Meadows|51st Avenue|11365
+NY|Queens|Fresh Meadows|53rd Avenue|11365
+NY|Queens|Fresh Meadows|56th Avenue|11365
+NY|Queens|Fresh Meadows|58th Avenue|11365
+NY|Queens|Fresh Meadows|59th Avenue|11365
+NY|Queens|Fresh Meadows|60th Avenue|11365
+NY|Queens|Fresh Meadows|197th Street|11365
+NY|Queens|Fresh Meadows|64th Circle|11365
+NY|Queens|Fresh Meadows|65th Avenue|11365
+NY|Queens|Fresh Meadows|65th Cres|11365
+NY|Queens|Fresh Meadows|67th Avenue|11365
+NY|Queens|Fresh Meadows|68th Avenue|11365
+NY|Queens|Fresh Meadows|69th Avenue|11365
+NY|Queens|Fresh Meadows|71st Avenue|11365
+NY|Queens|Fresh Meadows|71st Cres|11365
+NY|Queens|Fresh Meadows|72nd Avenue|11365
+NY|Queens|Fresh Meadows|73rd Avenue|11365
+NY|Queens|Fresh Meadows|73rd Avenue|11366
+NY|Queens|Fresh Meadows|74th Avenue|11366
+NY|Queens|Fresh Meadows|75th Avenue|11366
+NY|Queens|Fresh Meadows|75th Road|11366
+NY|Queens|Fresh Meadows|76th Avenue|11366
+NY|Queens|Fresh Meadows|76th Road|11366
+NY|Queens|Fresh Meadows|77th Avenue|11366
+NY|Queens|Fresh Meadows|77th Road|11366
+NY|Queens|Fresh Meadows|78th Avenue|11366
+NY|Queens|Fresh Meadows|78th Road|11366
+NY|Queens|Fresh Meadows|79th Avenue|11366
+NY|Queens|Fresh Meadows|Booth Memorial Avenue|11365
+NY|Queens|Fresh Meadows|Francis Lewis Boulevard|11365
+NY|Queens|Fresh Meadows|Fresh Meadow Lane|11365
+NY|Queens|Fresh Meadows|Gladwin Avenue|11365
+NY|Queens|Fresh Meadows|Hollis Court Boulevard|11365
+NY|Queens|Fresh Meadows|Horace Harding Boulevard|11365
+NY|Queens|Fresh Meadows|Horace Harding Expy|11365
+NY|Queens|Fresh Meadows|Jewel Avenue|11365
+NY|Queens|Fresh Meadows|Lithonia Avenue|11365
+NY|Queens|Fresh Meadows|Litnonia Avenue|11365
+NY|Queens|Fresh Meadows|Metcalf Avenue|11365
+NY|Queens|Fresh Meadows|Park Avenue|11365
+NY|Queens|Fresh Meadows|Parsons Boulevard|11365
+NY|Queens|Fresh Meadows|Parsons Boulevard|11366
+NY|Queens|Fresh Meadows|Peck Avenue|11365
+NY|Queens|Fresh Meadows|Pidgeon Meadow Road|11365
+NY|Queens|Fresh Meadows|Sutton Place|11365
+NY|Queens|Fresh Meadows|Underhill Avenue|11365
+NY|Queens|Fresh Meadows|Union Tpke|11365
+NY|Queens|Fresh Meadows|Union Tpke|11366
+NY|Queens|Fresh Meadows|Utopia Pkwy|11365
+NY|Queens|Fresh Meadows|Utopia Pkwy|11366
+NY|Queens|Fresh Meadows|Weeks Lane|11365
+NY|Queens|Ozone Park|100th Street|11416
+NY|Queens|Ozone Park|100th Street|11417
+NY|Queens|Ozone Park|101st Avenue|11416
+NY|Queens|Ozone Park|101st Road|11416
+NY|Queens|Ozone Park|101st Street|11416
+NY|Queens|Ozone Park|101st Street|11417
+NY|Queens|Fresh Meadows|64th Avenue|11365
+NY|Queens|Ozone Park|102nd Road|11416
+NY|Queens|Ozone Park|102nd Street|11416
+NY|Queens|Ozone Park|102nd Street|11417
+NY|Queens|Ozone Park|103rd Avenue|11417
+NY|Queens|Ozone Park|103rd Drive|11417
+NY|Queens|Ozone Park|103rd Road|11417
+NY|Queens|Ozone Park|103rd Street|11416
+NY|Queens|Ozone Park|103rd Street|11417
+NY|Queens|Ozone Park|104th Street|11416
+NY|Queens|Ozone Park|104th Street|11417
+NY|Queens|Ozone Park|105th Place|11417
+NY|Queens|Ozone Park|105th Street|11416
+NY|Queens|Ozone Park|105th Street|11417
+NY|Queens|Ozone Park|106th Avenue|11417
+NY|Queens|Ozone Park|106th Street|11416
+NY|Queens|Ozone Park|106th Street|11417
+NY|Queens|Ozone Park|107th Avenue|11417
+NY|Queens|Ozone Park|107th Street|11416
+NY|Queens|Ozone Park|107th Street|11417
+NY|Queens|Ozone Park|108th Avenue|11417
+NY|Queens|Ozone Park|108th Street|11417
+NY|Queens|Ozone Park|109th Avenue|11417
+NY|Queens|Ozone Park|133rd Avenue|11417
+NY|Queens|Ozone Park|134th Avenue|11417
+NY|Queens|Ozone Park|134th Road|11417
+NY|Queens|Ozone Park|135th Drive|11417
+NY|Queens|Ozone Park|135th Road|11417
+NY|Queens|Fresh Meadows|50th Avenue|11365
+NY|Queens|Ozone Park|150th Road|11417
+NY|Queens|Ozone Park|75th Street|11416
+NY|Queens|Ozone Park|75th Street|11417
+NY|Queens|Ozone Park|76th Street|11416
+NY|Queens|Ozone Park|76th Street|11417
+NY|Queens|Ozone Park|77th Street|11416
+NY|Queens|Ozone Park|77th Street|11417
+NY|Queens|Ozone Park|78th Street|11416
+NY|Queens|Ozone Park|78th Street|11417
+NY|Queens|Ozone Park|79th Street|11417
+NY|Queens|Ozone Park|80th Street|11416
+NY|Queens|Ozone Park|80th Street|11417
+NY|Queens|Ozone Park|81st Street|11416
+NY|Queens|Ozone Park|81st Street|11417
+NY|Queens|Ozone Park|82nd Place|11416
+NY|Queens|Ozone Park|82nd Street|11416
+NY|Queens|Ozone Park|82nd Street|11417
+NY|Queens|Ozone Park|83rd Street|11416
+NY|Queens|Ozone Park|83rd Street|11417
+NY|Queens|Ozone Park|149th Avenue|11417
+NY|Queens|Ozone Park|84th Street|11416
+NY|Queens|Ozone Park|85th Street|11416
+NY|Queens|Ozone Park|85th Street|11417
+NY|Queens|Ozone Park|86th Street|11416
+NY|Queens|Ozone Park|86th Street|11417
+NY|Queens|Ozone Park|87th Street|11416
+NY|Queens|Ozone Park|87th Street|11417
+NY|Queens|Ozone Park|88th Street|11416
+NY|Queens|Ozone Park|88th Street|11417
+NY|Queens|Ozone Park|89th Street|11416
+NY|Queens|Ozone Park|89th Street|11417
+NY|Queens|Ozone Park|90th Street|11416
+NY|Queens|Ozone Park|90th Street|11417
+NY|Queens|Ozone Park|91st Street|11416
+NY|Queens|Ozone Park|91st Street|11417
+NY|Queens|Ozone Park|92nd Street|11416
+NY|Queens|Ozone Park|92nd Street|11417
+NY|Queens|Ozone Park|93rd Street|11416
+NY|Queens|Ozone Park|93rd Street|11417
+NY|Queens|Ozone Park|94th Avenue|11416
+NY|Queens|Ozone Park|94th Place|11417
+NY|Queens|Ozone Park|94th Street|11416
+NY|Queens|Ozone Park|94th Street|11417
+NY|Queens|Ozone Park|95th Avenue|11416
+NY|Queens|Ozone Park|95th Place|11417
+NY|Queens|Ozone Park|95th Street|11416
+NY|Queens|Ozone Park|95th Street|11417
+NY|Queens|Ozone Park|96th Place|11417
+NY|Queens|Jackson Heights|State Highway 25 Alt|11372
+NY|Queens|Ozone Park|96th Street|11417
+NY|Queens|Ozone Park|97th Avenue|11416
+NY|Queens|Ozone Park|97th Street|11416
+NY|Queens|Ozone Park|97th Street|11417
+NY|Queens|Ozone Park|98th Street|11416
+NY|Queens|Ozone Park|98th Street|11417
+NY|Queens|Ozone Park|99th Avenue|11416
+NY|Queens|Ozone Park|99th Place|11417
+NY|Queens|Ozone Park|99th Street|11416
+NY|Queens|Ozone Park|99th Street|11417
+NY|Queens|Ozone Park|Albert Road|11417
+NY|Queens|Ozone Park|Arion Road|11417
+NY|Queens|Ozone Park|Atlantic Avenue|11416
+NY|Queens|Ozone Park|Belmont Avenue|11417
+NY|Queens|Ozone Park|102nd Avenue|11416
+NY|Queens|Ozone Park|Bristol Avenue|11417
+NY|Queens|Ozone Park|Centerville Street|11417
+NY|Queens|Ozone Park|Centreville Street|11417
+NY|Queens|Ozone Park|Chicot Court|11417
+NY|Queens|Ozone Park|Chicot Road|11417
+NY|Queens|Ozone Park|Cohancy Street|11417
+NY|Queens|Ozone Park|Conduit Avenue, North|11417
+NY|Queens|Ozone Park|Cross Bay Boulevard|11417
+NY|Queens|Ozone Park|Crossbay Boulevard|11417
+NY|Queens|Ozone Park|Culloden Place|11416
+NY|Queens|Ozone Park|Desarc Road|11417
+NY|Queens|Ozone Park|96th Street|11416
+NY|Queens|Ozone Park|Doxsey Place|11417
+NY|Queens|Ozone Park|Drew Street|11416
+NY|Queens|Ozone Park|Dumont Avenue|11417
+NY|Queens|Ozone Park|Eckford Avenue|11417
+NY|Queens|Ozone Park|Forbell Street|11416
+NY|Queens|Ozone Park|Glenmore Avenue|11417
+NY|Queens|Ozone Park|Digby Place|11416
+NY|Queens|Ozone Park|Gold Road|11417
+NY|Queens|Ozone Park|Hawtree Street|11417
+NY|Queens|Ozone Park|Huron Street|11417
+NY|Queens|Ozone Park|Lafayette Street|11417
+NY|Queens|Ozone Park|Liberty Avenue|11416
+NY|Queens|Ozone Park|Liberty Avenue|11417
+NY|Queens|Ozone Park|Linden Boulevard|11417
+NY|Queens|Ozone Park|Magnolia Court|11417
+NY|Queens|Ozone Park|Boss Street|11417
+NY|Queens|Ozone Park|N Conduit Avenue|11417
+NY|Queens|Ozone Park|Old South Road|11417
+NY|Queens|Ozone Park|Peconic Street|11417
+NY|Queens|Ozone Park|84th Street|11417
+NY|Queens|Ozone Park|Raleigh Street|11417
+NY|Queens|Ozone Park|Plattwood Avenue|11417
+NY|Queens|Ozone Park|Redding Street|11417
+NY|Queens|Ozone Park|Rico Place|11417
+NY|Queens|Ozone Park|Rockaway Boulevard|11416
+NY|Queens|Ozone Park|Rockaway Boulevard|11417
+NY|Queens|Ozone Park|Rosita Place|11417
+NY|Queens|Ozone Park|Rosita Road|11417
+NY|Queens|Ozone Park|Ruby Street|11417
+NY|Queens|Ozone Park|Sitka Street|11417
+NY|Queens|Ozone Park|Spritz Road|11417
+NY|Queens|Ozone Park|State Highway 27|11417
+NY|Queens|Ozone Park|State Route 27|11417
+NY|Queens|Ozone Park|Sutter Avenue|11417
+NY|Queens|Ozone Park|Tahoe Street|11417
+NY|Queens|Ozone Park|Waterhouse Avenue|11417
+NY|Queens|Ozone Park|Muriel Court|11417
+NY|Queens|Ozone Park|Whitelaw Street|11417
+NY|Queens|Ozone Park|Woodhaven Boulevard|11417
+NY|Queens|Ozone Park|Woodhaven Court|11416
+NY|Queens|Ridgewood|57th Street|11385
+NY|Queens|Ozone Park|Silver Road|11417
+NY|Queens|Ridgewood|60th Lane|11385
+NY|Queens|Ridgewood|60th Place|11385
+NY|Queens|Ridgewood|60th Street|11385
+NY|Queens|Ridgewood|61st Street|11385
+NY|Queens|Ridgewood|62nd Street|11385
+NY|Queens|Ridgewood|64th Lane|11385
+NY|Queens|Ridgewood|64th Place|11385
+NY|Queens|Ridgewood|64th Street|11385
+NY|Queens|Ridgewood|65th Place|11385
+NY|Queens|Ridgewood|65th Street|11385
+NY|Queens|Ridgewood|66th Place|11385
+NY|Queens|Ridgewood|66th Street|11385
+NY|Queens|Ridgewood|67th Avenue|11385
+NY|Queens|Ridgewood|67th Place|11385
+NY|Queens|Ozone Park|Woodhaven Boulevard|11416
+NY|Queens|Ridgewood|67th Street|11385
+NY|Queens|Ridgewood|68th Place|11385
+NY|Queens|Ridgewood|68th Road|11385
+NY|Queens|Ridgewood|68th Street|11385
+NY|Queens|Ridgewood|69th Avenue|11385
+NY|Queens|Ridgewood|69th Place|11385
+NY|Queens|Ridgewood|69th Street|11385
+NY|Queens|Ridgewood|70th Avenue|11385
+NY|Queens|Ridgewood|70th Drive|11385
+NY|Queens|Ridgewood|70th Street|11385
+NY|Queens|Ridgewood|71st Avenue|11385
+NY|Queens|Ridgewood|71st Place|11385
+NY|Queens|Ridgewood|71st Street|11385
+NY|Queens|Ridgewood|72nd Place|11385
+NY|Queens|Ridgewood|72nd Street|11385
+NY|Queens|Ridgewood|73rd Avenue|11385
+NY|Queens|Ridgewood|73rd Place|11385
+NY|Queens|Ridgewood|73rd Street|11385
+NY|Queens|Ridgewood|74th Avenue|11385
+NY|Queens|Ridgewood|74th Street|11385
+NY|Queens|Ridgewood|75th Avenue|11385
+NY|Queens|Ridgewood|75th Street|11385
+NY|Queens|Ridgewood|76th Avenue|11385
+NY|Queens|Ridgewood|76th Street|11385
+NY|Queens|Ridgewood|77th Avenue|11385
+NY|Queens|Ridgewood|77th Road|11385
+NY|Queens|Ridgewood|78th Avenue|11385
+NY|Queens|Ridgewood|78th Road|11385
+NY|Queens|Ridgewood|78th Street|11385
+NY|Queens|Ridgewood|79th Avenue|11385
+NY|Queens|Ridgewood|79th Lane|11385
+NY|Queens|Ridgewood|79th Place|11385
+NY|Queens|Ridgewood|79th Street|11385
+NY|Queens|Ridgewood|80th Avenue|11385
+NY|Queens|Ridgewood|80th Road|11385
+NY|Queens|Ozone Park|Pitkin Avenue|11417
+NY|Queens|Ridgewood|81st Avenue|11385
+NY|Queens|Ridgewood|81st Road|11385
+NY|Queens|Ridgewood|81st Street|11385
+NY|Queens|Ridgewood|82nd Avenue|11385
+NY|Queens|Ridgewood|82nd Road|11385
+NY|Queens|Ridgewood|82nd Street|11385
+NY|Queens|Ridgewood|83rd Avenue|11385
+NY|Queens|Ridgewood|83rd Street|11385
+NY|Queens|Ridgewood|84th Street|11385
+NY|Queens|Ridgewood|85th Street|11385
+NY|Queens|Ridgewood|86th Street|11385
+NY|Queens|Ridgewood|87th Street|11385
+NY|Queens|Ridgewood|88th Lane|11385
+NY|Queens|Ridgewood|88th Place|11385
+NY|Queens|Ridgewood|88th Street|11385
+NY|Queens|Ridgewood|89th Street|11385
+NY|Queens|Ridgewood|Amory Court|11385
+NY|Queens|Ridgewood|Aubrey Avenue|11385
+NY|Queens|Ridgewood|Bleecker Street|11385
+NY|Queens|Ridgewood|Bunnecke Court|11385
+NY|Queens|Ridgewood|Butler Avenue|11385
+NY|Queens|Ridgewood|59th Street|11385
+NY|Queens|Ridgewood|Catalpa Avenue|11385
+NY|Queens|Ridgewood|Central Avenue|11385
+NY|Queens|Ridgewood|Centre Street|11385
+NY|Queens|Ridgewood|Charlotte Street|11385
+NY|Queens|Ridgewood|Clover Place|11385
+NY|Queens|Ridgewood|Cody Avenue|11385
+NY|Queens|Ridgewood|Cooper Avenue|11385
+NY|Queens|Ridgewood|Cornelia Street|11385
+NY|Queens|Ridgewood|Covert Street|11385
+NY|Queens|Ridgewood|Cypress Avenue|11385
+NY|Queens|Ridgewood|Cypress Hills Street|11385
+NY|Queens|Ridgewood|Decatur Street|11385
+NY|Queens|Ridgewood|Dekalb Avenue|11385
+NY|Queens|Ridgewood|Doran Avenue|11385
+NY|Queens|Ridgewood|Edsall Avenue|11385
+NY|Queens|Ridgewood|Fairview Avenue|11385
+NY|Queens|Ridgewood|Flushing Avenue|11385
+NY|Queens|Ridgewood|Forest Avenue|11385
+NY|Queens|Ridgewood|Fresh Pond Road|11385
+NY|Queens|Ridgewood|Gates Avenue|11385
+NY|Queens|Ridgewood|George Street|11385
+NY|Queens|Ridgewood|Grandview Avenue|11385
+NY|Queens|Ridgewood|Greene Avenue|11385
+NY|Queens|Ridgewood|Grove Street|11385
+NY|Queens|Ridgewood|Hancock Street|11385
+NY|Queens|Ridgewood|Harman Street|11385
+NY|Queens|Ridgewood|Hart Street|11385
+NY|Queens|Ridgewood|Himrod Street|11385
+NY|Queens|Ridgewood|Indiana Avenue|11385
+NY|Queens|Ridgewood|Irving Avenue|11385
+NY|Queens|Ridgewood|Jefferson Avenue|11385
+NY|Queens|Ridgewood|Kleupfel Court|11385
+NY|Queens|Ridgewood|Kluepfel Court|11385
+NY|Queens|Ridgewood|Linden Street|11385
+NY|Queens|Ridgewood|Luther Road|11385
+NY|Queens|Ridgewood|Madison Street|11385
+NY|Queens|Ridgewood|Margaret Place|11385
+NY|Queens|Ridgewood|Menahan Street|11385
+NY|Queens|Ridgewood|Metropolitan Avenue|11385
+NY|Queens|Ridgewood|Myrtle Avenue|11385
+NY|Queens|Ridgewood|Norman Street|11385
+NY|Queens|Ridgewood|Onderdonk Avenue|11385
+NY|Queens|Ridgewood|Otto Road|11385
+NY|Queens|Ridgewood|Palmetto Street|11385
+NY|Queens|Ridgewood|Putnam Avenue|11385
+NY|Queens|Ridgewood|Randolph Street|11385
+NY|Queens|Ridgewood|Rene Court|11385
+NY|Queens|Ridgewood|Ricard Street|11385
+NY|Queens|Ridgewood|Rutledge Avenue|11385
+NY|Queens|Ridgewood|Schaefer Street|11385
+NY|Queens|Ridgewood|Seneca Avenue|11385
+NY|Queens|Ridgewood|Shaler Avenue|11385
+NY|Queens|Ridgewood|St Felix Avenue|11385
+NY|Queens|Ridgewood|St Johns Road|11385
+NY|Queens|Ridgewood|St Nicholas Avenue|11385
+NY|Queens|Ridgewood|Stanhope Street|11385
+NY|Queens|Ridgewood|Starr Street|11385
+NY|Queens|Ridgewood|State Route 28N|11385
+NY|Queens|Ridgewood|Stephen Street|11385
+NY|Queens|Ridgewood|Stier Place|11385
+NY|Queens|Ridgewood|Stockholm Street|11385
+NY|Queens|Ridgewood|Summerfield Street|11385
+NY|Queens|Ridgewood|Suydam Street|11385
+NY|Queens|Ridgewood|Tonsor Street|11385
+NY|Queens|Ridgewood|Traffic Avenue|11385
+NY|Queens|Ridgewood|Trotting Course Lane|11385
+NY|Queens|Ridgewood|Troutman Street|11385
+NY|Queens|Ridgewood|Cabot Road|11385
+NY|Queens|Ridgewood|Union Trnpike|11385
+NY|Queens|Ridgewood|Ursula Place|11385
+NY|Queens|Ridgewood|Valentine Place|11385
+NY|Queens|Ridgewood|Weirfield Street|11385
+NY|Queens|Ridgewood|Union Tpke|11385
+NY|Queens|Ridgewood|Woodbine Street|11385
+NY|Queens|Ridgewood|Woodhaven Boulevard|11385
+NY|Queens|Ridgewood|Woodward Avenue|11385
+NY|Queens|Ridgewood|Wyckoff Avenue|11385
+NY|Queens|Rosedale|128th Avenue|11422
+NY|Queens|Rosedale|128th Drive|11422
+NY|Queens|Rosedale|128th Road|11422
+NY|Queens|Rosedale|129th Avenue|11422
+NY|Queens|Rosedale|129th Road|11422
+NY|Queens|Rosedale|130th Avenue|11422
+NY|Queens|Rosedale|130th Road|11422
+NY|Queens|Ridgewood|68th Avenue|11385
+NY|Queens|Rosedale|131st Road|11422
+NY|Queens|Rosedale|132nd Avenue|11422
+NY|Queens|Rosedale|132nd Road|11422
+NY|Queens|Rosedale|133rd Avenue|11422
+NY|Queens|Rosedale|133rd Drive|11422
+NY|Queens|Rosedale|133rd Road|11422
+NY|Queens|Rosedale|134th Avenue|11422
+NY|Queens|Rosedale|134th Road|11422
+NY|Queens|Rosedale|135th Avenue|11422
+NY|Queens|Rosedale|135th Road|11422
+NY|Queens|Rosedale|136th Avenue|11422
+NY|Queens|Rosedale|136th Road|11422
+NY|Queens|Rosedale|137th Avenue|11422
+NY|Queens|Rosedale|137th Road|11422
+NY|Queens|Rosedale|138th Avenue|11422
+NY|Queens|Rosedale|139th Avenue|11422
+NY|Queens|Rosedale|140th Avenue|11422
+NY|Queens|Rosedale|141st Avenue|11422
+NY|Queens|Rosedale|142nd Avenue|11422
+NY|Queens|Rosedale|143rd Avenue|11422
+NY|Queens|Rosedale|144th Avenue|11422
+NY|Queens|Rosedale|145th Avenue|11422
+NY|Queens|Rosedale|146th Avenue|11422
+NY|Queens|Rosedale|147th Avenue|11422
+NY|Queens|Rosedale|147th Drive|11422
+NY|Queens|Rosedale|147th Road|11422
+NY|Queens|Rosedale|148th Avenue|11422
+NY|Queens|Rosedale|148th Drive|11422
+NY|Queens|Rosedale|148th Road|11422
+NY|Queens|Rosedale|149th Avenue|11422
+NY|Queens|Ridgewood|80th Street|11385
+NY|Queens|Rosedale|149th Road|11422
+NY|Queens|Rosedale|1st Street|11422
+NY|Queens|Rosedale|233rd Street|11422
+NY|Queens|Rosedale|234th Place|11422
+NY|Queens|Rosedale|234th Street|11422
+NY|Queens|Rosedale|235th Street|11422
+NY|Queens|Rosedale|236th Street|11422
+NY|Queens|Rosedale|237th Street|11422
+NY|Queens|Rosedale|238th Street|11422
+NY|Queens|Rosedale|240th Street|11422
+NY|Queens|Rosedale|241st Street|11422
+NY|Queens|Rosedale|242nd Street|11422
+NY|Queens|Rosedale|243rd Street|11422
+NY|Queens|Rosedale|244th Street|11422
+NY|Queens|Rosedale|245th Street|11422
+NY|Queens|Rosedale|246th Street|11422
+NY|Queens|Rosedale|247th Street|11422
+NY|Queens|Rosedale|248th Street|11422
+NY|Queens|Rosedale|249th Street|11422
+NY|Queens|Rosedale|250th Street|11422
+NY|Queens|Rosedale|253rd Place|11422
+NY|Queens|Rosedale|253rd Street|11422
+NY|Queens|Rosedale|254th Street|11422
+NY|Queens|Rosedale|255th Street|11422
+NY|Queens|Rosedale|256th Street|11422
+NY|Queens|Rosedale|257th Street|11422
+NY|Queens|Rosedale|258th Street|11422
+NY|Queens|Rosedale|259th Street|11422
+NY|Queens|Rosedale|262nd Place|11422
+NY|Queens|Rosedale|262nd Street|11422
+NY|Queens|Rosedale|2nd Street|11422
+NY|Queens|Rosedale|3rd Street|11422
+NY|Queens|Rosedale|Bayview Avenue|11422
+NY|Queens|Rosedale|Bentley Road|11422
+NY|Queens|Rosedale|Broad Street|11422
+NY|Queens|Rosedale|Brookville Boulevard|11422
+NY|Queens|Rosedale|Caney Lane|11422
+NY|Queens|Rosedale|Caney Road|11422
+NY|Queens|Rosedale|Conduit Avenue, North|11422
+NY|Queens|Rosedale|Conduit Avenue, South|11422
+NY|Queens|Rosedale|Craft Avenue|11422
+NY|Queens|Rosedale|Edgewood Avenue|11422
+NY|Queens|Rosedale|Edgewood Street|11422
+NY|Queens|Rosedale|Francis Lewis Boulevard|11422
+NY|Queens|Rosedale|Frankton Street|11422
+NY|Queens|Rosedale|Hook Creek Boulevard|11422
+NY|Queens|Rosedale|Hungry Harbor Road|11422
+NY|Queens|Rosedale|Huxley Street|11422
+NY|Queens|Rosedale|Laurelton Pkwy|11422
+NY|Queens|Rosedale|Mayda Road|11422
+NY|Queens|Rosedale|Memphis Avenue|11422
+NY|Queens|Rosedale|Mentone Avenue|11422
+NY|Queens|Rosedale|Merrick Boulevard|11422
+NY|Queens|Rosedale|Meyer Avenue|11422
+NY|Queens|Rosedale|N Conduit Avenue|11422
+NY|Queens|Rosedale|Newhall Avenue|11422
+NY|Queens|Rosedale|Ocean Avenue|11422
+NY|Queens|Rosedale|Rockaway Boulevard|11422
+NY|Queens|Rosedale|S Conduit Avenue|11422
+NY|Queens|Rosedale|State Route 27|11422
+NY|Queens|Rosedale|Weller Avenue|11422
+NY|Queens|Rosedale|Weller Lane|11422
+NY|Queens|Whitestone|10th Avenue|11357
+NY|Queens|Whitestone|11th Avenue|11357
+NY|Queens|Whitestone|12th Avenue|11357
+NY|Queens|Whitestone|12th Road|11357
+NY|Queens|Whitestone|138th Place|11357
+NY|Queens|Whitestone|139th Street|11357
+NY|Queens|Whitestone|13th Avenue|11357
+NY|Queens|Whitestone|13th Road|11357
+NY|Queens|Whitestone|140th Street|11357
+NY|Queens|Whitestone|141st Street|11357
+NY|Queens|Whitestone|142nd Street|11357
+NY|Queens|Whitestone|143rd Place|11357
+NY|Queens|Whitestone|143rd Street|11357
+NY|Queens|Whitestone|144th Place|11357
+NY|Queens|Whitestone|144th Street|11357
+NY|Queens|Whitestone|145th Place|11357
+NY|Queens|Whitestone|146th Place|11357
+NY|Queens|Whitestone|146th Street|11357
+NY|Queens|Whitestone|147th Place|11357
+NY|Queens|Whitestone|147th Street|11357
+NY|Queens|Whitestone|148th Street|11357
+NY|Queens|Whitestone|149th Place|11357
+NY|Queens|Whitestone|149th Street|11357
+NY|Queens|Whitestone|14th Avenue|11357
+NY|Queens|Whitestone|14th Road|11357
+NY|Queens|Whitestone|150th Place|11357
+NY|Queens|Whitestone|150th Street|11357
+NY|Queens|Whitestone|151st Place|11357
+NY|Queens|Whitestone|151st Street|11357
+NY|Queens|Whitestone|152nd Street|11357
+NY|Queens|Whitestone|153rd Place|11357
+NY|Queens|Whitestone|154th Place|11357
+NY|Queens|Whitestone|154th Street|11357
+NY|Queens|Whitestone|155th Street|11357
+NY|Queens|Whitestone|156th Street|11357
+NY|Queens|Whitestone|157th Street|11357
+NY|Queens|Whitestone|158th Street|11357
+NY|Queens|Whitestone|159th Street|11357
+NY|Queens|Whitestone|15th Avenue|11357
+NY|Queens|Whitestone|15th Drive|11357
+NY|Queens|Whitestone|15th Road|11357
+NY|Queens|Whitestone|160th Street|11357
+NY|Queens|Whitestone|161st Street|11357
+NY|Queens|Whitestone|162nd Street|11357
+NY|Queens|Whitestone|163rd Street|11357
+NY|Queens|Whitestone|164th Street|11357
+NY|Queens|Whitestone|165th Street|11357
+NY|Queens|Whitestone|166th Street|11357
+NY|Queens|Whitestone|169th Street|11357
+NY|Queens|Whitestone|16th Avenue|11357
+NY|Queens|Whitestone|16th Drive|11357
+NY|Queens|Whitestone|16th Road|11357
+NY|Queens|Whitestone|17th Avenue|11357
+NY|Queens|Whitestone|17th Road|11357
+NY|Queens|Whitestone|18th Avenue|11357
+NY|Queens|Whitestone|19th Avenue|11357
+NY|Queens|Whitestone|20th Avenue|11357
+NY|Queens|Whitestone|20th Road|11357
+NY|Queens|Whitestone|21st Avenue|11357
+NY|Queens|Whitestone|21st Road|11357
+NY|Queens|Whitestone|22nd Avenue|11357
+NY|Queens|Whitestone|22nd Road|11357
+NY|Queens|Whitestone|23rd Avenue|11357
+NY|Queens|Whitestone|24th Avenue|11357
+NY|Queens|Whitestone|24th Road|11357
+NY|Queens|Whitestone|25th Avenue|11357
+NY|Queens|Whitestone|2nd Avenue|11357
+NY|Queens|Whitestone|3rd Avenue|11357
+NY|Queens|Whitestone|4th Avenue|11357
+NY|Queens|Whitestone|5th Avenue|11357
+NY|Queens|Whitestone|6th Avenue|11357
+NY|Queens|Whitestone|6th Road|11357
+NY|Queens|Whitestone|7th Avenue|11357
+NY|Queens|Whitestone|8th Avenue|11357
+NY|Queens|Whitestone|8th Road|11357
+NY|Queens|Whitestone|9th Avenue|11357
+NY|Queens|Rosedale|131st Avenue|11422
+NY|Queens|Whitestone|Boulevard|11357
+NY|Queens|Whitestone|Center Drive|11357
+NY|Queens|Whitestone|Clintonville Street|11357
+NY|Queens|Whitestone|Cresthaven Lane|11357
+NY|Queens|Whitestone|Cross Island Pkwy|11357
+NY|Queens|Whitestone|Cross Island Pkwy Srv|11357
+NY|Queens|Whitestone|Cryders Lane|11357
+NY|Queens|Whitestone|Francis Lewis Boulevard|11357
+NY|Queens|Whitestone|Hill Court|11357
+NY|Queens|Whitestone|Lee Street|11357
+NY|Queens|Whitestone|Leggett Place|11357
+NY|Queens|Whitestone|Locke Avenue|11357
+NY|Queens|Whitestone|Malba Drive|11357
+NY|Queens|Whitestone|Murray Street|11357
+NY|Queens|Whitestone|North Drive|11357
+NY|Queens|Whitestone|Parsons Boulevard|11357
+NY|Queens|Whitestone|Petracca Place|11357
+NY|Queens|Ridgewood|Willoughby Avenue|11385
+NY|Queens|Whitestone|Powell Cove Boulevard|11357
+NY|Queens|Whitestone|Powells Cove Boulevard|11357
+NY|Queens|Whitestone|Riverside Drive|11357
+NY|Queens|Whitestone|Ryan Court|11357
+NY|Queens|Whitestone|Samos Lane|11357
+NY|Queens|Whitestone|South Drive|11357
+NY|Queens|Whitestone|Summit Place|11357
+NY|Queens|Whitestone|The Boulevard|11357
+NY|Queens|Whitestone|Totten Street|11357
+NY|Queens|Whitestone|Utopia Pkwy|11357
+NY|Queens|Whitestone|Waterside Court|11357
+NY|Queens|Whitestone|Whitestone Expy|11357
+NY|Queens|Whitestone|Whitestone Exwy Svc Road|11357
+NY|Queens|Whitestone|Willets Point Boulevard|11357
+NY|Queens|Long Island City|10th Street|11101
+NY|Queens|Whitestone|Burton Street|11357
+NY|Queens|Long Island City|11th Place|11101
+NY|Queens|Long Island City|11th Street|11101
+NY|Queens|Long Island City|12th Street|11101
+NY|Queens|Long Island City|13th Street|11101
+NY|Queens|Long Island City|14th Street|11101
+NY|Queens|Long Island City|21st Street|11101
+NY|Queens|Long Island City|22nd Street|11101
+NY|Queens|Long Island City|23rd Street|11101
+NY|Queens|Long Island City|24th Street|11101
+NY|Queens|Long Island City|25th Street|11101
+NY|Queens|Long Island City|27th Street|11101
+NY|Queens|Long Island City|28th Street|11101
+NY|Queens|Long Island City|29th Street|11101
+NY|Queens|Long Island City|2nd Street|11101
+NY|Queens|Long Island City|30th Place|11101
+NY|Queens|Long Island City|30th Street|11101
+NY|Queens|Long Island City|31st Place|11101
+NY|Queens|Long Island City|31st Street|11101
+NY|Queens|Long Island City|32nd Place|11101
+NY|Queens|Long Island City|32nd Street|11101
+NY|Queens|Long Island City|33rd Street|11101
+NY|Queens|Long Island City|34th Avenue|11101
+NY|Queens|Long Island City|34th Street|11101
+NY|Queens|Long Island City|35th Avenue|11101
+NY|Queens|Long Island City|35th Street|11101
+NY|Queens|Long Island City|36th Avenue|11101
+NY|Queens|Long Island City|36th Street|11101
+NY|Queens|Long Island City|11st Street|11101
+NY|Queens|Long Island City|37th Street|11101
+NY|Queens|Long Island City|38th Avenue|11101
+NY|Queens|Long Island City|38th Street|11101
+NY|Queens|Long Island City|39th Avenue|11101
+NY|Queens|Long Island City|39th Street|11101
+NY|Queens|Rosedale|149th Drive|11422
+NY|Queens|Long Island City|40th Road|11101
+NY|Queens|Long Island City|41st Avenue|11101
+NY|Queens|Long Island City|41st Road|11101
+NY|Queens|Long Island City|41st Street|11101
+NY|Queens|Long Island City|42nd Place|11101
+NY|Queens|Long Island City|42nd Road|11101
+NY|Queens|Long Island City|42nd Street|11101
+NY|Queens|Long Island City|43rd Avenue|11101
+NY|Queens|Long Island City|43rd Road|11101
+NY|Queens|Long Island City|43rd Street|11101
+NY|Queens|Long Island City|44th Avenue|11101
+NY|Queens|Long Island City|44th Drive|11101
+NY|Queens|Long Island City|44th Road|11101
+NY|Queens|Long Island City|44th Street|11101
+NY|Queens|Long Island City|45th Avenue|11101
+NY|Queens|Long Island City|45th Road|11101
+NY|Queens|Long Island City|45th Street|11101
+NY|Queens|Long Island City|46th Avenue|11101
+NY|Queens|Long Island City|46th Road|11101
+NY|Queens|Long Island City|46th Street|11101
+NY|Queens|Long Island City|47th Avenue|11101
+NY|Queens|Long Island City|47th Road|11101
+NY|Queens|Long Island City|47th Street|11101
+NY|Queens|Long Island City|48th Avenue|11101
+NY|Queens|Long Island City|48th Street|11101
+NY|Queens|Long Island City|49th Avenue|11101
+NY|Queens|Long Island City|50th Avenue|11101
+NY|Queens|Whitestone|Point Cres|11357
+NY|Queens|Long Island City|53rd Avenue|11101
+NY|Queens|Long Island City|54th Avenue|11101
+NY|Queens|Long Island City|55th Avenue|11101
+NY|Queens|Long Island City|5th Street|11101
+NY|Queens|Long Island City|91st Avenue|11109
+NY|Queens|Long Island City|9th Street|11101
+NY|Queens|Long Island City|Austell Place|11101
+NY|Queens|Long Island City|Barrineau Park Road|11101
+NY|Queens|Long Island City|Borden Avenue|11101
+NY|Queens|Long Island City|Bradley Avenue|11101
+NY|Queens|Long Island City|Bridge Plaza N|11101
+NY|Queens|Long Island City|37th Avenue|11101
+NY|Queens|Long Island City|County Road 97|11101
+NY|Queens|Long Island City|Court Square|11101
+NY|Queens|Long Island City|51st Avenue|11101
+NY|Queens|Long Island City|Crescent Street|11101
+NY|Queens|Long Island City|40th Avenue|11101
+NY|Queens|Long Island City|Crane Street|11101
+NY|Queens|Long Island City|Dutch Kills Street|11101
+NY|Queens|Long Island City|Gale Avenue|11101
+NY|Queens|Long Island City|Gossman Avenue|11101
+NY|Queens|Long Island City|Greenpoint Avenue|11101
+NY|Queens|Long Island City|Harry Suna Place|11101
+NY|Queens|Long Island City|County Road 196|11101
+NY|Queens|Long Island City|Davis Street|11101
+NY|Queens|Long Island City|Hunters Point Avenue|11101
+NY|Queens|Long Island City|Jackson Avenue|11101
+NY|Queens|Long Island City|Northern Boulevard|11101
+NY|Queens|Long Island City|Davis Court|11101
+NY|Queens|Long Island City|Orchard Street|11101
+NY|Queens|Long Island City|Pearson Place|11101
+NY|Queens|Long Island City|Pearson Street|11101
+NY|Queens|Long Island City|Purves Street|11101
+NY|Queens|Long Island City|Queens Boulevard|11101
+NY|Queens|Long Island City|Queens Plaza E|11101
+NY|Queens|Long Island City|Queens Plaza N|11101
+NY|Queens|Long Island City|Queens Plaza S|11101
+NY|Queens|Long Island City|Queens Street|11101
+NY|Queens|Long Island City|Queensboro Brg|11101
+NY|Queens|Long Island City|Railroad Avenue|11101
+NY|Queens|Long Island City|Review Avenue|11101
+NY|Queens|Long Island City|Skillman Avenue|11101
+NY|Queens|Long Island City|Hunter Street|11101
+NY|Queens|Long Island City|State Highway 25|11101
+NY|Queens|Long Island City|State Highway 25 Alt|11101
+NY|Queens|Long Island City|State Route 25|11101
+NY|Queens|Long Island City|Steinway Street|11101
+NY|Queens|Long Island City|Thomson Avenue|11101
+NY|Queens|Long Island City|Van Dam Street|11101
+NY|Queens|Long Island City|Vernon Boulevard|11101
+NY|Queens|Long Island City|Honeywell Street|11101
+NY|Queens|Long Island City|Starr Avenue|11101
+NY|Queens|Oakland Gardens|201st Street|11364
+NY|Queens|Oakland Gardens|202nd Street|11364
+NY|Queens|Oakland Gardens|203rd Street|11364
+NY|Queens|Oakland Gardens|205th Street|11364
+NY|Queens|Oakland Gardens|206th Street|11364
+NY|Queens|Oakland Gardens|207th Street|11364
+NY|Queens|Oakland Gardens|208th Street|11364
+NY|Queens|Oakland Gardens|209th Street|11364
+NY|Queens|Oakland Gardens|210th Street|11364
+NY|Queens|Oakland Gardens|211th Street|11364
+NY|Queens|Oakland Gardens|212th Street|11364
+NY|Queens|Oakland Gardens|213th Street|11364
+NY|Queens|Oakland Gardens|214th Street|11364
+NY|Queens|Oakland Gardens|215th Street|11364
+NY|Queens|Oakland Gardens|216th Street|11364
+NY|Queens|Oakland Gardens|217th Street|11364
+NY|Queens|Oakland Gardens|218th Street|11364
+NY|Queens|Oakland Gardens|219th Street|11364
+NY|Queens|Oakland Gardens|220th Place|11364
+NY|Queens|Oakland Gardens|220th Street|11364
+NY|Queens|Oakland Gardens|221st Street|11364
+NY|Queens|Oakland Gardens|222nd Street|11364
+NY|Queens|Oakland Gardens|223rd Place|11364
+NY|Queens|Long Island City|Woodside Avenue|11101
+NY|Queens|Oakland Gardens|223rd Street|11364
+NY|Queens|Oakland Gardens|225th Street|11364
+NY|Queens|Oakland Gardens|226th Street|11364
+NY|Queens|Oakland Gardens|228th Street|11364
+NY|Queens|Oakland Gardens|229th Street|11364
+NY|Queens|Oakland Gardens|230th Street|11364
+NY|Queens|Oakland Gardens|231st Street|11364
+NY|Queens|Oakland Gardens|232nd Street|11364
+NY|Queens|Oakland Gardens|233rd Street|11364
+NY|Queens|Oakland Gardens|48th Avenue|11364
+NY|Queens|Oakland Gardens|49th Avenue|11364
+NY|Queens|Oakland Gardens|49th Road|11364
+NY|Queens|Oakland Gardens|50th Avenue|11364
+NY|Queens|Oakland Gardens|51st Avenue|11364
+NY|Queens|Oakland Gardens|53rd Avenue|11364
+NY|Queens|Oakland Gardens|54th Avenue|11364
+NY|Queens|Oakland Gardens|56th Avenue|11364
+NY|Queens|Oakland Gardens|56th Road|11364
+NY|Queens|Oakland Gardens|57th Avenue|11364
+NY|Queens|Oakland Gardens|57th Road|11364
+NY|Queens|Oakland Gardens|58th Avenue|11364
+NY|Queens|Oakland Gardens|58th Road|11364
+NY|Queens|Oakland Gardens|59th Avenue|11364
+NY|Queens|Oakland Gardens|64th Avenue|11364
+NY|Queens|Oakland Gardens|65th Avenue|11364
+NY|Queens|Oakland Gardens|67th Avenue|11364
+NY|Queens|Long Island City|Old Ridge Road|11101
+NY|Queens|Oakland Gardens|69th Avenue|11364
+NY|Queens|Oakland Gardens|73rd Avenue|11364
+NY|Queens|Oakland Gardens|73rd Road|11364
+NY|Queens|Oakland Gardens|74th Avenue|11364
+NY|Queens|Oakland Gardens|75th Avenue|11364
+NY|Queens|Oakland Gardens|76th Avenue|11364
+NY|Queens|Long Island City|West Street|11101
+NY|Queens|Oakland Gardens|77th Avenue|11364
+NY|Queens|Oakland Gardens|86th Avenue|11364
+NY|Queens|Oakland Gardens|Bell Boulevard|11364
+NY|Queens|Oakland Gardens|Birmington Pkwy|11364
+NY|Queens|Oakland Gardens|Clearview Expy|11364
+NY|Queens|Oakland Gardens|Clearview Exwy Svc Road|11364
+NY|Queens|Oakland Gardens|Cloverdale Boulevard|11364
+NY|Queens|Oakland Gardens|Cloverdale Lane|11364
+NY|Queens|Oakland Gardens|E Hampton Boulevard|11364
+NY|Queens|Oakland Gardens|Enfield Place|11364
+NY|Queens|Oakland Gardens|Francis Lewis Boulevard|11364
+NY|Queens|Oakland Gardens|Garland Drive|11364
+NY|Queens|Oakland Gardens|Grand Central Pkwy|11364
+NY|Queens|Oakland Gardens|Grand Cntrl Pkwy|11364
+NY|Queens|Oakland Gardens|Hampton Boulevard, East|11364
+NY|Queens|Oakland Gardens|Hartland Avenue|11364
+NY|Queens|Oakland Gardens|Hollis Court Boulevard|11364
+NY|Queens|Oakland Gardens|Hollis Hills Terrace|11364
+NY|Queens|Oakland Gardens|Horace Harding Boulevard|11364
+NY|Queens|Oakland Gardens|Horace Harding Expy|11364
+NY|Queens|Oakland Gardens|Horatio Pkwy|11364
+NY|Queens|Oakland Gardens|Hoxie Drive|11364
+NY|Queens|Oakland Gardens|Kenilworth Drive|11364
+NY|Queens|Oakland Gardens|Kingsbury Avenue|11364
+NY|Queens|Oakland Gardens|Luke Place|11364
+NY|Queens|Oakland Gardens|Oceania Street|11364
+NY|Queens|Oakland Gardens|Peck Avenue|11364
+NY|Queens|Oakland Gardens|Richland Avenue|11364
+NY|Queens|Oakland Gardens|Springfield Boulevard|11364
+NY|Queens|Oakland Gardens|Stewart Road|11364
+NY|Queens|Oakland Gardens|Union Tpke|11364
+NY|Queens|Hollis|100th Avenue|11423
+NY|Queens|Hollis|102nd Avenue|11423
+NY|Queens|Hollis|103rd Avenue|11423
+NY|Queens|Hollis|181st Street|11423
+NY|Queens|Hollis|182nd Place|11423
+NY|Queens|Hollis|182nd Street|11423
+NY|Queens|Hollis|183rd Street|11423
+NY|Queens|Hollis|183rd Place|11423
+NY|Queens|Hollis|184th Place|11423
+NY|Queens|Hollis|184th Street|11423
+NY|Queens|Hollis|185th Street|11423
+NY|Queens|Hollis|186th Street|11423
+NY|Queens|Hollis|187th Place|11423
+NY|Queens|Hollis|187th Street|11423
+NY|Queens|Hollis|188th Street|11423
+NY|Queens|Hollis|189th Street|11423
+NY|Queens|Hollis|190th Street|11423
+NY|Queens|Oakland Gardens|68th Avenue|11364
+NY|Queens|Hollis|191st Street|11423
+NY|Queens|Hollis|193rd Street|11423
+NY|Queens|Hollis|194th Street|11423
+NY|Queens|Hollis|195th Place|11423
+NY|Queens|Hollis|195th Street|11423
+NY|Queens|Hollis|196th Street|11423
+NY|Queens|Hollis|197th Street|11423
+NY|Queens|Hollis|198th Street|11423
+NY|Queens|Hollis|199th Street|11423
+NY|Queens|Hollis|200th Street|11423
+NY|Queens|Hollis|201st Street|11423
+NY|Queens|Hollis|202nd Street|11423
+NY|Queens|Hollis|203rd Street|11423
+NY|Queens|Hollis|204th Street|11423
+NY|Queens|Hollis|205th Place|11423
+NY|Queens|Hollis|205th Street|11423
+NY|Queens|Oakland Gardens|224th Street|11364
+NY|Queens|Hollis|85th Road|11423
+NY|Queens|Hollis|87th Drive|11423
+NY|Queens|Hollis|87th Road|11423
+NY|Queens|Hollis|89th Avenue|11423
+NY|Queens|Hollis|89th Road|11423
+NY|Queens|Hollis|90th Avenue|11423
+NY|Queens|Hollis|91st Avenue|11423
+NY|Queens|Hollis|91st Road|11423
+NY|Queens|Hollis|93rd Avenue|11423
+NY|Queens|Hollis|94th Avenue|11423
+NY|Queens|Hollis|99th Avenue|11423
+NY|Queens|Hollis|99th Road|11423
+NY|Queens|Hollis|Aberdeen Road|11423
+NY|Queens|Hollis|Avon Road|11423
+NY|Queens|Hollis|Carpenter Avenue|11423
+NY|Queens|Hollis|Catania Place|11423
+NY|Queens|Hollis|Clio Street|11423
+NY|Queens|Oakland Gardens|76th Road|11364
+NY|Queens|Hollis|Clover Place|11423
+NY|Queens|Hollis|Como Avenue|11423
+NY|Queens|Hollis|Dunton Avenue|11423
+NY|Queens|Hollis|Dunton Street|11423
+NY|Queens|Hollis|Epsom Crse|11423
+NY|Queens|Hollis|Farmers Boulevard|11423
+NY|Queens|Hollis|Foothill Avenue|11423
+NY|Queens|Hollis|Haywood Road|11423
+NY|Queens|Hollis|Henderson Avenue|11423
+NY|Queens|Hollis|Hiawatha Avenue|11423
+NY|Queens|Hollis|Hillside Avenue|11423
+NY|Queens|Hollis|Hollis Avenue|11423
+NY|Queens|Hollis|Jamaica Avenue|11423
+NY|Queens|Hollis|Keno Avenue|11423
+NY|Queens|Hollis|Marengo Street|11423
+NY|Queens|Hollis|Mc Laughlin Avenue|11423
+NY|Queens|Hollis|McLaughlin Avenue|11423
+NY|Queens|Hollis|Nero Avenue|11423
+NY|Queens|Hollis|Palermo Street|11423
+NY|Queens|Hollis|Palo Alto Avenue|11423
+NY|Queens|Hollis|Palo Alto Street|11423
+NY|Queens|Hollis|Pinto Street|11423
+NY|Queens|Hollis|Pompeii Avenue|11423
+NY|Queens|Hollis|Pompeii Road|11423
+NY|Queens|Hollis|Radnor Road|11423
+NY|Queens|Hollis|Rio Drive|11423
+NY|Queens|Hollis|Romeo Court|11423
+NY|Queens|Hollis|Clover Hill Road|11423
+NY|Queens|Hollis|Sagamore Road|11423
+NY|Queens|Hollis|Salerno Avenue|11423
+NY|Queens|Hollis|Sancho Street|11423
+NY|Queens|Hollis|Santiago Street|11423
+NY|Queens|Hollis|Soho Drive|11423
+NY|Queens|Hollis|State Highway 25|11423
+NY|Queens|Hollis|81st Avenue|11423
+NY|Queens|Hollis|Sutro Street|11423
+NY|Queens|Hollis|Woodhull Avenue|11423
+NY|Queens|Hollis|192nd Street|11423
+NY|Queens|Maspeth|43rd Street|11378
+NY|Queens|Maspeth|44th Street|11378
+NY|Queens|Maspeth|46th Street|11378
+NY|Queens|Maspeth|47th Street|11378
+NY|Queens|Maspeth|48th Street|11378
+NY|Queens|Maspeth|49th Lane|11378
+NY|Queens|Maspeth|49th Street|11378
+NY|Queens|Maspeth|52nd Avenue|11378
+NY|Queens|Maspeth|52nd Court|11378
+NY|Queens|Maspeth|52nd Drive|11378
+NY|Queens|Maspeth|52nd Road|11378
+NY|Queens|Maspeth|53rd Avenue|11378
+NY|Queens|Maspeth|53rd Drive|11378
+NY|Queens|Maspeth|53rd Road|11378
+NY|Queens|Maspeth|53rd Street|11378
+NY|Queens|Maspeth|54th Avenue|11378
+NY|Queens|Maspeth|54th Drive|11378
+NY|Queens|Maspeth|54th Place|11378
+NY|Queens|Maspeth|54th Road|11378
+NY|Queens|Maspeth|54th Street|11378
+NY|Queens|Maspeth|55th Avenue|11378
+NY|Queens|Maspeth|55th Drive|11378
+NY|Queens|Maspeth|55th Road|11378
+NY|Queens|Maspeth|55th Street|11378
+NY|Queens|Maspeth|56th Avenue|11378
+NY|Queens|Maspeth|56th Drive|11378
+NY|Queens|Maspeth|56th Road|11378
+NY|Queens|Maspeth|56th Street|11378
+NY|Queens|Maspeth|56th Terrace|11378
+NY|Queens|Maspeth|57th Avenue|11378
+NY|Queens|Maspeth|57th Drive|11378
+NY|Queens|Maspeth|57th Place|11378
+NY|Queens|Maspeth|57th Road|11378
+NY|Queens|Maspeth|57th Street|11378
+NY|Queens|Maspeth|58th Avenue|11378
+NY|Queens|Maspeth|58th Drive|11378
+NY|Queens|Maspeth|58th Place|11378
+NY|Queens|Maspeth|58th Road|11378
+NY|Queens|Maspeth|58th Street|11378
+NY|Queens|Maspeth|59th Avenue|11378
+NY|Queens|Maspeth|59th Drive|11378
+NY|Queens|Maspeth|59th Place|11378
+NY|Queens|Maspeth|59th Road|11378
+NY|Queens|Maspeth|59th Street|11378
+NY|Queens|Maspeth|60th Avenue|11378
+NY|Queens|Maspeth|60th Court|11378
+NY|Queens|Hollis|Sagamore Avenue|11423
+NY|Queens|Maspeth|60th Place|11378
+NY|Queens|Maspeth|60th Street|11378
+NY|Queens|Maspeth|60th Road|11378
+NY|Queens|Maspeth|62nd Avenue|11378
+NY|Queens|Maspeth|62nd Street|11378
+NY|Queens|Maspeth|63rd Place|11378
+NY|Queens|Maspeth|63rd Street|11378
+NY|Queens|Maspeth|64th Street|11378
+NY|Queens|Maspeth|65th Place|11378
+NY|Queens|Maspeth|65th Street|11378
+NY|Queens|Maspeth|66th Street|11378
+NY|Queens|Maspeth|67th Street|11378
+NY|Queens|Maspeth|68th Street|11378
+NY|Queens|Maspeth|69th Lane|11378
+NY|Queens|Maspeth|69th Place|11378
+NY|Queens|Maspeth|69th Street|11378
+NY|Queens|Maspeth|70th Street|11378
+NY|Queens|Maspeth|71st Street|11378
+NY|Queens|Maspeth|72nd Place|11378
+NY|Queens|Maspeth|72nd Street|11378
+NY|Queens|Maspeth|73rd Place|11378
+NY|Queens|Maspeth|73rd Street|11378
+NY|Queens|Maspeth|Andrews Avenue|11378
+NY|Queens|Maspeth|Arnold Avenue|11378
+NY|Queens|Maspeth|Astoria Boulevard|11378
+NY|Queens|Maspeth|Borden Avenue|11378
+NY|Queens|Maspeth|Brown Place|11378
+NY|Queens|Maspeth|Caldwell Avenue|11378
+NY|Queens|Maspeth|Claran Court|11378
+NY|Queens|Maspeth|Clinton Avenue|11378
+NY|Queens|Maspeth|Eliot Avenue|11378
+NY|Queens|Maspeth|Flushing Avenue|11378
+NY|Queens|Maspeth|Fresh Pond Road|11378
+NY|Queens|Maspeth|Galasso Place|11378
+NY|Queens|Maspeth|Grand Avenue|11378
+NY|Queens|Maspeth|Hamilton Place|11378
+NY|Queens|Maspeth|Hull Avenue|11378
+NY|Queens|Maspeth|Jay Avenue|11378
+NY|Queens|Maspeth|Laurel Hill Boulevard|11378
+NY|Queens|Maspeth|Long Island Expy|11378
+NY|Queens|Maspeth|Maspeth Avenue|11378
+NY|Queens|Maspeth|Maurice Avenue|11378
+NY|Queens|Maspeth|Mazeau Street|11378
+NY|Queens|Maspeth|Melvina Place|11378
+NY|Queens|Maspeth|Mount Olivet Cres|11378
+NY|Queens|Maspeth|Nurge Avenue|11378
+NY|Queens|Maspeth|Onderdonk Avenue|11378
+NY|Queens|Maspeth|Page Place|11378
+NY|Queens|Maspeth|60th Lane|11378
+NY|Queens|Maspeth|Queens Midtown Expy|11378
+NY|Queens|Maspeth|Railroad Place|11378
+NY|Queens|Maspeth|Remsen Place|11378
+NY|Queens|Maspeth|Rust Street|11378
+NY|Queens|Maspeth|Valentine Place|11378
+NY|Queens|South Ozone Park|108th Street|11420
+NY|Queens|South Ozone Park|109th Avenue|11420
+NY|Queens|South Ozone Park|109th Street|11420
+NY|Queens|South Ozone Park|110th Street|11420
+NY|Queens|South Ozone Park|111th Avenue|11420
+NY|Queens|South Ozone Park|111th Street|11420
+NY|Queens|South Ozone Park|112th Street|11420
+NY|Queens|South Ozone Park|113th Street|11420
+NY|Queens|Maspeth|61st Street|11378
+NY|Queens|South Ozone Park|114th Street|11420
+NY|Queens|South Ozone Park|115th Avenue|11420
+NY|Queens|South Ozone Park|115th Street|11420
+NY|Queens|South Ozone Park|116th Avenue|11420
+NY|Queens|South Ozone Park|116th Street|11420
+NY|Queens|South Ozone Park|117th Road|11420
+NY|Queens|South Ozone Park|117th Street|11420
+NY|Queens|South Ozone Park|118th Street|11420
+NY|Queens|South Ozone Park|119th Street|11420
+NY|Queens|South Ozone Park|120th Avenue|11420
+NY|Queens|South Ozone Park|120th Street|11420
+NY|Queens|South Ozone Park|121st Street|11420
+NY|Queens|South Ozone Park|122nd Place|11420
+NY|Queens|South Ozone Park|122nd Street|11420
+NY|Queens|South Ozone Park|123rd Street|11420
+NY|Queens|South Ozone Park|124th Street|11420
+NY|Queens|South Ozone Park|125th Street|11420
+NY|Queens|South Ozone Park|126th Street|11420
+NY|Queens|South Ozone Park|127th Street|11420
+NY|Queens|South Ozone Park|114th Place|11420
+NY|Queens|South Ozone Park|129th Street|11420
+NY|Queens|South Ozone Park|130th Avenue|11420
+NY|Queens|South Ozone Park|130th Place|11420
+NY|Queens|South Ozone Park|130th Street|11420
+NY|Queens|Maspeth|Perry Avenue|11378
+NY|Queens|South Ozone Park|131st Street|11420
+NY|Queens|South Ozone Park|132nd Street|11420
+NY|Queens|South Ozone Park|133rd Avenue|11420
+NY|Queens|South Ozone Park|133rd Street|11420
+NY|Queens|South Ozone Park|134th Avenue|11420
+NY|Queens|South Ozone Park|134th Place|11420
+NY|Queens|South Ozone Park|134th Street|11420
+NY|Queens|South Ozone Park|135th Avenue|11420
+NY|Queens|South Ozone Park|135th Place|11420
+NY|Queens|South Ozone Park|135th Road|11420
+NY|Queens|South Ozone Park|135th Street|11420
+NY|Queens|Maspeth|60th Drive|11378
+NY|Queens|South Ozone Park|149th Avenue|11420
+NY|Queens|South Ozone Park|150th Avenue|11420
+NY|Queens|South Ozone Park|152nd Avenue|11420
+NY|Queens|South Ozone Park|Alwick Road|11420
+NY|Queens|South Ozone Park|Cedric Road|11420
+NY|Queens|South Ozone Park|Conduit Avenue, North|11420
+NY|Queens|South Ozone Park|Conduit Avenue, South|11420
+NY|Queens|South Ozone Park|Foch Boulevard|11420
+NY|Queens|South Ozone Park|Gotham Road|11420
+NY|Queens|South Ozone Park|Hawtree Creek Road|11420
+NY|Queens|South Ozone Park|Lefferts Boulevard|11420
+NY|Queens|South Ozone Park|138th Street|11420
+NY|Queens|South Ozone Park|Linden Boulevard|11420
+NY|Queens|South Ozone Park|N Conduit Avenue|11420
+NY|Queens|South Ozone Park|Old South Road|11420
+NY|Queens|South Ozone Park|131st Avenue|11420
+NY|Queens|South Ozone Park|S Conduit Avenue|11420
+NY|Queens|South Ozone Park|Rockaway Boulevard|11420
+NY|Queens|South Ozone Park|State Highway 27|11420
+NY|Queens|South Ozone Park|Sutter Avenue|11420
+NY|Queens|South Ozone Park|Van Wyck Expy|11420
+NY|Queens|South Ozone Park|Van Wyck Expy W|11420
+NY|Queens|Saint Albans|104th Avenue|11412
+NY|Queens|Saint Albans|105th Avenue|11412
+NY|Queens|Saint Albans|109th Avenue|11412
+NY|Queens|South Ozone Park|Lincoln Street|11420
+NY|Queens|South Ozone Park|State Route 27|11420
+NY|Queens|Saint Albans|110th Road|11412
+NY|Queens|Saint Albans|111th Avenue|11412
+NY|Queens|Saint Albans|111th Road|11412
+NY|Queens|Saint Albans|112th Avenue|11412
+NY|Queens|Saint Albans|109th Road|11412
+NY|Queens|Saint Albans|113th Avenue|11412
+NY|Queens|Saint Albans|113th Road|11412
+NY|Queens|Saint Albans|114th Drive|11412
+NY|Queens|Saint Albans|114th Road|11412
+NY|Queens|Saint Albans|115th Avenue|11412
+NY|Queens|Saint Albans|115th Drive|11412
+NY|Queens|Saint Albans|115th Road|11412
+NY|Queens|Saint Albans|116th Avenue|11412
+NY|Queens|Saint Albans|112th Road|11412
+NY|Queens|Saint Albans|117th Road|11412
+NY|Queens|Saint Albans|118th Avenue|11412
+NY|Queens|Saint Albans|118th Road|11412
+NY|Queens|Saint Albans|119th Avenue|11412
+NY|Queens|Saint Albans|119th Drive|11412
+NY|Queens|Saint Albans|119th Road|11412
+NY|Queens|Saint Albans|120th Avenue|11412
+NY|Queens|Saint Albans|120th Road|11412
+NY|Queens|Saint Albans|121st Avenue|11412
+NY|Queens|Saint Albans|184th Street|11412
+NY|Queens|Saint Albans|185th Street|11412
+NY|Queens|Saint Albans|186th Street|11412
+NY|Queens|Saint Albans|110th Avenue|11412
+NY|Queens|Saint Albans|188th Street|11412
+NY|Queens|Saint Albans|189th Street|11412
+NY|Queens|Saint Albans|190th Place|11412
+NY|Queens|Saint Albans|190th Street|11412
+NY|Queens|Saint Albans|191st Street|11412
+NY|Queens|Saint Albans|192nd Street|11412
+NY|Queens|Saint Albans|193rd Street|11412
+NY|Queens|Saint Albans|194th Street|11412
+NY|Queens|Saint Albans|195th Street|11412
+NY|Queens|Saint Albans|196th Street|11412
+NY|Queens|Saint Albans|197th Street|11412
+NY|Queens|Saint Albans|116th Road|11412
+NY|Queens|Saint Albans|199th Street|11412
+NY|Queens|Saint Albans|200th Street|11412
+NY|Queens|Saint Albans|201st Place|11412
+NY|Queens|Saint Albans|201st Street|11412
+NY|Queens|Saint Albans|202nd Street|11412
+NY|Queens|Saint Albans|203rd Street|11412
+NY|Queens|Saint Albans|204th Street|11412
+NY|Queens|Saint Albans|205th Place|11412
+NY|Queens|Saint Albans|205th Street|11412
+NY|Queens|Saint Albans|Arcade Avenue|11412
+NY|Queens|Saint Albans|Babylon Avenue|11412
+NY|Queens|Saint Albans|Baisley Boulevard|11412
+NY|Queens|Saint Albans|Brinkerhoff Avenue|11412
+NY|Queens|Saint Albans|Camden Avenue|11412
+NY|Queens|Saint Albans|Dormans Road|11412
+NY|Queens|Saint Albans|Dunkirk Drive|11412
+NY|Queens|Saint Albans|Dunkirk Street|11412
+NY|Queens|Saint Albans|Dunlop Avenue|11412
+NY|Queens|Saint Albans|Elmira Avenue|11412
+NY|Queens|Saint Albans|Everitt Place|11412
+NY|Queens|Saint Albans|Farmers Boulevard|11412
+NY|Queens|Saint Albans|Firwood Place|11412
+NY|Queens|Saint Albans|Foch Boulevard|11412
+NY|Queens|Saint Albans|Fonda Avenue|11412
+NY|Queens|Saint Albans|Galway Avenue|11412
+NY|Queens|Saint Albans|Hannibal Street|11412
+NY|Queens|Saint Albans|187th Street|11412
+NY|Queens|Saint Albans|Hollis Avenue|11412
+NY|Queens|Saint Albans|Ilion Avenue|11412
+NY|Queens|Saint Albans|Jordan Avenue|11412
+NY|Queens|Saint Albans|Keeseville Avenue|11412
+NY|Queens|Saint Albans|Lewiston Avenue|11412
+NY|Queens|Saint Albans|Liberty Avenue|11412
+NY|Queens|Saint Albans|Linden Boulevard|11412
+NY|Queens|Saint Albans|Lovingham Place|11412
+NY|Queens|Saint Albans|Lucas Street|11412
+NY|Queens|Saint Albans|Ludlum Avenue|11412
+NY|Queens|Saint Albans|Mangin Avenue|11412
+NY|Queens|Saint Albans|Mayville Street|11412
+NY|Queens|Saint Albans|Mexico Street|11412
+NY|Queens|Saint Albans|Montauk Street|11412
+NY|Queens|Saint Albans|Murdock Avenue|11412
+NY|Queens|Saint Albans|Nashville Boulevard|11412
+NY|Queens|Saint Albans|Newburg Street|11412
+NY|Queens|Saint Albans|Ovid Place|11412
+NY|Queens|Saint Albans|Quencer Road|11412
+NY|Queens|Saint Albans|Riverton Street|11412
+NY|Queens|Saint Albans|Rome Drive|11412
+NY|Queens|Saint Albans|Rye Place|11412
+NY|Queens|Saint Albans|Suffolk Drive|11412
+NY|Queens|Saint Albans|Sullivan Road|11412
+NY|Queens|Saint Albans|Tioga Drive|11412
+NY|Queens|Saint Albans|Turin Drive|11412
+NY|Queens|Saint Albans|Hilburn Avenue|11412
+NY|Queens|Saint Albans|Wood Street|11412
+NY|Queens|South Ozone Park|128th Street|11420
+NY|Queens|Saint Albans|198th Street|11412
+NY|Queens|South Richmond Hill|101st Avenue|11419
+NY|Queens|South Richmond Hill|102nd Avenue|11419
+NY|Queens|South Richmond Hill|102nd Road|11419
+NY|Queens|South Richmond Hill|103rd Avenue|11419
+NY|Queens|South Richmond Hill|105th Avenue|11419
+NY|Queens|South Richmond Hill|107th Avenue|11419
+NY|Queens|South Richmond Hill|108th Street|11419
+NY|Queens|South Richmond Hill|109th Avenue|11419
+NY|Queens|South Richmond Hill|109th Street|11419
+NY|Queens|South Richmond Hill|110th Street|11419
+NY|Queens|South Richmond Hill|111th Street|11419
+NY|Queens|South Richmond Hill|112th Street|11419
+NY|Queens|South Richmond Hill|103rd Road|11419
+NY|Queens|South Richmond Hill|114th Street|11419
+NY|Queens|South Richmond Hill|115th Street|11419
+NY|Queens|South Richmond Hill|116th Street|11419
+NY|Queens|South Richmond Hill|117th Street|11419
+NY|Queens|South Richmond Hill|118th Street|11419
+NY|Queens|South Richmond Hill|119th Street|11419
+NY|Queens|South Richmond Hill|120th Street|11419
+NY|Queens|South Richmond Hill|121st Street|11419
+NY|Queens|South Richmond Hill|122nd Street|11419
+NY|Queens|South Richmond Hill|123rd Street|11419
+NY|Queens|South Richmond Hill|124th Street|11419
+NY|Queens|South Richmond Hill|125th Street|11419
+NY|Queens|South Richmond Hill|126th Street|11419
+NY|Queens|South Richmond Hill|127th Street|11419
+NY|Queens|South Richmond Hill|128th Street|11419
+NY|Queens|South Richmond Hill|129th Street|11419
+NY|Queens|South Richmond Hill|130th Street|11419
+NY|Queens|South Richmond Hill|131st Street|11419
+NY|Queens|South Richmond Hill|133rd Street|11419
+NY|Queens|South Richmond Hill|134th Street|11419
+NY|Queens|South Richmond Hill|135th Street|11419
+NY|Queens|South Richmond Hill|93rd Road|11419
+NY|Queens|South Richmond Hill|94th Avenue|11419
+NY|Queens|South Richmond Hill|95th Avenue|11419
+NY|Queens|South Richmond Hill|97th Avenue|11419
+NY|Queens|South Richmond Hill|Atlantic Avenue|11419
+NY|Queens|South Richmond Hill|Lefferts Boulevard|11419
+NY|Queens|South Richmond Hill|Liberty Avenue|11419
+NY|Queens|South Richmond Hill|113th Street|11419
+NY|Queens|South Richmond Hill|Van Wyck Expy|11419
+NY|Queens|South Richmond Hill|Van Wyck Expy W|11419
+NY|Queens|Astoria|10th Street|11106
+NY|Queens|Astoria|11th Street|11106
+NY|Queens|Astoria|12th Street|11102
+NY|Queens|Astoria|12th Street|11106
+NY|Queens|Astoria|13th Street|11106
+NY|Queens|Astoria|14th Place|11102
+NY|Queens|Astoria|14th Street|11102
+NY|Queens|Astoria|14th Street|11106
+NY|Queens|Astoria|18th Street|11102
+NY|Queens|Astoria|18th Street|11105
+NY|Queens|South Richmond Hill|132nd Street|11419
+NY|Queens|Astoria|19th Street|11102
+NY|Queens|Astoria|19th Street|11105
+NY|Queens|Astoria|1st Street|11102
+NY|Queens|Astoria|20th Avenue|11105
+NY|Queens|Astoria|20th Road|11105
+NY|Queens|Astoria|20th Street|11105
+NY|Queens|Astoria|21st Avenue|11105
+NY|Queens|Astoria|21st Drive|11105
+NY|Queens|Astoria|21st Road|11105
+NY|Queens|Astoria|21st Street|11102
+NY|Queens|Astoria|19th Avenue|11105
+NY|Queens|Astoria|21st Street|11106
+NY|Queens|Astoria|22nd Drive|11105
+NY|Queens|Astoria|22nd Road|11105
+NY|Queens|Astoria|22nd Street|11102
+NY|Queens|Astoria|23rd Avenue|11105
+NY|Queens|Astoria|23rd Drive|11105
+NY|Queens|Astoria|23rd Road|11105
+NY|Queens|Astoria|23rd Street|11102
+NY|Queens|Astoria|23rd Street|11105
+NY|Queens|Astoria|23rd Street|11106
+NY|Queens|Astoria|23rd Terrace|11105
+NY|Queens|Astoria|24th Avenue|11102
+NY|Queens|Astoria|24th Avenue|11103
+NY|Queens|Astoria|24th Drive|11102
+NY|Queens|Astoria|24th Road|11102
+NY|Queens|Astoria|24th Street|11102
+NY|Queens|Astoria|24th Street|11105
+NY|Queens|Astoria|24th Street|11106
+NY|Queens|Astoria|25th Avenue|11103
+NY|Queens|South Richmond Hill|Van Siclen Street|11419
+NY|Queens|Astoria|25th Street|11102
+NY|Queens|Astoria|25th Street|11105
+NY|Queens|Astoria|26th Avenue|11102
+NY|Queens|Astoria|26th Road|11102
+NY|Queens|Astoria|26th Street|11102
+NY|Queens|Astoria|26th Street|11105
+NY|Queens|Astoria|27th Avenue|11102
+NY|Queens|Astoria|27th Road|11102
+NY|Queens|Astoria|27th Street|11102
+NY|Queens|Astoria|27th Street|11105
+NY|Queens|Astoria|28th Avenue|11102
+NY|Queens|Astoria|28th Avenue|11103
+NY|Queens|Astoria|28th Road|11102
+NY|Queens|Astoria|28th Street|11102
+NY|Queens|Astoria|28th Street|11105
+NY|Queens|Astoria|28th Street|11106
+NY|Queens|Astoria|29th Avenue|11102
+NY|Queens|Astoria|29th Street|11102
+NY|Queens|Astoria|21st Street|11105
+NY|Queens|Astoria|25th Road|11102
+NY|Queens|Astoria|2nd Street|11102
+NY|Queens|Astoria|30th Avenue|11102
+NY|Queens|Astoria|30th Avenue|11103
+NY|Queens|Astoria|29th Street|11106
+NY|Queens|Astoria|30th Road|11102
+NY|Queens|Astoria|30th Road|11103
+NY|Queens|Astoria|30th Street|11102
+NY|Queens|Astoria|30th Street|11106
+NY|Queens|Astoria|31st Avenue|11103
+NY|Queens|Astoria|31st Avenue|11106
+NY|Queens|Astoria|31st Drive|11106
+NY|Queens|Astoria|31st Road|11106
+NY|Queens|Astoria|31st Street|11102
+NY|Queens|Astoria|31st Street|11105
+NY|Queens|Astoria|31st Street|11106
+NY|Queens|Astoria|32nd Street|11102
+NY|Queens|Astoria|32nd Street|11105
+NY|Queens|Astoria|32nd Street|11106
+NY|Queens|Astoria|33rd Avenue|11106
+NY|Queens|Astoria|33rd Road|11106
+NY|Queens|Astoria|33rd Street|11102
+NY|Queens|Astoria|33rd Street|11105
+NY|Queens|Astoria|22nd Street|11106
+NY|Queens|Astoria|34th Avenue|11106
+NY|Queens|Astoria|34th Street|11103
+NY|Queens|Astoria|34th Street|11106
+NY|Queens|Astoria|35th Avenue|11106
+NY|Queens|Astoria|35th Street|11103
+NY|Queens|Astoria|35th Street|11105
+NY|Queens|Astoria|35th Street|11106
+NY|Queens|Astoria|36th Avenue|11106
+NY|Queens|Astoria|36th Street|11103
+NY|Queens|Astoria|36th Street|11105
+NY|Queens|Astoria|36th Street|11106
+NY|Queens|Astoria|37th Street|11103
+NY|Queens|Astoria|37th Street|11105
+NY|Queens|Astoria|38th Street|11103
+NY|Queens|Astoria|38th Street|11105
+NY|Queens|Astoria|3rd Street|11102
+NY|Queens|Astoria|41st Street|11103
+NY|Queens|Astoria|41st Street|11105
+NY|Queens|Astoria|42nd Street|11105
+NY|Queens|Astoria|43rd Street|11103
+NY|Queens|Astoria|42nd Street|11103
+NY|Queens|Astoria|43rd Street|11105
+NY|Queens|Astoria|44th Street|11103
+NY|Queens|Astoria|45th Street|11103
+NY|Queens|Astoria|45th Street|11105
+NY|Queens|Astoria|46th Street|11103
+NY|Queens|Astoria|46th Street|11105
+NY|Queens|Astoria|47th Street|11103
+NY|Queens|Astoria|47th Street|11105
+NY|Queens|Astoria|48th Street|11105
+NY|Queens|Astoria|48th Street|11103
+NY|Queens|Astoria|49th Street|11103
+NY|Queens|Astoria|49th Street|11105
+NY|Queens|Astoria|4th Street|11102
+NY|Queens|Astoria|8th Street|11102
+NY|Queens|Astoria|9th Street|11102
+NY|Queens|Astoria|9th Street|11106
+NY|Queens|Astoria|Astoria Blvd N|11102
+NY|Queens|Astoria|Astoria Blvd N|11103
+NY|Queens|Astoria|Astoria Blvd N|11105
+NY|Queens|Astoria|Astoria Blvd S|11102
+NY|Queens|Astoria|Astoria Blvd S|11103
+NY|Queens|Astoria|Astoria Boulevard|11102
+NY|Queens|Astoria|Astoria Boulevard|11103
+NY|Queens|Astoria|Astoria Boulevard|11105
+NY|Queens|Astoria|Astoria Park S|11102
+NY|Queens|Astoria|Astoria Park S|11105
+NY|Queens|Astoria|Berrian Boulevard|11105
+NY|Queens|Astoria|Broadway|11103
+NY|Queens|Astoria|Broadway|11106
+NY|Queens|Astoria|Brooklyn Queens Expy W|11103
+NY|Queens|Astoria|Bryant Square|11103
+NY|Queens|Astoria|Crescent Street|11102
+NY|Queens|Astoria|29th Street|11105
+NY|Queens|Astoria|Crescent Street|11106
+NY|Queens|Astoria|Ditmars Boulevard|11105
+NY|Queens|Astoria|Dorothy Place|11102
+NY|Queens|Astoria|Fdr Drive|11102
+NY|Queens|Astoria|Holt Avenue, South|11102
+NY|Queens|Astoria|Hoyt Avenue|11102
+NY|Queens|Astoria|Hoyt Avenue N|11102
+NY|Queens|Astoria|Crescent Street|11105
+NY|Queens|Astoria|Main Avenue|11102
+NY|Queens|Astoria|Newton Avenue|11102
+NY|Queens|Astoria|Newtown Avenue|11102
+NY|Queens|Astoria|Newtown Road|11103
+NY|Queens|Astoria|Park Avenue|11102
+NY|Queens|Astoria|S Holt Avenue|11102
+NY|Queens|Astoria|Shore Boulevard|11102
+NY|Queens|Astoria|Sound Street|11105
+NY|Queens|Astoria|Shore Boulevard|11105
+NY|Queens|Astoria|Steinway Place|11105
+NY|Queens|Astoria|Steinway Street|11103
+NY|Queens|Astoria|Steinway Street|11105
+NY|Queens|Astoria|Vernon Boulevard|11102
+NY|Queens|Astoria|Vernon Boulevard|11106
+NY|Queens|Astoria|Welling Court|11102
+NY|Queens|East Elmhurst|100th Street|11369
+NY|Queens|East Elmhurst|101st Street|11369
+NY|Queens|East Elmhurst|102nd Street|11369
+NY|Queens|East Elmhurst|103rd Street|11369
+NY|Queens|East Elmhurst|104th Street|11369
+NY|Queens|East Elmhurst|105th Street|11369
+NY|Queens|East Elmhurst|106th Street|11369
+NY|Queens|East Elmhurst|107th Street|11369
+NY|Queens|East Elmhurst|108th Street|11369
+NY|Queens|East Elmhurst|110th Street|11369
+NY|Queens|East Elmhurst|111th Street|11369
+NY|Queens|East Elmhurst|112th Place|11369
+NY|Queens|East Elmhurst|112th Street|11369
+NY|Queens|East Elmhurst|19th Avenue|11370
+NY|Queens|East Elmhurst|19th Drive|11370
+NY|Queens|East Elmhurst|19th Road|11370
+NY|Queens|East Elmhurst|20th Avenue|11370
+NY|Queens|East Elmhurst|21st Avenue|11370
+NY|Queens|East Elmhurst|22nd Drive|11369
+NY|Queens|East Elmhurst|23rd Avenue|11369
+NY|Queens|East Elmhurst|23rd Road|11369
+NY|Queens|East Elmhurst|24th Avenue|11369
+NY|Queens|East Elmhurst|24th Avenue|11370
+NY|Queens|East Elmhurst|24th Road|11369
+NY|Queens|East Elmhurst|25th Avenue|11369
+NY|Queens|East Elmhurst|25th Avenue|11370
+NY|Queens|East Elmhurst|27th Avenue|11369
+NY|Queens|East Elmhurst|29th Avenue|11369
+NY|Queens|East Elmhurst|30th Avenue|11369
+NY|Queens|East Elmhurst|30th Avenue|11370
+NY|Queens|East Elmhurst|31st Avenue|11369
+NY|Queens|East Elmhurst|31st Avenue|11370
+NY|Queens|East Elmhurst|31st Drive|11369
+NY|Queens|East Elmhurst|32nd Avenue|11369
+NY|Queens|East Elmhurst|32nd Avenue|11370
+NY|Queens|East Elmhurst|70th Street|11370
+NY|Queens|East Elmhurst|71st Street|11370
+NY|Queens|Astoria|30th Drive|11102
+NY|Queens|East Elmhurst|73rd Street|11370
+NY|Queens|East Elmhurst|74th Street|11370
+NY|Queens|East Elmhurst|75th Street|11370
+NY|Queens|East Elmhurst|76th Street|11370
+NY|Queens|East Elmhurst|77th Street|11370
+NY|Queens|East Elmhurst|78th Street|11370
+NY|Queens|East Elmhurst|79th Street|11370
+NY|Queens|East Elmhurst|80th Street|11370
+NY|Queens|East Elmhurst|81st Street|11370
+NY|Queens|East Elmhurst|82nd Street|11370
+NY|Queens|East Elmhurst|83rd Street|11370
+NY|Queens|East Elmhurst|84th Street|11370
+NY|Queens|East Elmhurst|85th Street|11370
+NY|Queens|East Elmhurst|86th Street|11369
+NY|Queens|East Elmhurst|87th Street|11369
+NY|Queens|East Elmhurst|88th Street|11369
+NY|Queens|East Elmhurst|89th Street|11369
+NY|Queens|East Elmhurst|90th Place|11369
+NY|Queens|East Elmhurst|90th Street|11369
+NY|Queens|East Elmhurst|91st Street|11369
+NY|Queens|East Elmhurst|92nd Street|11369
+NY|Queens|East Elmhurst|93rd Street|11369
+NY|Queens|East Elmhurst|94th Street|11369
+NY|Queens|East Elmhurst|95th Street|11369
+NY|Queens|East Elmhurst|96th Street|11369
+NY|Queens|East Elmhurst|97th Street|11369
+NY|Queens|East Elmhurst|98th Street|11369
+NY|Queens|East Elmhurst|99th Street|11369
+NY|Queens|East Elmhurst|Astoria Blvd N|11370
+NY|Queens|East Elmhurst|Astoria Boulevard|11369
+NY|Queens|East Elmhurst|72nd Street|11370
+NY|Queens|East Elmhurst|Buell Street|11369
+NY|Queens|East Elmhurst|Butler Street|11369
+NY|Queens|East Elmhurst|Couch Place|11369
+NY|Queens|East Elmhurst|Curtis Street|11369
+NY|Queens|East Elmhurst|Ditmars Boulevard|11369
+NY|Queens|East Elmhurst|Ditmars Boulevard|11370
+NY|Queens|East Elmhurst|Ericsson Street|11369
+NY|Queens|East Elmhurst|Gilmore Street|11369
+NY|Queens|East Elmhurst|Grand Central Pkwy|11369
+NY|Queens|East Elmhurst|Grand Central Pkwy|11370
+NY|Queens|East Elmhurst|Hazen Street|11370
+NY|Queens|East Elmhurst|Humphrey Street|11369
+NY|Queens|East Elmhurst|Jackson Mill Road|11369
+NY|Queens|Astoria|33rd Street|11106
+NY|Queens|East Elmhurst|Kearney Street|11369
+NY|Queens|East Elmhurst|McIntosh Street|11369
+NY|Queens|East Elmhurst|Seneca Avenue|11369
+NY|Queens|East Elmhurst|White Oak Court|11370
+NY|Queens|Far Rockaway|100th Place|11693
+NY|Queens|Far Rockaway|101st Street|11693
+NY|Queens|Far Rockaway|102nd Street|11693
+NY|Queens|Far Rockaway|103rd Street|11693
+NY|Queens|Far Rockaway|10th Road|11693
+NY|Queens|Far Rockaway|10th Road, East|11693
+NY|Queens|Far Rockaway|11th Road, West|11693
+NY|Queens|Far Rockaway|12th Road, East|11693
+NY|Queens|Far Rockaway|12th Road, West|11693
+NY|Queens|Far Rockaway|13th Road, West|11693
+NY|Queens|Far Rockaway|14th Road, East|11693
+NY|Queens|Far Rockaway|14th Road, West|11693
+NY|Queens|Far Rockaway|15th Road, West|11693
+NY|Queens|Far Rockaway|16th Road, East|11693
+NY|Queens|Far Rockaway|16th Road, West|11693
+NY|Queens|Far Rockaway|17th Road, West|11693
+NY|Queens|Far Rockaway|18th Road, West|11693
+NY|Queens|Far Rockaway|197th Avenue|11693
+NY|Queens|Far Rockaway|19th Road, West|11693
+NY|Queens|Far Rockaway|1st Road, East|11693
+NY|Queens|Far Rockaway|208th Avenue|11693
+NY|Queens|Far Rockaway|20th Road, East|11693
+NY|Queens|Far Rockaway|20th Road, West|11693
+NY|Queens|Far Rockaway|21st Road|11693
+NY|Queens|Far Rockaway|21st Road, East|11693
+NY|Queens|Far Rockaway|3rd Road|11693
+NY|Queens|Far Rockaway|5th Road|11693
+NY|Queens|Far Rockaway|5th Road, West|11693
+NY|Queens|Far Rockaway|6th Road, East|11693
+NY|Queens|Far Rockaway|7th Road, East|11693
+NY|Queens|Far Rockaway|8th Road, East|11693
+NY|Queens|Far Rockaway|8th Road, West|11693
+NY|Queens|Far Rockaway|98th Street|11693
+NY|Queens|Far Rockaway|99th Street|11693
+NY|Queens|Far Rockaway|9th Road, East|11693
+NY|Queens|Far Rockaway|9th Road, West|11693
+NY|Queens|Far Rockaway|Almeda Avenue|11691
+NY|Queens|Far Rockaway|Almont Road|11691
+NY|Queens|Far Rockaway|Alonzo Road|11691
+NY|Queens|Far Rockaway|Anchor Drive|11691
+NY|Queens|Far Rockaway|Annapolis Street|11691
+NY|Queens|Far Rockaway|Augustina Avenue|11691
+NY|Queens|Far Rockaway|Aztec Place|11691
+NY|Queens|Far Rockaway|Bailey Court|11691
+NY|Queens|Far Rockaway|Battery Road|11691
+NY|Queens|Far Rockaway|Bay 24th Street|11691
+NY|Queens|Far Rockaway|Bay 25th Street|11691
+NY|Queens|Far Rockaway|Bay 27th Street|11691
+NY|Queens|Far Rockaway|Bay 28th Street|11691
+NY|Queens|Far Rockaway|Bay 31st Street|11691
+NY|Queens|Far Rockaway|Bay 30th Street|11691
+NY|Queens|Far Rockaway|Bay 32nd Place|11691
+NY|Queens|Far Rockaway|Bay 32nd Street|11691
+NY|Queens|Far Rockaway|Bay Court|11691
+NY|Queens|Far Rockaway|Baypark Place|11691
+NY|Queens|Far Rockaway|Bayport Place|11691
+NY|Queens|Far Rockaway|Bayside Place|11693
+NY|Queens|Far Rockaway|Bayswater Avenue|11691
+NY|Queens|Far Rockaway|Bayswater Court|11691
+NY|Queens|Far Rockaway|Beach 11th Street|11691
+NY|Queens|Far Rockaway|Beach 12th Street|11691
+NY|Queens|Far Rockaway|Beach 13th Street|11691
+NY|Queens|Far Rockaway|Beach 14th Street|11691
+NY|Queens|Far Rockaway|Beach 15th Street|11691
+NY|Queens|Far Rockaway|Beach 16th Street|11691
+NY|Queens|Far Rockaway|Beach 17th Street|11691
+NY|Queens|Far Rockaway|Beach 18th Street|11691
+NY|Queens|Far Rockaway|Beach 19th Street|11691
+NY|Queens|Far Rockaway|Beach 20th Street|11691
+NY|Queens|Far Rockaway|Beach 21st Street|11691
+NY|Queens|Far Rockaway|Beach 22nd Street|11691
+NY|Queens|Far Rockaway|Beach 24th Street|11691
+NY|Queens|Far Rockaway|Beach 25th Street|11691
+NY|Queens|Far Rockaway|Beach 26th Street|11691
+NY|Queens|Far Rockaway|Beach 27th Street|11691
+NY|Queens|Far Rockaway|Beach 28th Street|11691
+NY|Queens|Far Rockaway|Beach 29th Street|11691
+NY|Queens|Far Rockaway|Beach 30th Street|11691
+NY|Queens|Far Rockaway|Beach 31st Street|11691
+NY|Queens|Far Rockaway|Beach 32nd Street|11691
+NY|Queens|Far Rockaway|Beach 33rd Street|11691
+NY|Queens|Far Rockaway|Beach 34th Street|11691
+NY|Queens|Far Rockaway|Beach 35th Street|11691
+NY|Queens|Far Rockaway|Beach 36th Street|11691
+NY|Queens|Far Rockaway|Beach 37th Street|11691
+NY|Queens|Far Rockaway|Beach 38th Street|11691
+NY|Queens|Far Rockaway|Beach 39th Street|11691
+NY|Queens|Far Rockaway|Beach 3rd Street|11691
+NY|Queens|Far Rockaway|Beach 40th Street|11691
+NY|Queens|Far Rockaway|Beach 41st Street|11691
+NY|Queens|Far Rockaway|Beach 42nd Street|11691
+NY|Queens|Far Rockaway|Beach 43rd Street|11691
+NY|Queens|Far Rockaway|Beach 44th Street|11691
+NY|Queens|Far Rockaway|Beach 45th Street|11691
+NY|Queens|Far Rockaway|Beach 46th Street|11691
+NY|Queens|Far Rockaway|Beach 47th Street|11691
+NY|Queens|Far Rockaway|Beach 48th Street|11691
+NY|Queens|Far Rockaway|Beach 49th Street|11691
+NY|Queens|Far Rockaway|Beach 4th Street|11691
+NY|Queens|Far Rockaway|Beach 50th Street|11691
+NY|Queens|Far Rockaway|Beach 51st Street|11691
+NY|Queens|Astoria|Hoyt Avenue S|11102
+NY|Queens|Far Rockaway|Beach 53rd Street|11691
+NY|Queens|Far Rockaway|Beach 5th Street|11691
+NY|Queens|Far Rockaway|Beach 6th Street|11691
+NY|Queens|Far Rockaway|Beach 79th Street|11693
+NY|Queens|Far Rockaway|Beach 7th Street|11691
+NY|Queens|East Elmhurst|Astoria Boulevard|11370
+NY|Queens|Far Rockaway|Beach 81st Street|11693
+NY|Queens|Far Rockaway|Beach 82nd Street|11693
+NY|Queens|Far Rockaway|Beach 84th Street|11693
+NY|Queens|Far Rockaway|Beach 85th Street|11693
+NY|Queens|Far Rockaway|Beach 86th Street|11693
+NY|Queens|Far Rockaway|Beach 87th Street|11693
+NY|Queens|Far Rockaway|Beach 88th Street|11693
+NY|Queens|Far Rockaway|Beach 89th Street|11693
+NY|Queens|Far Rockaway|Beach 8th Street|11691
+NY|Queens|Far Rockaway|Beach 90th Street|11693
+NY|Queens|Far Rockaway|Beach 91st Street|11693
+NY|Queens|Far Rockaway|Beach 92nd Street|11693
+NY|Queens|Far Rockaway|Beach 93rd Street|11693
+NY|Queens|Far Rockaway|Beach 94th Street|11693
+NY|Queens|Far Rockaway|Beach 95th Street|11693
+NY|Queens|Far Rockaway|Beach 96th Street|11693
+NY|Queens|Far Rockaway|Beach 97th Street|11693
+NY|Queens|Far Rockaway|Beach 9th Street|11691
+NY|Queens|Far Rockaway|Beach Channel Drive|11691
+NY|Queens|Far Rockaway|Beach Channel Drive|11693
+NY|Queens|Far Rockaway|Beacon Place|11691
+NY|Queens|Far Rockaway|Beatrice Court|11691
+NY|Queens|Far Rockaway|Beck Road|11691
+NY|Queens|Far Rockaway|Bert Road|11693
+NY|Queens|Far Rockaway|Bessemund Avenue|11691
+NY|Queens|Far Rockaway|Birdsall Avenue|11691
+NY|Queens|Far Rockaway|Boardwalk|11691
+NY|Queens|Far Rockaway|Bolton Road|11691
+NY|Queens|Far Rockaway|Briar Place|11691
+NY|Queens|Far Rockaway|Brookhaven Avenue|11691
+NY|Queens|Far Rockaway|Brunswick Avenue|11691
+NY|Queens|Far Rockaway|Caffrey Avenue|11691
+NY|Queens|Far Rockaway|Camp Road|11691
+NY|Queens|Far Rockaway|Cedar Hill Road|11691
+NY|Queens|Far Rockaway|Cedarlawn Avenue|11691
+NY|Queens|Far Rockaway|Central Avenue|11691
+NY|Queens|Far Rockaway|Chandler Street|11691
+NY|Queens|Far Rockaway|Channel Road|11693
+NY|Queens|Far Rockaway|Channing Road|11691
+NY|Queens|Far Rockaway|Church Road|11693
+NY|Queens|Far Rockaway|Coldspring Road|11691
+NY|Queens|Far Rockaway|Collier Avenue|11691
+NY|Queens|Far Rockaway|Cornaga Avenue|11691
+NY|Queens|Far Rockaway|Cornaga Court|11691
+NY|Queens|Far Rockaway|Coronado Court|11691
+NY|Queens|Far Rockaway|Crawford Court|11691
+NY|Queens|Far Rockaway|Cross Bay Boulevard|11693
+NY|Queens|Far Rockaway|Cross Bay Pkwy|11693
+NY|Queens|Far Rockaway|Crossbay Boulevard|11693
+NY|Queens|Far Rockaway|Davies Road|11691
+NY|Queens|Far Rockaway|de Sota Road|11693
+NY|Queens|Far Rockaway|Deerfield Road|11691
+NY|Queens|Far Rockaway|Delia Court|11691
+NY|Queens|Far Rockaway|Demerest Road|11693
+NY|Queens|Far Rockaway|Dickens Street|11691
+NY|Queens|Far Rockaway|Dinsmore Avenue|11691
+NY|Queens|Far Rockaway|Dix Avenue|11691
+NY|Queens|Far Rockaway|Donald Court|11691
+NY|Queens|Far Rockaway|Dorian Court|11691
+NY|Queens|Far Rockaway|Dunbar Street|11691
+NY|Queens|Far Rockaway|Dune Street|11691
+NY|Queens|Far Rockaway|Dwight Avenue|11691
+NY|Queens|Far Rockaway|E 10th Road|11693
+NY|Queens|Far Rockaway|E 12th Road|11693
+NY|Queens|Far Rockaway|E 14th Road|11693
+NY|Queens|Far Rockaway|E 16th Road|11693
+NY|Queens|Far Rockaway|E 1st Road|11693
+NY|Queens|Far Rockaway|E 20th Road|11693
+NY|Queens|Far Rockaway|E 21st Road|11693
+NY|Queens|Far Rockaway|E 6th Road|11693
+NY|Queens|Far Rockaway|E 7th Road|11693
+NY|Queens|Far Rockaway|E 8th Road|11693
+NY|Queens|Far Rockaway|E 9th Road|11693
+NY|Queens|Far Rockaway|Edgemere Avenue|11691
+NY|Queens|Far Rockaway|Eggert Place|11691
+NY|Queens|Far Rockaway|Egmont Place|11691
+NY|Queens|Far Rockaway|Beach 52nd Street|11691
+NY|Queens|Far Rockaway|Elk Drive|11691
+NY|Queens|Far Rockaway|Elvira Avenue|11691
+NY|Queens|Far Rockaway|Empire Avenue|11691
+NY|Queens|Far Rockaway|Enright Road|11691
+NY|Queens|Far Rockaway|Essex Court|11693
+NY|Queens|Far Rockaway|Everdell Avenue|11691
+NY|Queens|Far Rockaway|Faber Terrace|11691
+NY|Queens|Far Rockaway|Falcon Avenue|11691
+NY|Queens|Far Rockaway|Far Rockaway Boulevard|11691
+NY|Queens|Far Rockaway|Fernside Place|11691
+NY|Queens|Far Rockaway|Foam Place|11691
+NY|Queens|Far Rockaway|Frisco Avenue|11691
+NY|Queens|Far Rockaway|Garden Court|11691
+NY|Queens|Far Rockaway|Gateway Boulevard|11691
+NY|Queens|Far Rockaway|Gipson Street|11691
+NY|Queens|Far Rockaway|Granada Place|11691
+NY|Queens|Far Rockaway|Grandview Terrace|11691
+NY|Queens|Far Rockaway|Grassmere Terrace|11691
+NY|Queens|Far Rockaway|Greenport Road|11691
+NY|Queens|Far Rockaway|Greenwood Court|11691
+NY|Queens|Far Rockaway|Gull Court|11693
+NY|Queens|Far Rockaway|Hammels Boulevard|11693
+NY|Queens|Far Rockaway|Hanson Court|11691
+NY|Queens|Far Rockaway|Hantz Road|11691
+NY|Queens|Far Rockaway|Harbour Court|11691
+NY|Queens|Far Rockaway|Harris Avenue|11691
+NY|Queens|Far Rockaway|Harris Street|11691
+NY|Queens|Far Rockaway|Hartman Lane|11691
+NY|Queens|Far Rockaway|Hassock Street|11691
+NY|Queens|Far Rockaway|Healy Avenue|11691
+NY|Queens|Far Rockaway|Henry Road|11691
+NY|Queens|Far Rockaway|Heyson Road|11691
+NY|Queens|Far Rockaway|Hicksville Road|11691
+NY|Queens|Far Rockaway|Highland Court|11691
+NY|Queens|Far Rockaway|Holland Avenue|11693
+NY|Queens|Far Rockaway|Hollywood Court|11691
+NY|Queens|Far Rockaway|Horton Avenue|11691
+NY|Queens|Far Rockaway|Hough Place|11691
+NY|Queens|Far Rockaway|Hurley Court|11691
+NY|Queens|Far Rockaway|Ives Court|11691
+NY|Queens|Far Rockaway|J Alcams Boulevard|11693
+NY|Queens|Far Rockaway|Jarvis Avenue|11691
+NY|Queens|Far Rockaway|Jarvis Court|11691
+NY|Queens|Far Rockaway|Joseph Alcamo Boulevard|11693
+NY|Queens|Far Rockaway|Lanark Road|11693
+NY|Queens|Far Rockaway|Beach 80th Street|11693
+NY|Queens|Far Rockaway|Lewmay Road|11691
+NY|Queens|Far Rockaway|Loretta Road|11691
+NY|Queens|Far Rockaway|Mador Court|11691
+NY|Queens|Far Rockaway|Manson Street|11691
+NY|Queens|Far Rockaway|Martin Court|11691
+NY|Queens|Far Rockaway|Mc Bride Street|11691
+NY|Queens|Far Rockaway|McBride Street|11691
+NY|Queens|Far Rockaway|Meehan Avenue|11691
+NY|Queens|Far Rockaway|Minton Street|11691
+NY|Queens|Far Rockaway|Mobile Road|11691
+NY|Queens|Far Rockaway|Morse Court|11691
+NY|Queens|Far Rockaway|Moss Place|11691
+NY|Queens|Far Rockaway|Mott Avenue|11691
+NY|Queens|Far Rockaway|Mulbach Court|11691
+NY|Queens|Far Rockaway|Nameoke Street|11691
+NY|Queens|Far Rockaway|Nasby Place|11691
+NY|Queens|Far Rockaway|Neilson Street|11691
+NY|Queens|Far Rockaway|New Haven Avenue|11691
+NY|Queens|Far Rockaway|Noel Road|11693
+NY|Queens|Far Rockaway|Norton Avenue|11691
+NY|Queens|Far Rockaway|Norton Drive|11691
+NY|Queens|Far Rockaway|Oak Drive|11691
+NY|Queens|Far Rockaway|Ocean Crest Boulevard|11691
+NY|Queens|Far Rockaway|Oceancrest Boulevard|11691
+NY|Queens|Far Rockaway|Old Beach 88th Street|11693
+NY|Queens|Far Rockaway|Ostend Place|11691
+NY|Queens|Far Rockaway|Ostend Street|11691
+NY|Queens|Far Rockaway|Pearl Street|11691
+NY|Queens|Far Rockaway|Pinson Street|11691
+NY|Queens|Far Rockaway|Plainview Avenue|11691
+NY|Queens|Far Rockaway|Plunkett Avenue|11691
+NY|Queens|Far Rockaway|Point Breeze Place|11691
+NY|Queens|Far Rockaway|Power Road|11693
+NY|Queens|Far Rockaway|President Street|11691
+NY|Queens|Far Rockaway|Reads Lane|11691
+NY|Queens|Far Rockaway|Redfern Avenue|11691
+NY|Queens|Far Rockaway|Regina Avenue|11691
+NY|Queens|Far Rockaway|Reinhart Road|11691
+NY|Queens|Far Rockaway|Rev Joseph May|11691
+NY|Queens|Far Rockaway|Rockaway Beach Boulevard|11691
+NY|Queens|Far Rockaway|Rockaway Beach Boulevard|11693
+NY|Queens|Far Rockaway|Rockaway Fwy|11691
+NY|Queens|Far Rockaway|Rockaway Fwy|11693
+NY|Queens|Far Rockaway|Roosevelt Street|11691
+NY|Queens|Far Rockaway|Rose Street|11691
+NY|Queens|Far Rockaway|Sage Street|11691
+NY|Queens|Far Rockaway|Samantha Drive|11691
+NY|Queens|Far Rockaway|Scott Gadell Place|11691
+NY|Queens|Far Rockaway|Seagirt Avenue|11691
+NY|Queens|Far Rockaway|Seagirt Boulevard|11691
+NY|Queens|Far Rockaway|Shad Creek Road|11693
+NY|Queens|Far Rockaway|Shore Front Pkwy|11693
+NY|Queens|Far Rockaway|Smith Place|11691
+NY|Queens|Far Rockaway|Spray View Avenue|11691
+NY|Queens|Far Rockaway|Sunnyside Avenue|11691
+NY|Queens|Far Rockaway|Sunnyside Street|11691
+NY|Queens|Far Rockaway|Tammy Drive|11691
+NY|Queens|Far Rockaway|Trist Place|11691
+NY|Queens|Far Rockaway|Van Brunt Road|11693
+NY|Queens|Far Rockaway|Virginia Street|11691
+NY|Queens|Far Rockaway|W 11th Road|11693
+NY|Queens|Far Rockaway|W 12th Road|11693
+NY|Queens|Far Rockaway|W 13th Road|11693
+NY|Queens|Far Rockaway|W 14th Road|11693
+NY|Queens|Far Rockaway|W 15th Road|11693
+NY|Queens|Far Rockaway|W 16th Road|11693
+NY|Queens|Far Rockaway|W 17th Road|11693
+NY|Queens|Far Rockaway|W 18th Road|11693
+NY|Queens|Far Rockaway|W 19th Road|11693
+NY|Queens|Far Rockaway|W 20th Road|11693
+NY|Queens|Far Rockaway|W 5th Road|11693
+NY|Queens|Far Rockaway|W 8th Road|11693
+NY|Queens|Far Rockaway|W 9th Road|11693
+NY|Queens|Far Rockaway|Walton Road|11693
+NY|Queens|Far Rockaway|Waterloo Place|11691
+NY|Queens|Far Rockaway|Waterview Place|11691
+NY|Queens|Far Rockaway|Waterview Street|11691
+NY|Queens|Far Rockaway|Watjean Court|11691
+NY|Queens|Far Rockaway|West Road|11693
+NY|Queens|Far Rockaway|Elizabeth Avenue|11691
+NY|Queens|Far Rockaway|Wheatley Avenue|11691
+NY|Queens|Far Rockaway|Wheatley Street|11691
+NY|Queens|Far Rockaway|Williams Court|11691
+NY|Queens|Far Rockaway|Willow Court|11691
+NY|Queens|Elmhurst|40th Drive|11373
+NY|Queens|Elmhurst|40th Road|11373
+NY|Queens|Elmhurst|41st Avenue|11373
+NY|Queens|Elmhurst|41st Road|11373
+NY|Queens|Elmhurst|42nd Avenue|11373
+NY|Queens|Elmhurst|43rd Avenue|11373
+NY|Queens|Elmhurst|44th Avenue|11373
+NY|Queens|Elmhurst|45th Avenue|11373
+NY|Queens|Elmhurst|46th Avenue|11373
+NY|Queens|Elmhurst|47th Avenue|11373
+NY|Queens|Elmhurst|48th Avenue|11373
+NY|Queens|Elmhurst|49th Avenue|11373
+NY|Queens|Elmhurst|50th Avenue|11373
+NY|Queens|Elmhurst|51st Avenue|11373
+NY|Queens|Elmhurst|52nd Avenue|11373
+NY|Queens|Elmhurst|53rd Avenue|11373
+NY|Queens|Elmhurst|54th Avenue|11373
+NY|Queens|Elmhurst|55th Avenue|11373
+NY|Queens|Elmhurst|55th Road|11373
+NY|Queens|Elmhurst|56th Avenue|11373
+NY|Queens|Elmhurst|57th Avenue|11373
+NY|Queens|Elmhurst|57th Road|11373
+NY|Queens|Elmhurst|58th Avenue|11373
+NY|Queens|Elmhurst|59th Avenue|11373
+NY|Queens|Elmhurst|60th Avenue|11373
+NY|Queens|Elmhurst|60th Drive|11373
+NY|Queens|Elmhurst|60th Road|11373
+NY|Queens|Elmhurst|74th Street|11373
+NY|Queens|Elmhurst|75th Street|11373
+NY|Queens|Elmhurst|76th Street|11373
+NY|Queens|Elmhurst|77th Place|11373
+NY|Queens|Elmhurst|77th Street|11373
+NY|Queens|Elmhurst|78th Street|11373
+NY|Queens|Elmhurst|79th Street|11373
+NY|Queens|Elmhurst|80th Street|11373
+NY|Queens|Elmhurst|81st Street|11373
+NY|Queens|Elmhurst|82nd Street|11373
+NY|Queens|Elmhurst|83rd Street|11373
+NY|Queens|Elmhurst|84th Street|11373
+NY|Queens|Elmhurst|85th Street|11373
+NY|Queens|Elmhurst|87th Street|11373
+NY|Queens|Elmhurst|88th Street|11373
+NY|Queens|Elmhurst|90th Street|11373
+NY|Queens|Elmhurst|91st Street|11373
+NY|Queens|Elmhurst|91st Place|11373
+NY|Queens|Elmhurst|92nd Street|11373
+NY|Queens|Elmhurst|93rd Street|11373
+NY|Queens|Elmhurst|94th Street|11373
+NY|Queens|Elmhurst|95th Street|11373
+NY|Queens|Far Rockaway|Westbourne Avenue|11691
+NY|Queens|Elmhurst|Alstyne Avenue|11373
+NY|Queens|Elmhurst|Ankener Avenue|11373
+NY|Queens|Elmhurst|Aske Street|11373
+NY|Queens|Elmhurst|Barnwell Avenue|11373
+NY|Queens|Elmhurst|Baxter Avenue|11373
+NY|Queens|Elmhurst|Benham Street|11373
+NY|Queens|Elmhurst|Albion Avenue|11373
+NY|Queens|Elmhurst|Britton Avenue|11373
+NY|Queens|Elmhurst|Broadway|11373
+NY|Queens|Elmhurst|Calamus Avenue|11373
+NY|Queens|Elmhurst|Calamus Circle|11373
+NY|Queens|Elmhurst|Case Street|11373
+NY|Queens|Elmhurst|Claremont Terrace|11373
+NY|Queens|Elmhurst|Codwise Place|11373
+NY|Queens|Elmhurst|Cornish Avenue|11373
+NY|Queens|Elmhurst|Corona Avenue|11373
+NY|Queens|Elmhurst|Denman Street|11373
+NY|Queens|Elmhurst|Dongan Avenue|11373
+NY|Queens|Elmhurst|Elbertson Street|11373
+NY|Queens|Elmhurst|Elks Road|11373
+NY|Queens|Elmhurst|Elmhurst Avenue|11373
+NY|Queens|Elmhurst|Forley Street|11373
+NY|Queens|Elmhurst|Gleane Street|11373
+NY|Queens|Elmhurst|Goldsmith Street|11373
+NY|Queens|Elmhurst|Gorsline Street|11373
+NY|Queens|Elmhurst|Grand Avenue|11373
+NY|Queens|Elmhurst|Hampton Street|11373
+NY|Queens|Elmhurst|Haspel Street|11373
+NY|Queens|Elmhurst|Hillyer Street|11373
+NY|Queens|Elmhurst|Hoffman Drive|11373
+NY|Queens|Elmhurst|Booth Street|11373
+NY|Queens|Elmhurst|Ireland Street|11373
+NY|Queens|Elmhurst|Ithaca Street|11373
+NY|Queens|Elmhurst|Interstate 495|11373
+NY|Queens|Elmhurst|Judge Street|11373
+NY|Queens|Elmhurst|Junction Boulevard|11373
+NY|Queens|Elmhurst|Justice Avenue|11373
+NY|Queens|Elmhurst|Ketcham Place|11373
+NY|Queens|Elmhurst|Ketcham Street|11373
+NY|Queens|Elmhurst|Kneeland Avenue|11373
+NY|Queens|Elmhurst|Kneeland Street|11373
+NY|Queens|Elmhurst|Lamont Avenue|11373
+NY|Queens|Elmhurst|Layton Street|11373
+NY|Queens|Elmhurst|Long Island Expy|11373
+NY|Queens|Elmhurst|Macnish Street|11373
+NY|Queens|Elmhurst|Madison Street|11373
+NY|Queens|Elmhurst|Manilla Street|11373
+NY|Queens|Elmhurst|Oconnell Court|11373
+NY|Queens|Elmhurst|Pettit Avenue|11373
+NY|Queens|Elmhurst|Poyer Street|11373
+NY|Queens|Elmhurst|Qn Midtown Expressway en Eb|11373
+NY|Queens|Elmhurst|Queens Boulevard|11373
+NY|Queens|Elmhurst|Queens Midtown Expy|11373
+NY|Queens|Elmhurst|Reeder Street|11373
+NY|Queens|Elmhurst|Seabury Street|11373
+NY|Queens|Elmhurst|Simonson Street|11373
+NY|Queens|Elmhurst|St James Avenue|11373
+NY|Queens|Elmhurst|State Highway 25|11373
+NY|Queens|Elmhurst|Van Horn Street|11373
+NY|Queens|Elmhurst|Van Kleeck Street|11373
+NY|Queens|Elmhurst|Van Loon Street|11373
+NY|Queens|Elmhurst|Vanhorn Street|11373
+NY|Queens|Elmhurst|Vietor Avenue|11373
+NY|Queens|Elmhurst|Warren Street|11373
+NY|Queens|Elmhurst|Wetherole Street|11373
+NY|Queens|Elmhurst|Whitney Avenue|11373
+NY|Queens|Elmhurst|Woodhaven Boulevard|11373
+NY|Queens|Elmhurst|Woodside Avenue|11373
+NY|Queens|Glen Oaks|254th Street|11004
+NY|Queens|Glen Oaks|255th Street|11004
+NY|Queens|Far Rockaway|Lanett Avenue|11691
+NY|Queens|Glen Oaks|257th Street|11004
+NY|Queens|Glen Oaks|258th Street|11004
+NY|Queens|Glen Oaks|259th Street|11004
+NY|Queens|Glen Oaks|260th Place|11004
+NY|Queens|Glen Oaks|260th Street|11004
+NY|Queens|Glen Oaks|261st Street|11004
+NY|Queens|Glen Oaks|262nd Street|11004
+NY|Queens|Glen Oaks|263rd Street|11004
+NY|Queens|Glen Oaks|264th Street|11004
+NY|Queens|East Elmhurst|Junction Boulevard|11369
+NY|Queens|Glen Oaks|266th Street|11004
+NY|Queens|Glen Oaks|267th Street|11004
+NY|Queens|Glen Oaks|268th Street|11004
+NY|Queens|Glen Oaks|269th Street|11004
+NY|Queens|Glen Oaks|270th Street|11004
+NY|Queens|Glen Oaks|271st Street|11004
+NY|Queens|Glen Oaks|69th Avenue|11004
+NY|Queens|Glen Oaks|72nd Road|11004
+NY|Queens|Glen Oaks|73rd Avenue|11004
+NY|Queens|Glen Oaks|73rd Road|11004
+NY|Queens|Glen Oaks|74th Avenue|11004
+NY|Queens|Glen Oaks|75th Avenue|11004
+NY|Queens|Glen Oaks|76th Avenue|11004
+NY|Queens|Glen Oaks|77th Avenue|11004
+NY|Queens|Glen Oaks|78th Avenue|11004
+NY|Queens|Glen Oaks|79th Avenue|11004
+NY|Queens|Elmhurst|Jacobus Street|11373
+NY|Queens|Glen Oaks|80th Avenue|11004
+NY|Queens|Glen Oaks|82nd Avenue|11004
+NY|Queens|Glen Oaks|82nd Drive|11004
+NY|Queens|Glen Oaks|82nd Road|11004
+NY|Queens|Glen Oaks|83rd Avenue|11004
+NY|Queens|Glen Oaks|83rd Road|11004
+NY|Queens|Glen Oaks|Bridgewater Avenue|11004
+NY|Queens|Glen Oaks|Castlewood Street|11004
+NY|Queens|Glen Oaks|Grand Central Pkwy|11004
+NY|Queens|Glen Oaks|Hewlett Street|11004
+NY|Queens|Glen Oaks|Hillside Avenue|11004
+NY|Queens|Glen Oaks|Langston Avenue|11004
+NY|Queens|Glen Oaks|Little Neck Pkwy|11004
+NY|Queens|Glen Oaks|State Highway 25B|11004
+NY|Queens|Glen Oaks|Union Tpke|11004
+NY|Queens|Rego Park|102nd Street|11374
+NY|Queens|Rego Park|61st Road|11374
+NY|Queens|Rego Park|62nd Avenue|11374
+NY|Queens|Rego Park|62nd Drive|11374
+NY|Queens|Rego Park|62nd Road|11374
+NY|Queens|Rego Park|63rd Avenue|11374
+NY|Queens|Rego Park|63rd Drive|11374
+NY|Queens|Rego Park|63rd Road|11374
+NY|Queens|Rego Park|64th Avenue|11374
+NY|Queens|Rego Park|64th Road|11374
+NY|Queens|Rego Park|65th Avenue|11374
+NY|Queens|Rego Park|65th Drive|11374
+NY|Queens|Rego Park|65th Road|11374
+NY|Queens|Rego Park|66th Avenue|11374
+NY|Queens|Rego Park|66th Road|11374
+NY|Queens|Rego Park|67th Avenue|11374
+NY|Queens|Rego Park|67th Drive|11374
+NY|Queens|Rego Park|67th Road|11374
+NY|Queens|Rego Park|68th Avenue|11374
+NY|Queens|Rego Park|68th Road|11374
+NY|Queens|Rego Park|97th Place|11374
+NY|Queens|Rego Park|97th Street|11374
+NY|Queens|Rego Park|98th Place|11374
+NY|Queens|Rego Park|98th Street|11374
+NY|Queens|Rego Park|99th Street|11374
+NY|Queens|Rego Park|Alderton Street|11374
+NY|Queens|Rego Park|Asquith Cres|11374
+NY|Queens|Glen Oaks|81st Avenue|11004
+NY|Queens|Rego Park|Boelsen Cres|11374
+NY|Queens|Rego Park|Booth Street|11374
+NY|Queens|Rego Park|Bourton Street|11374
+NY|Queens|Rego Park|Burns Street|11374
+NY|Queens|Rego Park|Carlton Street|11374
+NY|Queens|Rego Park|Clyde Street|11374
+NY|Queens|Rego Park|Cooper Avenue|11374
+NY|Queens|Rego Park|Cromwell Cres|11374
+NY|Queens|Rego Park|Austin Street|11374
+NY|Queens|Rego Park|Eliot Avenue|11374
+NY|Queens|Rego Park|Ellwell Cres|11374
+NY|Queens|Rego Park|Everton Street|11374
+NY|Queens|Rego Park|Fitchett Street|11374
+NY|Queens|Rego Park|Fleet Street|11374
+NY|Queens|Rego Park|Dieterle Cres|11374
+NY|Queens|Rego Park|Horace Harding Boulevard|11374
+NY|Queens|Rego Park|Metropolitan Avenue|11374
+NY|Queens|Rego Park|Polo Place|11374
+NY|Queens|Glen Oaks|256th Street|11004
+NY|Queens|Rego Park|Saunders Street|11374
+NY|Queens|Rego Park|State Highway 25|11374
+NY|Queens|Rego Park|Thornton Place|11374
+NY|Queens|Rego Park|Trotting Course Lane|11374
+NY|Queens|Rego Park|Wetherole Street|11374
+NY|Queens|Rego Park|Woodhaven Boulevard|11374
+NY|Queens|Rego Park|Yellowstone Boulevard|11374
+NY|Queens|Cambria Heights|114th Avenue|11411
+NY|Queens|Cambria Heights|114th Drive|11411
+NY|Queens|Cambria Heights|114th Road|11411
+NY|Queens|Cambria Heights|114th Terrace|11411
+NY|Queens|Cambria Heights|115th Avenue|11411
+NY|Queens|Cambria Heights|115th Court|11411
+NY|Queens|Cambria Heights|115th Road|11411
+NY|Queens|Cambria Heights|115th Terrace|11411
+NY|Queens|Cambria Heights|116th Avenue|11411
+NY|Queens|Cambria Heights|116th Road|11411
+NY|Queens|Cambria Heights|117th Road|11411
+NY|Queens|Cambria Heights|118th Avenue|11411
+NY|Queens|Cambria Heights|119th Avenue|11411
+NY|Queens|Cambria Heights|120th Avenue|11411
+NY|Queens|Cambria Heights|121st Avenue|11411
+NY|Queens|Cambria Heights|207th Street|11411
+NY|Queens|Cambria Heights|208th Street|11411
+NY|Queens|Cambria Heights|209th Street|11411
+NY|Queens|Cambria Heights|210th Street|11411
+NY|Queens|Cambria Heights|211th Street|11411
+NY|Queens|Cambria Heights|212th Street|11411
+NY|Queens|Cambria Heights|217th Street|11411
+NY|Queens|Cambria Heights|218th Street|11411
+NY|Queens|Cambria Heights|219th Street|11411
+NY|Queens|Cambria Heights|220th Street|11411
+NY|Queens|Cambria Heights|221st Street|11411
+NY|Queens|Cambria Heights|222nd Street|11411
+NY|Queens|Cambria Heights|223rd Street|11411
+NY|Queens|Cambria Heights|224th Street|11411
+NY|Queens|Cambria Heights|225th Street|11411
+NY|Queens|Cambria Heights|226th Street|11411
+NY|Queens|Cambria Heights|227th Street|11411
+NY|Queens|Cambria Heights|228th Street|11411
+NY|Queens|Cambria Heights|229th Street|11411
+NY|Queens|Cambria Heights|230th Street|11411
+NY|Queens|Cambria Heights|231st Street|11411
+NY|Queens|Cambria Heights|232nd Street|11411
+NY|Queens|Cambria Heights|233rd Street|11411
+NY|Queens|Cambria Heights|234th Street|11411
+NY|Queens|Cambria Heights|235th Street|11411
+NY|Queens|Cambria Heights|236th Street|11411
+NY|Queens|Cambria Heights|237th Street|11411
+NY|Queens|Cambria Heights|238th Street|11411
+NY|Queens|Cambria Heights|Colfax Street|11411
+NY|Queens|Cambria Heights|Cross Island Pkwy|11411
+NY|Queens|Cambria Heights|Cross Island Pkwy Svc Road|11411
+NY|Queens|Cambria Heights|Francis Lewis Boulevard|11411
+NY|Queens|Cambria Heights|Linden Boulevard|11411
+NY|Queens|Cambria Heights|Marshall Street|11411
+NY|Queens|Cambria Heights|Murdock Avenue|11411
+NY|Queens|Cambria Heights|Nashville Boulevard|11411
+NY|Queens|Cambria Heights|Springfield Boulevard|11411
+NY|Queens|Arverne|Almeda Avenue|11692
+NY|Queens|Arverne|Amstel Boulevard|11692
+NY|Queens|Arverne|Arverne Boulevard|11692
+NY|Queens|Arverne|Aztec Place|11692
+NY|Queens|Arverne|Barbadoes Drive|11692
+NY|Queens|Arverne|Bayfield Avenue|11692
+NY|Queens|Arverne|Beach 54th Street|11692
+NY|Queens|Rego Park|Haring Street|11374
+NY|Queens|Arverne|Beach 56th Street|11692
+NY|Queens|Arverne|Beach 57th Street|11692
+NY|Queens|Arverne|Beach 58th Street|11692
+NY|Queens|Rego Park|Queens Boulevard|11374
+NY|Queens|Arverne|Beach 60th Street|11692
+NY|Queens|Arverne|Beach 61st Street|11692
+NY|Queens|Arverne|Beach 62nd Street|11692
+NY|Queens|Arverne|Beach 63rd Street|11692
+NY|Queens|Arverne|Beach 64th Street|11692
+NY|Queens|Arverne|Beach 65th Street|11692
+NY|Queens|Arverne|Beach 66th Street|11692
+NY|Queens|Arverne|Beach 59th Street|11692
+NY|Queens|Arverne|Beach 68th Street|11692
+NY|Queens|Arverne|Beach 69th Street|11692
+NY|Queens|Arverne|Beach 56th Place|11692
+NY|Queens|Arverne|Beach 71st Street|11692
+NY|Queens|Arverne|Beach 72nd Street|11692
+NY|Queens|Arverne|Beach 73rd Street|11692
+NY|Queens|Arverne|Beach 74th Street|11692
+NY|Queens|Glen Oaks|265th Street|11004
+NY|Queens|Arverne|Beach 77th Street|11692
+NY|Queens|Arverne|Beach 79th Street|11692
+NY|Queens|Arverne|Beach Channel Drive|11692
+NY|Queens|Arverne|Beach Front Road|11692
+NY|Queens|Arverne|Boardwalk|11692
+NY|Queens|Arverne|Burchell Avenue|11692
+NY|Queens|Arverne|Burchell Road|11692
+NY|Queens|Arverne|Catamaran Way|11692
+NY|Queens|Arverne|Commodore Circle E|11692
+NY|Queens|Arverne|Commodore Circle W|11692
+NY|Queens|Arverne|Coral Reef Way|11692
+NY|Queens|Arverne|de Costa Avenue|11692
+NY|Queens|Arverne|Edgemere Avenue|11692
+NY|Queens|Arverne|Elizabeth Avenue|11692
+NY|Queens|Arverne|Elizabeth Road|11692
+NY|Queens|Arverne|Failing Avenue|11692
+NY|Queens|Arverne|Gouverneur Avenue|11692
+NY|Queens|Arverne|Hessler Avenue|11692
+NY|Queens|Arverne|Hillmeyer Avenue|11692
+NY|Queens|Arverne|Larkin Avenue|11692
+NY|Queens|Arverne|Lighthouse Drive|11692
+NY|Queens|Arverne|Nautical Way|11692
+NY|Queens|Arverne|Rev Joseph May|11692
+NY|Queens|Arverne|Rockaway Beach Boulevard|11692
+NY|Queens|Arverne|Schooner Street|11692
+NY|Queens|Arverne|Shore Front Pkwy|11692
+NY|Queens|Arverne|Spinnaker Drive|11692
+NY|Queens|Arverne|Swan Road|11692
+NY|Queens|Arverne|Thursby Avenue|11692
+NY|Queens|Flushing|119th Street|11354
+NY|Queens|Flushing|120th Street|11354
+NY|Queens|Flushing|121st Street|11354
+NY|Queens|Flushing|122nd Street|11354
+NY|Queens|Flushing|123rd Street|11354
+NY|Queens|Flushing|124th Street|11354
+NY|Queens|Flushing|125th Street|11354
+NY|Queens|Flushing|126th Street|11354
+NY|Queens|Flushing|127th Street|11354
+NY|Queens|Flushing|128th Street|11354
+NY|Queens|Flushing|129th Street|11354
+NY|Queens|Flushing|131st Street|11355
+NY|Queens|Flushing|133rd Street|11355
+NY|Queens|Flushing|134th Street|11355
+NY|Queens|Flushing|134th Street|11367
+NY|Queens|Flushing|135th Street|11355
+NY|Queens|Flushing|136th Street|11355
+NY|Queens|Flushing|136th Street|11367
+NY|Queens|Flushing|137th Street|11354
+NY|Queens|Flushing|137th Street|11355
+NY|Queens|Flushing|137th Street|11367
+NY|Queens|Flushing|138th Street|11354
+NY|Queens|Flushing|138th Street|11355
+NY|Queens|Flushing|138th Street|11367
+NY|Queens|Flushing|139th Street|11354
+NY|Queens|Flushing|139th Street|11367
+NY|Queens|Arverne|Beach 67th Street|11692
+NY|Queens|Flushing|140th Street|11367
+NY|Queens|Flushing|141st Place|11367
+NY|Queens|Flushing|141st Street|11354
+NY|Queens|Flushing|141st Street|11355
+NY|Queens|Flushing|141st Street|11367
+NY|Queens|Flushing|142nd Street|11355
+NY|Queens|Flushing|143rd Street|11354
+NY|Queens|Flushing|145th Place|11354
+NY|Queens|Flushing|145th Street|11354
+NY|Queens|Flushing|146th Place|11367
+NY|Queens|Flushing|146th Street|11354
+NY|Queens|Flushing|146th Street|11355
+NY|Queens|Flushing|146th Street|11367
+NY|Queens|Flushing|147th Place|11354
+NY|Queens|Flushing|140th Street|11354
+NY|Queens|Arverne|Beach 75th Street|11692
+NY|Queens|Flushing|147th Street|11367
+NY|Queens|Flushing|148th Place|11367
+NY|Queens|Flushing|148th Street|11354
+NY|Queens|Arverne|Beach 70th Street|11692
+NY|Queens|Flushing|148th Street|11367
+NY|Queens|Flushing|149th Place|11354
+NY|Queens|Flushing|148th Street|11355
+NY|Queens|Flushing|149th Street|11354
+NY|Queens|Flushing|149th Street|11355
+NY|Queens|Flushing|149th Street|11367
+NY|Queens|Flushing|150th Place|11354
+NY|Queens|Flushing|150th Street|11354
+NY|Queens|Flushing|150th Street|11355
+NY|Queens|Flushing|150th Street|11367
+NY|Queens|Flushing|151st Street|11355
+NY|Queens|Flushing|147th Street|11355
+NY|Queens|Flushing|152nd Street|11355
+NY|Queens|Flushing|152nd Street|11367
+NY|Queens|Flushing|153rd Street|11354
+NY|Queens|Flushing|147th Street|11354
+NY|Queens|Flushing|153rd Street|11367
+NY|Queens|Flushing|154th Place|11355
+NY|Queens|Flushing|154th Street|11354
+NY|Queens|Flushing|154th Street|11367
+NY|Queens|Flushing|155th Street|11354
+NY|Queens|Flushing|155th Street|11355
+NY|Queens|Flushing|155th Street|11367
+NY|Queens|Flushing|156th Street|11354
+NY|Queens|Flushing|156th Street|11355
+NY|Queens|Flushing|156th Street|11367
+NY|Queens|Flushing|157th Street|11354
+NY|Queens|Flushing|157th Street|11355
+NY|Queens|Flushing|157th Street|11367
+NY|Queens|Flushing|158th Street|11358
+NY|Queens|Flushing|159th Street|11358
+NY|Queens|Flushing|160th Street|11358
+NY|Queens|Flushing|161st Street|11358
+NY|Queens|Flushing|162nd Street|11358
+NY|Queens|Flushing|163rd Street|11358
+NY|Queens|Flushing|164th Street|11358
+NY|Queens|Flushing|165th Street|11358
+NY|Queens|Flushing|166th Street|11358
+NY|Queens|Flushing|167th Street|11358
+NY|Queens|Flushing|168th Street|11358
+NY|Queens|Flushing|169th Street|11358
+NY|Queens|Flushing|170th Street|11358
+NY|Queens|Flushing|171st Place|11358
+NY|Queens|Flushing|171st Street|11358
+NY|Queens|Flushing|172nd Street|11358
+NY|Queens|Flushing|152nd Street|11354
+NY|Queens|Flushing|188th Street|11358
+NY|Queens|Flushing|189th Street|11358
+NY|Queens|Flushing|187th Street|11358
+NY|Queens|Flushing|191st Street|11358
+NY|Queens|Flushing|192nd Street|11358
+NY|Queens|Flushing|193rd Street|11358
+NY|Queens|Flushing|194th Street|11358
+NY|Queens|Flushing|195th Street|11358
+NY|Queens|Flushing|196th Place|11358
+NY|Queens|Flushing|196th Street|11358
+NY|Queens|Flushing|197th Street|11358
+NY|Queens|Flushing|198th Street|11358
+NY|Queens|Flushing|199th Street|11358
+NY|Queens|Flushing|20th Avenue|11354
+NY|Queens|Flushing|25th Drive|11354
+NY|Queens|Flushing|149th Place|11355
+NY|Queens|Flushing|25th Road|11354
+NY|Queens|Flushing|26th Avenue|11354
+NY|Queens|Flushing|26th Avenue|11358
+NY|Queens|Flushing|27th Avenue|11354
+NY|Queens|Flushing|27th Avenue|11358
+NY|Queens|Flushing|28th Avenue|11354
+NY|Queens|Flushing|28th Avenue|11358
+NY|Queens|Flushing|28th Road|11354
+NY|Queens|Flushing|29th Avenue|11354
+NY|Queens|Flushing|29th Avenue|11358
+NY|Queens|Flushing|29th Road|11354
+NY|Queens|Flushing|30th Avenue|11354
+NY|Queens|Flushing|30th Avenue|11358
+NY|Queens|Flushing|31st Avenue|11354
+NY|Queens|Flushing|31st Drive|11354
+NY|Queens|Flushing|153rd Street|11355
+NY|Queens|Flushing|32nd Avenue|11354
+NY|Queens|Flushing|32nd Avenue|11358
+NY|Queens|Flushing|25th Drive|11358
+NY|Queens|Flushing|33rd Avenue|11354
+NY|Queens|Flushing|33rd Avenue|11358
+NY|Queens|Flushing|33rd Road|11354
+NY|Queens|Flushing|34th Avenue|11354
+NY|Queens|Flushing|34th Avenue|11358
+NY|Queens|Flushing|34th Road|11354
+NY|Queens|Flushing|35th Avenue|11354
+NY|Queens|Flushing|35th Avenue|11358
+NY|Queens|Flushing|36th Avenue|11354
+NY|Queens|Flushing|36th Road|11354
+NY|Queens|Flushing|31st Road|11354
+NY|Queens|Flushing|37th Avenue|11358
+NY|Queens|Flushing|38th Avenue|11354
+NY|Queens|Flushing|39th Avenue|11354
+NY|Queens|Flushing|39th Avenue|11358
+NY|Queens|Flushing|40th Road|11354
+NY|Queens|Flushing|41st Avenue|11354
+NY|Queens|Flushing|41st Avenue|11355
+NY|Queens|Flushing|190th Street|11358
+NY|Queens|Flushing|41st Road|11355
+NY|Queens|Flushing|42nd Avenue|11358
+NY|Queens|Flushing|42nd Road|11358
+NY|Queens|Flushing|43rd Avenue|11355
+NY|Queens|Flushing|43rd Avenue|11358
+NY|Queens|Flushing|43rd Road|11358
+NY|Queens|Flushing|44th Avenue|11358
+NY|Queens|Flushing|45th Avenue|11355
+NY|Queens|Flushing|45th Avenue|11358
+NY|Queens|Flushing|45th Drive|11358
+NY|Queens|Flushing|45th Road|11358
+NY|Queens|Flushing|46th Avenue|11355
+NY|Queens|Flushing|46th Avenue|11358
+NY|Queens|Flushing|46th Road|11358
+NY|Queens|Flushing|47th Avenue|11358
+NY|Queens|Flushing|56th Avenue|11355
+NY|Queens|Flushing|32nd Road|11358
+NY|Queens|Flushing|57th Avenue|11355
+NY|Queens|Flushing|57th Road|11355
+NY|Queens|Flushing|58th Avenue|11355
+NY|Queens|Flushing|58th Road|11355
+NY|Queens|Flushing|59th Avenue|11355
+NY|Queens|Flushing|60th Avenue|11355
+NY|Queens|Flushing|61st Road|11367
+NY|Queens|Flushing|62nd Avenue|11367
+NY|Queens|Flushing|62nd Road|11367
+NY|Queens|Flushing|63rd Avenue|11367
+NY|Queens|Flushing|37th Avenue|11354
+NY|Queens|Flushing|64th Avenue|11367
+NY|Queens|Flushing|64th Road|11367
+NY|Queens|Flushing|63rd Road|11367
+NY|Queens|Flushing|68th Avenue|11367
+NY|Queens|Flushing|68th Drive|11367
+NY|Queens|Flushing|68th Road|11367
+NY|Queens|Flushing|69th Avenue|11367
+NY|Queens|Flushing|69th Road|11367
+NY|Queens|Flushing|70th Avenue|11367
+NY|Queens|Flushing|56th Road|11355
+NY|Queens|Flushing|71st Avenue|11367
+NY|Queens|Flushing|71st Road|11367
+NY|Queens|Flushing|72nd Avenue|11367
+NY|Queens|Flushing|72nd Cres|11367
+NY|Queens|Flushing|72nd Drive|11367
+NY|Queens|Flushing|72nd Road|11367
+NY|Queens|Flushing|73rd Avenue|11367
+NY|Queens|Flushing|73rd Terrace|11367
+NY|Queens|Flushing|75th Avenue|11367
+NY|Queens|Flushing|75th Road|11367
+NY|Queens|Flushing|76th Avenue|11367
+NY|Queens|Flushing|76th Road|11367
+NY|Queens|Flushing|77th Avenue|11367
+NY|Queens|Flushing|77th Road|11367
+NY|Queens|Flushing|78th Avenue|11367
+NY|Queens|Flushing|78th Drive|11367
+NY|Queens|Flushing|78th Road|11367
+NY|Queens|Flushing|79th Avenue|11367
+NY|Queens|Flushing|Aguilar Avenue|11367
+NY|Queens|Flushing|Ash Avenue|11355
+NY|Queens|Flushing|Ashby Avenue|11358
+NY|Queens|Flushing|Auburndale Lane|11358
+NY|Queens|Flushing|Avery Avenue|11355
+NY|Queens|Flushing|Bagley Avenue|11358
+NY|Queens|Flushing|Barclay Avenue|11355
+NY|Queens|Flushing|Barton Avenue|11354
+NY|Queens|Flushing|Bayside Avenue|11354
+NY|Queens|Flushing|Bayside Lane|11358
+NY|Queens|Flushing|Beech Avenue|11355
+NY|Queens|Flushing|Blossom Avenue|11355
+NY|Queens|Flushing|Booth Memorial Avenue|11355
+NY|Queens|Flushing|Bowne Street|11354
+NY|Queens|Flushing|Bowne Street|11355
+NY|Queens|Flushing|Bud Place|11354
+NY|Queens|Flushing|Burling Street|11355
+NY|Queens|Flushing|Byrd Street|11355
+NY|Queens|Flushing|Carlton Place|11354
+NY|Queens|Flushing|Cherry Avenue|11355
+NY|Queens|Flushing|Colden Street|11355
+NY|Queens|Flushing|College Point Boulevard|11354
+NY|Queens|Flushing|College Point Boulevard|11355
+NY|Queens|Flushing|Collins Place|11354
+NY|Queens|Flushing|Congressman Rosenthal Place|11354
+NY|Queens|Flushing|County Road 19|11367
+NY|Queens|Flushing|Courtney Avenue|11358
+NY|Queens|Flushing|Crocheron Avenue|11358
+NY|Queens|Flushing|Crommelin Avenue|11355
+NY|Queens|Flushing|Crommelin Street|11355
+NY|Queens|Flushing|Dahlia Avenue|11355
+NY|Queens|Flushing|Delaware Avenue|11355
+NY|Queens|Flushing|70th Road|11367
+NY|Queens|Flushing|41st Avenue|11358
+NY|Queens|Flushing|Downing Street|11354
+NY|Queens|Flushing|East Road|11367
+NY|Queens|Flushing|Effington Avenue|11358
+NY|Queens|Flushing|Elder Avenue|11355
+NY|Queens|Flushing|Elm Avenue|11355
+NY|Queens|Flushing|Depot Road|11358
+NY|Queens|Flushing|Farrington Street|11354
+NY|Queens|Flushing|Fowler Avenue|11355
+NY|Queens|Flushing|Frame Place|11355
+NY|Queens|Flushing|Francis Lewis Boulevard|11358
+NY|Queens|Flushing|Franconia Avenue|11355
+NY|Queens|Flushing|Fairchild Avenue|11358
+NY|Queens|Flushing|Fresh Meadow Lane|11358
+NY|Queens|Flushing|Franklin Avenue|11355
+NY|Queens|Flushing|Fuller Place|11355
+NY|Queens|Flushing|Geranium Avenue|11355
+NY|Queens|Flushing|Graham Court|11354
+NY|Queens|Flushing|Gravett Road|11367
+NY|Queens|Flushing|Haight Street|11355
+NY|Queens|Flushing|Hawthorne Avenue|11355
+NY|Queens|Flushing|Higgins Street|11354
+NY|Queens|Flushing|Hollis Court Boulevard|11358
+NY|Queens|Flushing|Holly Avenue|11355
+NY|Queens|Flushing|Hollywood Avenue|11355
+NY|Queens|Flushing|Horace Harding Boulevard|11355
+NY|Queens|Flushing|Horace Harding Boulevard|11367
+NY|Queens|Flushing|Horace Harding Expy|11355
+NY|Queens|Flushing|Horace Harding Expy|11367
+NY|Queens|Flushing|Janet Place|11354
+NY|Queens|Flushing|Jasmine Avenue|11355
+NY|Queens|Flushing|Jewel Avenue|11367
+NY|Queens|Flushing|Jordan Street|11358
+NY|Queens|Flushing|Juniper Avenue|11355
+NY|Queens|Flushing|Kalmia Avenue|11355
+NY|Queens|Flushing|King Road|11354
+NY|Queens|Flushing|Kissena Boulevard|11355
+NY|Queens|Flushing|Kissena Boulevard|11367
+NY|Queens|Flushing|Laburnum Avenue|11355
+NY|Queens|Flushing|Laburnum Avenue|11358
+NY|Queens|Flushing|Latimer Place|11354
+NY|Queens|Flushing|Lawrence Street|11355
+NY|Queens|Flushing|Lawrence Street|11367
+NY|Queens|Flushing|Leavitt Street|11354
+NY|Queens|Flushing|Linden Place|11354
+NY|Queens|Flushing|Lineaus Place|11354
+NY|Queens|Flushing|Magnolia Place|11355
+NY|Queens|Flushing|Main Street|11354
+NY|Queens|Flushing|Main Street|11355
+NY|Queens|Flushing|Main Street|11367
+NY|Queens|Flushing|Maple Avenue|11355
+NY|Queens|Flushing|Melbourne Avenue|11367
+NY|Queens|Flushing|Miller Street|11354
+NY|Queens|Flushing|Mulberry Avenue|11355
+NY|Queens|Flushing|Murray Lane|11354
+NY|Queens|Flushing|Murray Street|11354
+NY|Queens|Flushing|Murray Street|11355
+NY|Queens|Flushing|Negundo Avenue|11355
+NY|Queens|Flushing|Northern Boulevard|11354
+NY|Queens|Flushing|Northern Boulevard|11358
+NY|Queens|Flushing|Georgia Road|11355
+NY|Queens|Flushing|Oak Avenue|11358
+NY|Queens|Flushing|Park Drive E|11367
+NY|Queens|Flushing|Parsons Boulevard|11354
+NY|Queens|Flushing|Parsons Boulevard|11355
+NY|Queens|Flushing|Parsons Boulevard|11367
+NY|Queens|Flushing|Peck Avenue|11355
+NY|Queens|Flushing|Phlox Place|11355
+NY|Queens|Flushing|Pidgeon Meadow Road|11358
+NY|Queens|Flushing|Poplar Avenue|11355
+NY|Queens|Flushing|Pople Avenue|11355
+NY|Queens|Flushing|Prince Street|11354
+NY|Queens|Flushing|Quince Avenue|11355
+NY|Queens|Flushing|Reeves Avenue|11367
+NY|Queens|Flushing|Robinson Street|11355
+NY|Queens|Flushing|Rodman Street|11355
+NY|Queens|Flushing|Roosevelt Avenue|11354
+NY|Queens|Flushing|Rose Avenue|11355
+NY|Queens|Flushing|Rose Avenue|11358
+NY|Queens|Flushing|Sanford Avenue|11355
+NY|Queens|Flushing|Sanford Avenue|11358
+NY|Queens|Flushing|Saull Street|11355
+NY|Queens|Flushing|Smart Street|11355
+NY|Queens|Flushing|State Highway 25 Alt|11354
+NY|Queens|Flushing|State Highway 25 Alt|11358
+NY|Queens|Flushing|Station Road|11355
+NY|Queens|Flushing|Station Road|11358
+NY|Queens|Flushing|Stratton Street|11354
+NY|Queens|Flushing|Summit Court|11355
+NY|Queens|Flushing|Syringa Place|11355
+NY|Queens|Flushing|Thompson Place|11367
+NY|Queens|Flushing|Ulmer Street|11354
+NY|Queens|Flushing|Union Street|11354
+NY|Queens|Flushing|Union Tpke|11367
+NY|Queens|Flushing|Union Street|11355
+NY|Queens|Flushing|Utopia Pkwy|11358
+NY|Queens|Flushing|Vleigh Place|11367
+NY|Queens|Flushing|Whitestone Expy|11354
+NY|Queens|Flushing|Willets Point Boulevard|11354
+NY|Queens|Little Neck|233rd Street|11363
+NY|Queens|Little Neck|233rd Place|11363
+NY|Queens|Little Neck|234th Street|11363
+NY|Queens|Little Neck|235th Street|11363
+NY|Queens|Little Neck|239th Street|11363
+NY|Queens|Little Neck|240th Place|11362
+NY|Queens|Little Neck|240th Street|11362
+NY|Queens|Little Neck|240th Street|11363
+NY|Queens|Little Neck|241st Street|11362
+NY|Queens|Little Neck|242nd Street|11362
+NY|Queens|Little Neck|242nd Street|11363
+NY|Queens|Little Neck|243rd Street|11362
+NY|Queens|Little Neck|243rd Street|11363
+NY|Queens|Little Neck|244th Street|11362
+NY|Queens|Little Neck|244th Street|11363
+NY|Queens|Little Neck|245th Place|11362
+NY|Queens|Little Neck|245th Street|11362
+NY|Queens|Little Neck|246th Cres|11362
+NY|Queens|Little Neck|246th Place|11362
+NY|Queens|Little Neck|246th Street|11362
+NY|Queens|Little Neck|247th Street|11362
+NY|Queens|Little Neck|247th Street|11363
+NY|Queens|Little Neck|248th Street|11362
+NY|Queens|Little Neck|248th Street|11363
+NY|Queens|Little Neck|249th Street|11363
+NY|Queens|Little Neck|250th Street|11362
+NY|Queens|Little Neck|250th Street|11363
+NY|Queens|Little Neck|251st Place|11362
+NY|Queens|Little Neck|251st Street|11362
+NY|Queens|Little Neck|252nd Street|11362
+NY|Queens|Little Neck|253rd Street|11362
+NY|Queens|Little Neck|254th Street|11362
+NY|Queens|Little Neck|254th Street|11363
+NY|Queens|Little Neck|255th Street|11362
+NY|Queens|Little Neck|255th Street|11363
+NY|Queens|Little Neck|256th Street|11362
+NY|Queens|Little Neck|260th Street|11362
+NY|Queens|Little Neck|262nd Street|11362
+NY|Queens|Little Neck|263rd Street|11362
+NY|Queens|Little Neck|264th Street|11362
+NY|Queens|Little Neck|34th Avenue|11363
+NY|Queens|Little Neck|37th Avenue|11363
+NY|Queens|Little Neck|38th Avenue|11363
+NY|Queens|Little Neck|38th Drive|11363
+NY|Queens|Little Neck|38th Road|11363
+NY|Queens|Little Neck|39th Avenue|11363
+NY|Queens|Little Neck|39th Road|11363
+NY|Queens|Little Neck|40th Avenue|11363
+NY|Queens|Little Neck|41st Avenue|11363
+NY|Queens|Little Neck|41st Drive|11363
+NY|Queens|Little Neck|41st Road|11363
+NY|Queens|Little Neck|42nd Avenue|11363
+NY|Queens|Little Neck|43rd Avenue|11363
+NY|Queens|Little Neck|44th Avenue|11363
+NY|Queens|Little Neck|51st Avenue|11362
+NY|Queens|Little Neck|52nd Avenue|11362
+NY|Queens|Little Neck|52nd Road|11362
+NY|Queens|Little Neck|53rd Avenue|11362
+NY|Queens|Flushing|Delong Street|11355
+NY|Queens|Little Neck|57th Avenue|11362
+NY|Queens|Little Neck|57th Drive|11362
+NY|Queens|Little Neck|58th Avenue|11362
+NY|Queens|Little Neck|59th Avenue|11362
+NY|Queens|Little Neck|60th Avenue|11362
+NY|Queens|Little Neck|60th Road|11362
+NY|Queens|Little Neck|61st Avenue|11362
+NY|Queens|Flushing|Oak Avenue|11355
+NY|Queens|Little Neck|63rd Avenue|11362
+NY|Queens|Little Neck|64th Avenue|11362
+NY|Queens|Little Neck|65th Avenue|11362
+NY|Queens|Little Neck|66th Avenue|11362
+NY|Queens|Little Neck|67th Avenue|11362
+NY|Queens|Little Neck|68th Avenue|11362
+NY|Queens|Little Neck|69th Avenue|11362
+NY|Queens|Little Neck|70th Avenue|11362
+NY|Queens|Little Neck|72nd Avenue|11362
+NY|Queens|Little Neck|73rd Avenue|11362
+NY|Queens|Little Neck|Alameda Avenue|11362
+NY|Queens|Little Neck|Alley Road, West|11362
+NY|Queens|Little Neck|Alston Place|11363
+NY|Queens|Little Neck|Annandale Lane|11362
+NY|Queens|Little Neck|Ardsley Road|11363
+NY|Queens|Little Neck|Arleigh Road|11363
+NY|Queens|Little Neck|Barrows Court|11362
+NY|Queens|Little Neck|Bates Road|11362
+NY|Queens|Little Neck|Bay Avenue|11363
+NY|Queens|Little Neck|Bay Street|11363
+NY|Queens|Little Neck|Bayside Blvd E|11363
+NY|Queens|Little Neck|Bayview Avenue|11363
+NY|Queens|Little Neck|Beechknoll Avenue|11362
+NY|Queens|Little Neck|Beverly Road|11363
+NY|Queens|Little Neck|Brattle Avenue|11362
+NY|Queens|Little Neck|Brookside Street|11363
+NY|Queens|Little Neck|Browvale Lane|11362
+NY|Queens|Little Neck|Cambria Avenue|11362
+NY|Queens|Little Neck|Capron Road|11363
+NY|Queens|Little Neck|Carolina Road|11362
+NY|Queens|Little Neck|Cedar Lane|11363
+NY|Queens|Little Neck|Center Drive|11363
+NY|Queens|Little Neck|Centre Drive|11363
+NY|Queens|Little Neck|Cherry Street|11362
+NY|Queens|Little Neck|Cherry Street|11363
+NY|Queens|Little Neck|Circle Road|11363
+NY|Queens|Little Neck|Clark Lane|11363
+NY|Queens|Little Neck|Commonwealth Boulevard|11362
+NY|Queens|Little Neck|Concord Street|11362
+NY|Queens|Little Neck|Cornell Lane|11363
+NY|Queens|Little Neck|Cullman Avenue|11362
+NY|Queens|Little Neck|Deepdale Avenue|11362
+NY|Queens|Little Neck|Deepdale Place|11362
+NY|Queens|Little Neck|Depew Avenue|11362
+NY|Queens|Little Neck|Depew Avenue|11363
+NY|Queens|Little Neck|Douglas Road|11363
+NY|Queens|Little Neck|Douglaston Pkwy|11362
+NY|Queens|Little Neck|Douglaston Pkwy|11363
+NY|Queens|Little Neck|East Drive|11363
+NY|Queens|Little Neck|End Drive, West|11362
+NY|Queens|Little Neck|Forest Avenue|11363
+NY|Queens|Little Neck|54th Avenue|11362
+NY|Queens|Little Neck|Gaskell Road|11362
+NY|Queens|Little Neck|Glenwood Street|11362
+NY|Queens|Little Neck|Glenwood Street|11363
+NY|Queens|Little Neck|Grand Central Pkwy|11362
+NY|Queens|Little Neck|Grand Central Pkwy Svc Road|11362
+NY|Queens|Little Neck|Grosvenor Street|11363
+NY|Queens|Little Neck|Hand Road|11362
+NY|Queens|Little Neck|Hanford Street|11362
+NY|Queens|Little Neck|Hewlett Street|11362
+NY|Queens|Little Neck|Hillcrest Avenue|11363
+NY|Queens|Little Neck|Hillside Avenue|11363
+NY|Queens|Little Neck|Hollywood Avenue|11363
+NY|Queens|Little Neck|Hor Harding Expressway State Route N|11362
+NY|Queens|Little Neck|Horace Harding Boulevard|11362
+NY|Queens|Little Neck|Horace Harding Expy|11362
+NY|Queens|Little Neck|Interstate 495|11362
+NY|Queens|Little Neck|Iowa Road|11362
+NY|Queens|Little Neck|Jessie Court|11362
+NY|Queens|Little Neck|Kenmore Road|11363
+NY|Queens|Little Neck|Knollwood Avenue|11363
+NY|Queens|Little Neck|Leeds Road|11362
+NY|Queens|Little Neck|Leith Place|11362
+NY|Queens|Little Neck|Leith Road|11362
+NY|Queens|Little Neck|Little Neck Pkwy|11362
+NY|Queens|Little Neck|Little Neck Pkwy|11363
+NY|Queens|Little Neck|Little Neck Road|11363
+NY|Queens|Little Neck|Long Island Expressway State Route N|11362
+NY|Queens|Little Neck|Long Island Expy|11362
+NY|Queens|Little Neck|Manor Road|11363
+NY|Queens|Little Neck|Marathon Pkwy|11362
+NY|Queens|Little Neck|Marathon Pkwy|11363
+NY|Queens|Little Neck|Marinette Street|11363
+NY|Queens|Little Neck|Maryland Road|11362
+NY|Queens|Little Neck|Melrose Lane|11363
+NY|Queens|Little Neck|Morenci Lane|11362
+NY|Queens|Little Neck|Morgan Street|11363
+NY|Queens|Little Neck|Nassau Boulevard|11362
+NY|Queens|Little Neck|Northern Boulevard|11362
+NY|Queens|Little Neck|Oak Lane|11363
+NY|Queens|Little Neck|Northern Boulevard|11363
+NY|Queens|Little Neck|Oak Park Drive|11362
+NY|Queens|Little Neck|Oakley Place|11362
+NY|Queens|Little Neck|Overbrook Street|11362
+NY|Queens|Little Neck|Overlook Road|11362
+NY|Queens|Little Neck|Park Lane|11363
+NY|Queens|Little Neck|Pembroke Avenue|11362
+NY|Queens|Little Neck|Prospect Avenue|11363
+NY|Queens|Little Neck|Railroad Avenue|11363
+NY|Queens|Little Neck|Redfield Street|11362
+NY|Queens|Little Neck|Regatta Place|11363
+NY|Queens|Little Neck|Richmond Road|11363
+NY|Queens|Little Neck|Ridge Road|11363
+NY|Queens|Little Neck|62nd Avenue|11362
+NY|Queens|Little Neck|Rushmore Terrace|11362
+NY|Queens|Little Neck|Sandhill Road|11363
+NY|Queens|Little Neck|Shore Road|11363
+NY|Queens|Little Neck|State Highway 25 Alt|11362
+NY|Queens|Little Neck|Stuart Lane|11363
+NY|Queens|Little Neck|Thebes Avenue|11362
+NY|Queens|Little Neck|Thornhill Avenue|11362
+NY|Queens|Little Neck|Upland Road|11362
+NY|Queens|Little Neck|Van Nostrand Court|11362
+NY|Queens|Little Neck|Van Nostrand Place|11363
+NY|Queens|Little Neck|Van Zandt Avenue|11362
+NY|Queens|Little Neck|W Alley Road|11362
+NY|Queens|Little Neck|W End Drive|11362
+NY|Queens|Little Neck|Walden Avenue|11362
+NY|Queens|Little Neck|Warwick Avenue|11363
+NY|Queens|Little Neck|West Drive|11363
+NY|Queens|Little Neck|Westmoreland Place|11363
+NY|Queens|Little Neck|Westmoreland Street|11362
+NY|Queens|Little Neck|Westmoreland Street|11363
+NY|Queens|Little Neck|Willow Place|11363
+NY|Queens|Little Neck|Willow Street|11362
+NY|Queens|Little Neck|Willow Street|11363
+NY|Queens|Little Neck|Zion Street|11362
+NY|Queens|Little Neck|Rushmore Avenue|11362
+NY|Queens|Breezy Point|12th Avenue|11697
+NY|Queens|Breezy Point|4th Avenue|11697
+NY|Queens|Breezy Point|5th Avenue|11697
+NY|Queens|Breezy Point|7th Avenue|11697
+NY|Queens|Breezy Point|8th Avenue|11697
+NY|Queens|Breezy Point|9th Avenue|11697
+NY|Queens|Breezy Point|Arcadia Walk|11697
+NY|Queens|Breezy Point|Atlantic Walk|11697
+NY|Queens|Breezy Point|Bath Walk|11697
+NY|Queens|Breezy Point|Bayside|11697
+NY|Queens|Breezy Point|Bayside Avenue|11697
+NY|Queens|Breezy Point|Bayside Drive|11697
+NY|Queens|Breezy Point|Bayview Walk|11697
+NY|Queens|Flushing|65th Avenue|11367
+NY|Queens|Breezy Point|Beach 169th Street|11697
+NY|Queens|Breezy Point|Beach 178th Street|11697
+NY|Queens|Breezy Point|Beach 179th Street|11697
+NY|Queens|Breezy Point|Beach 184th Street|11697
+NY|Queens|Breezy Point|Beach 193rd Street|11697
+NY|Queens|Breezy Point|Beach 204th Street|11697
+NY|Queens|Breezy Point|Beach 207th Street|11697
+NY|Queens|Breezy Point|Beach 209th Street|11697
+NY|Queens|Breezy Point|Beach 210th Street|11697
+NY|Queens|Breezy Point|10th Avenue|11697
+NY|Queens|Breezy Point|Beach 213rd Street|11697
+NY|Queens|Breezy Point|Beach 213th Street|11697
+NY|Queens|Breezy Point|Beach 214th Street|11697
+NY|Queens|Breezy Point|Beach 215th Street|11697
+NY|Queens|Breezy Point|Beach 216th Street|11697
+NY|Queens|Breezy Point|Beach 217th Street|11697
+NY|Queens|Breezy Point|Beach 219th Street|11697
+NY|Queens|Breezy Point|Beach 220th Street|11697
+NY|Queens|Breezy Point|Beach 221st Street|11697
+NY|Queens|Breezy Point|Beach 222nd Street|11697
+NY|Queens|Breezy Point|Beach 227th Street|11697
+NY|Queens|Breezy Point|Bedford Avenue|11697
+NY|Queens|Breezy Point|Brant Walk|11697
+NY|Queens|Breezy Point|Breezy Point Boulevard|11697
+NY|Queens|Breezy Point|Beach 212th Street|11697
+NY|Queens|Breezy Point|Church Avenue|11697
+NY|Queens|Breezy Point|Church Road|11697
+NY|Queens|Breezy Point|Clinton Walk|11697
+NY|Queens|Breezy Point|Courtney Lane|11697
+NY|Queens|Little Neck|Forest Road|11363
+NY|Queens|Breezy Point|Deaville Walk|11697
+NY|Queens|Breezy Point|Devon Walk|11697
+NY|Queens|Breezy Point|Doris Lane|11697
+NY|Queens|Breezy Point|E Market Street|11697
+NY|Queens|Breezy Point|Essex Walk|11697
+NY|Queens|Breezy Point|Fulton Walk|11697
+NY|Queens|Breezy Point|Gotham Walk|11697
+NY|Queens|Breezy Point|Graham Place|11697
+NY|Queens|Breezy Point|Harmony Road|11697
+NY|Queens|Breezy Point|Highland Place|11697
+NY|Queens|Breezy Point|Hillcrest Walk|11697
+NY|Queens|Breezy Point|Hillside Avenue|11697
+NY|Queens|Breezy Point|Hudson Walk|11697
+NY|Queens|Breezy Point|Irving Walk|11697
+NY|Queens|Breezy Point|Jamaica Walk|11697
+NY|Queens|Breezy Point|Janet Lane|11697
+NY|Queens|Breezy Point|Creekside Avenue|11697
+NY|Queens|Breezy Point|Liberty Lane|11697
+NY|Queens|Breezy Point|Lincoln Walk|11697
+NY|Queens|Breezy Point|Manville Lane|11697
+NY|Queens|Breezy Point|Marion Walk|11697
+NY|Queens|Breezy Point|Market Street|11697
+NY|Queens|Breezy Point|Market Street, East|11697
+NY|Queens|Breezy Point|Market Street, West|11697
+NY|Queens|Breezy Point|Marshall Avenue|11697
+NY|Queens|Breezy Point|Neptune Walk|11697
+NY|Queens|Breezy Point|Newport Walk|11697
+NY|Queens|Breezy Point|Ocean Avenue|11697
+NY|Queens|Breezy Point|Oceanside Avenue|11697
+NY|Queens|Breezy Point|Bayway Walk|11697
+NY|Queens|Breezy Point|Oceanside Walk|11697
+NY|Queens|Breezy Point|Oceanview Avenue|11697
+NY|Queens|Breezy Point|Olive Walk|11697
+NY|Queens|Breezy Point|Palmer Drive|11697
+NY|Queens|Breezy Point|Park End Terrace|11697
+NY|Queens|Breezy Point|Pelham Walk|11697
+NY|Queens|Breezy Point|Point Breeze Avenue|11697
+NY|Queens|Breezy Point|Queens Walk|11697
+NY|Queens|Breezy Point|Reid Avenue|11697
+NY|Queens|Breezy Point|Rockaway Breezy Boulevard|11697
+NY|Queens|Breezy Point|Rockaway Point Boulevard|11697
+NY|Queens|Breezy Point|Roosevelt Walk|11697
+NY|Queens|Breezy Point|Roxbury Avenue|11697
+NY|Queens|Breezy Point|Seabreeze Avenue|11697
+NY|Queens|Breezy Point|Seabreeze Walk|11697
+NY|Queens|Breezy Point|State Road|11697
+NY|Queens|Breezy Point|Suffolk Walk|11697
+NY|Queens|Breezy Point|Thetford Lane|11697
+NY|Queens|Breezy Point|Tioga Walk|11697
+NY|Queens|Breezy Point|Oceanside Drive|11697
+NY|Queens|Breezy Point|W Market Street|11697
+NY|Queens|Breezy Point|Chester Walk|11697
+NY|Queens|Jamaica|101st Avenue|11435
+NY|Queens|Jamaica|102nd Avenue|11435
+NY|Queens|Jamaica|103rd Road|11433
+NY|Queens|Jamaica|104th Avenue|11433
+NY|Queens|Jamaica|104th Avenue|11435
+NY|Queens|Jamaica|104th Road|11433
+NY|Queens|Jamaica|105th Avenue|11433
+NY|Queens|Jamaica|105th Avenue|11435
+NY|Queens|Jamaica|106th Avenue|11433
+NY|Queens|Jamaica|106th Avenue|11435
+NY|Queens|Jamaica|106th Road|11433
+NY|Queens|Jamaica|107th Avenue|11433
+NY|Queens|Jamaica|107th Avenue|11435
+NY|Queens|Jamaica|107th Road|11435
+NY|Queens|Jamaica|108th Avenue|11433
+NY|Queens|Jamaica|108th Avenue|11435
+NY|Queens|Jamaica|108th Drive|11433
+NY|Queens|Jamaica|108th Road|11433
+NY|Queens|Jamaica|109th Avenue|11433
+NY|Queens|Jamaica|109th Avenue|11435
+NY|Queens|Jamaica|109th Drive|11433
+NY|Queens|Jamaica|109th Road|11433
+NY|Queens|Jamaica|109th Road|11435
+NY|Queens|Jamaica|110th Avenue|11433
+NY|Queens|Jamaica|110th Avenue|11435
+NY|Queens|Jamaica|110th Road|11433
+NY|Queens|Jamaica|110th Road|11435
+NY|Queens|Jamaica|111th Avenue|11433
+NY|Queens|Jamaica|111th Avenue|11435
+NY|Queens|Jamaica|111th Road|11433
+NY|Queens|Breezy Point|Utica Walk|11697
+NY|Queens|Jamaica|112th Avenue|11435
+NY|Queens|Jamaica|112th Road|11433
+NY|Queens|Jamaica|112th Road|11434
+NY|Queens|Jamaica|113th Avenue|11433
+NY|Queens|Jamaica|115th Avenue|11434
+NY|Queens|Jamaica|114th Road|11434
+NY|Queens|Jamaica|115th Avenue|11436
+NY|Queens|Jamaica|115th Drive|11434
+NY|Queens|Jamaica|115th Road|11434
+NY|Queens|Jamaica|116th Avenue|11434
+NY|Queens|Breezy Point|Kildare Walk|11697
+NY|Queens|Jamaica|116th Drive|11434
+NY|Queens|Jamaica|116th Road|11434
+NY|Queens|Jamaica|112th Avenue|11433
+NY|Queens|Jamaica|118th Avenue|11434
+NY|Queens|Jamaica|119th Avenue|11434
+NY|Queens|Jamaica|119th Avenue|11436
+NY|Queens|Jamaica|119th Drive|11434
+NY|Queens|Jamaica|119th Road|11434
+NY|Queens|Jamaica|119th Road|11436
+NY|Queens|Jamaica|120th Avenue|11434
+NY|Queens|Jamaica|120th Avenue|11436
+NY|Queens|Jamaica|121st Avenue|11434
+NY|Queens|Jamaica|122nd Avenue|11434
+NY|Queens|Jamaica|122nd Avenue|11436
+NY|Queens|Jamaica|123rd Avenue|11434
+NY|Queens|Jamaica|123rd Avenue|11436
+NY|Queens|Jamaica|124th Avenue|11434
+NY|Queens|Jamaica|125th Avenue|11434
+NY|Queens|Jamaica|116th Road|11436
+NY|Queens|Jamaica|126th Street|11435
+NY|Queens|Jamaica|127th Avenue|11434
+NY|Queens|Jamaica|128th Avenue|11434
+NY|Queens|Jamaica|129th Avenue|11434
+NY|Queens|Jamaica|129th Avenue|11436
+NY|Queens|Jamaica|130th Avenue|11434
+NY|Queens|Jamaica|130th Avenue|11436
+NY|Queens|Jamaica|130th Road|11434
+NY|Queens|Jamaica|130th Street|11430
+NY|Queens|Jamaica|131st Avenue|11434
+NY|Queens|Jamaica|131st Avenue|11436
+NY|Queens|Jamaica|131st Street|11430
+NY|Queens|Jamaica|132nd Avenue|11434
+NY|Queens|Jamaica|132nd Avenue|11436
+NY|Queens|Jamaica|132nd Street|11430
+NY|Queens|Jamaica|133rd Avenue|11434
+NY|Queens|Jamaica|133rd Avenue|11436
+NY|Queens|Jamaica|133rd Road|11434
+NY|Queens|Jamaica|134th Avenue|11434
+NY|Queens|Jamaica|134th Avenue|11436
+NY|Queens|Jamaica|134th Road|11434
+NY|Queens|Jamaica|134th Street|11430
+NY|Queens|Jamaica|134th Street|11435
+NY|Queens|Jamaica|135th Avenue|11434
+NY|Queens|Jamaica|135th Avenue|11436
+NY|Queens|Jamaica|135th Street|11435
+NY|Queens|Jamaica|136th Avenue|11434
+NY|Queens|Jamaica|137th Avenue|11434
+NY|Queens|Jamaica|138th Avenue|11434
+NY|Queens|Jamaica|138th Place|11435
+NY|Queens|Jamaica|138th Street|11435
+NY|Queens|Jamaica|139th Road|11434
+NY|Queens|Jamaica|139th Street|11435
+NY|Queens|Jamaica|139th Street|11436
+NY|Queens|Jamaica|140th Avenue|11434
+NY|Queens|Jamaica|140th Street|11435
+NY|Queens|Jamaica|140th Street|11436
+NY|Queens|Jamaica|141st Avenue|11434
+NY|Queens|Jamaica|141st Street|11435
+NY|Queens|Jamaica|141st Street|11436
+NY|Queens|Jamaica|142nd Avenue|11434
+NY|Queens|Jamaica|142nd Place|11436
+NY|Queens|Jamaica|142nd Street|11435
+NY|Queens|Jamaica|142nd Street|11436
+NY|Queens|Jamaica|143rd Avenue|11434
+NY|Queens|Jamaica|143rd Road|11434
+NY|Queens|Jamaica|143rd Street|11435
+NY|Queens|Jamaica|143rd Street|11436
+NY|Queens|Jamaica|144th Avenue|11434
+NY|Queens|Jamaica|144th Drive|11434
+NY|Queens|Jamaica|144th Place|11435
+NY|Queens|Jamaica|144th Road|11434
+NY|Queens|Jamaica|144th Street|11435
+NY|Queens|Jamaica|144th Street|11436
+NY|Queens|Jamaica|144th Terrace|11434
+NY|Queens|Jamaica|145th Avenue|11434
+NY|Queens|Jamaica|145th Drive|11434
+NY|Queens|Jamaica|145th Road|11434
+NY|Queens|Jamaica|145th Street|11435
+NY|Queens|Jamaica|145th Street|11436
+NY|Queens|Jamaica|146th Avenue|11434
+NY|Queens|Jamaica|146th Drive|11434
+NY|Queens|Jamaica|146th Road|11434
+NY|Queens|Jamaica|146th Street|11435
+NY|Queens|Jamaica|146th Street|11436
+NY|Queens|Jamaica|146th Terrace|11434
+NY|Queens|Jamaica|147th Avenue|11434
+NY|Queens|Jamaica|147th Place|11435
+NY|Queens|Jamaica|147th Street|11435
+NY|Queens|Jamaica|147th Street|11436
+NY|Queens|Jamaica|148th Avenue|11434
+NY|Queens|Jamaica|148th Road|11434
+NY|Queens|Jamaica|148th Street|11435
+NY|Queens|Jamaica|148th Street|11436
+NY|Queens|Jamaica|149th Avenue|11434
+NY|Queens|Jamaica|149th Road|11434
+NY|Queens|Jamaica|126th Avenue|11434
+NY|Queens|Jamaica|149th Street|11436
+NY|Queens|Jamaica|150th Avenue|11430
+NY|Queens|Jamaica|150th Avenue|11434
+NY|Queens|Jamaica|150th Road|11434
+NY|Queens|Jamaica|150th Street|11432
+NY|Queens|Jamaica|150th Street|11435
+NY|Queens|Jamaica|150th Street|11436
+NY|Queens|Jamaica|118th Road|11434
+NY|Queens|Jamaica|151st Street|11432
+NY|Queens|Jamaica|152nd Street|11432
+NY|Queens|Jamaica|152nd Street|11434
+NY|Queens|Jamaica|153rd Court|11434
+NY|Queens|Jamaica|153rd Lane|11434
+NY|Queens|Jamaica|153rd Place|11434
+NY|Queens|Jamaica|153rd Street|11432
+NY|Queens|Jamaica|153rd Street|11433
+NY|Queens|Jamaica|153rd Street|11434
+NY|Queens|Jamaica|154th Street|11433
+NY|Queens|Jamaica|154th Street|11434
+NY|Queens|Jamaica|155th Street|11432
+NY|Queens|Jamaica|155th Street|11433
+NY|Queens|Jamaica|155th Street|11434
+NY|Queens|Jamaica|156th Place|11433
+NY|Queens|Jamaica|156th Street|11433
+NY|Queens|Jamaica|156th Street|11434
+NY|Queens|Jamaica|157th Street|11433
+NY|Queens|Jamaica|157th Street|11434
+NY|Queens|Jamaica|158th Street|11433
+NY|Queens|Jamaica|158th Street|11434
+NY|Queens|Jamaica|159th Street|11432
+NY|Queens|Jamaica|159th Street|11433
+NY|Queens|Jamaica|159th Street|11434
+NY|Queens|Jamaica|160th Street|11432
+NY|Queens|Jamaica|160th Street|11433
+NY|Queens|Jamaica|160th Street|11434
+NY|Queens|Jamaica|161st Place|11434
+NY|Queens|Jamaica|161st Street|11432
+NY|Queens|Jamaica|161st Street|11434
+NY|Queens|Jamaica|162nd Street|11432
+NY|Queens|Jamaica|163rd Street|11432
+NY|Queens|Jamaica|164th Place|11432
+NY|Queens|Jamaica|164th Place|11433
+NY|Queens|Jamaica|164th Street|11432
+NY|Queens|Jamaica|164th Street|11433
+NY|Queens|Jamaica|164th Street|11434
+NY|Queens|Jamaica|165th Street|11432
+NY|Queens|Jamaica|165th Street|11433
+NY|Queens|Jamaica|165th Street|11434
+NY|Queens|Jamaica|166th Place|11434
+NY|Queens|Jamaica|166th Street|11432
+NY|Queens|Jamaica|166th Street|11433
+NY|Queens|Jamaica|166th Street|11434
+NY|Queens|Jamaica|167th Street|11432
+NY|Queens|Jamaica|167th Street|11433
+NY|Queens|Jamaica|167th Street|11434
+NY|Queens|Jamaica|168th Place|11432
+NY|Queens|Jamaica|168th Place|11433
+NY|Queens|Jamaica|168th Street|11432
+NY|Queens|Jamaica|168th Street|11433
+NY|Queens|Jamaica|116th Avenue|11436
+NY|Queens|Jamaica|169th Place|11433
+NY|Queens|Jamaica|169th Street|11432
+NY|Queens|Jamaica|169th Street|11433
+NY|Queens|Jamaica|169th Street|11434
+NY|Queens|Jamaica|170th Street|11432
+NY|Queens|Jamaica|170th Street|11433
+NY|Queens|Jamaica|170th Street|11434
+NY|Queens|Jamaica|171st Place|11433
+NY|Queens|Jamaica|171st Street|11432
+NY|Queens|Jamaica|171st Street|11433
+NY|Queens|Jamaica|151st Place|11434
+NY|Queens|Jamaica|172nd Street|11432
+NY|Queens|Jamaica|172nd Street|11433
+NY|Queens|Jamaica|172nd Street|11434
+NY|Queens|Jamaica|173rd Street|11432
+NY|Queens|Jamaica|173rd Street|11433
+NY|Queens|Jamaica|173rd Street|11434
+NY|Queens|Jamaica|174th Place|11434
+NY|Queens|Jamaica|174th Street|11433
+NY|Queens|Jamaica|174th Street|11434
+NY|Queens|Jamaica|175th Place|11433
+NY|Queens|Jamaica|175th Place|11434
+NY|Queens|Jamaica|175th Street|11432
+NY|Queens|Jamaica|175th Street|11433
+NY|Queens|Jamaica|175th Street|11434
+NY|Queens|Jamaica|176th Place|11434
+NY|Queens|Jamaica|176th Street|11432
+NY|Queens|Jamaica|176th Street|11433
+NY|Queens|Jamaica|176th Street|11434
+NY|Queens|Jamaica|177th Place|11434
+NY|Queens|Jamaica|177th Street|11433
+NY|Queens|Jamaica|177th Street|11434
+NY|Queens|Jamaica|178th Place|11433
+NY|Queens|Jamaica|178th Place|11434
+NY|Queens|Jamaica|178th Street|11432
+NY|Queens|Jamaica|178th Street|11433
+NY|Queens|Jamaica|179th Place|11432
+NY|Queens|Jamaica|178th Street|11434
+NY|Queens|Jamaica|179th Place|11433
+NY|Queens|Jamaica|179th Place|11434
+NY|Queens|Jamaica|179th Street|11432
+NY|Queens|Jamaica|179th Street|11433
+NY|Queens|Jamaica|179th Street|11434
+NY|Queens|Jamaica|180th Street|11432
+NY|Queens|Jamaica|180th Street|11433
+NY|Queens|Jamaica|180th Street|11434
+NY|Queens|Jamaica|80th Drive|11432
+NY|Queens|Jamaica|80th Road|11432
+NY|Queens|Jamaica|81st Avenue|11432
+NY|Queens|Jamaica|81st Avenue|11435
+NY|Queens|Jamaica|82nd Avenue|11432
+NY|Queens|Jamaica|82nd Avenue|11435
+NY|Queens|Jamaica|82nd Drive|11432
+NY|Queens|Jamaica|82nd Drive|11435
+NY|Queens|Jamaica|82nd Road|11432
+NY|Queens|Jamaica|83rd Avenue|11432
+NY|Queens|Jamaica|83rd Avenue|11435
+NY|Queens|Jamaica|84th Avenue|11432
+NY|Queens|Jamaica|84th Avenue|11435
+NY|Queens|Jamaica|84th Drive|11432
+NY|Queens|Jamaica|84th Drive|11435
+NY|Queens|Jamaica|84th Road|11432
+NY|Queens|Jamaica|84th Road|11435
+NY|Queens|Jamaica|85th Avenue|11432
+NY|Queens|Jamaica|85th Avenue|11435
+NY|Queens|Jamaica|85th Drive|11432
+NY|Queens|Jamaica|85th Drive|11435
+NY|Queens|Jamaica|85th Road|11435
+NY|Queens|Jamaica|86th Avenue|11432
+NY|Queens|Jamaica|86th Avenue|11435
+NY|Queens|Jamaica|86th Crst|11432
+NY|Queens|Jamaica|86th Road|11432
+NY|Queens|Jamaica|86th Road|11435
+NY|Queens|Jamaica|87th Avenue|11432
+NY|Queens|Jamaica|87th Avenue|11435
+NY|Queens|Jamaica|87th Drive|11435
+NY|Queens|Jamaica|87th Road|11432
+NY|Queens|Jamaica|87th Road|11435
+NY|Queens|Jamaica|88th Avenue|11432
+NY|Queens|Jamaica|88th Avenue|11435
+NY|Queens|Jamaica|88th Road|11435
+NY|Queens|Jamaica|89th Avenue|11432
+NY|Queens|Jamaica|89th Avenue|11435
+NY|Queens|Jamaica|90th Avenue|11432
+NY|Queens|Jamaica|90th Avenue|11435
+NY|Queens|Jamaica|90th Road|11432
+NY|Queens|Jamaica|91st Avenue|11432
+NY|Queens|Jamaica|91st Avenue|11435
+NY|Queens|Jamaica|93rd Avenue|11433
+NY|Queens|Jamaica|94th Avenue|11433
+NY|Queens|Jamaica|94th Avenue|11435
+NY|Queens|Jamaica|95th Avenue|11435
+NY|Queens|Jamaica|97th Avenue|11435
+NY|Queens|Jamaica|Aberdeen Road|11432
+NY|Queens|Jamaica|Adelaide Road|11433
+NY|Queens|Jamaica|Allendale Street|11435
+NY|Queens|Jamaica|Amelia Road|11434
+NY|Queens|Jamaica|Anderson Road|11434
+NY|Queens|Jamaica|Archer Avenue|11433
+NY|Queens|Jamaica|Archer Avenue|11435
+NY|Queens|Jamaica|Arlington Terrace|11433
+NY|Queens|Jamaica|Arlington Terrace|11435
+NY|Queens|Jamaica|Aspen Place|11432
+NY|Queens|Jamaica|Augusta Court|11434
+NY|Queens|Jamaica|Ava Place|11432
+NY|Queens|Jamaica|Avon Road|11432
+NY|Queens|Jamaica|Avon Street|11432
+NY|Queens|Jamaica|Baisley Blvd S|11434
+NY|Queens|Jamaica|Baisley Boulevard|11434
+NY|Queens|Jamaica|Barrington Street|11432
+NY|Queens|Jamaica|Barron Street|11434
+NY|Queens|Jamaica|Bascom Avenue|11436
+NY|Queens|Jamaica|Beaver Road|11433
+NY|Queens|Jamaica|Bedell Street|11433
+NY|Queens|Jamaica|Bedell Street|11434
+NY|Queens|Jamaica|Bennett Court|11434
+NY|Queens|Jamaica|Bennett Street|11434
+NY|Queens|Jamaica|Brinkerhoff Avenue|11433
+NY|Queens|Jamaica|Brinkerhoff Avenue|11435
+NY|Queens|Jamaica|Brisbin Street|11435
+NY|Queens|Jamaica|Broadway|11434
+NY|Queens|Jamaica|Brocher Road|11434
+NY|Queens|Jamaica|Burden Cres|11435
+NY|Queens|Jamaica|Burdette Place|11432
+NY|Queens|Jamaica|Cambridge Road|11432
+NY|Queens|Jamaica|Cedarcroft Road|11432
+NY|Queens|Jamaica|Central Terminal Area|11430
+NY|Queens|Jamaica|Chapin Court|11432
+NY|Queens|Jamaica|Chapin Pkwy|11432
+NY|Queens|Jamaica|Charlecote Ridge|11432
+NY|Queens|Jamaica|Charter Road|11435
+NY|Queens|Jamaica|Chelsea Road|11432
+NY|Queens|Jamaica|Chelsea Street|11432
+NY|Queens|Jamaica|Cheney Street|11434
+NY|Queens|Jamaica|Chevy Chase Street|11432
+NY|Queens|Jamaica|Claude Avenue|11433
+NY|Queens|Jamaica|Clayton Road|11433
+NY|Queens|Jamaica|Clinton Terrace|11432
+NY|Queens|Jamaica|Commissary Road|11430
+NY|Queens|Jamaica|Conduit Avenue, North|11434
+NY|Queens|Jamaica|Conduit Avenue, North|11436
+NY|Queens|Jamaica|Conduit Avenue, South|11430
+NY|Queens|Jamaica|Conduit Avenue, South|11434
+NY|Queens|Jamaica|Coolidge Avenue|11432
+NY|Queens|Jamaica|Coolidge Avenue|11435
+NY|Queens|Jamaica|Crandall Avenue|11434
+NY|Queens|Jamaica|Cranston Street|11434
+NY|Queens|Jamaica|Cresskill Place|11435
+NY|Queens|Jamaica|Croydon Road|11432
+NY|Queens|Jamaica|Dale Road|11433
+NY|Queens|Jamaica|Dalny Road|11432
+NY|Queens|Jamaica|Daniels Street|11435
+NY|Queens|Jamaica|Dennis Street|11434
+NY|Queens|Jamaica|Devonshire Road|11432
+NY|Queens|Jamaica|Dillon Street|11433
+NY|Queens|Jamaica|Doncaster Place|11432
+NY|Queens|Jamaica|Douglas Avenue|11433
+NY|Queens|Jamaica|Dumphries Place|11432
+NY|Queens|Jamaica|Edgerton Boulevard|11432
+NY|Queens|Jamaica|Edgerton Road|11432
+NY|Queens|Jamaica|Eton Street|11432
+NY|Queens|Jamaica|Evans Road|11433
+NY|Queens|Jamaica|Eveleth Road|11434
+NY|Queens|Jamaica|Farmers Boulevard|11434
+NY|Queens|Jamaica|Fern Place|11433
+NY|Queens|Jamaica|Ferndale Avenue|11433
+NY|Queens|Jamaica|Ferndale Avenue|11435
+NY|Queens|Jamaica|Foch Boulevard|11434
+NY|Queens|Jamaica|Foch Boulevard|11436
+NY|Queens|Jamaica|Garrett Street|11434
+NY|Queens|Jamaica|Glassboro Avenue|11435
+NY|Queens|Jamaica|Goethals Avenue|11432
+NY|Queens|Jamaica|Gothic Drive|11432
+NY|Queens|Jamaica|Grace Court|11432
+NY|Queens|Jamaica|Grand Central Pkwy|11432
+NY|Queens|Jamaica|Grand Central Pkwy|11435
+NY|Queens|Jamaica|Guinzburg Road|11433
+NY|Queens|Jamaica|Guy R Brewer Boulevard|11433
+NY|Queens|Jamaica|Guy R Brewer Boulevard|11434
+NY|Queens|Jamaica|Haddon Street|11432
+NY|Queens|Jamaica|Hangar Road, North|11430
+NY|Queens|Jamaica|Hangar Road, West|11430
+NY|Queens|Jamaica|Harry Douglass Way|11434
+NY|Queens|Jamaica|Hendrickson Place|11433
+NY|Queens|Jamaica|Henley Road|11432
+NY|Queens|Jamaica|Highland Avenue|11432
+NY|Queens|Jamaica|Hillside Avenue|11432
+NY|Queens|Jamaica|Hillside Avenue|11435
+NY|Queens|Jamaica|Homelawn Street|11432
+NY|Queens|Jamaica|168th Street|11434
+NY|Queens|Jamaica|Hoover Avenue|11435
+NY|Queens|Jamaica|Hovendon Road|11432
+NY|Queens|Jamaica|Interstate 678|11435
+NY|Queens|Jamaica|Inwood Street|11435
+NY|Queens|Jamaica|Inwood Street|11436
+NY|Queens|Jamaica|Irwin Place|11434
+NY|Queens|Jamaica|Jamaica Avenue|11432
+NY|Queens|Jamaica|149th Street|11435
+NY|Queens|Jamaica|Jamaica Avenue|11435
+NY|Queens|Jamaica|James Court|11434
+NY|Queens|Jamaica|Jamaica Avenue|11433
+NY|Queens|Jamaica|Kent Street|11432
+NY|Queens|Jamaica|Kildare Road|11432
+NY|Queens|Jamaica|Kingston Place|11432
+NY|Queens|Jamaica|Kruger Road|11432
+NY|Queens|Jamaica|Lakeview Blvd E|11434
+NY|Queens|Jamaica|Lakeview Lane|11434
+NY|Queens|Jamaica|Lakewood Avenue|11435
+NY|Queens|Jamaica|Lander Street|11435
+NY|Queens|Jamaica|Latham Lane|11434
+NY|Queens|Jamaica|Lefferts Boulevard|11430
+NY|Queens|Jamaica|Leslie Road|11434
+NY|Queens|Jamaica|Liberty Avenue|11433
+NY|Queens|Jamaica|Liberty Avenue|11435
+NY|Queens|Jamaica|Linden Avenue|11436
+NY|Queens|Jamaica|Linden Boulevard|11434
+NY|Queens|Jamaica|Hoover Avenue|11432
+NY|Queens|Jamaica|Liverpool Street|11435
+NY|Queens|Jamaica|Lloyd Road|11435
+NY|Queens|Jamaica|Long Street|11434
+NY|Queens|Jamaica|Lowe Court|11435
+NY|Queens|Jamaica|Lux Road|11435
+NY|Queens|Jamaica|Main Street|11435
+NY|Queens|Jamaica|171st Street|11434
+NY|Queens|Jamaica|Marne Place|11433
+NY|Queens|Jamaica|Mars Place|11434
+NY|Queens|Jamaica|Manton Street|11435
+NY|Queens|Jamaica|Mathewson Court|11434
+NY|Queens|Jamaica|Mathias Avenue|11433
+NY|Queens|Jamaica|Mayfield Road|11432
+NY|Queens|Jamaica|Kendrick Place|11432
+NY|Queens|Jamaica|Meadow Road|11434
+NY|Queens|Jamaica|Merrick Boulevard|11432
+NY|Queens|Jamaica|Merrick Boulevard|11433
+NY|Queens|Jamaica|Merrick Boulevard|11434
+NY|Queens|Jamaica|Merrill Street|11434
+NY|Queens|Jamaica|Meadow Drive|11434
+NY|Queens|Jamaica|Meyer Avenue|11434
+NY|Queens|Jamaica|Midland Pkwy|11432
+NY|Queens|Jamaica|Murdock Avenue|11434
+NY|Queens|Jamaica|N Conduit Avenue|11434
+NY|Queens|Jamaica|Marsden Street|11434
+NY|Queens|Jamaica|N Hangar Road|11430
+NY|Queens|Jamaica|Nadal Place|11433
+NY|Queens|Jamaica|Nb Van Wyck Exwy Srvc Road|11435
+NY|Queens|Jamaica|New York Boulevard|11433
+NY|Queens|Jamaica|New York Boulevard|11434
+NY|Queens|Jamaica|Normal Road|11432
+NY|Queens|Jamaica|Odonnell Road|11433
+NY|Queens|Jamaica|Paige Court|11433
+NY|Queens|Jamaica|Park Cres|11432
+NY|Queens|Jamaica|Parsons Boulevard|11432
+NY|Queens|Jamaica|Pershing Cres|11435
+NY|Queens|Jamaica|Perth Road|11432
+NY|Queens|Jamaica|Phroane Avenue|11433
+NY|Queens|Jamaica|Pinegrove Street|11435
+NY|Queens|Jamaica|Polhemus Avenue|11433
+NY|Queens|Jamaica|Porter Road|11434
+NY|Queens|Jamaica|Princeton Street|11435
+NY|Queens|Jamaica|Queens Boulevard|11435
+NY|Queens|Jamaica|Radnor Road|11432
+NY|Queens|Jamaica|Radnor Street|11432
+NY|Queens|Jamaica|Remington Street|11435
+NY|Queens|Jamaica|Rev James R Moore Place|11433
+NY|Queens|Jamaica|Rex Road|11433
+NY|Queens|Jamaica|Ring Place|11434
+NY|Queens|Jamaica|Rockaway Boulevard|11434
+NY|Queens|Jamaica|Rockaway Boulevard|11436
+NY|Queens|Jamaica|Roe Road|11434
+NY|Queens|Jamaica|Ruscoe Street|11433
+NY|Queens|Jamaica|S Conduit Avenue|11430
+NY|Queens|Jamaica|S Conduit Avenue|11434
+NY|Queens|Jamaica|Sanders Place|11435
+NY|Queens|Jamaica|Sayres Avenue|11433
+NY|Queens|Jamaica|Selover Road|11434
+NY|Queens|Jamaica|Shore Avenue|11433
+NY|Queens|Jamaica|Shore Avenue|11435
+NY|Queens|Jamaica|Smedley Street|11435
+NY|Queens|Jamaica|Smith Street|11434
+NY|Queens|Jamaica|Somerset Road|11432
+NY|Queens|Jamaica|Somerset Street|11432
+NY|Queens|Jamaica|South Road|11433
+NY|Queens|Jamaica|South Road|11435
+NY|Queens|Jamaica|Spa Place|11435
+NY|Queens|Jamaica|State Highway 25|11432
+NY|Queens|Jamaica|State Highway 25|11435
+NY|Queens|Jamaica|State Highway 27|11434
+NY|Queens|Jamaica|State Highway 27|11436
+NY|Queens|Jamaica|State Route 27|11430
+NY|Queens|Jamaica|State Route 27|11434
+NY|Queens|Jamaica|Styler Road|11433
+NY|Queens|Jamaica|Sunbury Road|11434
+NY|Queens|Jamaica|Surrey Place|11432
+NY|Queens|Jamaica|Sutphin Boulevard|11434
+NY|Queens|Jamaica|Sutphin Boulevard|11435
+NY|Queens|Jamaica|Sutphin Boulevard|11436
+NY|Queens|Jamaica|Sutter Avenue|11436
+NY|Queens|Jamaica|Thurston Street|11434
+NY|Queens|Jamaica|Tiff Court|11433
+NY|Queens|Jamaica|Linden Boulevard|11436
+NY|Queens|Jamaica|Troon Road|11432
+NY|Queens|Jamaica|Tryon Place|11432
+NY|Queens|Jamaica|Tuckerton Street|11433
+NY|Queens|Jamaica|Tudor Road|11432
+NY|Queens|Jamaica|Union Hall Street|11433
+NY|Queens|Jamaica|Ursina Road|11434
+NY|Queens|Jamaica|Utopia Pkwy|11432
+NY|Queens|Jamaica|Van Wyck Expy|11435
+NY|Queens|Jamaica|Van Wyck Expy|11436
+NY|Queens|Jamaica|Van Wyck Expy E|11435
+NY|Queens|Jamaica|Van Wyck Expy E|11436
+NY|Queens|Jamaica|Van Wyck Expy W|11435
+NY|Queens|Jamaica|Vaswani Avenue|11434
+NY|Queens|Jamaica|Victoria Drive|11434
+NY|Queens|Jamaica|Victoria Road|11434
+NY|Queens|Jamaica|Village Road|11432
+NY|Queens|Jamaica|Village Road|11435
+NY|Queens|Jamaica|W Hangar Road|11430
+NY|Queens|Jamaica|Waltham Street|11435
+NY|Queens|Jamaica|Wareham Place|11432
+NY|Queens|Jamaica|Warwick Cres|11432
+NY|Queens|Jamaica|Watson Place|11433
+NY|Queens|Jamaica|Wexford Terrace|11432
+NY|Queens|Jamaica|Wicklow Place|11432
+NY|Queens|Jamaica|Wren Place|11433
+NY|Queens|Jamaica|Yates Road|11433
+NY|Queens|Jamaica|Zoller Road|11434
+NY|Queens|Jamaica|Troutville Road|11434
+NY|Queens|Jamaica|Meyer Avenue|11433
+NY|Queens|Jamaica|N Conduit Avenue|11436

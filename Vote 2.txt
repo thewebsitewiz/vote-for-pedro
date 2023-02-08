@@ -1,0 +1,142 @@
+============ #1 POST ============
+
+https://embed-571111.secondstreetapp.com/api/form_page_submissions
+
+{ "form_page_submissions" : [
+  {
+    "embedded_errors": [],
+    "fields": [
+      {
+        "embedded_errors": [],
+        "field_id": 39,
+        "field_value": "AlexandraBeasley@yahoo.com"
+      }
+    ],
+    "form_id": 815252,
+    "form_page_id": 1060081,
+    "form_submission_id": 188785312,
+    "id": "188785312-1",
+    "matchup_classification_type_id": 1,
+    "matchup_id": 2052459,
+    "next_form_page_id": 1060082,
+    "sessions": {
+      "access_token": "332dyo0y3lf",
+      "embedded_errors": [],
+      "id": 117576316,
+      "organization_id": 1559,
+      "organization_user_guid": "8c0ece74-00ee-4794-9a98-d9873b2f66ca",
+      "organization_user_id": 107166063,
+      "username": "AlexandraBeasley@yahoo.com"
+    }
+  }
+], "meta" : {
+  "embedded_errors": []
+} }
+
+
+
+
+
+============ #2 POST ============
+https://embed-571111.secondstreetapp.com/api/form_page_submissions
+
+{ "form_page_submissions" : [
+  {
+    "embedded_errors": [],
+    "fields": [
+      {
+        "embedded_errors": [],
+        "field_id": 214739,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 214740,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 219444,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 219351,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 219350,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 219352,
+        "field_value": "False"
+      }
+    ],
+    "form_id": 815252,
+    "form_page_id": 1060082,
+    "form_submission_id": 188785312,
+    "id": "188785312-2",
+    "matchup_classification_type_id": 1,
+    "matchup_id": 2052459,
+    "sessions": {
+      "access_token": "332dyo0y3lf",
+      "embedded_errors": [],
+      "id": 117576316,
+      "organization_id": 1559,
+      "organization_promotion_id": 571111,
+      "organization_promotion_user_guid": "90c58254-f7c9-4793-b545-1917e1909bbe",
+      "organization_promotion_user_id": 76781735,
+      "organization_user_guid": "8c0ece74-00ee-4794-9a98-d9873b2f66ca",
+      "organization_user_id": 107166063,
+      "organization_users": {
+        "email_address": "AlexandraBeasley@yahoo.com",
+        "embedded_errors": [],
+        "first_name": "Alex",
+        "id": 107166063,
+        "organization_id": 1559,
+        "status_type_id": 1,
+        "user_id": 71901099,
+        "user_type_id": 1
+      },
+      "username": "AlexandraBeasley@yahoo.com"
+    }
+  }
+], "meta" : {
+  "embedded_errors": []
+} }
+
+
+
+============ #3 POST ============
+
+https://embed-571111.secondstreetapp.com/api/votes
+
+
+{ "votes" : [
+  {
+    "date_created": "2019-04-08T21:54:26.1447315Z",
+    "embedded_errors": [],
+    "id": 245169596,
+    "matchup_entry_id": 158432964,
+    "matchup_id": 2052459,
+    "organization_promotion_id": 571111,
+    "organization_user_id": 107166063,
+    "status_type_id": 1,
+    "vote_weight": 1.0
+  }
+], "meta" : {
+  "embedded_errors": [],
+  "vote_eligibility_meta_data": [
+    {
+      "embedded_errors": [],
+      "matchup_id": 2052459,
+      "vote_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "vote_interval_start_date": "2019-04-07T04:00:00Z"
+    }
+  ]
+} }
+
+

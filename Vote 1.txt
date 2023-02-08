@@ -1,0 +1,150 @@
+========= #1 POST ================
+
+https://embed-571111.secondstreetapp.com/api/form_page_submissions
+
+
+{ "form_page_submissions" : [
+  {
+    "embedded_errors": [],
+    "fields": [
+      {
+        "embedded_errors": [],
+        "field_id": 39,
+        "field_value": "ClaudeWarner@mail.com"
+      }
+    ],
+    "form_id": 815252,
+    "form_page_id": 1060081,
+    "form_submission_id": 188781978,
+    "id": "188781978-1",
+    "matchup_classification_type_id": 1,
+    "matchup_id": 2052459,
+    "next_form_page_id": 1060082,
+    "sessions": {
+      "access_token": "01zxqs4iic1",
+      "embedded_errors": [],
+      "id": 117574365,
+      "organization_id": 1559,
+      "organization_user_guid": "599f2ba9-613c-473c-be78-0ff7d7da9af5",
+      "organization_user_id": 107164231,
+      "username": "ClaudeWarner@mail.com"
+    }
+  }
+], "meta" : {
+  "embedded_errors": []
+} }
+
+
+
+
+
+========= #2 POST ================
+
+https://embed-571111.secondstreetapp.com/api/form_page_submissions
+
+{ "form_page_submissions" : [
+  {
+    "embedded_errors": [],
+    "fields": [
+      {
+        "embedded_errors": [],
+        "field_id": 214739,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 214740,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 219444,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 219351,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 219350,
+        "field_value": "False"
+      },
+      {
+        "embedded_errors": [],
+        "field_id": 219352,
+        "field_value": "False"
+      }
+    ],
+    "form_id": 815252,
+    "form_page_id": 1060082,
+    "form_submission_id": 188781978,
+    "id": "188781978-2",
+    "matchup_classification_type_id": 1,
+    "matchup_id": 2052459,
+    "sessions": {
+      "access_token": "01zxqs4iic1",
+      "embedded_errors": [],
+      "id": 117574365,
+      "organization_id": 1559,
+      "organization_promotion_id": 571111,
+      "organization_promotion_user_guid": "632b877f-36db-4793-b8e5-c1ae532dd6ec",
+      "organization_promotion_user_id": 76780255,
+      "organization_user_guid": "599f2ba9-613c-473c-be78-0ff7d7da9af5",
+      "organization_user_id": 107164231,
+      "organization_users": {
+        "email_address": "ClaudeWarner@mail.com",
+        "embedded_errors": [],
+        "first_name": "Claude",
+        "id": 107164231,
+        "organization_id": 1559,
+        "status_type_id": 1,
+        "user_id": 71900556,
+        "user_type_id": 1
+      },
+      "username": "ClaudeWarner@mail.com"
+    }
+  }
+], "meta" : {
+  "embedded_errors": []
+} }
+
+
+
+
+
+
+
+
+
+========= #3 POST ================
+
+
+
+https://embed-571111.secondstreetapp.com/api/votes
+
+{ "votes" : [
+  {
+    "date_created": "2019-04-08T21:39:01.7836955Z",
+    "embedded_errors": [],
+    "id": 245162468,
+    "matchup_entry_id": 158432964,
+    "matchup_id": 2052459,
+    "organization_promotion_id": 571111,
+    "organization_user_id": 107164231,
+    "status_type_id": 1,
+    "vote_weight": 1.0
+  }
+], "meta" : {
+  "embedded_errors": [],
+  "vote_eligibility_meta_data": [
+    {
+      "embedded_errors": [],
+      "matchup_id": 2052459,
+      "vote_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "vote_interval_start_date": "2019-04-07T04:00:00Z"
+    }
+  ]
+} }
+

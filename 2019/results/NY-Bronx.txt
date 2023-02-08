@@ -1,0 +1,2176 @@
+NY|Bronx|Bronx|11th Avenue|10465
+NY|Bronx|Bronx|12th Avenue|10465
+NY|Bronx|Bronx|132nd Street, East|10454
+NY|Bronx|Bronx|11th Avenue, South|10466
+NY|Bronx|Bronx|133rd Street, East|10454
+NY|Bronx|Bronx|134th Street, East|10451
+NY|Bronx|Bronx|134th Street, East|10454
+NY|Bronx|Bronx|135th Street, East|10451
+NY|Bronx|Bronx|135th Street, East|10454
+NY|Bronx|Bronx|136th Street, East|10451
+NY|Bronx|Bronx|136th Street, East|10454
+NY|Bronx|Bronx|137th Street, East|10451
+NY|Bronx|Bronx|137th Street, East|10454
+NY|Bronx|Bronx|138th Street, East|10451
+NY|Bronx|Bronx|138th Street, East|10454
+NY|Bronx|Bronx|139th Street, East|10451
+NY|Bronx|Bronx|139th Street, East|10454
+NY|Bronx|Bronx|13th Avenue|10465
+NY|Bronx|Bronx|140th Street, East|10451
+NY|Bronx|Bronx|140th Street, East|10454
+NY|Bronx|Bronx|141st Street, East|10451
+NY|Bronx|Bronx|141st Street, East|10454
+NY|Bronx|Bronx|142nd Street, East|10451
+NY|Bronx|Bronx|142nd Street, East|10454
+NY|Bronx|Bronx|143rd Street, East|10451
+NY|Bronx|Bronx|143rd Street, East|10454
+NY|Bronx|Bronx|144th Street, East|10451
+NY|Bronx|Bronx|144th Street, East|10454
+NY|Bronx|Bronx|145th Street, East|10451
+NY|Bronx|Bronx|145th Street, East|10454
+NY|Bronx|Bronx|145th Street, East|10455
+NY|Bronx|Bronx|146th Street, East|10451
+NY|Bronx|Bronx|146th Street, East|10455
+NY|Bronx|Bronx|147th Street, East|10455
+NY|Bronx|Bronx|148th Street, East|10451
+NY|Bronx|Bronx|148th Street, East|10455
+NY|Bronx|Bronx|149th Street, East|10451
+NY|Bronx|Bronx|149th Street, East|10455
+NY|Bronx|Bronx|150th Street, East|10451
+NY|Bronx|Bronx|150th Street, East|10455
+NY|Bronx|Bronx|151st Street, East|10451
+NY|Bronx|Bronx|151st Street, East|10455
+NY|Bronx|Bronx|152nd Street, East|10451
+NY|Bronx|Bronx|152nd Street, East|10455
+NY|Bronx|Bronx|153rd Street, East|10451
+NY|Bronx|Bronx|153rd Street, East|10455
+NY|Bronx|Bronx|154th Street, East|10455
+NY|Bronx|Bronx|155th Street, East|10455
+NY|Bronx|Bronx|156th Street, East|10451
+NY|Bronx|Bronx|156th Street, East|10455
+NY|Bronx|Bronx|156th Street, East|10474
+NY|Bronx|Bronx|157th Street, East|10451
+NY|Bronx|Bronx|158th Street, East|10451
+NY|Bronx|Bronx|158th Street, East|10456
+NY|Bronx|Bronx|159th Street, East|10451
+NY|Bronx|Bronx|159th Street, East|10456
+NY|Bronx|Bronx|160th Street, East|10451
+NY|Bronx|Bronx|160th Street, East|10456
+NY|Bronx|Bronx|160th Street, East|10459
+NY|Bronx|Bronx|161st Street, East|10451
+NY|Bronx|Bronx|161st Street, East|10456
+NY|Bronx|Bronx|161st Street, East|10459
+NY|Bronx|Bronx|161st Street, West|10452
+NY|Bronx|Bronx|162nd Street, East|10452
+NY|Bronx|Bronx|162nd Street, East|10451
+NY|Bronx|Bronx|162nd Street, East|10459
+NY|Bronx|Bronx|162nd Street, West|10452
+NY|Bronx|Bronx|163rd Street, East|10451
+NY|Bronx|Bronx|163rd Street, East|10456
+NY|Bronx|Bronx|163rd Street, East|10459
+NY|Bronx|Bronx|163rd Street, West|10452
+NY|Bronx|Bronx|164th Street, East|10452
+NY|Bronx|Bronx|164th Street, East|10456
+NY|Bronx|Bronx|164th Street, East|10459
+NY|Bronx|Bronx|164th Street, West|10452
+NY|Bronx|Bronx|165th Street, East|10452
+NY|Bronx|Bronx|165th Street, East|10456
+NY|Bronx|Bronx|165th Street, East|10459
+NY|Bronx|Bronx|165th Street, West|10452
+NY|Bronx|Bronx|166th Street, East|10456
+NY|Bronx|Bronx|166th Street, East|10459
+NY|Bronx|Bronx|166th Street, West|10452
+NY|Bronx|Bronx|167th Street, East|10452
+NY|Bronx|Bronx|167th Street, East|10456
+NY|Bronx|Bronx|167th Street, East|10459
+NY|Bronx|Bronx|167th Street, West|10452
+NY|Bronx|Bronx|168th Street, East|10452
+NY|Bronx|Bronx|168th Street, East|10456
+NY|Bronx|Bronx|168th Street, East|10459
+NY|Bronx|Bronx|168th Street, West|10452
+NY|Bronx|Bronx|169th Street, East|10452
+NY|Bronx|Bronx|169th Street, East|10456
+NY|Bronx|Bronx|169th Street, East|10459
+NY|Bronx|Bronx|169th Street, West|10452
+NY|Bronx|Bronx|170th Street, East|10452
+NY|Bronx|Bronx|170th Street, East|10456
+NY|Bronx|Bronx|170th Street, East|10459
+NY|Bronx|Bronx|161st Street, West|10451
+NY|Bronx|Bronx|171st Street, East|10452
+NY|Bronx|Bronx|171st Street, East|10457
+NY|Bronx|Bronx|171st Street, West|10452
+NY|Bronx|Bronx|172nd Street, East|10452
+NY|Bronx|Bronx|172nd Street, East|10457
+NY|Bronx|Bronx|172nd Street, East|10460
+NY|Bronx|Bronx|172nd Street, East|10472
+NY|Bronx|Bronx|172nd Street, West|10452
+NY|Bronx|Bronx|173rd Street, East|10457
+NY|Bronx|Bronx|173rd Street, East|10460
+NY|Bronx|Bronx|173rd Street, East|10472
+NY|Bronx|Bronx|174th Street, East|10452
+NY|Bronx|Bronx|174th Street, East|10453
+NY|Bronx|Bronx|174th Street, East|10457
+NY|Bronx|Bronx|174th Street, East|10460
+NY|Bronx|Bronx|170th Street, West|10452
+NY|Bronx|Bronx|174th Street, West|10453
+NY|Bronx|Bronx|175th Street, East|10453
+NY|Bronx|Bronx|175th Street, East|10457
+NY|Bronx|Bronx|175th Street, East|10460
+NY|Bronx|Bronx|174th Street, East|10472
+NY|Bronx|Bronx|176th Street, East|10457
+NY|Bronx|Bronx|176th Street, East|10460
+NY|Bronx|Bronx|176th Street, West|10452
+NY|Bronx|Bronx|176th Street, West|10453
+NY|Bronx|Bronx|177th Street Exd, East|10465
+NY|Bronx|Bronx|177th Street, East|10453
+NY|Bronx|Bronx|177th Street, East|10460
+NY|Bronx|Bronx|176th Street, East|10453
+NY|Bronx|Bronx|177th Street, West|10453
+NY|Bronx|Bronx|178th Street, East|10453
+NY|Bronx|Bronx|178th Street, East|10457
+NY|Bronx|Bronx|178th Street, East|10460
+NY|Bronx|Bronx|179th Street, East|10453
+NY|Bronx|Bronx|179th Street, East|10457
+NY|Bronx|Bronx|179th Street, East|10460
+NY|Bronx|Bronx|175th Street, West|10453
+NY|Bronx|Bronx|180th Street, East|10457
+NY|Bronx|Bronx|180th Street, East|10460
+NY|Bronx|Bronx|180th Street, West|10453
+NY|Bronx|Bronx|181st Street, East|10453
+NY|Bronx|Bronx|181st Street, East|10457
+NY|Bronx|Bronx|181st Street, East|10460
+NY|Bronx|Bronx|181st Street, West|10453
+NY|Bronx|Bronx|182nd Street, East|10453
+NY|Bronx|Bronx|182nd Street, East|10457
+NY|Bronx|Bronx|182nd Street, East|10460
+NY|Bronx|Bronx|182nd Street, West|10453
+NY|Bronx|Bronx|183rd Street, East|10453
+NY|Bronx|Bronx|183rd Street, East|10458
+NY|Bronx|Bronx|183rd Street, East|10460
+NY|Bronx|Bronx|183rd Street, West|10453
+NY|Bronx|Bronx|184th Street, East|10458
+NY|Bronx|Bronx|184th Street, East|10468
+NY|Bronx|Bronx|184th Street, West|10468
+NY|Bronx|Bronx|185th Street, East|10458
+NY|Bronx|Bronx|185th Street, East|10460
+NY|Bronx|Bronx|186th Street, East|10458
+NY|Bronx|Bronx|187th Street, East|10458
+NY|Bronx|Bronx|188th Street, East|10458
+NY|Bronx|Bronx|177th Street, East|10465
+NY|Bronx|Bronx|188th Street, West|10468
+NY|Bronx|Bronx|189th Street, East|10458
+NY|Bronx|Bronx|190th Street, East|10468
+NY|Bronx|Bronx|190th Street, West|10468
+NY|Bronx|Bronx|191st Street, East|10458
+NY|Bronx|Bronx|191st Street, East|10468
+NY|Bronx|Bronx|192nd Street, East|10458
+NY|Bronx|Bronx|192nd Street, East|10468
+NY|Bronx|Bronx|192nd Street, West|10468
+NY|Bronx|Bronx|193rd Street, East|10458
+NY|Bronx|Bronx|193rd Street, East|10468
+NY|Bronx|Bronx|179th Street, West|10453
+NY|Bronx|Bronx|194th Street, East|10458
+NY|Bronx|Bronx|194th Street, East|10461
+NY|Bronx|Bronx|195th Street, East|10458
+NY|Bronx|Bronx|195th Street, East|10461
+NY|Bronx|Bronx|195th Street, West|10468
+NY|Bronx|Bronx|196th Street, East|10458
+NY|Bronx|Bronx|196th Street, East|10461
+NY|Bronx|Bronx|193rd Street, West|10463
+NY|Bronx|Bronx|197th Street, East|10458
+NY|Bronx|Bronx|197th Street, East|10461
+NY|Bronx|Bronx|197th Street, West|10468
+NY|Bronx|Bronx|198th Street, East|10458
+NY|Bronx|Bronx|198th Street, East|10468
+NY|Bronx|Bronx|199th Street, East|10458
+NY|Bronx|Bronx|199th Street, East|10468
+NY|Bronx|Bronx|1st Avenue|10465
+NY|Bronx|Bronx|201st Street, East|10458
+NY|Bronx|Bronx|202nd Street, East|10458
+NY|Bronx|Bronx|202nd Street, East|10467
+NY|Bronx|Bronx|203rd Street, East|10458
+NY|Bronx|Bronx|203rd Street, East|10467
+NY|Bronx|Bronx|204th Street, East|10458
+NY|Bronx|Bronx|204th Street, East|10467
+NY|Bronx|Bronx|204th Street, East|10468
+NY|Bronx|Bronx|205th Street, East|10458
+NY|Bronx|Bronx|205th Street, East|10467
+NY|Bronx|Bronx|205th Street, East|10468
+NY|Bronx|Bronx|205th Street, West|10468
+NY|Bronx|Bronx|206th Street, East|10458
+NY|Bronx|Bronx|206th Street, East|10467
+NY|Bronx|Bronx|207th Street, East|10467
+NY|Bronx|Bronx|208th Street, East|10467
+NY|Bronx|Bronx|209th Street, East|10467
+NY|Bronx|Bronx|210th Street, East|10467
+NY|Bronx|Bronx|211th Street, East|10467
+NY|Bronx|Bronx|211th Street, East|10469
+NY|Bronx|Bronx|212th Street, East|10467
+NY|Bronx|Bronx|212th Street, East|10469
+NY|Bronx|Bronx|213th Street, East|10467
+NY|Bronx|Bronx|213th Street, East|10469
+NY|Bronx|Bronx|214th Street, East|10467
+NY|Bronx|Bronx|214th Street, East|10469
+NY|Bronx|Bronx|215th Street, East|10467
+NY|Bronx|Bronx|215th Street, East|10469
+NY|Bronx|Bronx|216th Street, East|10467
+NY|Bronx|Bronx|216th Street, East|10469
+NY|Bronx|Bronx|217th Street, East|10467
+NY|Bronx|Bronx|217th Street, East|10469
+NY|Bronx|Bronx|218th Street, East|10467
+NY|Bronx|Bronx|218th Street, East|10469
+NY|Bronx|Bronx|219th Street, East|10467
+NY|Bronx|Bronx|219th Street, East|10469
+NY|Bronx|Bronx|220th Street, East|10467
+NY|Bronx|Bronx|220th Street, East|10469
+NY|Bronx|Bronx|221st Street, East|10467
+NY|Bronx|Bronx|221st Street, East|10469
+NY|Bronx|Bronx|222nd Street, East|10467
+NY|Bronx|Bronx|222nd Street, East|10469
+NY|Bronx|Bronx|223rd Street, East|10466
+NY|Bronx|Bronx|224th Street, East|10466
+NY|Bronx|Bronx|225th Street, East|10466
+NY|Bronx|Bronx|225th Street, West|10463
+NY|Bronx|Bronx|226th Drive S|10466
+NY|Bronx|Bronx|226th Street, East|10466
+NY|Bronx|Bronx|227th Street, East|10466
+NY|Bronx|Bronx|196th Street, East|10468
+NY|Bronx|Bronx|228th Street, East|10466
+NY|Bronx|Bronx|228th Street, West|10463
+NY|Bronx|Bronx|229th Drive N|10466
+NY|Bronx|Bronx|229th Drive N, East|10466
+NY|Bronx|Bronx|229th Drive S, East|10466
+NY|Bronx|Bronx|229th Street Drive S|10466
+NY|Bronx|Bronx|229th Street, East|10466
+NY|Bronx|Bronx|229th Street, West|10463
+NY|Bronx|Bronx|230th Street, East|10466
+NY|Bronx|Bronx|230th Street, West|10463
+NY|Bronx|Bronx|231st Street, East|10466
+NY|Bronx|Bronx|231st Street, West|10463
+NY|Bronx|Bronx|232nd Street, East|10466
+NY|Bronx|Bronx|232nd Street, West|10463
+NY|Bronx|Bronx|233rd Street, East|10470
+NY|Bronx|Bronx|233rd Street, East|10466
+NY|Bronx|Bronx|234th Street, East|10466
+NY|Bronx|Bronx|234th Street, East|10470
+NY|Bronx|Bronx|234th Street, West|10463
+NY|Bronx|Bronx|235th Street, East|10466
+NY|Bronx|Bronx|235th Street, East|10470
+NY|Bronx|Bronx|235th Street, West|10463
+NY|Bronx|Bronx|236th Street, East|10466
+NY|Bronx|Bronx|236th Street, East|10470
+NY|Bronx|Bronx|236th Street, West|10463
+NY|Bronx|Bronx|237th Street, East|10466
+NY|Bronx|Bronx|237th Street, East|10470
+NY|Bronx|Bronx|237th Street, West|10463
+NY|Bronx|Bronx|238th Street, East|10470
+NY|Bronx|Bronx|238th Street, West|10463
+NY|Bronx|Bronx|239th Street, East|10466
+NY|Bronx|Bronx|239th Street, East|10470
+NY|Bronx|Bronx|239th Street, West|10463
+NY|Bronx|Bronx|240th Street, East|10470
+NY|Bronx|Bronx|240th Street, West|10463
+NY|Bronx|Bronx|240th Street, West|10471
+NY|Bronx|Bronx|241st Street, East|10466
+NY|Bronx|Bronx|241st Street, East|10467
+NY|Bronx|Bronx|241st Street, East|10470
+NY|Bronx|Bronx|242nd Street, East|10470
+NY|Bronx|Bronx|242nd Street, West|10471
+NY|Bronx|Bronx|243rd Street, East|10470
+NY|Bronx|Bronx|244th Street, West|10471
+NY|Bronx|Bronx|245th Street, West|10471
+NY|Bronx|Bronx|246th Street, West|10471
+NY|Bronx|Bronx|247th Street, West|10471
+NY|Bronx|Bronx|249th Street, West|10471
+NY|Bronx|Bronx|250th Street, West|10471
+NY|Bronx|Bronx|251st Street, West|10471
+NY|Bronx|Bronx|252nd Street, West|10471
+NY|Bronx|Bronx|188th Street, East|10468
+NY|Bronx|Bronx|254th Street, West|10471
+NY|Bronx|Bronx|255th Street, West|10471
+NY|Bronx|Bronx|256th Street, West|10471
+NY|Bronx|Bronx|258th Street, West|10471
+NY|Bronx|Bronx|259th Street, West|10471
+NY|Bronx|Bronx|260th Street, West|10471
+NY|Bronx|Bronx|261st Street Exd|10470
+NY|Bronx|Bronx|261st Street, West|10471
+NY|Bronx|Bronx|262nd Street, West|10471
+NY|Bronx|Bronx|263rd Street, West|10471
+NY|Bronx|Bronx|2nd Avenue|10465
+NY|Bronx|Bronx|3rd Avenue|10451
+NY|Bronx|Bronx|233rd Street, West|10463
+NY|Bronx|Bronx|3rd Avenue|10455
+NY|Bronx|Bronx|3rd Avenue|10456
+NY|Bronx|Bronx|3rd Avenue|10454
+NY|Bronx|Bronx|3rd Avenue|10458
+NY|Bronx|Bronx|3rd Avenue|10465
+NY|Bronx|Bronx|4th Avenue|10465
+NY|Bronx|Bronx|5th Avenue|10465
+NY|Bronx|Bronx|6th Avenue|10465
+NY|Bronx|Bronx|7th Avenue|10465
+NY|Bronx|Bronx|9th Avenue|10465
+NY|Bronx|Bronx|Abbot Street|10470
+NY|Bronx|Bronx|Acorn Place|10465
+NY|Bronx|Bronx|Adams Place|10457
+NY|Bronx|Bronx|Adams Place|10458
+NY|Bronx|Bronx|Adams Street|10460
+NY|Bronx|Bronx|Adee Avenue|10467
+NY|Bronx|Bronx|Adee Avenue|10469
+NY|Bronx|Bronx|Adee Drive|10465
+NY|Bronx|Bronx|Adler Place|10475
+NY|Bronx|Bronx|253rd Street, West|10471
+NY|Bronx|Bronx|Admiral Lane|10473
+NY|Bronx|Bronx|Adrian Avenue|10463
+NY|Bronx|Bronx|Agar Place|10465
+NY|Bronx|Bronx|Alan Place|10465
+NY|Bronx|Bronx|Albany Cres|10463
+NY|Bronx|Bronx|Alcott Place|10475
+NY|Bronx|Bronx|Alden Park|10465
+NY|Bronx|Bronx|Alden Place|10457
+NY|Bronx|Bronx|Alderbrook Road|10471
+NY|Bronx|Bronx|3rd Avenue|10457
+NY|Bronx|Bronx|Aldus Street|10459
+NY|Bronx|Bronx|Alexander Avenue|10454
+NY|Bronx|Bronx|Allen Place|10475
+NY|Bronx|Bronx|Allerton Avenue|10467
+NY|Bronx|Bronx|Allerton Avenue|10469
+NY|Bronx|Bronx|Amethyst Street|10462
+NY|Bronx|Bronx|Ampere Avenue|10465
+NY|Bronx|Bronx|Amundson Avenue|10466
+NY|Bronx|Bronx|Anderson Avenue|10452
+NY|Bronx|Bronx|Andrews Avenue N|10453
+NY|Bronx|Bronx|Andrews Avenue N|10468
+NY|Bronx|Bronx|Andrews Avenue S|10453
+NY|Bronx|Bronx|Anthony Avenue|10457
+NY|Bronx|Bronx|Aldrich Street|10475
+NY|Bronx|Bronx|Antin Place|10462
+NY|Bronx|Bronx|Aqueduct Avenue|10453
+NY|Bronx|Bronx|Aqueduct Avenue|10468
+NY|Bronx|Bronx|Aqueduct Avenue E|10453
+NY|Bronx|Bronx|Aqueduct Avenue E|10468
+NY|Bronx|Bronx|Aqueduct Avenue W|10468
+NY|Bronx|Bronx|Archer Road|10462
+NY|Bronx|Bronx|Archer Street|10460
+NY|Bronx|Bronx|227th Street, West|10463
+NY|Bronx|Bronx|Archer Street|10462
+NY|Bronx|Bronx|Arlington Avenue|10471
+NY|Bronx|Bronx|Armand Place|10463
+NY|Bronx|Bronx|Arnow Avenue|10467
+NY|Bronx|Bronx|Arnow Avenue|10469
+NY|Bronx|Bronx|Arnow Place|10461
+NY|Bronx|Bronx|Arlington Avenue|10463
+NY|Bronx|Bronx|Arthur Avenue|10458
+NY|Bronx|Bronx|Asch Loop|10475
+NY|Bronx|Bronx|Aster Place|10465
+NY|Bronx|Bronx|Admiral Court|10473
+NY|Bronx|Bronx|Astor Avenue|10469
+NY|Bronx|Bronx|Austin Place|10455
+NY|Bronx|Bronx|Avenue Saint John|10455
+NY|Bronx|Bronx|B Street|10461
+NY|Bronx|Bronx|B Street|10473
+NY|Bronx|Bronx|Bailey Avenue|10463
+NY|Bronx|Bronx|Bailey Place|10463
+NY|Bronx|Bronx|Bainbridge Avenue|10458
+NY|Bronx|Bronx|Bainbridge Avenue|10467
+NY|Bronx|Bronx|Baisley Avenue|10461
+NY|Bronx|Bronx|Baisley Avenue|10465
+NY|Bronx|Bronx|Baker Avenue|10460
+NY|Bronx|Bronx|Anthony J Griffin Place|10451
+NY|Bronx|Bronx|Balcom Avenue|10461
+NY|Bronx|Bronx|Balcom Avenue|10465
+NY|Bronx|Bronx|Baldwin Street|10470
+NY|Bronx|Bronx|Balsam Place|10465
+NY|Bronx|Bronx|Banes Court|10473
+NY|Bronx|Bronx|Bantam Place|10469
+NY|Bronx|Bronx|Banyer Place|10473
+NY|Bronx|Bronx|Barker Avenue|10467
+NY|Bronx|Bronx|Barkley Avenue|10465
+NY|Bronx|Bronx|Barnes Avenue|10462
+NY|Bronx|Bronx|Baker Avenue|10462
+NY|Bronx|Bronx|Barnes Avenue|10467
+NY|Bronx|Bronx|Barnes Avenue|10470
+NY|Bronx|Bronx|Barnett Place|10462
+NY|Bronx|Bronx|Barrett Avenue|10473
+NY|Bronx|Bronx|Barretto Street|10459
+NY|Bronx|Bronx|Barretto Street|10474
+NY|Bronx|Bronx|Barry Street|10474
+NY|Bronx|Bronx|Bartholdi Street|10467
+NY|Bronx|Bronx|Bartow Avenue|10469
+NY|Bronx|Bronx|Bartow Avenue|10475
+NY|Bronx|Bronx|Bassett Avenue|10461
+NY|Bronx|Bronx|Bassett Avenue|10475
+NY|Bronx|Bronx|Bassford Avenue|10457
+NY|Bronx|Bronx|Bassford Avenue|10458
+NY|Bronx|Bronx|Bathgate Avenue|10457
+NY|Bronx|Bronx|Astor Avenue|10467
+NY|Bronx|Bronx|Bay Avenue, East|10474
+NY|Bronx|Bronx|Barnes Avenue|10466
+NY|Bronx|Bronx|Bay Street|10464
+NY|Bronx|Bronx|Bay Shore Avenue|10465
+NY|Bronx|Bronx|Baychester Avenue|10469
+NY|Bronx|Bronx|Baychester Avenue|10475
+NY|Bronx|Bronx|Bayview Avenue|10465
+NY|Bronx|Bronx|Beach Avenue|10460
+NY|Bronx|Bronx|Bathgate Avenue|10458
+NY|Bronx|Bronx|Beach Avenue|10473
+NY|Bronx|Bronx|Baychester Avenue|10466
+NY|Bronx|Bronx|Beacon Lane|10473
+NY|Bronx|Bronx|Beaumont Avenue|10457
+NY|Bronx|Bronx|Beaumont Avenue|10458
+NY|Bronx|Bronx|Beck Street|10455
+NY|Bronx|Bronx|Beck Street|10459
+NY|Bronx|Bronx|Beach Street|10464
+NY|Bronx|Bronx|Bedford Park Boulevard|10458
+NY|Bronx|Bronx|Bedford Park Boulevard|10468
+NY|Bronx|Bronx|Beech Place|10465
+NY|Bronx|Bronx|Beech Terrace|10454
+NY|Bronx|Bronx|Beech Tree Lane|10464
+NY|Bronx|Bronx|Beech Tree Lane|10465
+NY|Bronx|Bronx|Beekman Avenue|10454
+NY|Bronx|Bronx|Belden Street|10464
+NY|Bronx|Bronx|Bell Avenue|10466
+NY|Bronx|Bronx|Bellamy Loop|10475
+NY|Bronx|Bronx|Belmont Avenue|10457
+NY|Bronx|Bronx|Belmont Avenue|10458
+NY|Bronx|Bronx|Benchley Place|10475
+NY|Bronx|Bronx|Benedict Avenue|10462
+NY|Bronx|Bronx|Beach Avenue|10472
+NY|Bronx|Bronx|Bergen Avenue|10455
+NY|Bronx|Bronx|Arthur Avenue|10457
+NY|Bronx|Bronx|Betts Avenue|10473
+NY|Bronx|Bronx|Bevy Place|10465
+NY|Bronx|Bronx|Billingsley Terrace|10453
+NY|Bronx|Bronx|Bingham Road|10471
+NY|Bronx|Bronx|Birchall Avenue|10462
+NY|Bronx|Bronx|Bissel Avenue|10466
+NY|Bronx|Bronx|Bivona Street|10475
+NY|Bronx|Bronx|Blackrock Avenue|10462
+NY|Bronx|Bronx|Blackrock Avenue|10472
+NY|Bronx|Bronx|Blackstone Avenue|10463
+NY|Bronx|Bronx|Blackstone Avenue|10471
+NY|Bronx|Bronx|Blackstone Place|10463
+NY|Bronx|Bronx|Blackstone Place|10471
+NY|Bronx|Bronx|Blair Avenue|10465
+NY|Bronx|Bronx|Blondell Avenue|10461
+NY|Bronx|Bronx|Bogart Avenue|10462
+NY|Bronx|Bronx|Boller Avenue|10466
+NY|Bronx|Bronx|Boller Avenue|10475
+NY|Bronx|Bronx|Bolton Avenue|10473
+NY|Bronx|Bronx|Bolton Street|10462
+NY|Bronx|Bronx|Bonner Place|10456
+NY|Bronx|Bronx|Boone Avenue|10459
+NY|Bronx|Bronx|Boone Avenue|10460
+NY|Bronx|Bronx|Boscobel Place|10452
+NY|Bronx|Bronx|Boston Post Road|10475
+NY|Bronx|Bronx|Boston Road|10456
+NY|Bronx|Bronx|Boston Road|10460
+NY|Bronx|Bronx|Boston Road|10462
+NY|Bronx|Bronx|Boston Road|10466
+NY|Bronx|Bronx|Boston Road|10467
+NY|Bronx|Bronx|Boston Road|10469
+NY|Bronx|Bronx|Boston Road|10475
+NY|Bronx|Bronx|Botanical Square|10458
+NY|Bronx|Bronx|Botanical Square N|10458
+NY|Bronx|Bronx|Botanical Square S|10458
+NY|Bronx|Bronx|Bouck Avenue|10469
+NY|Bronx|Bronx|Bowne Street|10464
+NY|Bronx|Bronx|Boyd Avenue|10466
+NY|Bronx|Bronx|Boynton Avenue|10472
+NY|Bronx|Bronx|Benson Street|10461
+NY|Bronx|Bronx|Bradford Avenue|10461
+NY|Bronx|Bronx|Bradley Street|10470
+NY|Bronx|Bronx|Bradley Terrace|10463
+NY|Bronx|Bronx|Brady Avenue|10462
+NY|Bronx|Bronx|Brandt Place|10453
+NY|Bronx|Bronx|Bridge Street|10464
+NY|Bronx|Bronx|Briggs Avenue|10458
+NY|Bronx|Bronx|Brinsmade Avenue|10465
+NY|Bronx|Bronx|Britton Street|10467
+NY|Bronx|Bronx|Bristow Street|10459
+NY|Bronx|Bronx|Broadway|10463
+NY|Bronx|Bronx|Broadway|10471
+NY|Bronx|Bronx|Bronx Boulevard|10466
+NY|Bronx|Bronx|Bronx Boulevard|10467
+NY|Bronx|Bronx|Bronx Boulevard|10470
+NY|Bronx|Bronx|Bronx Park Avenue|10460
+NY|Bronx|Bronx|Bronx Park E|10462
+NY|Bronx|Bronx|Bronx Park E|10467
+NY|Bronx|Bronx|Bronx Park E|10469
+NY|Bronx|Bronx|Bronx Park Road|10467
+NY|Bronx|Bronx|Boynton Avenue|10473
+NY|Bronx|Bronx|Bronx Park S|10460
+NY|Bronx|Bronx|Bronx River Avenue|10472
+NY|Bronx|Bronx|Bronx River Avenue|10473
+NY|Bronx|Bronx|Bronx Street|10460
+NY|Bronx|Bronx|Bronxdale Avenue|10462
+NY|Bronx|Bronx|Bronxwood Avenue|10466
+NY|Bronx|Bronx|Bronxwood Avenue|10469
+NY|Bronx|Bronx|Brook Avenue|10451
+NY|Bronx|Bronx|Brook Avenue|10454
+NY|Bronx|Bronx|Brook Avenue|10455
+NY|Bronx|Bronx|Brook Avenue|10456
+NY|Bronx|Bronx|Brook Avenue|10457
+NY|Bronx|Bronx|Broun Place|10475
+NY|Bronx|Bronx|Brown Place|10454
+NY|Bronx|Bronx|Brown Place|10464
+NY|Bronx|Bronx|Browns Lane|10464
+NY|Bronx|Bronx|Bruckner Boulevard|10454
+NY|Bronx|Bronx|Bruckner Boulevard|10455
+NY|Bronx|Bronx|Bruckner Boulevard|10459
+NY|Bronx|Bronx|Bruckner Boulevard|10461
+NY|Bronx|Bronx|Bruckner Boulevard|10465
+NY|Bronx|Bronx|Bruckner Boulevard|10472
+NY|Bronx|Bronx|Bruckner Boulevard|10473
+NY|Bronx|Bronx|Bruner Avenue|10466
+NY|Bronx|Bronx|Bruner Avenue|10469
+NY|Bronx|Bronx|Brush Avenue|10465
+NY|Bronx|Bronx|Bryant Avenue|10459
+NY|Bronx|Bronx|Bryant Avenue|10460
+NY|Bronx|Bronx|Bryant Avenue|10474
+NY|Bronx|Bronx|Buchanan Place|10453
+NY|Bronx|Bronx|Bronx River Avenue|10460
+NY|Bronx|Bronx|Buckley Street|10464
+NY|Bronx|Bronx|Buhre Avenue|10461
+NY|Bronx|Bronx|Bullard Avenue|10466
+NY|Bronx|Bronx|Bullard Avenue|10470
+NY|Bronx|Bronx|Burke Avenue|10467
+NY|Bronx|Bronx|Burke Avenue|10469
+NY|Bronx|Bronx|Burnet Place|10474
+NY|Bronx|Bronx|Burnside Avenue, East|10453
+NY|Bronx|Bronx|Burnside Avenue, East|10457
+NY|Bronx|Bronx|Burnside Avenue, West|10453
+NY|Bronx|Bronx|Burr Avenue|10461
+NY|Bronx|Bronx|Berkwit Terrace|10463
+NY|Bronx|Bronx|Bush Street|10453
+NY|Bronx|Bronx|Bush Street|10457
+NY|Bronx|Bronx|Bussing Place|10466
+NY|Bronx|Bronx|Butler Place|10461
+NY|Bronx|Bronx|Buttrick Avenue|10465
+NY|Bronx|Bronx|Butterick Avenue|10465
+NY|Bronx|Bronx|Byron Avenue|10466
+NY|Bronx|Bronx|Caesar Place|10473
+NY|Bronx|Bronx|Bedford Park Blvd W|10468
+NY|Bronx|Bronx|Cambreleng Avenue|10457
+NY|Bronx|Bronx|Buck Street|10461
+NY|Bronx|Bronx|Bussing Avenue|10466
+NY|Bronx|Bronx|Cambridge Avenue|10463
+NY|Bronx|Bronx|Cameron Place|10453
+NY|Bronx|Bronx|Camp Street|10466
+NY|Bronx|Bronx|Campbell Drive|10465
+NY|Bronx|Bronx|Canal Street W|10451
+NY|Bronx|Bronx|Calhoun Avenue|10465
+NY|Bronx|Bronx|Capuchin Way|10467
+NY|Bronx|Bronx|Cardinal Spellman Place|10466
+NY|Bronx|Bronx|Carlisle Place|10467
+NY|Bronx|Bronx|Cannon Place|10463
+NY|Bronx|Bronx|Carpenter Avenue|10467
+NY|Bronx|Bronx|Carpenter Avenue|10470
+NY|Bronx|Bronx|Cambreleng Avenue|10458
+NY|Bronx|Bronx|Carroll Street|10464
+NY|Bronx|Bronx|Carpenter Avenue|10466
+NY|Bronx|Bronx|Carver Loop|10475
+NY|Bronx|Bronx|Casals Place|10475
+NY|Bronx|Bronx|Casler Place|10465
+NY|Bronx|Bronx|Canal Place|10451
+NY|Bronx|Bronx|Carroll Place|10456
+NY|Bronx|Bronx|Castle Hill Avenue|10472
+NY|Bronx|Bronx|Castle Hill Avenue|10473
+NY|Bronx|Bronx|Catalpa Place|10465
+NY|Bronx|Bronx|Cauldwell Avenue|10455
+NY|Bronx|Bronx|Cauldwell Avenue|10456
+NY|Bronx|Bronx|Cayuga Avenue|10471
+NY|Bronx|Bronx|Cedar Avenue|10453
+NY|Bronx|Bronx|Cedar Avenue|10468
+NY|Bronx|Bronx|Cedar Lane|10451
+NY|Bronx|Bronx|Cedar Place|10465
+NY|Bronx|Bronx|Centre Street|10464
+NY|Bronx|Bronx|Chaffee Avenue|10465
+NY|Bronx|Bronx|Charlotte Street|10460
+NY|Bronx|Bronx|Chatterton Avenue|10462
+NY|Bronx|Bronx|Chatterton Avenue|10472
+NY|Bronx|Bronx|Chesbrough Avenue|10461
+NY|Bronx|Bronx|Chester Street|10469
+NY|Bronx|Bronx|Chestnut Drive, North|10467
+NY|Bronx|Bronx|Chestnut Street|10467
+NY|Bronx|Bronx|Chisholm Street|10459
+NY|Bronx|Bronx|Choctaw Place|10461
+NY|Bronx|Bronx|Cicero Avenue|10473
+NY|Bronx|Bronx|Cincinnatus Avenue|10473
+NY|Bronx|Bronx|City Island Avenue|10464
+NY|Bronx|Bronx|City Island Road|10464
+NY|Bronx|Bronx|Claflin Avenue|10468
+NY|Bronx|Bronx|Carter Avenue|10457
+NY|Bronx|Bronx|Claremont Pkwy|10460
+NY|Bronx|Bronx|Clarence Avenue|10465
+NY|Bronx|Bronx|Clarke Pl E|10452
+NY|Bronx|Bronx|Clarke Pl W|10452
+NY|Bronx|Bronx|Clason Point Lane|10473
+NY|Bronx|Bronx|Clay Avenue|10456
+NY|Bronx|Bronx|Clay Avenue|10457
+NY|Bronx|Bronx|Castle Hill Avenue|10462
+NY|Bronx|Bronx|Clifford Pl E|10453
+NY|Bronx|Bronx|Clifford Place|10453
+NY|Bronx|Bronx|Clifford Place, East|10453
+NY|Bronx|Bronx|Clinton Avenue|10456
+NY|Bronx|Bronx|Clinton Avenue|10457
+NY|Bronx|Bronx|Casanova Street|10474
+NY|Bronx|Bronx|Clinton Place|10453
+NY|Bronx|Bronx|Clementine Street|10466
+NY|Bronx|Bronx|Claremont Pkwy|10457
+NY|Bronx|Bronx|Coddington Avenue|10461
+NY|Bronx|Bronx|Colden Avenue|10462
+NY|Bronx|Bronx|Colden Avenue|10469
+NY|Bronx|Bronx|Colgate Avenue|10472
+NY|Bronx|Bronx|Coles Lane|10458
+NY|Bronx|Bronx|Colgate Avenue|10473
+NY|Bronx|Bronx|College Avenue|10451
+NY|Bronx|Bronx|College Avenue|10456
+NY|Bronx|Bronx|College Avenue|10457
+NY|Bronx|Bronx|College Road|10471
+NY|Bronx|Bronx|Collis Place|10465
+NY|Bronx|Bronx|Colonial Avenue|10461
+NY|Bronx|Bronx|Commerce Avenue|10461
+NY|Bronx|Bronx|Commerce Avenue|10462
+NY|Bronx|Bronx|Commonwealth Avenue|10460
+NY|Bronx|Bronx|Commonwealth Avenue|10472
+NY|Bronx|Bronx|Co Op City Boulevard|10475
+NY|Bronx|Bronx|Compton Avenue|10473
+NY|Bronx|Bronx|Concord Avenue|10454
+NY|Bronx|Bronx|Concord Avenue|10455
+NY|Bronx|Bronx|Concourse Village E|10451
+NY|Bronx|Bronx|Concourse Village W|10451
+NY|Bronx|Bronx|Connell Place|10465
+NY|Bronx|Bronx|Conner Street|10466
+NY|Bronx|Bronx|Conner Street|10475
+NY|Bronx|Bronx|Connor Street|10475
+NY|Bronx|Bronx|Continental Avenue|10461
+NY|Bronx|Bronx|Cooper Avenue|10461
+NY|Bronx|Bronx|Coogans Place|10471
+NY|Bronx|Bronx|Cooper Place|10475
+NY|Bronx|Bronx|Corlear Avenue|10463
+NY|Bronx|Bronx|Cornell Avenue|10473
+NY|Bronx|Bronx|Cornell Place|10461
+NY|Bronx|Bronx|Corsa Avenue|10469
+NY|Bronx|Bronx|Coster Street|10474
+NY|Bronx|Bronx|Country Club Road|10465
+NY|Bronx|Bronx|Courtlandt Avenue|10451
+NY|Bronx|Bronx|Cranford Avenue|10466
+NY|Bronx|Bronx|Cranford Avenue|10470
+NY|Bronx|Bronx|Craven Street|10474
+NY|Bronx|Bronx|Crawford Avenue|10466
+NY|Bronx|Bronx|Crescent Avenue|10458
+NY|Bronx|Bronx|Creston Avenue|10453
+NY|Bronx|Bronx|Crimmins Avenue|10454
+NY|Bronx|Bronx|Croes Avenue|10472
+NY|Bronx|Bronx|Croes Avenue|10473
+NY|Bronx|Bronx|Creston Avenue|10468
+NY|Bronx|Bronx|Croes Place|10473
+NY|Bronx|Bronx|Cromwell Avenue|10451
+NY|Bronx|Bronx|Cromwell Avenue|10452
+NY|Bronx|Bronx|Close Avenue|10473
+NY|Bronx|Bronx|Cross Bronx Expy|10452
+NY|Bronx|Bronx|Cross Bronx Expy|10457
+NY|Bronx|Bronx|Cross Bronx Expy|10460
+NY|Bronx|Bronx|Cross Bronx Expy|10462
+NY|Bronx|Bronx|Cross Bronx Expy|10465
+NY|Bronx|Bronx|Cross Bronx Expy|10472
+NY|Bronx|Bronx|Cross Bronx Exwy Svc Road|10457
+NY|Bronx|Bronx|Cross Bronx Exwy Svc Road|10465
+NY|Bronx|Bronx|Cross Bronx Exwy Svc Road|10472
+NY|Bronx|Bronx|Cross Bronx Svc Road N|10460
+NY|Bronx|Bronx|Cross Bronx Svc Road N|10462
+NY|Bronx|Bronx|Cross Street|10464
+NY|Bronx|Bronx|Crotona Avenue|10456
+NY|Bronx|Bronx|Crotona Avenue|10457
+NY|Bronx|Bronx|Crosby Avenue|10461
+NY|Bronx|Bronx|Crotona Park E|10460
+NY|Bronx|Bronx|Crotona Park N|10457
+NY|Bronx|Bronx|Crotona Park N|10460
+NY|Bronx|Bronx|Crotona Park S|10456
+NY|Bronx|Bronx|Crotona Pkwy|10460
+NY|Bronx|Bronx|Crotona Place|10456
+NY|Bronx|Bronx|Cruger Avenue|10462
+NY|Bronx|Bronx|Cruger Avenue|10467
+NY|Bronx|Bronx|Curtiss Avenue|10475
+NY|Bronx|Bronx|Cypress Avenue|10454
+NY|Bronx|Bronx|Cyrus Place|10458
+NY|Bronx|Bronx|Cypress Place|10454
+NY|Bronx|Bronx|D Street|10473
+NY|Bronx|Bronx|Daisy Place|10465
+NY|Bronx|Bronx|Daly Avenue|10460
+NY|Bronx|Bronx|Daniel Street|10461
+NY|Bronx|Bronx|Dare Place|10465
+NY|Bronx|Bronx|Dark Street|10466
+NY|Bronx|Bronx|Darrow Place|10475
+NY|Bronx|Bronx|Dash Place|10463
+NY|Bronx|Bronx|David Sheridan Plaza|10471
+NY|Bronx|Bronx|Davidson Avenue|10453
+NY|Bronx|Bronx|Davidson Avenue|10468
+NY|Bronx|Bronx|Davis Avenue|10465
+NY|Bronx|Bronx|Davit Court|10473
+NY|Bronx|Bronx|Dawson Street|10455
+NY|Bronx|Bronx|Dawson Street|10459
+NY|Bronx|Bronx|de Kruif Place|10475
+NY|Bronx|Bronx|de Reimer Avenue|10466
+NY|Bronx|Bronx|de Reimer Avenue|10475
+NY|Bronx|Bronx|Dean Avenue|10465
+NY|Bronx|Bronx|Debs Place|10475
+NY|Bronx|Bronx|Decatur Avenue|10458
+NY|Bronx|Bronx|Decatur Avenue|10467
+NY|Bronx|Bronx|Deep Pond Drive|10475
+NY|Bronx|Bronx|Deepwater Way|10464
+NY|Bronx|Bronx|Defoe Place|10475
+NY|Bronx|Bronx|Dekalb Avenue|10467
+NY|Bronx|Bronx|Delafield Avenue|10471
+NY|Bronx|Bronx|Delafield Place|10471
+NY|Bronx|Bronx|Delancey Place|10462
+NY|Bronx|Bronx|Delanoy Avenue|10469
+NY|Bronx|Bronx|Delavall Avenue|10475
+NY|Bronx|Bronx|Demeyer Street|10469
+NY|Bronx|Bronx|Depot Place|10452
+NY|Bronx|Bronx|Dereimer Avenue|10475
+NY|Bronx|Bronx|Commonwealth Avenue|10473
+NY|Bronx|Bronx|Devoe Terrace|10468
+NY|Bronx|Bronx|Dewey Avenue|10465
+NY|Bronx|Bronx|Dewitt Place|10469
+NY|Bronx|Bronx|Deyo Street|10469
+NY|Bronx|Bronx|Dickerson Avenue|10463
+NY|Bronx|Bronx|Dickinson Avenue|10463
+NY|Bronx|Bronx|Digney Avenue|10466
+NY|Bronx|Bronx|Dill Place|10465
+NY|Bronx|Bronx|Ditmars Street|10464
+NY|Bronx|Bronx|Dock Street|10461
+NY|Bronx|Bronx|Dock Street|10465
+NY|Bronx|Bronx|Dodgewood Road|10471
+NY|Bronx|Bronx|Donofrio Square|10467
+NY|Bronx|Bronx|Crotona Avenue|10458
+NY|Bronx|Bronx|Donizetti Place|10475
+NY|Bronx|Bronx|Doris Street|10462
+NY|Bronx|Bronx|Dorothea Place|10458
+NY|Bronx|Bronx|Dorsey Street|10461
+NY|Bronx|Bronx|Dr Martin Luther King Jr Boulevard|10452
+NY|Bronx|Bronx|Dr Martin Luther King Jr Boulevard|10453
+NY|Bronx|Bronx|Dr Martin Luther King Jr Boulevard|10468
+NY|Bronx|Bronx|Dr Theodore Kazimiroff Boulevard|10458
+NY|Bronx|Bronx|Close Avenue|10472
+NY|Bronx|Bronx|Dr Theodore Kazimiroff Boulevard|10460
+NY|Bronx|Bronx|Douglas Avenue|10471
+NY|Bronx|Bronx|Drake Park S|10474
+NY|Bronx|Bronx|Devoe Avenue|10460
+NY|Bronx|Bronx|Dudley Avenue|10461
+NY|Bronx|Bronx|Dreiser Loop|10475
+NY|Bronx|Bronx|Duncomb Avenue|10467
+NY|Bronx|Bronx|Dune Court|10473
+NY|Bronx|Bronx|Dupont Street|10474
+NY|Bronx|Bronx|Duryea Avenue|10466
+NY|Bronx|Bronx|Drainage Street|10460
+NY|Bronx|Bronx|Dwight Place|10465
+NY|Bronx|Bronx|Dyre Avenue|10466
+NY|Bronx|Bronx|E 132nd Street|10454
+NY|Bronx|Bronx|E 133rd Street|10454
+NY|Bronx|Bronx|E 134th Street|10454
+NY|Bronx|Bronx|E 135th Street|10451
+NY|Bronx|Bronx|E 135th Street|10454
+NY|Bronx|Bronx|Drake Street|10474
+NY|Bronx|Bronx|E 136th Street|10451
+NY|Bronx|Bronx|Duncan Street|10469
+NY|Bronx|Bronx|E 138th Street|10451
+NY|Bronx|Bronx|E 137th Street|10451
+NY|Bronx|Bronx|E 134th Street|10451
+NY|Bronx|Bronx|E 136th Street|10454
+NY|Bronx|Bronx|E 139th Street|10451
+NY|Bronx|Bronx|E 139th Street|10454
+NY|Bronx|Bronx|E 140th Street|10454
+NY|Bronx|Bronx|E 141st Street|10451
+NY|Bronx|Bronx|E 141st Street|10454
+NY|Bronx|Bronx|E 142nd Street|10451
+NY|Bronx|Bronx|E 137th Street|10454
+NY|Bronx|Bronx|E 140th Street|10451
+NY|Bronx|Bronx|E 143rd Street|10454
+NY|Bronx|Bronx|E 144th Street|10451
+NY|Bronx|Bronx|E 144th Street|10454
+NY|Bronx|Bronx|E 145th Street|10451
+NY|Bronx|Bronx|E 145th Street|10454
+NY|Bronx|Bronx|E 145th Street|10455
+NY|Bronx|Bronx|E 146th Street|10451
+NY|Bronx|Bronx|E 142nd Street|10454
+NY|Bronx|Bronx|E 147th Street|10455
+NY|Bronx|Bronx|E 148th Street|10451
+NY|Bronx|Bronx|E 148th Street|10455
+NY|Bronx|Bronx|E 149th Street|10451
+NY|Bronx|Bronx|E 149th Street|10455
+NY|Bronx|Bronx|E 150th Street|10451
+NY|Bronx|Bronx|E 150th Street|10455
+NY|Bronx|Bronx|E 151st Street|10451
+NY|Bronx|Bronx|E 151st Street|10455
+NY|Bronx|Bronx|E 152nd Street|10451
+NY|Bronx|Bronx|E 152nd Street|10455
+NY|Bronx|Bronx|E 153rd Street|10451
+NY|Bronx|Bronx|E 153rd Street|10455
+NY|Bronx|Bronx|E 143rd Street|10451
+NY|Bronx|Bronx|E 138th Street|10454
+NY|Bronx|Bronx|E 156th Street|10451
+NY|Bronx|Bronx|E 146th Street|10455
+NY|Bronx|Bronx|E 156th Street|10455
+NY|Bronx|Bronx|E 155th Street|10455
+NY|Bronx|Bronx|E 158th Street|10451
+NY|Bronx|Bronx|E 158th Street|10456
+NY|Bronx|Bronx|E 154th Street|10455
+NY|Bronx|Bronx|E 159th Street|10456
+NY|Bronx|Bronx|E 160th Street|10451
+NY|Bronx|Bronx|E 160th Street|10456
+NY|Bronx|Bronx|E 159th Street|10451
+NY|Bronx|Bronx|E 160th Street|10459
+NY|Bronx|Bronx|E 161st Street|10451
+NY|Bronx|Bronx|E 161st Street|10459
+NY|Bronx|Bronx|E 162nd Street|10451
+NY|Bronx|Bronx|E 162nd Street|10452
+NY|Bronx|Bronx|E 162nd Street|10459
+NY|Bronx|Bronx|E 163rd Street|10451
+NY|Bronx|Bronx|E 163rd Street|10456
+NY|Bronx|Bronx|E 163rd Street|10459
+NY|Bronx|Bronx|E 164th Street|10452
+NY|Bronx|Bronx|E 157th Street|10451
+NY|Bronx|Bronx|E 164th Street|10459
+NY|Bronx|Bronx|E 165th Street|10452
+NY|Bronx|Bronx|E 165th Street|10456
+NY|Bronx|Bronx|E 165th Street|10459
+NY|Bronx|Bronx|E 166th Street|10456
+NY|Bronx|Bronx|E 166th Street|10459
+NY|Bronx|Bronx|E 167th Street|10456
+NY|Bronx|Bronx|E 167th Street|10452
+NY|Bronx|Bronx|E 167th Street|10459
+NY|Bronx|Bronx|E 168th Street|10452
+NY|Bronx|Bronx|E 168th Street|10456
+NY|Bronx|Bronx|E 168th Street|10459
+NY|Bronx|Bronx|E 169th Street|10452
+NY|Bronx|Bronx|E 169th Street|10456
+NY|Bronx|Bronx|E 169th Street|10459
+NY|Bronx|Bronx|E 170th Street|10452
+NY|Bronx|Bronx|E 170th Street|10456
+NY|Bronx|Bronx|E 170th Street|10459
+NY|Bronx|Bronx|E 171st Street|10452
+NY|Bronx|Bronx|E 171st Street|10457
+NY|Bronx|Bronx|E 172nd Street|10452
+NY|Bronx|Bronx|E 172nd Street|10457
+NY|Bronx|Bronx|E 161st Street|10456
+NY|Bronx|Bronx|E 172nd Street|10472
+NY|Bronx|Bronx|E 173rd Street|10457
+NY|Bronx|Bronx|E 173rd Street|10460
+NY|Bronx|Bronx|E 173rd Street|10472
+NY|Bronx|Bronx|E 174th Street|10452
+NY|Bronx|Bronx|E 174th Street|10453
+NY|Bronx|Bronx|E 174th Street|10457
+NY|Bronx|Bronx|E 172nd Street|10460
+NY|Bronx|Bronx|E 174th Street|10472
+NY|Bronx|Bronx|E 175th Street|10453
+NY|Bronx|Bronx|E 175th Street|10457
+NY|Bronx|Bronx|E 175th Street|10460
+NY|Bronx|Bronx|E 176th Street|10453
+NY|Bronx|Bronx|E 176th Street|10457
+NY|Bronx|Bronx|E 177th Street|10453
+NY|Bronx|Bronx|E 176th Street|10460
+NY|Bronx|Bronx|E 174th Street|10460
+NY|Bronx|Bronx|E 177th Street|10460
+NY|Bronx|Bronx|E 177th Street Exd|10465
+NY|Bronx|Bronx|E 178th Street|10453
+NY|Bronx|Bronx|E 178th Street|10457
+NY|Bronx|Bronx|E 178th Street|10460
+NY|Bronx|Bronx|E 179th Street|10453
+NY|Bronx|Bronx|E 179th Street|10457
+NY|Bronx|Bronx|E 179th Street|10460
+NY|Bronx|Bronx|E 180th Street|10457
+NY|Bronx|Bronx|E 180th Street|10460
+NY|Bronx|Bronx|E 181st Street|10453
+NY|Bronx|Bronx|E 181st Street|10457
+NY|Bronx|Bronx|E 181st Street|10460
+NY|Bronx|Bronx|E 182nd Street|10457
+NY|Bronx|Bronx|E 182nd Street|10453
+NY|Bronx|Bronx|E 182nd Street|10460
+NY|Bronx|Bronx|E 183rd Street|10453
+NY|Bronx|Bronx|E 183rd Street|10458
+NY|Bronx|Bronx|E 183rd Street|10460
+NY|Bronx|Bronx|E 184th Street|10458
+NY|Bronx|Bronx|E 184th Street|10468
+NY|Bronx|Bronx|E 185th Street|10458
+NY|Bronx|Bronx|E 185th Street|10460
+NY|Bronx|Bronx|E 186th Street|10458
+NY|Bronx|Bronx|E 187th Street|10458
+NY|Bronx|Bronx|E 188th Street|10458
+NY|Bronx|Bronx|E 188th Street|10468
+NY|Bronx|Bronx|E 189th Street|10458
+NY|Bronx|Bronx|E 190th Street|10468
+NY|Bronx|Bronx|E 191st Street|10458
+NY|Bronx|Bronx|E 191st Street|10468
+NY|Bronx|Bronx|E 156th Street|10474
+NY|Bronx|Bronx|E 192nd Street|10468
+NY|Bronx|Bronx|E 193rd Street|10458
+NY|Bronx|Bronx|E 192nd Street|10458
+NY|Bronx|Bronx|E 164th Street|10456
+NY|Bronx|Bronx|E 194th Street|10461
+NY|Bronx|Bronx|E 195th Street|10458
+NY|Bronx|Bronx|E 195th Street|10461
+NY|Bronx|Bronx|E 196th Street|10458
+NY|Bronx|Bronx|E 196th Street|10461
+NY|Bronx|Bronx|E 196th Street|10468
+NY|Bronx|Bronx|E 197th Street|10461
+NY|Bronx|Bronx|E 197th Street|10458
+NY|Bronx|Bronx|E 198th Street|10458
+NY|Bronx|Bronx|E 198th Street|10468
+NY|Bronx|Bronx|E 199th Street|10468
+NY|Bronx|Bronx|E 199th Street|10458
+NY|Bronx|Bronx|E 201st Street|10458
+NY|Bronx|Bronx|E 202nd Street|10458
+NY|Bronx|Bronx|E 202nd Street|10467
+NY|Bronx|Bronx|E 203rd Street|10458
+NY|Bronx|Bronx|E 203rd Street|10467
+NY|Bronx|Bronx|E 204th Street|10458
+NY|Bronx|Bronx|E 204th Street|10467
+NY|Bronx|Bronx|E 204th Street|10468
+NY|Bronx|Bronx|E 205th Street|10458
+NY|Bronx|Bronx|E 205th Street|10467
+NY|Bronx|Bronx|E 205th Street|10468
+NY|Bronx|Bronx|E 206th Street|10458
+NY|Bronx|Bronx|E 206th Street|10467
+NY|Bronx|Bronx|E 210th Street|10467
+NY|Bronx|Bronx|E 194th Street|10458
+NY|Bronx|Bronx|E 209th Street|10467
+NY|Bronx|Bronx|E 208th Street|10467
+NY|Bronx|Bronx|E 211th Street|10467
+NY|Bronx|Bronx|E 211th Street|10469
+NY|Bronx|Bronx|E 212th Street|10467
+NY|Bronx|Bronx|E 212th Street|10469
+NY|Bronx|Bronx|E 213th Street|10467
+NY|Bronx|Bronx|E 213th Street|10469
+NY|Bronx|Bronx|E 214th Street|10467
+NY|Bronx|Bronx|E 214th Street|10469
+NY|Bronx|Bronx|E 215th Street|10467
+NY|Bronx|Bronx|E 215th Street|10469
+NY|Bronx|Bronx|E 216th Street|10467
+NY|Bronx|Bronx|E 177th Street|10465
+NY|Bronx|Bronx|E 217th Street|10467
+NY|Bronx|Bronx|E 217th Street|10469
+NY|Bronx|Bronx|E 218th Street|10467
+NY|Bronx|Bronx|E 218th Street|10469
+NY|Bronx|Bronx|E 219th Street|10467
+NY|Bronx|Bronx|E 219th Street|10469
+NY|Bronx|Bronx|E 220th Street|10467
+NY|Bronx|Bronx|E 220th Street|10469
+NY|Bronx|Bronx|E 221st Street|10467
+NY|Bronx|Bronx|E 221st Street|10469
+NY|Bronx|Bronx|E 222nd Street|10467
+NY|Bronx|Bronx|E 222nd Street|10469
+NY|Bronx|Bronx|E 223rd Street|10466
+NY|Bronx|Bronx|E 224th Street|10466
+NY|Bronx|Bronx|E 225th Street|10466
+NY|Bronx|Bronx|E 226th Street|10466
+NY|Bronx|Bronx|E 228th Street|10466
+NY|Bronx|Bronx|E 229th Drive N|10466
+NY|Bronx|Bronx|E 227th Street|10466
+NY|Bronx|Bronx|E 229th Drive S|10466
+NY|Bronx|Bronx|E 229th Street|10466
+NY|Bronx|Bronx|E 230th Street|10466
+NY|Bronx|Bronx|E 231st Street|10466
+NY|Bronx|Bronx|E 232nd Street|10466
+NY|Bronx|Bronx|E 233rd Street|10466
+NY|Bronx|Bronx|E 233rd Street|10470
+NY|Bronx|Bronx|E 234th Street|10466
+NY|Bronx|Bronx|E 234th Street|10470
+NY|Bronx|Bronx|E 235th Street|10466
+NY|Bronx|Bronx|E 235th Street|10470
+NY|Bronx|Bronx|E 236th Street|10466
+NY|Bronx|Bronx|E 236th Street|10470
+NY|Bronx|Bronx|E 216th Street|10469
+NY|Bronx|Bronx|E 237th Street|10470
+NY|Bronx|Bronx|E 238th Street|10470
+NY|Bronx|Bronx|E 239th Street|10466
+NY|Bronx|Bronx|E 239th Street|10470
+NY|Bronx|Bronx|E 240th Street|10470
+NY|Bronx|Bronx|E 241st Street|10466
+NY|Bronx|Bronx|E 241st Street|10467
+NY|Bronx|Bronx|E 241st Street|10470
+NY|Bronx|Bronx|E 242nd Street|10470
+NY|Bronx|Bronx|E 243rd Street|10470
+NY|Bronx|Bronx|E Bay Avenue|10474
+NY|Bronx|Bronx|E Burnside Avenue|10453
+NY|Bronx|Bronx|E Burnside Avenue|10457
+NY|Bronx|Bronx|E Clifford Place|10453
+NY|Bronx|Bronx|E Fordham Road|10458
+NY|Bronx|Bronx|E Fordham Road|10468
+NY|Bronx|Bronx|E Gun Hill Road|10467
+NY|Bronx|Bronx|E Gun Hill Road|10469
+NY|Bronx|Bronx|E Kingsbridge Road|10458
+NY|Bronx|Bronx|E Kingsbridge Road|10468
+NY|Bronx|Bronx|E Mosholu Pkwy N|10467
+NY|Bronx|Bronx|E Mosholu Pkwy S|10458
+NY|Bronx|Bronx|E Tremont Avenue|10453
+NY|Bronx|Bronx|E Tremont Avenue|10457
+NY|Bronx|Bronx|E Tremont Avenue|10460
+NY|Bronx|Bronx|E Tremont Avenue|10461
+NY|Bronx|Bronx|E Tremont Avenue|10462
+NY|Bronx|Bronx|E Tremont Avenue|10465
+NY|Bronx|Bronx|Eagle Avenue|10455
+NY|Bronx|Bronx|Eagle Avenue|10456
+NY|Bronx|Bronx|Eames Place|10468
+NY|Bronx|Bronx|Earhart Lane|10475
+NY|Bronx|Bronx|Earley Street|10464
+NY|Bronx|Bronx|East Avenue|10462
+NY|Bronx|Bronx|Eastburn Avenue|10457
+NY|Bronx|Bronx|Eastchester Place|10475
+NY|Bronx|Bronx|Eastchester Road|10461
+NY|Bronx|Bronx|Eastchester Road|10466
+NY|Bronx|Bronx|Eastchester Road|10469
+NY|Bronx|Bronx|Echo Place|10453
+NY|Bronx|Bronx|Echo Place|10457
+NY|Bronx|Bronx|Eden Terrace|10466
+NY|Bronx|Bronx|Edenwald Avenue|10466
+NY|Bronx|Bronx|Edgehill Avenue|10463
+NY|Bronx|Bronx|Edgemere Street|10464
+NY|Bronx|Bronx|Edgewater Road|10474
+NY|Bronx|Bronx|Edison Avenue|10461
+NY|Bronx|Bronx|Edson Avenue|10466
+NY|Bronx|Bronx|Edsall Avenue|10463
+NY|Bronx|Bronx|Edson Avenue|10469
+NY|Bronx|Bronx|Edison Avenue|10465
+NY|Bronx|Bronx|Edward L Grant Highway|10452
+NY|Bronx|Bronx|Edwards Avenue|10461
+NY|Bronx|Bronx|Effingham Avenue|10473
+NY|Bronx|Bronx|Eger Place|10465
+NY|Bronx|Bronx|E 237th Street|10466
+NY|Bronx|Bronx|Einstein Loop|10475
+NY|Bronx|Bronx|Einstein Loop N|10475
+NY|Bronx|Bronx|Einstein Loop S|10475
+NY|Bronx|Bronx|Elder Avenue|10472
+NY|Bronx|Bronx|Elder Avenue|10473
+NY|Bronx|Bronx|Elgar Place|10475
+NY|Bronx|Bronx|Elliot Place|10452
+NY|Bronx|Bronx|Ellis Avenue|10472
+NY|Bronx|Bronx|Ellis Avenue|10462
+NY|Bronx|Bronx|Ellison Avenue|10461
+NY|Bronx|Bronx|Ellsworth Avenue|10465
+NY|Bronx|Bronx|Elm Place|10458
+NY|Bronx|Bronx|Elm Place|10465
+NY|Bronx|Bronx|Elm Tree Lane|10464
+NY|Bronx|Bronx|Elsmere Place|10460
+NY|Bronx|Bronx|Elton Avenue|10451
+NY|Bronx|Bronx|Elton Avenue|10455
+NY|Bronx|Bronx|Ely Avenue|10466
+NY|Bronx|Bronx|Ely Avenue|10469
+NY|Bronx|Bronx|Emerson Avenue|10465
+NY|Bronx|Bronx|Emmet Street|10458
+NY|Bronx|Bronx|Erdman Place|10475
+NY|Bronx|Bronx|Ericson Place|10461
+NY|Bronx|Bronx|Erskine Place|10475
+NY|Bronx|Bronx|Erskine Avenue|10475
+NY|Bronx|Bronx|Esplanade Avenue|10461
+NY|Bronx|Bronx|Esplanade Avenue|10469
+NY|Bronx|Bronx|Evergreen Avenue|10472
+NY|Bronx|Bronx|Evelyn Place|10468
+NY|Bronx|Bronx|Evergreen Avenue|10473
+NY|Bronx|Bronx|Ewen Avenue|10463
+NY|Bronx|Bronx|Exterior Street|10451
+NY|Bronx|Bronx|Exterior Street|10463
+NY|Bronx|Bronx|Faile Street|10459
+NY|Bronx|Bronx|Faile Street|10474
+NY|Bronx|Bronx|Fairfax Avenue|10465
+NY|Bronx|Bronx|Fairfield Avenue|10463
+NY|Bronx|Bronx|Fairmont Place|10457
+NY|Bronx|Bronx|Fairmount Avenue|10465
+NY|Bronx|Bronx|Fairmount Place|10457
+NY|Bronx|Bronx|Fairmount Place|10460
+NY|Bronx|Bronx|Faraday Avenue|10471
+NY|Bronx|Bronx|Farms Road, West|10459
+NY|Bronx|Bronx|Farms Road, West|10460
+NY|Bronx|Bronx|Farms Square Plaza, West|10460
+NY|Bronx|Bronx|Father Zeiser Place|10468
+NY|Bronx|Bronx|Fearn Place|10465
+NY|Bronx|Bronx|Featherbed Lane|10452
+NY|Bronx|Bronx|Fenton Avenue|10469
+NY|Bronx|Bronx|Fern Place|10465
+NY|Bronx|Bronx|Ferris Place|10461
+NY|Bronx|Bronx|Field Place|10468
+NY|Bronx|Bronx|Fielding Street|10469
+NY|Bronx|Bronx|Fieldston Road|10463
+NY|Bronx|Bronx|Fieldston Road|10471
+NY|Bronx|Bronx|Fieldston Terrace|10471
+NY|Bronx|Bronx|Fillmore Street|10460
+NY|Bronx|Bronx|Findlay Avenue|10456
+NY|Bronx|Bronx|Fink Avenue|10461
+NY|Bronx|Bronx|Fish Avenue|10469
+NY|Bronx|Bronx|Fleet Court|10473
+NY|Bronx|Bronx|Einstein Loop E|10475
+NY|Bronx|Bronx|Flint Avenue|10475
+NY|Bronx|Bronx|Folin Street|10457
+NY|Bronx|Bronx|Food Center Drive|10474
+NY|Bronx|Bronx|Ford Street|10457
+NY|Bronx|Bronx|Fordham Place|10464
+NY|Bronx|Bronx|Fordham Road, East|10458
+NY|Bronx|Bronx|Fordham Road, East|10468
+NY|Bronx|Bronx|Fletcher Place|10457
+NY|Bronx|Bronx|Fordham Street|10464
+NY|Bronx|Bronx|Fort Independence Street|10463
+NY|Bronx|Bronx|Forest Avenue|10456
+NY|Bronx|Bronx|E 207th Street|10467
+NY|Bronx|Bronx|Fort Charles Place|10463
+NY|Bronx|Bronx|Fowler Avenue|10462
+NY|Bronx|Bronx|Forster Place|10471
+NY|Bronx|Bronx|Fordham Road, West|10468
+NY|Bronx|Bronx|Fox Terrace|10469
+NY|Bronx|Bronx|Franklin Avenue|10456
+NY|Bronx|Bronx|Freeman Street|10459
+NY|Bronx|Bronx|Frisby Avenue|10461
+NY|Bronx|Bronx|Fteley Avenue|10472
+NY|Bronx|Bronx|Fox Street|10455
+NY|Bronx|Bronx|Fox Street|10459
+NY|Bronx|Bronx|Fuller Street|10461
+NY|Bronx|Bronx|Fteley Avenue|10473
+NY|Bronx|Bronx|Furman Avenue|10470
+NY|Bronx|Bronx|Fulton Avenue|10456
+NY|Bronx|Bronx|Gabriel Drive|10469
+NY|Bronx|Bronx|Furman Avenue|10466
+NY|Bronx|Bronx|Garden Place|10470
+NY|Bronx|Bronx|Garden Street|10457
+NY|Bronx|Bronx|Garfield Street|10460
+NY|Bronx|Bronx|Garden Street|10460
+NY|Bronx|Bronx|Garrett Place|10466
+NY|Bronx|Bronx|Garrison Avenue|10474
+NY|Bronx|Bronx|Gates Place|10467
+NY|Bronx|Bronx|George Street|10461
+NY|Bronx|Bronx|Geranium Place|10465
+NY|Bronx|Bronx|Gerard Avenue|10451
+NY|Bronx|Bronx|Gerard Avenue|10452
+NY|Bronx|Bronx|Gerber Place|10465
+NY|Bronx|Bronx|Giegerich Place|10465
+NY|Bronx|Bronx|Giles Place|10463
+NY|Bronx|Bronx|Gillespie Avenue|10461
+NY|Bronx|Bronx|Gifford Avenue|10465
+NY|Bronx|Bronx|Gilbert Place|10474
+NY|Bronx|Bronx|Givan Avenue|10475
+NY|Bronx|Bronx|Gildersleeve Avenue|10473
+NY|Bronx|Bronx|Gleason Avenue|10472
+NY|Bronx|Bronx|Gleason Avenue|10462
+NY|Bronx|Bronx|Glebe Avenue|10461
+NY|Bronx|Bronx|Glennon Place|10465
+NY|Bronx|Bronx|Glebe Avenue|10462
+NY|Bronx|Bronx|Givan Avenue|10469
+NY|Bronx|Bronx|Glenz Estate|10473
+NY|Bronx|Bronx|Glover Street|10462
+NY|Bronx|Bronx|Goble Place|10452
+NY|Bronx|Bronx|Godwin Terrace|10463
+NY|Bronx|Bronx|Goodridge Avenue|10471
+NY|Bronx|Bronx|Gouverneur Avenue|10463
+NY|Bronx|Bronx|Goulden Avenue|10468
+NY|Bronx|Bronx|Gouverneur Place|10456
+NY|Bronx|Bronx|Grace Avenue|10466
+NY|Bronx|Bronx|Grace Avenue|10469
+NY|Bronx|Bronx|Gale Place|10463
+NY|Bronx|Bronx|Graham Place|10462
+NY|Bronx|Bronx|Graham Street|10462
+NY|Bronx|Bronx|Grand Avenue|10453
+NY|Bronx|Bronx|Grand Avenue|10468
+NY|Bronx|Bronx|Grand Boulevard|10451
+NY|Bronx|Bronx|Grand Boulevard|10452
+NY|Bronx|Bronx|Grand Boulevard|10453
+NY|Bronx|Bronx|Grand Boulevard|10457
+NY|Bronx|Bronx|Grand Concourse|10451
+NY|Bronx|Bronx|Grand Concourse|10453
+NY|Bronx|Bronx|Grand Concourse|10452
+NY|Bronx|Bronx|Grand Concourse|10456
+NY|Bronx|Bronx|Grand Concourse|10458
+NY|Bronx|Bronx|Grand Concourse|10457
+NY|Bronx|Bronx|Grand Concourse|10468
+NY|Bronx|Bronx|Grandview Place|10452
+NY|Bronx|Bronx|Grant Avenue|10456
+NY|Bronx|Bronx|Greene Place|10465
+NY|Bronx|Bronx|Grenada Place|10466
+NY|Bronx|Bronx|Greystone Avenue|10463
+NY|Bronx|Bronx|Greystone Avenue|10471
+NY|Bronx|Bronx|Grinnell Place|10474
+NY|Bronx|Bronx|Griswold Avenue|10465
+NY|Bronx|Bronx|Grosvenor Avenue|10471
+NY|Bronx|Bronx|Grote Street|10457
+NY|Bronx|Bronx|Grote Street|10460
+NY|Bronx|Bronx|Guerlain Street|10460
+NY|Bronx|Bronx|Guerlain Street|10462
+NY|Bronx|Bronx|Guion Place|10460
+NY|Bronx|Bronx|Gun Hill Road, East|10467
+NY|Bronx|Bronx|E 193rd Street|10468
+NY|Bronx|Bronx|Gun Hill Road, West|10467
+NY|Bronx|Bronx|Gun Hill Road, East|10469
+NY|Bronx|Bronx|Gunther Avenue|10469
+NY|Bronx|Bronx|Hadley Avenue|10471
+NY|Bronx|Bronx|Fulton Avenue|10457
+NY|Bronx|Bronx|Gunther Avenue|10466
+NY|Bronx|Bronx|Graff Avenue|10465
+NY|Bronx|Bronx|Halleck Street|10474
+NY|Bronx|Bronx|Halperin Avenue|10461
+NY|Bronx|Bronx|Halsey Street|10461
+NY|Bronx|Bronx|Hammersley Avenue|10469
+NY|Bronx|Bronx|Hamilton Place|10459
+NY|Bronx|Bronx|Hampden Place|10468
+NY|Bronx|Bronx|Harding Avenue|10465
+NY|Bronx|Bronx|Harding Camp|10473
+NY|Bronx|Bronx|Harding Park Camp|10473
+NY|Bronx|Bronx|Haight Avenue|10461
+NY|Bronx|Bronx|Harding Park|10473
+NY|Bronx|Bronx|Hall of Fame Terrace|10453
+NY|Bronx|Bronx|Harper Court|10466
+NY|Bronx|Bronx|Harper Avenue|10466
+NY|Bronx|Bronx|Harrod Avenue|10472
+NY|Bronx|Bronx|Harrod Place|10472
+NY|Bronx|Bronx|Hart Street|10473
+NY|Bronx|Bronx|Haskin Street|10461
+NY|Bronx|Bronx|Havemeyer Avenue|10462
+NY|Bronx|Bronx|Hatting Place|10465
+NY|Bronx|Bronx|Havemeyer Avenue|10472
+NY|Bronx|Bronx|Havemeyer Avenue|10473
+NY|Bronx|Bronx|Haviland Avenue|10462
+NY|Bronx|Bronx|Haviland Avenue|10472
+NY|Bronx|Bronx|Hawkins Street|10464
+NY|Bronx|Bronx|Hawkstone Street|10452
+NY|Bronx|Bronx|Hawthorne Street|10469
+NY|Bronx|Bronx|Hazel Place|10465
+NY|Bronx|Bronx|Heath Avenue|10463
+NY|Bronx|Bronx|Heathcote Avenue|10475
+NY|Bronx|Bronx|Hennessy Place|10453
+NY|Bronx|Bronx|Henry Hudson Pkwy E|10463
+NY|Bronx|Bronx|Henry Hudson Pkwy E|10471
+NY|Bronx|Bronx|Henry Hudson Pkwy W|10463
+NY|Bronx|Bronx|Harrington Avenue|10461
+NY|Bronx|Bronx|Henwood Place|10453
+NY|Bronx|Bronx|Hering Avenue|10461
+NY|Bronx|Bronx|Hering Avenue|10469
+NY|Bronx|Bronx|Herkimer Place|10470
+NY|Bronx|Bronx|Hermany Avenue|10473
+NY|Bronx|Bronx|Herschell Street|10461
+NY|Bronx|Bronx|Hewitt Place|10455
+NY|Bronx|Bronx|Hewitt Place|10459
+NY|Bronx|Bronx|Hicks Street|10469
+NY|Bronx|Bronx|Hill Avenue|10466
+NY|Bronx|Bronx|Hillman Avenue|10463
+NY|Bronx|Bronx|Henry Hudson Pkwy W|10471
+NY|Bronx|Bronx|Hoe Avenue|10459
+NY|Bronx|Bronx|Hoffman Street|10458
+NY|Bronx|Bronx|Hoe Avenue|10460
+NY|Bronx|Bronx|Holland Avenue|10467
+NY|Bronx|Bronx|Hollers Avenue|10475
+NY|Bronx|Bronx|Holland Avenue|10462
+NY|Bronx|Bronx|Holly Place|10465
+NY|Bronx|Bronx|Hollywood Avenue|10465
+NY|Bronx|Bronx|Hollywood Avenue|10461
+NY|Bronx|Bronx|Holt Place|10467
+NY|Bronx|Bronx|Home Street|10456
+NY|Bronx|Bronx|Home Street|10459
+NY|Bronx|Bronx|Harrison Avenue|10453
+NY|Bronx|Bronx|Hone Avenue|10461
+NY|Bronx|Bronx|Hone Avenue|10469
+NY|Bronx|Bronx|Honeywell Avenue|10460
+NY|Bronx|Bronx|Hornaday Place|10460
+NY|Bronx|Bronx|Horton Street|10464
+NY|Bronx|Bronx|Hosmer Avenue|10465
+NY|Bronx|Bronx|Houghton Avenue|10473
+NY|Bronx|Bronx|Howe Avenue|10473
+NY|Bronx|Bronx|Hobart Avenue|10461
+NY|Bronx|Bronx|Hubbell Street|10461
+NY|Bronx|Bronx|Hudson Manor Terrace|10463
+NY|Bronx|Bronx|Hoxie Street|10470
+NY|Bronx|Bronx|Hugh J Grant Circle|10472
+NY|Bronx|Bronx|Hughes Avenue|10457
+NY|Bronx|Bronx|Hughes Avenue|10458
+NY|Bronx|Bronx|Huguenot Avenue|10475
+NY|Bronx|Bronx|Hull Avenue|10467
+NY|Bronx|Bronx|Hunt Avenue|10462
+NY|Bronx|Bronx|Hunter Avenue|10464
+NY|Bronx|Bronx|Hunter Avenue|10475
+NY|Bronx|Bronx|Huntington Avenue|10465
+NY|Bronx|Bronx|Hunts Point Avenue|10474
+NY|Bronx|Bronx|Hunts Point Co Op Mkt|10474
+NY|Bronx|Bronx|Hutchinson Avenue|10475
+NY|Bronx|Bronx|Husson Avenue|10473
+NY|Bronx|Bronx|Hutchinson River Pkwy|10461
+NY|Bronx|Bronx|Hugh J Grant Circle|10462
+NY|Bronx|Bronx|Hutchinson River Pkwy E|10461
+NY|Bronx|Bronx|Hutchinson River Pkwy E|10475
+NY|Bronx|Bronx|Huxley Avenue|10471
+NY|Bronx|Bronx|I Street|10473
+NY|Bronx|Bronx|Independance Avenue|10463
+NY|Bronx|Bronx|Independence Avenue|10463
+NY|Bronx|Bronx|Independence Avenue|10471
+NY|Bronx|Bronx|Indian Road|10471
+NY|Bronx|Bronx|Indian Trail|10465
+NY|Bronx|Bronx|Industrial Street|10461
+NY|Bronx|Bronx|Interstate 295|10465
+NY|Bronx|Bronx|Hutchinson River Pkwy|10465
+NY|Bronx|Bronx|Irvine Street|10474
+NY|Bronx|Bronx|Irwin Avenue|10463
+NY|Bronx|Bronx|Intervale Avenue|10459
+NY|Bronx|Bronx|Inwood Avenue|10452
+NY|Bronx|Bronx|Irwin Avenue|10471
+NY|Bronx|Bronx|Iselin Avenue|10471
+NY|Bronx|Bronx|Ittner Place|10457
+NY|Bronx|Bronx|Ivy Place|10465
+NY|Bronx|Bronx|Jackson Avenue|10454
+NY|Bronx|Bronx|Jackson Avenue|10455
+NY|Bronx|Bronx|Jackson Avenue|10456
+NY|Bronx|Bronx|Jacobus Place|10463
+NY|Bronx|Bronx|Jarrett Place|10461
+NY|Bronx|Bronx|Jarvis Avenue|10461
+NY|Bronx|Bronx|Jay Place|10465
+NY|Bronx|Bronx|Jefferson Place|10456
+NY|Bronx|Bronx|Jennings Street|10460
+NY|Bronx|Bronx|Jennings Street|10459
+NY|Bronx|Bronx|Jerome Avenue|10451
+NY|Bronx|Bronx|Jerome Avenue|10452
+NY|Bronx|Bronx|Jerome Avenue|10453
+NY|Bronx|Bronx|Jerome Avenue|10467
+NY|Bronx|Bronx|Hall Place|10459
+NY|Bronx|Bronx|Jesup Avenue|10452
+NY|Bronx|Bronx|Jesup Place|10452
+NY|Bronx|Bronx|Johnson Avenue|10463
+NY|Bronx|Bronx|Kappock Street|10463
+NY|Bronx|Bronx|Katonah Avenue|10470
+NY|Bronx|Bronx|Kearney Avenue|10465
+NY|Bronx|Bronx|Kelly Street|10455
+NY|Bronx|Bronx|Kelly Street|10459
+NY|Bronx|Bronx|Kennellworth Place|10465
+NY|Bronx|Bronx|Kepler Avenue|10470
+NY|Bronx|Bronx|Kilroe Street|10464
+NY|Bronx|Bronx|Kimberly Place|10463
+NY|Bronx|Bronx|King Avenue|10464
+NY|Bronx|Bronx|King Street|10464
+NY|Bronx|Bronx|Kings College Place|10467
+NY|Bronx|Bronx|Kingsbridge Avenue|10463
+NY|Bronx|Bronx|Kingsbridge Road, East|10458
+NY|Bronx|Bronx|Kingsbridge Road, East|10468
+NY|Bronx|Bronx|Kingsbridge Road, West|10463
+NY|Bronx|Bronx|Kingsbridge Road, West|10468
+NY|Bronx|Bronx|Kingsbridge Terrace|10463
+NY|Bronx|Bronx|Kingsland Avenue|10469
+NY|Bronx|Bronx|Kinnear Place|10461
+NY|Bronx|Bronx|Kinsella Street|10462
+NY|Bronx|Bronx|Kirby Street|10464
+NY|Bronx|Bronx|Kirk Street|10461
+NY|Bronx|Bronx|Knapp Street|10469
+NY|Bronx|Bronx|Knolls Cres|10463
+NY|Bronx|Bronx|Knox Place|10467
+NY|Bronx|Bronx|Kossuth Avenue|10467
+NY|Bronx|Bronx|la Fontaine Avenue|10457
+NY|Bronx|Bronx|Lacombe Avenue|10473
+NY|Bronx|Bronx|Laconia Avenue|10466
+NY|Bronx|Bronx|Laconia Avenue|10469
+NY|Bronx|Bronx|Ladd Road|10471
+NY|Bronx|Bronx|Lafayette Avenue|10465
+NY|Bronx|Bronx|Lafayette Avenue|10473
+NY|Bronx|Bronx|Lafayette Avenue|10474
+NY|Bronx|Bronx|Lafontaine Avenue|10457
+NY|Bronx|Bronx|Lakeview Place|10471
+NY|Bronx|Bronx|Lakewood Place|10461
+NY|Bronx|Bronx|Lamport Place|10465
+NY|Bronx|Bronx|Landing Road|10468
+NY|Bronx|Bronx|Lane Avenue|10461
+NY|Bronx|Bronx|Jerome Avenue|10468
+NY|Bronx|Bronx|Latting Street|10461
+NY|Bronx|Bronx|Laurie Avenue|10461
+NY|Bronx|Bronx|Lawton Avenue|10465
+NY|Bronx|Bronx|Layton Avenue|10465
+NY|Bronx|Bronx|Lebanon Street|10460
+NY|Bronx|Bronx|Lee Street|10461
+NY|Bronx|Bronx|Leeward Lane|10464
+NY|Bronx|Bronx|Leggett Avenue|10455
+NY|Bronx|Bronx|Leggett Avenue|10474
+NY|Bronx|Bronx|Leland Avenue|10460
+NY|Bronx|Bronx|Leland Avenue|10472
+NY|Bronx|Bronx|Leland Avenue|10473
+NY|Bronx|Bronx|Lester Street|10467
+NY|Bronx|Bronx|Libby Place|10461
+NY|Bronx|Bronx|Library Avenue|10465
+NY|Bronx|Bronx|Liebig Avenue|10471
+NY|Bronx|Bronx|Light Street|10466
+NY|Bronx|Bronx|Lincoln Avenue|10454
+NY|Bronx|Bronx|Linden Avenue|10465
+NY|Bronx|Bronx|Lisbon Place|10458
+NY|Bronx|Bronx|Livingston Avenue|10471
+NY|Bronx|Bronx|Interstate 678|10465
+NY|Bronx|Bronx|Locust Avenue|10454
+NY|Bronx|Bronx|Locust Point Drive|10465
+NY|Bronx|Bronx|Lodovick Avenue|10469
+NY|Bronx|Bronx|Logan Avenue|10465
+NY|Bronx|Bronx|Lohengrin Place|10465
+NY|Bronx|Bronx|Longfellow Avenue|10459
+NY|Bronx|Bronx|Longstreet Avenue|10465
+NY|Bronx|Bronx|Longfellow Avenue|10474
+NY|Bronx|Bronx|Longfellow Avenue|10460
+NY|Bronx|Bronx|Longwood Avenue|10459
+NY|Bronx|Bronx|Longwood Avenue|10474
+NY|Bronx|Bronx|Loomis Street|10461
+NY|Bronx|Bronx|Lorillard Place|10458
+NY|Bronx|Bronx|Homer Avenue|10473
+NY|Bronx|Bronx|Loring Pl N|10468
+NY|Bronx|Bronx|Loring Pl S|10453
+NY|Bronx|Bronx|Louis Nine Boulevard|10459
+NY|Bronx|Bronx|Lowell Street|10459
+NY|Bronx|Bronx|Lowerre Place|10466
+NY|Bronx|Bronx|Lucerne Street|10465
+NY|Bronx|Bronx|Lurting Avenue|10461
+NY|Bronx|Bronx|Lustre Street|10466
+NY|Bronx|Bronx|Lurting Avenue|10469
+NY|Bronx|Bronx|Lydig Avenue|10461
+NY|Bronx|Bronx|Lydig Avenue|10462
+NY|Bronx|Bronx|Loring Pl N|10453
+NY|Bronx|Bronx|Lyon Avenue|10462
+NY|Bronx|Bronx|Lyvere Street|10461
+NY|Bronx|Bronx|Lyman Place|10459
+NY|Bronx|Bronx|Mac Questen Pkwy S|10470
+NY|Bronx|Bronx|Mace Avenue|10467
+NY|Bronx|Bronx|Mace Avenue|10469
+NY|Bronx|Bronx|Maclay Avenue|10461
+NY|Bronx|Bronx|Mac Donough Place|10465
+NY|Bronx|Bronx|Maclay Avenue|10462
+NY|Bronx|Bronx|Macombs Road|10452
+NY|Bronx|Bronx|Lobovick Avenue|10469
+NY|Bronx|Bronx|Magenta Street|10467
+NY|Bronx|Bronx|Magnolia Place|10465
+NY|Bronx|Bronx|Magenta Street|10469
+NY|Bronx|Bronx|Mahan Avenue|10461
+NY|Bronx|Bronx|Main Street|10465
+NY|Bronx|Bronx|Maitland Avenue|10461
+NY|Bronx|Bronx|Major Deegan Serv Road|10451
+NY|Bronx|Bronx|Manhattan College Pkwy|10471
+NY|Bronx|Bronx|Manida Street|10474
+NY|Bronx|Bronx|Manning Street|10462
+NY|Bronx|Bronx|Manor Avenue|10472
+NY|Bronx|Bronx|Lasalle Avenue|10461
+NY|Bronx|Bronx|Mapes Avenue|10460
+NY|Bronx|Bronx|Maple Avenue|10465
+NY|Bronx|Bronx|Maran Place|10462
+NY|Bronx|Bronx|Marble Hill Avenue|10463
+NY|Bronx|Bronx|Marcy Place|10452
+NY|Bronx|Bronx|Marcy Place|10456
+NY|Bronx|Bronx|Marble Hill Lane|10463
+NY|Bronx|Bronx|Mansion Street|10460
+NY|Bronx|Bronx|Marine Street|10464
+NY|Bronx|Bronx|Marion Avenue|10458
+NY|Bronx|Bronx|Marmion Avenue|10460
+NY|Bronx|Bronx|Marolla Place|10466
+NY|Bronx|Bronx|Martha Avenue|10470
+NY|Bronx|Bronx|Marvin Place|10461
+NY|Bronx|Bronx|Matilda Avenue|10466
+NY|Bronx|Bronx|Matilda Avenue|10470
+NY|Bronx|Bronx|Matthews Avenue|10462
+NY|Bronx|Bronx|Marina Drive|10465
+NY|Bronx|Bronx|Macy Place|10455
+NY|Bronx|Bronx|Mayflower Avenue|10461
+NY|Bronx|Bronx|Macombs Road|10453
+NY|Bronx|Bronx|Mc Donald Street|10461
+NY|Bronx|Bronx|Mc Lean Avenue|10470
+NY|Bronx|Bronx|Matthews Avenue|10467
+NY|Bronx|Bronx|McGraw Avenue|10462
+NY|Bronx|Bronx|McGraw Avenue|10472
+NY|Bronx|Bronx|McLean Avenue|10470
+NY|Bronx|Bronx|Mead Street|10460
+NY|Bronx|Bronx|Mead Street|10462
+NY|Bronx|Bronx|Meagher Avenue|10465
+NY|Bronx|Bronx|Melrose Avenue|10451
+NY|Bronx|Bronx|Melrose Avenue|10455
+NY|Bronx|Bronx|Melville Street|10460
+NY|Bronx|Bronx|Mercy College Place|10462
+NY|Bronx|Bronx|Merriam Avenue|10452
+NY|Bronx|Bronx|Merrill Street|10460
+NY|Bronx|Bronx|Merritt Avenue|10466
+NY|Bronx|Bronx|Merritt Avenue|10475
+NY|Bronx|Bronx|Merry Avenue|10461
+NY|Bronx|Bronx|Metcalf Avenue|10472
+NY|Bronx|Bronx|Metcalf Avenue|10473
+NY|Bronx|Bronx|Metropolitan Avenue|10462
+NY|Bronx|Bronx|Metropolitan Oval|10462
+NY|Bronx|Bronx|Meyers Street|10461
+NY|Bronx|Bronx|Mickle Avenue|10469
+NY|Bronx|Bronx|Middletown Road|10461
+NY|Bronx|Bronx|Middletown Road|10465
+NY|Bronx|Bronx|Miles Avenue|10465
+NY|Bronx|Bronx|Milton Place|10465
+NY|Bronx|Bronx|Minerva Place|10468
+NY|Bronx|Bronx|Minford Place|10460
+NY|Bronx|Bronx|Minnieford Avenue|10464
+NY|Bronx|Bronx|Miriam Street|10458
+NY|Bronx|Bronx|Mitchell Place|10465
+NY|Bronx|Bronx|Mohegan Avenue|10460
+NY|Bronx|Bronx|Monroe Avenue|10457
+NY|Bronx|Bronx|Monsignor Halpin Place|10465
+NY|Bronx|Bronx|Monterey Avenue|10457
+NY|Bronx|Bronx|Montgomery Avenue|10453
+NY|Bronx|Bronx|Montgomery Place|10461
+NY|Bronx|Bronx|Monticello Avenue|10466
+NY|Bronx|Bronx|Morgan Avenue|10469
+NY|Bronx|Bronx|Morris Avenue|10451
+NY|Bronx|Bronx|Morris Avenue|10453
+NY|Bronx|Bronx|Morris Avenue|10456
+NY|Bronx|Bronx|Morris Avenue|10457
+NY|Bronx|Bronx|Morris Avenue|10468
+NY|Bronx|Bronx|Morris Park Avenue|10460
+NY|Bronx|Bronx|Morris Park Avenue|10461
+NY|Bronx|Bronx|Mc Owen Avenue|10475
+NY|Bronx|Bronx|Morrison Avenue|10472
+NY|Bronx|Bronx|Morrison Avenue|10473
+NY|Bronx|Bronx|Morton Place|10453
+NY|Bronx|Bronx|Mosholu Avenue|10471
+NY|Bronx|Bronx|Mosholu Pkwy N|10467
+NY|Bronx|Bronx|Mosholu Pkwy N, East|10467
+NY|Bronx|Bronx|Mosholu Pkwy N, West|10467
+NY|Bronx|Bronx|Mosholu Pkwy S|10458
+NY|Bronx|Bronx|Mosholu Pkwy S, East|10458
+NY|Bronx|Bronx|Mosholu Pkwy S, West|10468
+NY|Bronx|Bronx|Mount Eden Avenue|10452
+NY|Bronx|Bronx|Mount Eden Pkwy|10457
+NY|Bronx|Bronx|Mount Hope Place|10453
+NY|Bronx|Bronx|Mount Hope Place|10457
+NY|Bronx|Bronx|Mount Saint Ursula Place|10458
+NY|Bronx|Bronx|Mulford Avenue|10461
+NY|Bronx|Bronx|Msgr Cahill Place|10469
+NY|Bronx|Bronx|Muliner Avenue|10462
+NY|Bronx|Bronx|Mulvey Avenue|10466
+NY|Bronx|Bronx|Mullan Place|10465
+NY|Bronx|Bronx|Mullen Place|10465
+NY|Bronx|Bronx|Mundy Lane|10466
+NY|Bronx|Bronx|Murdock Avenue|10470
+NY|Bronx|Bronx|Murdock Avenue|10466
+NY|Bronx|Bronx|Murray Court|10473
+NY|Bronx|Bronx|N Chestnut Drive|10467
+NY|Bronx|Bronx|N Oak Drive|10467
+NY|Bronx|Bronx|Napier Avenue|10470
+NY|Bronx|Bronx|Naples Terrace|10463
+NY|Bronx|Bronx|Narragansett Avenue|10461
+NY|Bronx|Bronx|Needham Avenue|10469
+NY|Bronx|Bronx|Needham Avenue|10466
+NY|Bronx|Bronx|Neill Avenue|10461
+NY|Bronx|Bronx|Neill Avenue|10462
+NY|Bronx|Bronx|Nelson Avenue|10452
+NY|Bronx|Bronx|Nelson Avenue|10453
+NY|Bronx|Bronx|Neptune Court|10473
+NY|Bronx|Bronx|Neptune Lane|10473
+NY|Bronx|Bronx|Nereid Avenue|10466
+NY|Bronx|Bronx|Nereid Avenue|10470
+NY|Bronx|Bronx|Netherland Avenue|10463
+NY|Bronx|Bronx|Netherland Avenue|10471
+NY|Bronx|Bronx|New England Thruway|10475
+NY|Bronx|Bronx|Newbold Avenue|10462
+NY|Bronx|Bronx|Newbold Avenue|10472
+NY|Bronx|Bronx|Newman Avenue|10473
+NY|Bronx|Bronx|Noble Avenue|10460
+NY|Bronx|Bronx|Noble Avenue|10473
+NY|Bronx|Bronx|Noble Avenue|10472
+NY|Bronx|Bronx|Noell Avenue|10475
+NY|Bronx|Bronx|North Street|10468
+NY|Bronx|Bronx|Norton Avenue|10473
+NY|Bronx|Bronx|Nuvern Avenue|10466
+NY|Bronx|Bronx|Oak Avenue|10465
+NY|Bronx|Bronx|Oak Drive, North|10467
+NY|Bronx|Bronx|Oak Drive, South|10467
+NY|Bronx|Bronx|Mc Clellan Street|10452
+NY|Bronx|Bronx|Oak Point Avenue|10474
+NY|Bronx|Bronx|Oak Terrace|10454
+NY|Bronx|Bronx|Oak Tree Place|10457
+NY|Bronx|Bronx|Oakland Place|10457
+NY|Bronx|Bronx|Oakley Street|10469
+NY|Bronx|Bronx|Odell Street|10462
+NY|Bronx|Bronx|Oakpoint Avenue|10474
+NY|Bronx|Bronx|Obrien Avenue|10473
+NY|Bronx|Bronx|Ogden Avenue|10452
+NY|Bronx|Bronx|Ohm Avenue|10465
+NY|Bronx|Bronx|Old Albany Post Road|10471
+NY|Bronx|Bronx|Old Kingsbridge Road|10460
+NY|Bronx|Bronx|Old White Plains Road|10466
+NY|Bronx|Bronx|Olinville Avenue|10467
+NY|Bronx|Bronx|Oliver Place|10458
+NY|Bronx|Bronx|Olmstead Avenue|10462
+NY|Bronx|Bronx|Olmstead Avenue|10472
+NY|Bronx|Bronx|Olmstead Avenue|10473
+NY|Bronx|Bronx|Oneida Avenue|10470
+NY|Bronx|Bronx|Oneill Place|10469
+NY|Bronx|Bronx|Orchard Beach Road|10464
+NY|Bronx|Bronx|Osborne Place|10453
+NY|Bronx|Bronx|Orloff Avenue|10463
+NY|Bronx|Bronx|Osgood Street|10470
+NY|Bronx|Bronx|Osman Place|10470
+NY|Bronx|Bronx|Otis Avenue|10465
+NY|Bronx|Bronx|Outlook Avenue|10465
+NY|Bronx|Bronx|Overing Street|10461
+NY|Bronx|Bronx|Oxford Avenue|10463
+NY|Bronx|Bronx|P Street|10473
+NY|Bronx|Bronx|Paine Street|10461
+NY|Bronx|Bronx|Palisade Avenue|10463
+NY|Bronx|Bronx|Oak Lane|10464
+NY|Bronx|Bronx|Morris Park Avenue|10462
+NY|Bronx|Bronx|Palisade Place|10453
+NY|Bronx|Bronx|Palmer Avenue|10475
+NY|Bronx|Bronx|Park Avenue|10451
+NY|Bronx|Bronx|Park Avenue|10456
+NY|Bronx|Bronx|Park Avenue|10457
+NY|Bronx|Bronx|Park Avenue|10458
+NY|Bronx|Bronx|Park Drive|10464
+NY|Bronx|Bronx|Parkchester Road|10462
+NY|Bronx|Bronx|Parker Street|10462
+NY|Bronx|Bronx|Parkside Place|10467
+NY|Bronx|Bronx|Parkview Avenue|10461
+NY|Bronx|Bronx|Parkview Terrace|10468
+NY|Bronx|Bronx|Mc Clellan Street|10456
+NY|Bronx|Bronx|Patterson Avenue|10473
+NY|Bronx|Bronx|Paul Avenue|10468
+NY|Bronx|Bronx|Paulding Avenue|10461
+NY|Bronx|Bronx|Paulding Avenue|10462
+NY|Bronx|Bronx|Paulding Avenue|10466
+NY|Bronx|Bronx|Palmer Avenue|10466
+NY|Bronx|Bronx|Paulis Place|10464
+NY|Bronx|Bronx|Peace Street|10464
+NY|Bronx|Bronx|Pawnee Place|10461
+NY|Bronx|Bronx|Pearsall Avenue|10469
+NY|Bronx|Bronx|Peartree Avenue|10475
+NY|Bronx|Bronx|Pelham Bay Park W|10475
+NY|Bronx|Bronx|Pelham Bridge Road|10464
+NY|Bronx|Bronx|Pelham Pkwy N|10467
+NY|Bronx|Bronx|Pelham Pkwy N|10469
+NY|Bronx|Bronx|Pelham Pkwy S|10461
+NY|Bronx|Bronx|Pelham Pkwy S|10462
+NY|Bronx|Bronx|Palisade Avenue|10471
+NY|Bronx|Bronx|Pelham Shore Road|10464
+NY|Bronx|Bronx|Penfield Street|10470
+NY|Bronx|Bronx|Pennyfield Avenue|10465
+NY|Bronx|Bronx|Pennyfield Camp|10465
+NY|Bronx|Bronx|Perot Street|10463
+NY|Bronx|Bronx|Perry Avenue|10458
+NY|Bronx|Bronx|Perry Avenue|10467
+NY|Bronx|Bronx|Peters Place|10470
+NY|Bronx|Bronx|Pell Place|10464
+NY|Bronx|Bronx|Parsifal Place|10465
+NY|Bronx|Bronx|Pierce Avenue|10461
+NY|Bronx|Bronx|Pierce Avenue|10462
+NY|Bronx|Bronx|Pilgrim Avenue|10461
+NY|Bronx|Bronx|Pilot Street|10464
+NY|Bronx|Bronx|Pinchot Place|10461
+NY|Bronx|Bronx|Pinkney Avenue|10475
+NY|Bronx|Bronx|Pitman Avenue|10466
+NY|Bronx|Bronx|Plaza Place|10465
+NY|Bronx|Bronx|Plimpton Avenue|10452
+NY|Bronx|Bronx|Ploughmans Bush|10471
+NY|Bronx|Bronx|Plymouth Avenue|10461
+NY|Bronx|Bronx|Poe Place|10458
+NY|Bronx|Bronx|Polo Place|10465
+NY|Bronx|Bronx|Pond Place|10458
+NY|Bronx|Bronx|Pontiac Place|10455
+NY|Bronx|Bronx|Ponton Avenue|10461
+NY|Bronx|Bronx|Popham Avenue|10453
+NY|Bronx|Bronx|Poplar Avenue|10465
+NY|Bronx|Bronx|Poplar Street|10461
+NY|Bronx|Bronx|Post Road|10471
+NY|Bronx|Bronx|Powell Avenue|10462
+NY|Bronx|Bronx|Powell Avenue|10472
+NY|Bronx|Bronx|Powers Avenue|10454
+NY|Bronx|Bronx|Pratt Avenue|10466
+NY|Bronx|Bronx|Prentiss Avenue|10465
+NY|Bronx|Bronx|Prospect Avenue|10455
+NY|Bronx|Bronx|Prospect Avenue|10457
+NY|Bronx|Bronx|Prospect Avenue|10456
+NY|Bronx|Bronx|Prospect Avenue|10458
+NY|Bronx|Bronx|Prospect Avenue|10459
+NY|Bronx|Bronx|Prospect Avenue, South|10455
+NY|Bronx|Bronx|Prospect Place|10457
+NY|Bronx|Bronx|Provost Avenue|10466
+NY|Bronx|Bronx|Provost Avenue|10475
+NY|Bronx|Bronx|Pugsley Avenue|10462
+NY|Bronx|Bronx|Pugsley Avenue|10472
+NY|Bronx|Bronx|Pugsley Avenue|10473
+NY|Bronx|Bronx|Phelan Place|10453
+NY|Bronx|Bronx|Puritan Avenue|10461
+NY|Bronx|Bronx|Putnam Avenue W|10463
+NY|Bronx|Bronx|Putnam Place|10467
+NY|Bronx|Bronx|Quarry Road|10457
+NY|Bronx|Bronx|Paulding Avenue|10469
+NY|Bronx|Bronx|Quincy Avenue|10465
+NY|Bronx|Bronx|Radcliff Avenue|10462
+NY|Bronx|Bronx|Radcliff Avenue|10469
+NY|Bronx|Bronx|Radio Drive|10465
+NY|Bronx|Bronx|Rae Street|10455
+NY|Bronx|Bronx|Rae Street Exd|10455
+NY|Bronx|Bronx|Randall Avenue|10465
+NY|Bronx|Bronx|Randall Avenue|10473
+NY|Bronx|Bronx|Randall Avenue|10474
+NY|Bronx|Bronx|Randolph Place|10465
+NY|Bronx|Bronx|Rawlins Avenue|10465
+NY|Bronx|Bronx|Quimby Avenue|10473
+NY|Bronx|Bronx|Reeds Mill Lane|10475
+NY|Bronx|Bronx|Reiss Place|10467
+NY|Bronx|Bronx|Research Avenue|10465
+NY|Bronx|Bronx|Reservoir Avenue|10468
+NY|Bronx|Bronx|Reservoir Oval E|10467
+NY|Bronx|Bronx|Reservoir Oval W|10467
+NY|Bronx|Bronx|Reservoir Place|10467
+NY|Bronx|Bronx|Philip Avenue|10465
+NY|Bronx|Bronx|Reed Place|10465
+NY|Bronx|Bronx|Reverend Kenneth L Folkes Way|10456
+NY|Bronx|Bronx|Reverend Kenneth L Folkes Way|10459
+NY|Bronx|Bronx|Review Place|10463
+NY|Bronx|Bronx|Reville Street|10464
+NY|Bronx|Bronx|Reynold Street|10464
+NY|Bronx|Bronx|Reynolds Avenue|10465
+NY|Bronx|Bronx|Revere Avenue|10465
+NY|Bronx|Bronx|Rhinelander Avenue|10461
+NY|Bronx|Bronx|Rhinelander Avenue|10462
+NY|Bronx|Bronx|Richardson Avenue|10470
+NY|Bronx|Bronx|Richman Plaza|10453
+NY|Bronx|Bronx|Rider Avenue|10451
+NY|Bronx|Bronx|Purdy Street|10462
+NY|Bronx|Bronx|Ridge Place|10473
+NY|Bronx|Bronx|Ritter Place|10459
+NY|Bronx|Bronx|River Avenue|10451
+NY|Bronx|Bronx|River Avenue|10452
+NY|Bronx|Bronx|River Road|10463
+NY|Bronx|Bronx|River Road|10471
+NY|Bronx|Bronx|Rivercrest Road|10471
+NY|Bronx|Bronx|Riverdale Avenue|10463
+NY|Bronx|Bronx|Riverdale Avenue|10471
+NY|Bronx|Bronx|Roberts Avenue|10461
+NY|Bronx|Bronx|Robertson Place|10465
+NY|Bronx|Bronx|Robertson Street|10470
+NY|Bronx|Bronx|Robinson Avenue|10465
+NY|Bronx|Bronx|Rochelle Street|10464
+NY|Bronx|Bronx|Rochambeau Avenue|10467
+NY|Bronx|Bronx|Rockwood Street|10452
+NY|Bronx|Bronx|Rodman Place|10460
+NY|Bronx|Bronx|Roebling Avenue|10461
+NY|Bronx|Bronx|Rogers Place|10459
+NY|Bronx|Bronx|Rohr Place|10465
+NY|Bronx|Bronx|Rombouts Avenue|10466
+NY|Bronx|Bronx|Rombouts Avenue|10475
+NY|Bronx|Bronx|Roosevelt Avenue|10464
+NY|Bronx|Bronx|Roosevelt Avenue|10465
+NY|Bronx|Bronx|Ropes Avenue|10475
+NY|Bronx|Bronx|Rose Feiss Boulevard|10454
+NY|Bronx|Bronx|Rosedale Avenue|10460
+NY|Bronx|Bronx|Rosedale Avenue|10472
+NY|Bronx|Bronx|Rosedale Avenue|10473
+NY|Bronx|Bronx|Roselle Street|10461
+NY|Bronx|Bronx|Rowe Street|10461
+NY|Bronx|Bronx|Rosewood Street|10467
+NY|Bronx|Bronx|Ridge Place|10464
+NY|Bronx|Bronx|Rudd Place|10473
+NY|Bronx|Bronx|Ruppert Place|10451
+NY|Bronx|Bronx|Ryawa Avenue|10474
+NY|Bronx|Bronx|Ryer Avenue|10457
+NY|Bronx|Bronx|Ryer Avenue|10458
+NY|Bronx|Bronx|Rowland Street|10461
+NY|Bronx|Bronx|S 11th Avenue|10466
+NY|Bronx|Bronx|S Prospect Avenue|10455
+NY|Bronx|Bronx|Sackett Avenue|10461
+NY|Bronx|Bronx|Sackett Avenue|10462
+NY|Bronx|Bronx|Sagamore Street|10462
+NY|Bronx|Bronx|Rev James A Polite Avenue|10459
+NY|Bronx|Bronx|Saint Anns Avenue|10454
+NY|Bronx|Bronx|Saint Anns Avenue|10456
+NY|Bronx|Bronx|Saint Lawrence Avenue|10472
+NY|Bronx|Bronx|Saint Lawrence Avenue|10460
+NY|Bronx|Bronx|Richardson Avenue|10466
+NY|Bronx|Bronx|Saint Marys Street|10454
+NY|Bronx|Bronx|Saint Ouen Street|10470
+NY|Bronx|Bronx|Saint Peters Avenue|10461
+NY|Bronx|Bronx|Saint Raymonds Avenue|10461
+NY|Bronx|Bronx|Saint Raymonds Avenue|10462
+NY|Bronx|Bronx|Saint Theresa Avenue|10461
+NY|Bronx|Bronx|Sampson Avenue|10465
+NY|Bronx|Bronx|Sands Place|10461
+NY|Bronx|Bronx|S Oak Drive|10467
+NY|Bronx|Bronx|Saxon Avenue|10463
+NY|Bronx|Bronx|Scenic Place|10463
+NY|Bronx|Bronx|Schieffelin Avenue|10466
+NY|Bronx|Bronx|Schofield Street|10464
+NY|Bronx|Bronx|Saint Anns Avenue|10455
+NY|Bronx|Bronx|Schley Avenue|10465
+NY|Bronx|Bronx|Schurz Avenue|10465
+NY|Bronx|Bronx|Schuyler Place|10461
+NY|Bronx|Bronx|Schuyler Terrace|10465
+NY|Bronx|Bronx|Scott Place|10465
+NY|Bronx|Bronx|Screvin Avenue|10473
+NY|Bronx|Bronx|Seabury Avenue|10461
+NY|Bronx|Bronx|Seabury Avenue|10462
+NY|Bronx|Bronx|Seabury Place|10460
+NY|Bronx|Bronx|Secor Avenue|10466
+NY|Bronx|Bronx|Seddon Street|10461
+NY|Bronx|Bronx|Sedgwick Avenue|10452
+NY|Bronx|Bronx|Sedgwick Avenue|10453
+NY|Bronx|Bronx|Sedgwick Avenue|10463
+NY|Bronx|Bronx|Sedgwick Avenue|10468
+NY|Bronx|Bronx|Selwyn Avenue|10457
+NY|Bronx|Bronx|Seminole Avenue|10461
+NY|Bronx|Bronx|Seminole Street|10461
+NY|Bronx|Bronx|Seneca Avenue|10474
+NY|Bronx|Bronx|Senger Place|10465
+NY|Bronx|Bronx|Seton Avenue|10466
+NY|Bronx|Bronx|Seward Avenue|10473
+NY|Bronx|Bronx|Sexton Place|10469
+NY|Bronx|Bronx|Seymour Avenue|10469
+NY|Bronx|Bronx|Shakespeare Avenue|10452
+NY|Bronx|Bronx|Sheridan Avenue|10451
+NY|Bronx|Bronx|Sheridan Avenue|10456
+NY|Bronx|Bronx|Sheridan Avenue|10457
+NY|Bronx|Bronx|Sheridan Expy|10459
+NY|Bronx|Bronx|Sheriff S Byrd Place|10452
+NY|Bronx|Bronx|Sherman Avenue|10451
+NY|Bronx|Bronx|Sherman Avenue|10456
+NY|Bronx|Bronx|Shore Drive|10465
+NY|Bronx|Bronx|Schieffelin Place|10466
+NY|Bronx|Bronx|Saint Lawrence Avenue|10473
+NY|Bronx|Bronx|Siegfried Place|10465
+NY|Bronx|Bronx|Shore Road|10464
+NY|Bronx|Bronx|Silver Beach Place|10465
+NY|Bronx|Bronx|Silver Street|10461
+NY|Bronx|Bronx|Simpson Street|10459
+NY|Bronx|Bronx|Sommer Place|10465
+NY|Bronx|Bronx|Sound View Avenue|10472
+NY|Bronx|Bronx|Sound View Avenue|10473
+NY|Bronx|Bronx|Soundview Terrace|10465
+NY|Bronx|Bronx|South Street|10473
+NY|Bronx|Bronx|Southern Boulevard|10455
+NY|Bronx|Bronx|Southern Boulevard|10454
+NY|Bronx|Bronx|Southern Boulevard|10458
+NY|Bronx|Bronx|Southern Boulevard|10459
+NY|Bronx|Bronx|Southern Boulevard|10460
+NY|Bronx|Bronx|Spaulding Lane|10471
+NY|Bronx|Bronx|Spencer Avenue|10471
+NY|Bronx|Bronx|Spencer Drive|10465
+NY|Bronx|Bronx|Spencer Place|10471
+NY|Bronx|Bronx|Spencer Terrace|10471
+NY|Bronx|Bronx|Splitrock Road|10464
+NY|Bronx|Bronx|Spofford Avenue|10474
+NY|Bronx|Bronx|St Georges Cres|10458
+NY|Bronx|Bronx|St Pauls Avenue|10461
+NY|Bronx|Bronx|St Pauls Place|10456
+NY|Bronx|Bronx|Stadium Avenue|10465
+NY|Bronx|Bronx|Stanton Court|10473
+NY|Bronx|Bronx|Starboard Court|10473
+NY|Bronx|Bronx|Starling Avenue|10462
+NY|Bronx|Bronx|State Highway 22|10466
+NY|Bronx|Bronx|Stearns Street|10462
+NY|Bronx|Bronx|Stebbins Avenue|10459
+NY|Bronx|Bronx|Stedman Place|10469
+NY|Bronx|Bronx|Steenwick Avenue|10475
+NY|Bronx|Bronx|Stell Place|10469
+NY|Bronx|Bronx|Stephens Avenue|10473
+NY|Bronx|Bronx|Steuben Avenue|10467
+NY|Bronx|Bronx|Stevenson Place|10463
+NY|Bronx|Bronx|Stickball Boulevard|10473
+NY|Bronx|Bronx|Stickney Place|10469
+NY|Bronx|Bronx|Stillwell Avenue|10461
+NY|Bronx|Bronx|Stillwell Avenue|10469
+NY|Bronx|Bronx|Stillwell Avenue|10475
+NY|Bronx|Bronx|Strang Avenue|10466
+NY|Bronx|Bronx|Stratford Avenue|10472
+NY|Bronx|Bronx|Story Avenue|10473
+NY|Bronx|Bronx|Strong Street|10468
+NY|Bronx|Bronx|Suburban Place|10460
+NY|Bronx|Bronx|Sullivan Place|10465
+NY|Bronx|Bronx|Summit Avenue|10452
+NY|Bronx|Bronx|Summit Place|10463
+NY|Bronx|Bronx|Sunset Boulevard|10473
+NY|Bronx|Bronx|Sunset Trail|10465
+NY|Bronx|Bronx|Surf Drive|10473
+NY|Bronx|Bronx|Sutherland Street|10464
+NY|Bronx|Bronx|Swinton Avenue|10465
+NY|Bronx|Bronx|Sycamore Avenue|10471
+NY|Bronx|Bronx|Sylvan Avenue|10471
+NY|Bronx|Bronx|Tan Place|10461
+NY|Bronx|Bronx|Taylor Avenue|10472
+NY|Bronx|Bronx|Taylor Avenue|10460
+NY|Bronx|Bronx|Taylor Avenue|10473
+NY|Bronx|Bronx|Teller Avenue|10451
+NY|Bronx|Bronx|Teller Avenue|10456
+NY|Bronx|Bronx|Teller Avenue|10457
+NY|Bronx|Bronx|Tenbroeck Avenue|10461
+NY|Bronx|Bronx|Tenbroeck Avenue|10469
+NY|Bronx|Bronx|Tenney Place|10453
+NY|Bronx|Bronx|Terrace Place|10455
+NY|Bronx|Bronx|Terrace Place|10464
+NY|Bronx|Bronx|Shrady Place|10463
+NY|Bronx|Bronx|Terrace Street|10464
+NY|Bronx|Bronx|Terrace View Avenue|10463
+NY|Bronx|Bronx|Teunissen Place|10463
+NY|Bronx|Bronx|Thieriot Avenue|10460
+NY|Bronx|Bronx|Thieriot Avenue|10472
+NY|Bronx|Bronx|Thieriot Avenue|10473
+NY|Bronx|Bronx|Throggs Neck Boulevard|10465
+NY|Bronx|Bronx|Throggs Neck Expy|10465
+NY|Bronx|Bronx|Throgmorton Avenue|10465
+NY|Bronx|Bronx|Throop Avenue|10469
+NY|Bronx|Bronx|Thurman Munson Way|10451
+NY|Bronx|Bronx|Thurman Munson Way|10455
+NY|Bronx|Bronx|Thurman Munson Way|10474
+NY|Bronx|Bronx|Thwaites Place|10467
+NY|Bronx|Bronx|Tibbett Avenue|10463
+NY|Bronx|Bronx|Tibbett Avenue|10471
+NY|Bronx|Bronx|Tiebout Avenue|10457
+NY|Bronx|Bronx|Tiebout Avenue|10458
+NY|Bronx|Bronx|Tiemann Avenue|10469
+NY|Bronx|Bronx|Tier Street|10464
+NY|Bronx|Bronx|Tierney Place|10465
+NY|Bronx|Bronx|Tiffany Street|10459
+NY|Bronx|Bronx|Tiffany Street|10474
+NY|Bronx|Bronx|Tilden Street|10467
+NY|Bronx|Bronx|Tillotson Avenue|10469
+NY|Bronx|Bronx|Tillotson Avenue|10475
+NY|Bronx|Bronx|Timpson Place|10455
+NY|Bronx|Bronx|Tinton Avenue|10455
+NY|Bronx|Bronx|Tinton Avenue|10456
+NY|Bronx|Bronx|Tomlinson Avenue|10461
+NY|Bronx|Bronx|Topping Avenue|10457
+NY|Bronx|Bronx|Torry Avenue|10473
+NY|Bronx|Bronx|Townsend Avenue|10452
+NY|Bronx|Bronx|Townsend Avenue|10453
+NY|Bronx|Bronx|Trafalgar Place|10460
+NY|Bronx|Bronx|Tratman Avenue|10461
+NY|Bronx|Bronx|Tremont Avenue, East|10457
+NY|Bronx|Bronx|Tremont Avenue, East|10453
+NY|Bronx|Bronx|Tremont Avenue, East|10460
+NY|Bronx|Bronx|Tremont Avenue, East|10461
+NY|Bronx|Bronx|Tremont Avenue, East|10462
+NY|Bronx|Bronx|Tremont Avenue, East|10465
+NY|Bronx|Bronx|Tremont Avenue, West|10453
+NY|Bronx|Bronx|Trinity Avenue|10455
+NY|Bronx|Bronx|Trinity Avenue|10456
+NY|Bronx|Bronx|Truxton Street|10474
+NY|Bronx|Bronx|Tryon Avenue|10467
+NY|Bronx|Bronx|Tudor Place|10452
+NY|Bronx|Bronx|Tulfan Terrace|10463
+NY|Bronx|Bronx|Turnbull Avenue|10473
+NY|Bronx|Bronx|Turneur Avenue|10473
+NY|Bronx|Bronx|Tyndall Avenue|10471
+NY|Bronx|Bronx|Undercliff Avenue|10452
+NY|Bronx|Bronx|Undercliff Avenue|10453
+NY|Bronx|Bronx|Sigma Place|10471
+NY|Bronx|Bronx|Underhill Avenue|10473
+NY|Bronx|Bronx|Union Avenue|10455
+NY|Bronx|Bronx|Union Avenue|10459
+NY|Bronx|Bronx|Unionport Road|10462
+NY|Bronx|Bronx|Underhill Avenue|10472
+NY|Bronx|Bronx|University Avenue|10452
+NY|Bronx|Bronx|University Avenue|10453
+NY|Bronx|Bronx|University Avenue|10468
+NY|Bronx|Bronx|US Highway 1|10452
+NY|Bronx|Bronx|US Highway 1|10457
+NY|Bronx|Bronx|US Highway 1|10458
+NY|Bronx|Bronx|US Highway 1|10466
+NY|Bronx|Bronx|US Highway 1|10467
+NY|Bronx|Bronx|US Highway 1|10469
+NY|Bronx|Bronx|US Route 9|10471
+NY|Bronx|Bronx|Valentine Avenue|10457
+NY|Bronx|Bronx|Valentine Avenue|10458
+NY|Bronx|Bronx|US Highway 1|10475
+NY|Bronx|Bronx|Valhalla Drive|10465
+NY|Bronx|Bronx|Valles Avenue|10471
+NY|Bronx|Bronx|Van Buren Street|10460
+NY|Bronx|Bronx|Van Corlear Place|10463
+NY|Bronx|Bronx|Van Cortlandt Avenue E|10458
+NY|Bronx|Bronx|Van Cortlandt Avenue E|10467
+NY|Bronx|Bronx|Van Cortlandt Avenue E|10468
+NY|Bronx|Bronx|Van Cortlandt Avenue W|10463
+NY|Bronx|Bronx|Van Cortlandt Park E|10470
+NY|Bronx|Bronx|Van Cortlandt Park S|10463
+NY|Bronx|Bronx|Van Hoesen Avenue|10461
+NY|Bronx|Bronx|Van Nest Avenue|10460
+NY|Bronx|Bronx|Van Nest Avenue|10461
+NY|Bronx|Bronx|Van Nest Avenue|10462
+NY|Bronx|Bronx|Vance Street|10469
+NY|Bronx|Bronx|Varian Avenue|10466
+NY|Bronx|Bronx|Verveelen Place|10463
+NY|Bronx|Bronx|Victor Street|10462
+NY|Bronx|Bronx|Viele Avenue|10474
+NY|Bronx|Bronx|Villa Avenue|10468
+NY|Bronx|Bronx|Vincent Avenue|10465
+NY|Bronx|Bronx|Vinmont Road|10471
+NY|Bronx|Bronx|Vireo Avenue|10470
+NY|Bronx|Bronx|Virgil Place|10473
+NY|Bronx|Bronx|Virginia Avenue|10462
+NY|Bronx|Bronx|Virginia Avenue|10472
+NY|Bronx|Bronx|Vyse Avenue|10460
+NY|Bronx|Bronx|W 161st Street|10451
+NY|Bronx|Bronx|Vyse Avenue|10459
+NY|Bronx|Bronx|Vreeland Avenue|10461
+NY|Bronx|Bronx|W 161st Street|10452
+NY|Bronx|Bronx|W 162nd Street|10452
+NY|Bronx|Bronx|W 163rd Street|10452
+NY|Bronx|Bronx|W 164th Street|10452
+NY|Bronx|Bronx|W 165th Street|10452
+NY|Bronx|Bronx|W 166th Street|10452
+NY|Bronx|Bronx|W 167th Street|10452
+NY|Bronx|Bronx|W 168th Street|10452
+NY|Bronx|Bronx|W 169th Street|10452
+NY|Bronx|Bronx|W 170th Street|10452
+NY|Bronx|Bronx|W 171st Street|10452
+NY|Bronx|Bronx|W 172nd Street|10452
+NY|Bronx|Bronx|W 176th Street|10452
+NY|Bronx|Bronx|W 176th Street|10453
+NY|Bronx|Bronx|W 174th Street|10453
+NY|Bronx|Bronx|W 175th Street|10453
+NY|Bronx|Bronx|W 177th Street|10453
+NY|Bronx|Bronx|W 179th Street|10453
+NY|Bronx|Bronx|W 180th Street|10453
+NY|Bronx|Bronx|W 181st Street|10453
+NY|Bronx|Bronx|W 182nd Street|10453
+NY|Bronx|Bronx|W 183rd Street|10453
+NY|Bronx|Bronx|W 184th Street|10468
+NY|Bronx|Bronx|W 188th Street|10468
+NY|Bronx|Bronx|W 190th Street|10468
+NY|Bronx|Bronx|W 192nd Street|10468
+NY|Bronx|Bronx|W 193rd Street|10463
+NY|Bronx|Bronx|W 195th Street|10468
+NY|Bronx|Bronx|W 197th Street|10468
+NY|Bronx|Bronx|W 225th Street|10463
+NY|Bronx|Bronx|W 205th Street|10468
+NY|Bronx|Bronx|W 227th Street|10463
+NY|Bronx|Bronx|W 228th Street|10463
+NY|Bronx|Bronx|W 229th Street|10463
+NY|Bronx|Bronx|W 230th Street|10463
+NY|Bronx|Bronx|W 231st Street|10463
+NY|Bronx|Bronx|W 232nd Street|10463
+NY|Bronx|Bronx|W 233rd Street|10463
+NY|Bronx|Bronx|W 234th Street|10463
+NY|Bronx|Bronx|W 235th Street|10463
+NY|Bronx|Bronx|W 236th Street|10463
+NY|Bronx|Bronx|W 237th Street|10463
+NY|Bronx|Bronx|W 238th Street|10463
+NY|Bronx|Bronx|W 239th Street|10463
+NY|Bronx|Bronx|W 240th Street|10463
+NY|Bronx|Bronx|W 244th Street|10471
+NY|Bronx|Bronx|W 240th Street|10471
+NY|Bronx|Bronx|W 242nd Street|10471
+NY|Bronx|Bronx|W 245th Street|10471
+NY|Bronx|Bronx|W 246th Street|10471
+NY|Bronx|Bronx|W 247th Street|10471
+NY|Bronx|Bronx|W 249th Street|10471
+NY|Bronx|Bronx|W 250th Street|10471
+NY|Bronx|Bronx|W 251st Street|10471
+NY|Bronx|Bronx|W 252nd Street|10471
+NY|Bronx|Bronx|W 253rd Street|10471
+NY|Bronx|Bronx|W 254th Street|10471
+NY|Bronx|Bronx|W 255th Street|10471
+NY|Bronx|Bronx|W 256th Street|10471
+NY|Bronx|Bronx|W 258th Street|10471
+NY|Bronx|Bronx|W 259th Street|10471
+NY|Bronx|Bronx|W 261st Street|10471
+NY|Bronx|Bronx|W 260th Street|10471
+NY|Bronx|Bronx|W 262nd Street|10471
+NY|Bronx|Bronx|W 263rd Street|10471
+NY|Bronx|Bronx|W Burnside Avenue|10453
+NY|Bronx|Bronx|W Farms Road|10459
+NY|Bronx|Bronx|W Farms Road|10460
+NY|Bronx|Bronx|W Farms Square Plaza|10460
+NY|Bronx|Bronx|W Fordham Road|10468
+NY|Bronx|Bronx|W Gun Hill Road|10467
+NY|Bronx|Bronx|W Kingsbridge Road|10463
+NY|Bronx|Bronx|W Kingsbridge Road|10468
+NY|Bronx|Bronx|W Mosholu Pkwy N|10467
+NY|Bronx|Bronx|W Mosholu Pkwy S|10468
+NY|Bronx|Bronx|W Tremont Avenue|10453
+NY|Bronx|Bronx|Wade Square|10457
+NY|Bronx|Bronx|Waldo Avenue|10463
+NY|Bronx|Bronx|Waldo Avenue|10471
+NY|Bronx|Bronx|Wales Avenue|10454
+NY|Bronx|Bronx|Wales Avenue|10455
+NY|Bronx|Bronx|Wallace Avenue|10462
+NY|Bronx|Bronx|Wallace Avenue|10467
+NY|Bronx|Bronx|Walnut Avenue|10454
+NY|Bronx|Bronx|Walton Avenue|10451
+NY|Bronx|Bronx|Walton Avenue|10452
+NY|Bronx|Bronx|Walton Avenue|10453
+NY|Bronx|Bronx|Walton Avenue|10468
+NY|Bronx|Bronx|Ward Avenue|10472
+NY|Bronx|Bronx|Waring Avenue|10467
+NY|Bronx|Bronx|Waring Avenue|10469
+NY|Bronx|Bronx|Washington Avenue|10451
+NY|Bronx|Bronx|Washington Avenue|10456
+NY|Bronx|Bronx|Washington Avenue|10457
+NY|Bronx|Bronx|Washington Avenue|10458
+NY|Bronx|Bronx|Waterbury Avenue|10461
+NY|Bronx|Bronx|Waterbury Avenue|10462
+NY|Bronx|Bronx|Waterbury Avenue|10465
+NY|Bronx|Bronx|Waterloo Place|10460
+NY|Bronx|Bronx|Waters Place|10461
+NY|Bronx|Bronx|Watson Avenue|10462
+NY|Bronx|Bronx|Watson Avenue|10472
+NY|Bronx|Bronx|Watt Avenue|10465
+NY|Bronx|Bronx|Wayne Avenue|10467
+NY|Bronx|Bronx|Webb Avenue|10468
+NY|Bronx|Bronx|Webster Avenue|10456
+NY|Bronx|Bronx|Webster Avenue|10457
+NY|Bronx|Bronx|Webster Avenue|10458
+NY|Bronx|Bronx|Weeks Avenue|10457
+NY|Bronx|Bronx|Weiher Court|10456
+NY|Bronx|Bronx|Webster Avenue|10470
+NY|Bronx|Bronx|Webster Avenue|10467
+NY|Bronx|Bronx|Wellman Avenue|10461
+NY|Bronx|Bronx|Wenner Place|10465
+NY|Bronx|Bronx|West Avenue|10462
+NY|Bronx|Bronx|West Street|10466
+NY|Bronx|Bronx|Westchester Avenue|10455
+NY|Bronx|Bronx|Westchester Avenue|10459
+NY|Bronx|Bronx|Westchester Avenue|10461
+NY|Bronx|Bronx|Westchester Avenue|10462
+NY|Bronx|Bronx|Westchester Avenue|10472
+NY|Bronx|Bronx|Westchester Square|10461
+NY|Bronx|Bronx|Westchester Square|10465
+NY|Bronx|Bronx|Westervelt Avenue|10469
+NY|Bronx|Bronx|Whalen Avenue|10471
+NY|Bronx|Bronx|White Plains Road|10462
+NY|Bronx|Bronx|Wheeler Avenue|10473
+NY|Bronx|Bronx|Wheeler Avenue|10472
+NY|Bronx|Bronx|Tilden Street|10469
+NY|Bronx|Bronx|White Plains Road|10467
+NY|Bronx|Bronx|White Plains Road|10470
+NY|Bronx|Bronx|White Plains Road|10472
+NY|Bronx|Bronx|White Plains Road|10473
+NY|Bronx|Bronx|Whitehall Place|10466
+NY|Bronx|Bronx|Whitlock Avenue|10459
+NY|Bronx|Bronx|Whittemore Avenue|10465
+NY|Bronx|Bronx|Whittier Street|10474
+NY|Bronx|Bronx|Wickham Avenue|10466
+NY|Bronx|Bronx|Wickham Avenue|10469
+NY|Bronx|Bronx|Wiegand Place|10453
+NY|Bronx|Bronx|White Plains Road|10466
+NY|Bronx|Bronx|Wilder Avenue|10466
+NY|Bronx|Bronx|Wilkins Avenue|10460
+NY|Bronx|Bronx|Wilder Avenue|10470
+NY|Bronx|Bronx|Wilkinson Avenue|10461
+NY|Bronx|Bronx|Willett Avenue|10467
+NY|Bronx|Bronx|William Avenue|10464
+NY|Bronx|Bronx|William Place|10461
+NY|Bronx|Bronx|Williamsbridge Road|10461
+NY|Bronx|Bronx|Williamsbridge Road|10467
+NY|Bronx|Bronx|Williamsbridge Road|10469
+NY|Bronx|Bronx|Willis Avenue|10454
+NY|Bronx|Bronx|Willis Avenue|10455
+NY|Bronx|Bronx|Willow Avenue|10454
+NY|Bronx|Bronx|US Route 9|10463
+NY|Bronx|Bronx|Wilson Avenue|10461
+NY|Bronx|Bronx|Wilson Avenue|10469
+NY|Bronx|Bronx|Windward Lane|10464
+NY|Bronx|Bronx|Winters|10464
+NY|Bronx|Bronx|Schorr Place|10469
+NY|Bronx|Bronx|Wissman Avenue|10465
+NY|Bronx|Bronx|Wood Avenue|10460
+NY|Bronx|Bronx|Wood Avenue|10462
+NY|Bronx|Bronx|Wood Road|10462
+NY|Bronx|Bronx|Woodhull Avenue|10469
+NY|Bronx|Bronx|Woodmansten Place|10462
+NY|Bronx|Bronx|Woodycrest Avenue|10452
+NY|Bronx|Bronx|Worthen Street|10474
+NY|Bronx|Bronx|Wright Avenue|10475
+NY|Bronx|Bronx|Wyatt Street|10460
+NY|Bronx|Bronx|Winter Street|10464
+NY|Bronx|Bronx|X Street|10473
+NY|Bronx|Bronx|Yates Avenue|10461
+NY|Bronx|Bronx|Yates Avenue|10469
+NY|Bronx|Bronx|Young Avenue|10469
+NY|Bronx|Bronx|Yznaga Place|10465
+NY|Bronx|Bronx|Zerega Avenue|10462
+NY|Bronx|Bronx|Zerega Avenue|10473
+NY|Bronx|Bronx|Wilcox Avenue|10465
+NY|Bronx|Bronx|Wythe Place|10452
+NY|Bronx|Bronx|Zulette Avenue|10461
+NY|Bronx|Bronx|Willow Lane|10461

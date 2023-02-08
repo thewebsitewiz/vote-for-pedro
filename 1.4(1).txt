@@ -1,0 +1,498 @@
+{ "matchup_entries" : [], "meta" : {
+  "embedded_errors": [],
+  "entry_eligibility_meta_data": [
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052416
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052414
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052461
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052446
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052407
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052415
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052409
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052413
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052474
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052458
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052439
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052410
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052437
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052411
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052473
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052459
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052444
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052408
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052447
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052436
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052421
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052412
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052471
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052460
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052445
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052430
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052420
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052462
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052431
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052418
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052476
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052454
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052419
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052464
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052432
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052417
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052470
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052457
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052440
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052422
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052455
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052438
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052426
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052441
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052424
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052465
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052442
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052423
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052451
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052425
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052452
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052434
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052468
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052428
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052475
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052453
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052427
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052433
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052466
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052456
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052435
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052469
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052448
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052429
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052467
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052443
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052472
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052449
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052463
+    },
+    {
+      "embedded_errors": [],
+      "entry_eligibility_date": "2019-04-07T04:00:00Z",
+      "entry_interval_end_date": "9999-12-31T23:59:59.9999999Z",
+      "entry_interval_start_date": "2019-04-07T04:00:00Z",
+      "matchup_id": 2052450
+    }
+  ],
+  "page_index": 1,
+  "page_size": 100000,
+  "total_records": 0
+} }

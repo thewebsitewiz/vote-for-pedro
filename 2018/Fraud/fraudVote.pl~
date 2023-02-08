@@ -1,0 +1,467 @@
+#!C:/strawberry/bin/perl.exe
+
+use strict;
+use warnings;
+
+use Data::Dump qw(pp);
+use Date::Calc qw(Add_Delta_Days);
+
+use DBI;
+
+
+
+
+
+my $delete_rfq = qq[delete from [$targetDB].[dbo].[RegistrationFacilities]];
+$ddbh->do($delete_rfq);
+
+
+
+
+
+
+my @wordList = getWordList();
+
+my @sql = ();
+
+my @tables = qw(articleBeats articleTopics articles rolePrivileges privileges userRoles roles users beats topics);
+
+# clear tables
+foreach my $table (@tables) {
+  push @sql,qq[delete from $table;];
+}
+
+
+# create privileges
+my @privs = qw(Create-Own-Article
+	       Create-Others-Article
+	       Create-Staff-Article
+	       Edit-Own-Article
+	       Edit-Others-Article
+	       Approve-Own-Article
+	       Approve-Others-Article
+	       Add-New-User
+	       Edit-Own-User
+	       Edit-Other-User
+	       Assign-Author-Roles
+	       Assign-Editor-Roles
+	       Assign-Any-Role
+	       Assign-Any-Privilege
+	       Enter-Any-Event
+	       Enter-Venue-Event
+	       Edit-Any-Event
+	       Edit-Venue-Event
+	       Approve-Own-Event
+	       Approve-Any-Event
+	    );
+
+foreach my $priv (@privs) {
+  push @sql,qq[INSERT INTO privileges (privilegeName) VALUES ('$priv');];
+}
+
+# create roles
+my @roles = qw(Author
+	       Senior-Author
+	       Editor
+	       Senior-Editor
+	       Managing-Editor
+	       Webmaster
+	       Venue-Admin
+	       Event-Entry
+	       Event-Admin
+	       MB-Intern
+	       MB-Employee
+	       MB-Manager
+	     );
+
+foreach my $role (@roles) {
+  push @sql,qq[INSERT INTO roles (roleName) VALUES ('$role');];
+}
+
+# associate privileges with role
+
+my %rP = (
+	  'Author'          => ['Create-Own-Article',
+				'Create-Staff-Article',
+				'Edit-Own-Article',
+			       ],
+	  'Senior-Author'   => [
+				'Create-Own-Article',
+				'Create-Others-Article',
+				'Create-Staff-Article',
+				'Edit-Own-Article',
+				'Edit-Others-Article'
+			       ],
+	  'Editor'          => [
+				'Edit-Others-Article',
+				'Approve-Others-Article'
+			       ],
+	  'Senior-Editor'   => [
+				'Edit-Own-Article',
+				'Edit-Others-Article',
+				'Approve-Own-Article',
+				'Approve-Others-Article',
+			       ],
+	  'Managing-Editor' => [
+				'Edit-Own-Article',
+				'Edit-Others-Article',
+				'Approve-Own-Article',
+				'Approve-Others-Article',
+				'Add-New-User',
+				'Edit-Own-User',
+				'Edit-Other-User',
+				'Assign-Author-Roles',
+				'Assign-Editor-Roles',
+			       ],
+	  'Webmaster'       => [
+				'Create-Own-Article',
+				'Create-Others-Article',
+				'Create-Staff-Article',
+				'Edit-Own-Article',
+				'Edit-Others-Article',
+				'Approve-Own-Article',
+				'Approve-Others-Article',
+				'Add-New-User',
+				'Edit-Own-User',
+				'Edit-Other-User',
+				'Assign-Author-Roles',
+				'Assign-Editor-Roles',
+				'Assign-Any-Role',
+				'Assign-Any-Privilege',
+				'Enter-Any-Event',
+				'Enter-Venue-Event',
+				'Edit-Any-Event',
+				'Edit-Venue-Event',
+				'Approve-Own-Event',
+				'Approve-Any-Event',
+			       ],
+	  'Venue-Admin'     => [
+				'Enter-Venue-Event',
+				'Edit-Venue-Event',
+			       ],
+	  'Event-Entry'     => [
+			       'Enter-Any-Event',
+				'Edit-Any-Event',
+				'Approve-Own-Event',
+			       ],
+	  'Event-Admin'     => [
+				'Enter-Any-Event',
+				'Edit-Any-Event',
+				'Approve-Any-Event',
+			       ],
+	  'MB-Intern'       => [
+				'Edit-Own-User',
+			       ],
+	  'MB-Employee'     => [
+				'Add-New-User',
+				'Edit-Own-User',
+			       ],
+	  'MB-Manager'      => [
+				'Add-New-User',
+				'Edit-Own-User',
+				'Edit-Other-User',
+				'Assign-Any-Role',
+				'Assign-Any-Privilege',
+			       ],
+	 );
+
+foreach my $role (sort keys %rP) {
+  foreach my $priv (@{$rP{$role}}) {
+    push @sql,<<"END";
+INSERT INTO rolePrivileges (roles_roleId,privileges_privilegeId) VALUES (
+(select roleId FROM roles WHERE roleName='$role'),
+(select privilegeId FROM privileges WHERE privilegeName='$priv')
+);
+END
+  }
+}
+
+
+### create users
+
+my @users = ();
+
+foreach my $a (1..50) {
+  my $firstName = getFirstName(@users);
+  push @users,$firstName;
+
+  my $lastName = getLastName();
+
+  my $gender = 'M';
+  $gender = 'F' if int(rand(100))+1 > 50;
+
+  my $email = qq[$firstName.$lastName\@gmail.com];
+
+
+  push @sql, qq[INSERT INTO users (firstName,lastName,email,password,gender) VALUES ('$firstName','$lastName','$email','password','$gender');];
+}
+
+my %userRoles = ();
+foreach my $role (@roles) {
+  next if $role eq q[Author];
+  $userRoles{$role} = shift @users;
+}
+### associate users with roles
+
+
+foreach my $role (sort keys %userRoles) {
+  next if $role eq q[Author];
+  push @sql,<<"END";
+INSERT INTO userRoles (roles_roleId,users_userId) VALUES (
+(select roleId FROM roles WHERE roleName='$role'),
+(select userId FROM users WHERE firstName='$userRoles{$role}')
+);
+END
+
+}
+
+# add 10 authors
+
+foreach my $a ( 1..10) {
+  my $author = shift @users;
+  push @{$userRoles{Author}},$author;
+
+  push @sql,<<"END";
+INSERT INTO userRoles (roles_roleId,users_userId) VALUES (
+(select roleId FROM roles WHERE roleName='Author'),
+(select userId FROM users WHERE firstName='$author')
+);
+END
+
+
+}
+
+
+
+
+my %menuStuff = (
+		 beats => ['Family','Teens','Kids','Couples','Seniors','Singles'],
+		 topics => ['Music','Dining','Theater','Art','Museums','Activities','Lifetyles']
+		);
+
+foreach my $table (sort keys %menuStuff) {
+  foreach my $entry (@{$menuStuff{$table}}) {
+    push @sql, qq[INSERT INTO $table (name,active) VALUES ('$entry',1);];
+  }
+}
+
+
+### articles
+
+# +--------------+---------------+------+-----+---------+----------------+
+# | Field        | Type          | Null | Key | Default | Extra          |
+# +--------------+---------------+------+-----+---------+----------------+
+# | articleId    | int(11)       | NO   | PRI | NULL    | auto_increment |
+# | title        | varchar(1000) | YES  |     | NULL    |                |
+# | authorId     | int(11)       | NO   | MUL | NULL    |                |
+# | preTitle     | varchar(500)  | YES  |     | NULL    |                |
+# | subTitle     | varchar(500)  | YES  |     | NULL    |                |
+# | summary      | mediumtext    | YES  |     | NULL    |                |
+# | body         | longtext      | YES  |     | NULL    |                |
+# | createdOn    | date          | NO   |     | NULL    |                |
+# | publishOn    | date          | YES  |     | NULL    |                |
+# | pullOn       | date          | YES  |     | NULL    |                |
+# | evergreen    | tinyint(1)    | YES  |     | NULL    |                |
+# | shortSummary | varchar(500)  | YES  |     | NULL    |                |
+# +--------------+---------------+------+-----+---------+----------------+
+
+
+my $cnt = 0;
+foreach my $a (1..50) {
+  my $title = getWords('title');
+
+  $cnt = 0 if $cnt == 10;
+  my $authorName = $userRoles{Author}[$cnt];
+  my $authorId = qq[(SELECT userId FROM users WHERE firstName='$authorName')];
+
+  my $preTitle = getWords('preTitle');
+  my $subTitle = getWords('subTitle');
+  my $summary = getWords('summary');
+  my $shortSummary = getWords('shortSummary');
+  my $body = getWords('body');
+
+
+  my $off = getNumber(-7,-1);
+  my $createdOn = getDate($off);
+
+  $off = getNumber(10,1);
+  my $publishOn = getDate($off,$createdOn);
+
+  $off = getNumber(40,25);
+  my $pullOn = getDate($off,$publishOn);
+
+  my $evergreen = 0;
+  $evergreen = 1 if int(rand(100)) + 1 > 85;
+
+
+push @sql, <<"END";
+INSERT INTO articles (title,authorId,preTitle,subTitle,summary,body,createdOn,publishOn,pullOn,evergreen,shortSummary) VALUES
+('$title',$authorId,'$preTitle','$subTitle','$summary','$body','$createdOn','$publishOn','$pullOn','$evergreen','$shortSummary');
+END
+
+  $cnt++;
+}
+
+
+
+
+
+
+
+
+### Selects
+foreach my $table (reverse @tables) {
+  push @sql, qq[SELECT * FROM $table;];
+}
+
+my $sqlOut = join qq[\n\n],@sql;
+$sqlOut .= qq[\n\n\n];
+open my $SQL, '>', q[C:\code\_SQL-Bootstrap.txt];
+print $SQL $sqlOut;
+close $SQL;
+
+
+sub getDate {
+  my ($offset, $origin) = @_;
+
+  my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime(time);
+  $mon++;
+
+  $mday = sprintf("%02d",$mday);
+  $mon = sprintf("%02d",$mon);
+  $year += 1900;
+
+  if ($origin) {
+    ($year,$mon,$mday) = split/-/,$origin;
+  }
+
+  $offset = 0 unless $offset;
+
+  my ($newYear,$newMonth,$newDay) = Add_Delta_Days($year,$mon,$mday,$offset);
+
+  $newMonth = sprintf("%02d",$newMonth);
+  $newDay = sprintf("%02d",$newDay);
+
+  return qq[$newYear-$newMonth-$newDay];
+}
+
+sub getFirstName {
+  my (@users) = @_;
+
+  my @firstNames = qw(Jackson Aiden Liam Lucas Noah Mason Ethan Caden Jacob Logan Jayden Elijah Jack Luke Michael Benjamin Alexander James Jayce Caleb Connor William Carter Ryan Oliver Matthew Daniel Gabriel Henry Owen Grayson Dylan Landon Isaac Nicholas Wyatt Nathan Andrew Cameron Dominic Joshua Eli Sebastian Hunter Brayden David Samuel Evan Gavin Christian Max Anthony Joseph Julian John Colton Levi Muhammad Isaiah Aaron Tyler Charlie Adam Parker Austin Thomas Zachary Nolan Alex Ian Jonathan Christopher Cooper Hudson Miles Adrian Leo Blake Lincoln Jordan Tristan Jason Josiah Xavier Camden Chase Declan Carson Colin Brody Asher Jeremiah Micah Easton Xander Ryder Nathaniel Elliot Sean Cole Sophia Emma Olivia Ava Isabella Mia Zoe Lily Emily Madelyn Madison Chloe Charlotte Aubrey Avery Abigail Kaylee Layla Harper Ella Amelia Arianna Riley Aria Hailey Hannah Aaliyah Evelyn Addison Mackenzie Adalyn Ellie Brooklyn Nora Scarlett Grace Anna Isabelle Natalie Kaitlyn Lillian Sarah Audrey Elizabeth Leah Annabelle Kylie Mila Claire Victoria Maya Lila Elena Lucy Savannah Gabriella Callie Alaina Sophie Makayla Kennedy Sadie Skyler Allison Caroline Charlie Penelope Alyssa Peyton Samantha Liliana Bailey Maria Reagan Violet Eliana Adeline Eva Stella Keira Katherine Vivian Alice Alexandra Camilla Kayla Alexis Sydney Kaelyn Jasmine Julia Cora Lauren Piper Gianna Paisley Bella London Clara Cadence);
+
+  my $firstName = @firstNames[int(rand(199))];
+
+  while ( grep /$firstName/, @users) {
+    $firstName = @firstNames[int(rand(199))];
+  }
+  
+
+  return $firstName;
+}
+
+sub getLastName {
+  my @lastNames = qw(Smith Johnson Williams Brown Jones Miller Davis Garcia Rodriguez Wilson Martinez Anderson Taylor Thomas Hernandez Moore Martin Jackson Thompson White Lopez Lee Gonzalez Harris Clark Lewis Robinson Walker Perez Hall Young Allen Sanchez Wright King Scott Green Baker Adams Nelson Hill Ramirez Campbell Mitchell Roberts Carter Phillips Evans Turner Torres Parker Collins Edwards Stewart Flores Morris Nguyen Murphy Rivera Cook Rogers Morgan Peterson Cooper Reed Bailey Bell Gomez Kelly Howard Ward Cox Diaz Richardson Wood Watson Brooks Bennett Gray James Reyes Cruz Hughes Price Myers Long Foster Sanders Ross Morales Powell Sullivan Russell Ortiz Jenkins Gutierrez Perry Butler Barnes Fisher Henderson Coleman Simmons Patterson Jordan Reynolds Hamilton Graham Kim Gonzales Alexander Ramos Wallace Griffin West Cole Hayes Chavez Gibson Bryant Ellis Stevens Murray Ford Marshall Owens Mcdonald Harrison Ruiz Kennedy Wells Alvarez Woods Mendoza Castillo Olson Webb Washington Tucker Freeman Burns Henry Vasquez Snyder Simpson Crawford Jimenez Porter Mason Shaw Gordon Wagner Hunter Romero Hicks Dixon Hunt Palmer Robertson Black Holmes Stone Meyer Boyd Mills Warren Fox Rose Rice Moreno Schmidt Patel Ferguson Nichols Herrera Medina Ryan Fernandez Weaver Daniels Stephens Gardner Payne Kelley Dunn Pierce Arnold Tran Spencer Peters Hawkins Grant Hansen Castro Hoffman Hart Elliott Cunningham Knight Bradley Carroll Hudson Duncan Armstrong Berry Andrews Johnston Ray Lane Riley Carpenter Perkins Aguilar Silva Richards Willis Matthews Chapman Lawrence Garza Vargas Watkins Wheeler Larson Carlson Harper George Greene Burke Guzman Morrison Munoz Jacobs Obrien Lawson Franklin Lynch Bishop Carr Salazar Austin Mendez Gilbert Jensen Williamson Montgomery Harvey Oliver Howell Dean Hanson Weber Garrett Sims Burton Fuller Soto Mccoy Welch Chen Schultz Walters Reid Fields Walsh Little Fowler Bowman Davidson May Day Schneider Newman Brewer Lucas Holland Wong Banks Santos Curtis Pearson Delgado Valdez Pena Rios Douglas Sandoval Barrett Hopkins Keller Guerrero Stanley Bates Alvarado Beck Ortega Wade Estrada Contreras Barnett Caldwell Santiago Lambert Powers Chambers Nunez Craig Leonard Lowe Rhodes Byrd Gregory Shelton Frazier Becker Maldonado Fleming Vega Sutton Cohen Jennings Parks Mcdaniel Watts Barker Norris Vaughn Vazquez Holt Schwartz Steele Benson Neal Dominguez Horton Terry Wolfe Hale Lyons Graves Haynes Miles Park Warner Padilla Bush Thornton Mccarthy Mann Zimmerman Erickson Fletcher Mckinney Page Dawson Joseph Marquez Reeves Klein Espinoza Baldwin Moran Love Robbins Higgins Ball Cortez Le Griffith Bowen Sharp Cummings Ramsey Hardy Swanson Barber Acosta Luna Chandler Daniel Blair Cross Simon Dennis);
+
+  return @lastNames[int(rand(383))];
+}
+
+
+sub getNumber {
+  my ($max,$min) = @_;
+
+  $min = 1 unless $min;
+
+  my $number = 0;
+
+  unless ($max) {
+    die("Max limit missing!");
+  }
+
+  if ($max && $min) {
+    $number = int(rand($max)) + $min;
+  }
+
+  return $number;
+
+
+}
+
+sub getWords {
+  my ($type) = @_;
+
+  # title caption summary shortSummary body
+  die("No type provided!") unless $type;
+
+  my $sentences = 0;
+  my $paragraphs = 1;
+  my $words = 0;
+  my $punctuation = 0;
+
+  if ($type eq q[title] || $type eq q[caption]) {
+    $sentences = 1;
+    $words = getNumber(18,6);
+    $punctuation = 0;
+  }
+  elsif ($type eq q[preTitle] || $type eq q[subTitle]) {
+    $sentences = 1;
+    $words = getNumber(14,6);
+    $punctuation = 0;
+  }
+  elsif ($type eq q[summary]) {
+    $sentences = getNumber(4,2);
+    $words = getNumber(12,6);
+    $punctuation = 1;
+  }
+  elsif ($type eq q[shortSummary]) {
+    $sentences = getNumber(3,2);
+    $words = getNumber(8,6);
+    $punctuation = 1;
+  }
+  elsif ($type eq q[body]) {
+    $paragraphs = getNumber(2,1);
+    $words = getNumber(12,6);
+    $punctuation = 1;
+  }
+  else {
+    die("Invalid type provided!");
+  }
+
+  my @paragraphs = ();
+  foreach my $p (1..$paragraphs) {
+    $sentences = getNumber(10,4) unless $sentences;
+    my @paragraph = ();
+    my @sent = ();
+    my $sentence = q[];
+    foreach my $s (1..$sentences) {
+      my @words = ();
+      foreach my $w (1..$words) {
+	my $word = getWord();
+	if ($w == 1) {
+	  $word = ucfirst($word);
+	}
+	push @words,$word;
+      }
+      $sentence = join' ',@words;
+      $sentence = qq[$sentence.] if $punctuation;
+      push @paragraph,$sentence;
+    }
+    my $parag = join' ',@paragraph;
+    push @paragraphs,$parag;
+  }
+  my $paragr = join qq[\n],@paragraphs;
+
+}
+
+
+
+sub getWord {
+  return $wordList[int(rand(2000))];
+}
+
+sub getWordList {
+  my @wordList = qw(permissible stupid handle crate quicksand eyes toe horrible subsequent robin foregoing voice opposite pies melodic toothbrush changeable grip pin freezing coil sassy chalk kiss plan tramp hideous basin digestion roof disastrous damaged second subdued kill bawdy sour soap remarkable toothsome berserk punishment bear snore pat shelter burly hands distance attraction shivering expansion mix sea rhetorical five mess up channel damp cars guide subtract trains whip table force slim cake lying shut bright debonair spray material dead bubble demonic bless stay territory underwear balance painstaking page crayon chemical melted cute macabre tired sophisticated festive sweater tiresome dust therapeutic blink offbeat fancy credit pail yarn malicious card tidy star cycle lunchroom staking absorbing mammoth remove real push relation rob terrify hellish frame bore grin small auspicious building pet food earthquake confused sprout deafening current plain apparatus vest erratic command wrong locket neat deserve time innocent winter hat fallacious sack rain spotty suck boring relieved ship spare hulking shrill efficient toothpaste debt husky addition wet company shrug exist surprise ready awake announce spiders bat laughable tray art part haircut profit tumble camp spectacular smash cough week release distribution waggish awesome land bored concentrate shade rotten impossible frighten old-fashioned incandescent military hurry dogs delightful internal average crowded wool troubled nebulous head throat addicted heavy irritating poised stitch moan print challenge question waste knit intend buzz depend chess coil glass squirrel momentous hydrant spiteful sad value enjoy girls mark bomb cover thoughtless please ceaseless lush coordinated beds wide office knowledgeable milk quince bashful decorous short tax diligent ban own pizzas better cherry faded tip butter ratty place weather electric pest probable watery repulsive relax flowery verdant communicate sticks dispensable inquisitive river trousers pick tranquil bare victorious gratis birthday stitch stir mundane start unwritten fumbling striped seashore passenger many unhealthy agreeable obtainable eight trot longing brainy baseball bent bath coat bone cart glamorous groovy dislike lowly suffer fowl embarrassed country nippy groan cannon adventurous meaty snobbish quartz account peaceful hissing porter examine eatable veil drag well-groomed quarter scrub knot domineering whisper wish cat unarmed nutty complain spark frame sock best mysterious middle pour class jumbled trust work power burn increase first uptight woman dependent damaging unadvised roll immense bumpy education perpetual flash skin delirious language valuable discover appliance program stem squash trouble argue special instruct plants tedious untidy joke transport help scrape fairies paint deliver position man rat miniature books foolish omniscient retire effect walk ahead naughty arrive abstracted onerous various trade sail owe fanatical black attach married thread truthful left death obtain jail glossy hushed shake protective pop cautious hand filthy drink cats reduce languid punch tooth ocean number kiss vase unruly box influence tasteful clumsy touch dinner stream follow sneeze squealing regret suppose open thinkable deeply drain wax knotty certain humor ragged button shallow nice woebegone use concern preach arrest obey detail scratch drop moor racial thaw snow quarrelsome hang unequaled outrageous side distinct supreme excellent level three quiet lazy honorable questionable puffy care desire steadfast minor scorch wonderful branch tendency jobless attractive puzzled numberless sin cynical pear coherent grateful flock chilly boorish memory alike bleach early playground pump fly crooked fence produce thirsty quickest sordid wave insidious toys terrific snotty oceanic holiday snakes dapper pastoral neighborly present yoke useless automatic stage remind wave magenta cheer wrench flat rice disagreeable stimulating mother smoke gabby thoughtful wholesale tasty slow marry geese wrist dramatic sneeze rich signal aloof warm scandalous frequent mute nest bite-sized point spiritual business happy iron pancake seal shave unaccountable synonymous allow dare sick dazzling wander brawny advise scary end friends old mouth rake six attend placid warm temporary anger lumber argument nosy untidy example sugar brass gray fireman damage riddle vanish harmonious yummy introduce quiet sparkle educate payment divergent weight curl thrill hour nutritious interesting last sack irate mitten throne chicken level luxuriant soak appreciate fix corn accessible square long launch pleasant reflective plantation lamp maid unusual glove blind snails bathe scent ubiquitous tomatoes low return shiver drip salty suspend slope mask copy destroy scarce escape past mature common high-pitched humdrum disturbed satisfying sleepy market month descriptive balance nest wait like zephyr sore cook simple legal dam equable compare connection want next elfin intelligent reflect endurable forgetful kitty airport pray strengthen cause moldy note oval steady long-term fact sleet chase sore pencil lean wreck jump measure lumpy moaning acoustics nasty saw greedy possessive itch neck hose assorted experience start bait nine trap serve overt trip abnormal suggest murky add empty stiff face stop prose love scientific beam bury town move feigned grass scream paddle sound complex ruddy number brief stupendous use thankful cure drain charming zoom exclusive heal frightening hot wood far-flung circle round battle defiant replace dirty leg amazing floor dad visit money future order bang talk hot icky name kind utter aboriginal creature attract concerned loaf juvenile army continue colorful petite border fold earth twist tense oafish wheel story shoe invent pedal fretful mate befitting scissors employ acidic overrated periodic screw skip fish stove canvas general step talk consist scale wound time sister amount numerous healthy analyses place black-and-white calculate pretty horse giant far scintillating whole bottle venomous odd permit authority bustling tender change spade gorgeous cuddly pan rebel lace toy dime ordinary nostalgic carriage whistle sofa texture book piquant fire succinct stretch songs achiever hobbies dynamic adjoining interest worthless discussion fang evanescent friend encourage ambitious innate overconfident wilderness glow mom meeting turn volleyball support dolls painful prickly raise jelly deceive obsolete useful walk good acid curved sheep scattered thin pigs title stop kaput crazy team icicle handsome lunch curtain alluring reach bright agree blue-eyed jewel ill-fated rings squeal wary purple hill extra-small spy grab plastic finger possess play resonant tacky fork tricky unit lethal polite spoil bee tickle silver price fetch committee keen dirt society misty waves spot zealous thirsty rot animal hollow shaky giddy impolite airplane understood rejoice boy naive elated record soothe aback thank practice envious workable plastic gamy kneel top aggressive entertain design judge uttermost hate clever didactic faulty wipe soggy beef outstanding cheap treat self cent rest tremendous deer sun bit talented weak notice brush pig cave squalid exchange flowers zipper light spoon religion book purpose yellow attack fuel cattle force lacking dress wretched strange instinctive paste well-to-do hospitable bedroom crib exultant literate superb one exuberant yak broad fancy harm juice stew identify charge pipe letter cap sink able fall admit robust jam exciting mark ugliest uncovered pathetic wash milk need expensive wicked slip imaginary disillusioned x-ray swift spiffy courageous taste possible roasted close big mindless busy noise feeling sniff join equal huge helpless wire delay control tangy graceful watch even bite safe different gifted smoggy hook clam rapid bow irritate heavenly hope tick cobweb scold right jumpy ball mind entertaining tame size psychotic deep belong cruel ripe crime camp sweet drown vessel clover unwieldy tank cloth uninterested cast wandering grouchy angry grey matter sigh overflow tearful meat sturdy caption snatch adaptable illegal dance interest settle educated thought abashed four dog helpful hateful servant summer sign way station machine act smell song prepare smelly wiggly strip prefer cloistered hesitant consider unused apparel wise weigh snail rigid lie plant judge willing stuff van rhyme zebra stale overwrought exercise selective rub cherries knowledge peace hammer yard noxious science cable ear rampant nerve loutish mug inexpensive plane writing lewd leather punish animated tart wild pack lake pushy impartial save calendar obnoxious type group plucky question curvy difficult standing desert choke surprise grumpy ruin annoying wiry daily note bucket root toes support drum acrid apathetic kindhearted false comb drawer color event grandiose third loss quiver purring switch form guttural jazzy ticket need dust dry ants slippery ugly unbiased fill request optimal alert downtown snow actually large scene wall toad satisfy improve abiding savory direful unknown juicy fragile cute search club imported crow cultured mine fog wind bolt agonizing belligerent truck railway colossal highfalutin unsuitable person cushion sable tire stick godly enter morning bake store pull pot horses guard aunt barbarous measure nappy spooky rely knock cooing wrathful fixed shirt sand rough youthful breath homeless jolly hungry guide excuse ritzy rainstorm sidewalk brash remain ink quixotic stretch separate post sky license rush scatter peck dream daughter zoo reading harbor scrawny splendid spotted spicy wry zonked fade back amused defeated spell pen color flagrant scared amusing ashamed jagged grubby ground scarf plough sound whip vivacious injure tight friendly guarded alcoholic tow confess liquid church provide lonely fruit exotic tongue stain visitor baby zany travel plot gaping face insurance shoes coach repair curious wonder spurious ultra ring recondite dusty maniacal thunder needless jaded precede grotesque solid mist mass wink verse harass grate flight nail pinch mend perform kindly panoramic crabby cooperative proud meddle rainy living brown men play ludicrous queue ask vacuous duck poison borrow fearful observant sloppy impress efficacious puncture inject call wren glistening chew nation frantic agreement arrogant nauseating wistful breezy arm harsh tent upset develop disapprove minister hover bell smile low sail change vulgar decisive full sip harmony reason government door potato flesh witty approval route beneficial shame sisters fail cow steer night creepy try avoid screeching hug squeak empty match wealthy picture tin mailbox muddled aberrant hurried train spring fortunate finicky ablaze loving advice smart needy hallowed basketball surround rock heady transport apologies heat man silk gruesome greasy eminent fair parsimonious representative haunt stare driving garrulous alarm loud obese zinc manage theory aquatic tempt crash guitar panicky welcome risk outgoing dock unsightly violet range voyage crawl push bells hospital fire file slow pink admire check paper lively structure tangible absurd labored instrument moon drunk doubt silky merciful flippant wobble telephone dress fear part cows produce houses tightfisted mushy vigorous regret mine tap point fit pricey heat funny undesirable null amusement abaft excite growth torpid determined ducks stamp slip quick evasive dear pets teaching metal school spotless decision few rifle wriggle back bike strap interrupt mint temper boast powder hard substantial cactus believe wish voracious guarantee rule flower silent half responsible carry action legs superficial incompetent messy smiling boat normal doubtful film grip uneven actor secretive whimsical handy truculent selfish flag lopsided bridge crook cumbersome homely ruthless afternoon penitent fierce tenuous reign wasteful show end key daffy ski abandoned edge somber test rail curve match vein degree yawn marvelous sign jar beg noisy imperfect earsplitting train spiky confuse glorious invincible magnificent move incredible jail behavior hypnotic bird unite straw finger warn trite abrasive undress limit rural run division rule worry familiar applaud copper phobic carve vagabond calculator enchanted hate succeed deranged water fine spill clean delicious feeble cloudy utopian tub jellyfish orange green knife gate cabbage cellar accept receipt delight tawdry comparison boil ignore bump delicate bushes north respect pump dinosaurs day jump attempt expect juggle ill-informed gleaming faithful fasten angle poor tasteless base bitter afterthought chubby dark gaze accidental dashing blot queen cagey bat skirt lyrical macho hard-to-find brother whistle doll answer ill afraid decide furniture bruise chickens detailed strong unkempt anxious sort secretary happen land wing smash fax fertile furry treatment tail abject test birds minute mourn loose fresh imminent swanky creator muscle fast breathe bouncy annoyed touch boot flood weary fool used interfere skate lavish previous yell linen volatile lackadaisical march obeisant like marked remember free step tall look worried wrap pine young sudden rod reward furtive childlike gentle chin count grade grieving nervous quaint elite recess awful cemetery picayune eggs shape sparkling ten discreet vast whirl belief boundary likeable cheerful library terrible halting quizzical frightened turkey capricious twig classy pretend reproduce house memories coast babies hook kittens vague motionless gold preserve laugh violent mountain plug late cold hammer wooden magic decorate advertisement sticky property adamant brake psychedelic bizarre careful can arrange trouble near beginner known milky habitual scribble knowing children perfect aromatic lettuce guess rustic vacation miscreant long impulse tease jam pleasure infamous sponge elegant cross things two zesty quirky red reaction ambiguous tested rabid blade excited elderly natural statuesque condemned sharp year farm whine abounding arch productive voiceless quill road box blush cream combative tense chivalrous fascinated yam stocking divide hair load squeamish fabulous shock);
+
+
+  return @wordList;
+}

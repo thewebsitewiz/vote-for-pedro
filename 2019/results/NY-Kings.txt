@@ -1,0 +1,3105 @@
+NY|Kings|Brooklyn|100th Street|11209
+NY|Kings|Brooklyn|101st Street, East|11236
+NY|Kings|Brooklyn|102nd Street, East|11236
+NY|Kings|Brooklyn|103rd Street, East|11236
+NY|Kings|Brooklyn|104th Street, East|11236
+NY|Kings|Brooklyn|105th Street, East|11236
+NY|Kings|Brooklyn|106th Street, East|11236
+NY|Kings|Brooklyn|107th Street, East|11236
+NY|Kings|Brooklyn|108th Street, East|11236
+NY|Kings|Brooklyn|10th Avenue|11215
+NY|Kings|Brooklyn|10th Avenue|11219
+NY|Kings|Brooklyn|10th Avenue|11228
+NY|Kings|Brooklyn|10th Street|11215
+NY|Kings|Brooklyn|10th Street, East|11218
+NY|Kings|Brooklyn|10th Street, East|11223
+NY|Kings|Brooklyn|10th Street, East|11230
+NY|Kings|Brooklyn|10th Street, North|11211
+NY|Kings|Brooklyn|10th Street, North|11249
+NY|Kings|Brooklyn|10th Street, South|11249
+NY|Kings|Brooklyn|10th Street, West|11204
+NY|Kings|Brooklyn|10th Street, West|11223
+NY|Kings|Brooklyn|10th Street, West|11224
+NY|Kings|Brooklyn|11th Avenue|11215
+NY|Kings|Brooklyn|11th Avenue|11218
+NY|Kings|Brooklyn|11th Avenue|11219
+NY|Kings|Brooklyn|11th Avenue|11228
+NY|Kings|Brooklyn|11th Street|11215
+NY|Kings|Brooklyn|11th Street, East|11218
+NY|Kings|Brooklyn|11th Street, East|11235
+NY|Kings|Brooklyn|11th Street, North|11211
+NY|Kings|Brooklyn|11th Street, North|11249
+NY|Kings|Brooklyn|11th Street, South|11249
+NY|Kings|Brooklyn|11th Street, West|11204
+NY|Kings|Brooklyn|11th Street, West|11223
+NY|Kings|Brooklyn|12th Avenue|11218
+NY|Kings|Brooklyn|12th Avenue|11219
+NY|Kings|Brooklyn|12th Avenue|11228
+NY|Kings|Brooklyn|12th Street|11215
+NY|Kings|Brooklyn|12th Street, East|11218
+NY|Kings|Brooklyn|12th Street, East|11229
+NY|Kings|Brooklyn|100th Street, East|11236
+NY|Kings|Brooklyn|12th Street, East|11235
+NY|Kings|Brooklyn|12th Street, North|11211
+NY|Kings|Brooklyn|12th Street, North|11249
+NY|Kings|Brooklyn|12th Street, West|11204
+NY|Kings|Brooklyn|12th Street, West|11223
+NY|Kings|Brooklyn|12th Street, West|11224
+NY|Kings|Brooklyn|13th Avenue|11218
+NY|Kings|Brooklyn|13th Avenue|11219
+NY|Kings|Brooklyn|13th Avenue|11228
+NY|Kings|Brooklyn|13th Street|11215
+NY|Kings|Brooklyn|13th Street, East|11218
+NY|Kings|Brooklyn|13th Street, East|11229
+NY|Kings|Brooklyn|13th Street, East|11230
+NY|Kings|Brooklyn|13th Street, East|11235
+NY|Kings|Brooklyn|13th Street, North|11211
+NY|Kings|Brooklyn|13th Street, North|11249
+NY|Kings|Brooklyn|13th Street, West|11223
+NY|Kings|Brooklyn|14th Avenue|11218
+NY|Kings|Brooklyn|14th Avenue|11219
+NY|Kings|Brooklyn|14th Avenue|11228
+NY|Kings|Brooklyn|14th Street|11215
+NY|Kings|Brooklyn|14th Street, East|11226
+NY|Kings|Brooklyn|14th Street, East|11229
+NY|Kings|Brooklyn|14th Street, East|11230
+NY|Kings|Brooklyn|14th Street, East|11235
+NY|Kings|Brooklyn|14th Street, North|11211
+NY|Kings|Brooklyn|14th Street, North|11249
+NY|Kings|Brooklyn|155th Avenue|11208
+NY|Kings|Brooklyn|15th Avenue|11218
+NY|Kings|Brooklyn|15th Avenue|11219
+NY|Kings|Brooklyn|15th Avenue|11228
+NY|Kings|Brooklyn|15th Place, West|11214
+NY|Kings|Brooklyn|15th Street|11215
+NY|Kings|Brooklyn|15th Street, East|11226
+NY|Kings|Brooklyn|15th Street, East|11229
+NY|Kings|Brooklyn|15th Street, East|11230
+NY|Kings|Brooklyn|15th Street, East|11235
+NY|Kings|Brooklyn|15th Street, North|11222
+NY|Kings|Brooklyn|15th Street, West|11214
+NY|Kings|Brooklyn|15th Street, West|11224
+NY|Kings|Brooklyn|16th Avenue|11204
+NY|Kings|Brooklyn|16th Avenue|11214
+NY|Kings|Brooklyn|16th Avenue|11218
+NY|Kings|Brooklyn|16th Street|11215
+NY|Kings|Brooklyn|16th Street|11218
+NY|Kings|Brooklyn|16th Street, East|11226
+NY|Kings|Brooklyn|16th Street, East|11229
+NY|Kings|Brooklyn|16th Street, East|11230
+NY|Kings|Brooklyn|16th Street, East|11235
+NY|Kings|Brooklyn|16th Street, West|11214
+NY|Kings|Brooklyn|16th Street, West|11224
+NY|Kings|Brooklyn|17th Avenue|11204
+NY|Kings|Brooklyn|17th Avenue|11214
+NY|Kings|Brooklyn|17th Court|11214
+NY|Kings|Brooklyn|17th Street|11215
+NY|Kings|Brooklyn|17th Street|11218
+NY|Kings|Brooklyn|17th Street, East|11226
+NY|Kings|Brooklyn|17th Street, East|11229
+NY|Kings|Brooklyn|17th Street, East|11230
+NY|Kings|Brooklyn|101st Street|11209
+NY|Kings|Brooklyn|17th Street, West|11214
+NY|Kings|Brooklyn|17th Street, West|11224
+NY|Kings|Brooklyn|18th Avenue|11204
+NY|Kings|Brooklyn|18th Avenue|11214
+NY|Kings|Brooklyn|18th Avenue|11218
+NY|Kings|Brooklyn|18th Street|11215
+NY|Kings|Brooklyn|18th Street|11218
+NY|Kings|Brooklyn|18th Street|11232
+NY|Kings|Brooklyn|18th Street, East|11226
+NY|Kings|Brooklyn|18th Street, East|11229
+NY|Kings|Brooklyn|18th Street, East|11230
+NY|Kings|Brooklyn|18th Street, East|11235
+NY|Kings|Brooklyn|19th Avenue|11204
+NY|Kings|Brooklyn|19th Avenue|11214
+NY|Kings|Brooklyn|19th Lane|11214
+NY|Kings|Brooklyn|19th Street|11215
+NY|Kings|Brooklyn|19th Street|11218
+NY|Kings|Brooklyn|19th Street|11232
+NY|Kings|Brooklyn|19th Street, East|11226
+NY|Kings|Brooklyn|19th Street, East|11229
+NY|Kings|Brooklyn|19th Street, East|11230
+NY|Kings|Brooklyn|19th Street, East|11235
+NY|Kings|Brooklyn|19th Street, West|11224
+NY|Kings|Brooklyn|1st Avenue|11220
+NY|Kings|Brooklyn|1st Avenue|11232
+NY|Kings|Brooklyn|1st Court|11223
+NY|Kings|Brooklyn|1st Place|11231
+NY|Kings|Brooklyn|1st Street|11215
+NY|Kings|Brooklyn|1st Street|11231
+NY|Kings|Brooklyn|1st Street, East|11223
+NY|Kings|Brooklyn|1st Street, North|11211
+NY|Kings|Brooklyn|1st Street, North|11249
+NY|Kings|Brooklyn|1st Street, South|11211
+NY|Kings|Brooklyn|1st Street, South|11249
+NY|Kings|Brooklyn|1st Street, West|11204
+NY|Kings|Brooklyn|1st Street, West|11223
+NY|Kings|Brooklyn|1st Street, West|11224
+NY|Kings|Brooklyn|20th Avenue|11204
+NY|Kings|Brooklyn|20th Avenue|11214
+NY|Kings|Brooklyn|101st Avenue|11208
+NY|Kings|Brooklyn|20th Lane|11214
+NY|Kings|Brooklyn|20th Street|11215
+NY|Kings|Brooklyn|20th Street|11218
+NY|Kings|Brooklyn|20th Street|11232
+NY|Kings|Brooklyn|20th Street, West|11224
+NY|Kings|Brooklyn|21st Avenue|11204
+NY|Kings|Brooklyn|21st Avenue|11214
+NY|Kings|Brooklyn|21st Drive|11214
+NY|Kings|Brooklyn|21st Street|11215
+NY|Kings|Brooklyn|21st Street|11232
+NY|Kings|Brooklyn|21st Street, East|11210
+NY|Kings|Brooklyn|21st Street, East|11226
+NY|Kings|Brooklyn|21st Street, East|11229
+NY|Kings|Brooklyn|21st Street, East|11235
+NY|Kings|Brooklyn|20th Drive|11214
+NY|Kings|Brooklyn|22nd Avenue|11204
+NY|Kings|Brooklyn|22nd Avenue|11214
+NY|Kings|Brooklyn|22nd Avenue|11230
+NY|Kings|Brooklyn|22nd Street|11215
+NY|Kings|Brooklyn|22nd Street|11232
+NY|Kings|Brooklyn|22nd Street, East|11210
+NY|Kings|Brooklyn|22nd Street, East|11226
+NY|Kings|Brooklyn|22nd Street, East|11229
+NY|Kings|Brooklyn|22nd Street, East|11235
+NY|Kings|Brooklyn|22nd Street, West|11214
+NY|Kings|Brooklyn|22nd Street, West|11224
+NY|Kings|Brooklyn|23rd Avenue|11204
+NY|Kings|Brooklyn|23rd Avenue|11214
+NY|Kings|Brooklyn|23rd Street|11215
+NY|Kings|Brooklyn|23rd Street|11232
+NY|Kings|Brooklyn|23rd Street, East|11210
+NY|Kings|Brooklyn|23rd Street, East|11226
+NY|Kings|Brooklyn|23rd Street, East|11229
+NY|Kings|Brooklyn|23rd Street, East|11235
+NY|Kings|Brooklyn|23rd Street, West|11224
+NY|Kings|Brooklyn|24th Avenue|11204
+NY|Kings|Brooklyn|24th Avenue|11214
+NY|Kings|Brooklyn|24th Street|11232
+NY|Kings|Brooklyn|24th Street, East|11210
+NY|Kings|Brooklyn|24th Street, East|11229
+NY|Kings|Brooklyn|24th Street, East|11235
+NY|Kings|Brooklyn|24th Street, West|11224
+NY|Kings|Brooklyn|25th Avenue|11214
+NY|Kings|Brooklyn|25th Street|11232
+NY|Kings|Brooklyn|25th Street, East|11226
+NY|Kings|Brooklyn|25th Street, West|11224
+NY|Kings|Brooklyn|26th Avenue|11214
+NY|Kings|Brooklyn|26th Street|11232
+NY|Kings|Brooklyn|26th Street, East|11210
+NY|Kings|Brooklyn|26th Street, East|11226
+NY|Kings|Brooklyn|26th Street, East|11229
+NY|Kings|Brooklyn|26th Street, East|11235
+NY|Kings|Brooklyn|12th Street, East|11230
+NY|Kings|Brooklyn|21st Street, West|11224
+NY|Kings|Brooklyn|27th Street, East|11210
+NY|Kings|Brooklyn|27th Street, East|11229
+NY|Kings|Brooklyn|27th Street, East|11235
+NY|Kings|Brooklyn|27th Street, West|11224
+NY|Kings|Brooklyn|28th Avenue|11214
+NY|Kings|Brooklyn|28th Street|11232
+NY|Kings|Brooklyn|28th Street Exd, East|11235
+NY|Kings|Brooklyn|28th Street, East|11210
+NY|Kings|Brooklyn|28th Street, East|11226
+NY|Kings|Brooklyn|28th Street, East|11229
+NY|Kings|Brooklyn|28th Street, East|11235
+NY|Kings|Brooklyn|28th Street, West|11224
+NY|Kings|Brooklyn|29th Street|11232
+NY|Kings|Brooklyn|29th Street, East|11210
+NY|Kings|Brooklyn|29th Street, East|11226
+NY|Kings|Brooklyn|29th Street, East|11229
+NY|Kings|Brooklyn|29th Street, East|11235
+NY|Kings|Brooklyn|29th Street, West|11224
+NY|Kings|Brooklyn|2nd Avenue|11215
+NY|Kings|Brooklyn|2nd Avenue|11220
+NY|Kings|Brooklyn|2nd Avenue|11223
+NY|Kings|Brooklyn|2nd Avenue|11232
+NY|Kings|Brooklyn|2nd Place|11231
+NY|Kings|Brooklyn|2nd Place, West|11224
+NY|Kings|Brooklyn|2nd Street|11215
+NY|Kings|Brooklyn|2nd Street|11231
+NY|Kings|Brooklyn|2nd Street, East|11218
+NY|Kings|Brooklyn|2nd Street, East|11223
+NY|Kings|Brooklyn|2nd Street, East|11230
+NY|Kings|Brooklyn|2nd Street, South|11211
+NY|Kings|Brooklyn|2nd Street, South|11249
+NY|Kings|Brooklyn|2nd Street, West|11204
+NY|Kings|Brooklyn|2nd Street, West|11223
+NY|Kings|Brooklyn|2nd Street, West|11224
+NY|Kings|Brooklyn|30th Street|11232
+NY|Kings|Brooklyn|30th Street, West|11224
+NY|Kings|Brooklyn|31st Street|11232
+NY|Kings|Brooklyn|31st Street, East|11210
+NY|Kings|Brooklyn|31st Street, East|11226
+NY|Kings|Brooklyn|31st Street, East|11234
+NY|Kings|Brooklyn|31st Street, West|11224
+NY|Kings|Brooklyn|32nd Street|11232
+NY|Kings|Brooklyn|32nd Street, East|11210
+NY|Kings|Brooklyn|32nd Street, East|11226
+NY|Kings|Brooklyn|32nd Street, East|11234
+NY|Kings|Brooklyn|32nd Street, West|11224
+NY|Kings|Brooklyn|33rd Street|11232
+NY|Kings|Brooklyn|33rd Street, East|11234
+NY|Kings|Brooklyn|33rd Street, West|11224
+NY|Kings|Brooklyn|34th Avenue|11223
+NY|Kings|Brooklyn|34th Street|11232
+NY|Kings|Brooklyn|34th Street, East|11203
+NY|Kings|Brooklyn|34th Street, East|11210
+NY|Kings|Brooklyn|34th Street, East|11234
+NY|Kings|Brooklyn|35th Street|11218
+NY|Kings|Brooklyn|35th Street|11232
+NY|Kings|Brooklyn|35th Street, East|11203
+NY|Kings|Brooklyn|35th Street, East|11210
+NY|Kings|Brooklyn|35th Street, East|11234
+NY|Kings|Brooklyn|35th Street, West|11224
+NY|Kings|Brooklyn|36th Street|11218
+NY|Kings|Brooklyn|36th Street|11232
+NY|Kings|Brooklyn|36th Street, East|11210
+NY|Kings|Brooklyn|36th Street, East|11234
+NY|Kings|Brooklyn|36th Street, West|11224
+NY|Kings|Brooklyn|37th Street|11218
+NY|Kings|Brooklyn|37th Street|11232
+NY|Kings|Brooklyn|37th Street, East|11203
+NY|Kings|Brooklyn|37th Street, East|11210
+NY|Kings|Brooklyn|37th Street, East|11234
+NY|Kings|Brooklyn|37th Street, West|11224
+NY|Kings|Brooklyn|38th Street|11218
+NY|Kings|Brooklyn|38th Street|11219
+NY|Kings|Brooklyn|38th Street|11232
+NY|Kings|Brooklyn|38th Street, East|11203
+NY|Kings|Brooklyn|38th Street, East|11210
+NY|Kings|Brooklyn|38th Street, East|11234
+NY|Kings|Brooklyn|39th Street|11218
+NY|Kings|Brooklyn|39th Street|11219
+NY|Kings|Brooklyn|39th Street|11232
+NY|Kings|Brooklyn|39th Street, East|11203
+NY|Kings|Brooklyn|39th Street, East|11210
+NY|Kings|Brooklyn|3rd Avenue|11209
+NY|Kings|Brooklyn|3rd Avenue|11215
+NY|Kings|Brooklyn|3rd Avenue|11217
+NY|Kings|Brooklyn|3rd Avenue|11220
+NY|Kings|Brooklyn|3rd Avenue|11232
+NY|Kings|Brooklyn|3rd Place|11231
+NY|Kings|Brooklyn|3rd Street|11215
+NY|Kings|Brooklyn|3rd Street|11231
+NY|Kings|Brooklyn|3rd Street, East|11218
+NY|Kings|Brooklyn|3rd Street, East|11223
+NY|Kings|Brooklyn|3rd Street, East|11230
+NY|Kings|Brooklyn|3rd Street, North|11211
+NY|Kings|Brooklyn|3rd Street, North|11249
+NY|Kings|Brooklyn|3rd Street, South|11211
+NY|Kings|Brooklyn|3rd Street, South|11249
+NY|Kings|Brooklyn|3rd Street, West|11204
+NY|Kings|Brooklyn|3rd Street, West|11223
+NY|Kings|Brooklyn|3rd Street, West|11224
+NY|Kings|Brooklyn|40th Street|11218
+NY|Kings|Brooklyn|40th Street|11219
+NY|Kings|Brooklyn|40th Street|11232
+NY|Kings|Brooklyn|40th Street, East|11203
+NY|Kings|Brooklyn|40th Street, East|11210
+NY|Kings|Brooklyn|40th Street, East|11234
+NY|Kings|Brooklyn|41st Street|11218
+NY|Kings|Brooklyn|41st Street|11219
+NY|Kings|Brooklyn|41st Street|11232
+NY|Kings|Brooklyn|41st Street, East|11234
+NY|Kings|Brooklyn|42nd Street|11204
+NY|Kings|Brooklyn|42nd Street|11219
+NY|Kings|Brooklyn|42nd Street|11232
+NY|Kings|Brooklyn|42nd Street, East|11203
+NY|Kings|Brooklyn|42nd Street, East|11210
+NY|Kings|Brooklyn|43rd Street|11204
+NY|Kings|Brooklyn|43rd Street|11219
+NY|Kings|Brooklyn|43rd Street|11232
+NY|Kings|Brooklyn|43rd Street, East|11203
+NY|Kings|Brooklyn|43rd Street, East|11210
+NY|Kings|Brooklyn|43rd Street, East|11234
+NY|Kings|Brooklyn|44th Street|11204
+NY|Kings|Brooklyn|44th Street|11219
+NY|Kings|Brooklyn|44th Street|11220
+NY|Kings|Brooklyn|44th Street|11232
+NY|Kings|Brooklyn|45th Street|11204
+NY|Kings|Brooklyn|45th Street|11219
+NY|Kings|Brooklyn|45th Street|11220
+NY|Kings|Brooklyn|45th Street, East|11203
+NY|Kings|Brooklyn|45th Street, East|11234
+NY|Kings|Brooklyn|46th Street|11204
+NY|Kings|Brooklyn|46th Street|11219
+NY|Kings|Brooklyn|46th Street|11220
+NY|Kings|Brooklyn|46th Street, East|11203
+NY|Kings|Brooklyn|46th Street, East|11234
+NY|Kings|Brooklyn|47th Street|11204
+NY|Kings|Brooklyn|47th Street|11219
+NY|Kings|Brooklyn|47th Street|11220
+NY|Kings|Brooklyn|47th Street|11232
+NY|Kings|Brooklyn|47th Street, East|11203
+NY|Kings|Brooklyn|47th Street, East|11234
+NY|Kings|Brooklyn|48th Street|11204
+NY|Kings|Brooklyn|48th Street|11219
+NY|Kings|Brooklyn|48th Street|11220
+NY|Kings|Brooklyn|48th Street|11232
+NY|Kings|Brooklyn|48th Street, East|11203
+NY|Kings|Brooklyn|48th Street, East|11234
+NY|Kings|Brooklyn|27th Avenue|11214
+NY|Kings|Brooklyn|49th Street|11219
+NY|Kings|Brooklyn|49th Street|11220
+NY|Kings|Brooklyn|49th Street|11232
+NY|Kings|Brooklyn|49th Street, East|11203
+NY|Kings|Brooklyn|49th Street, East|11234
+NY|Kings|Brooklyn|4th Avenue|11209
+NY|Kings|Brooklyn|17th Street, East|11235
+NY|Kings|Brooklyn|4th Avenue|11217
+NY|Kings|Brooklyn|4th Avenue|11220
+NY|Kings|Brooklyn|4th Avenue|11232
+NY|Kings|Brooklyn|4th Place|11231
+NY|Kings|Brooklyn|4th Street|11215
+NY|Kings|Brooklyn|4th Street|11231
+NY|Kings|Brooklyn|4th Street, East|11218
+NY|Kings|Brooklyn|4th Street, East|11223
+NY|Kings|Brooklyn|4th Street, East|11230
+NY|Kings|Brooklyn|4th Street, East|11234
+NY|Kings|Brooklyn|4th Street, North|11211
+NY|Kings|Brooklyn|4th Street, North|11249
+NY|Kings|Brooklyn|4th Street, South|11211
+NY|Kings|Brooklyn|4th Street, South|11249
+NY|Kings|Brooklyn|4th Street, West|11204
+NY|Kings|Brooklyn|4th Street, West|11223
+NY|Kings|Brooklyn|50th Street|11204
+NY|Kings|Brooklyn|50th Street|11219
+NY|Kings|Brooklyn|50th Street|11220
+NY|Kings|Brooklyn|49th Street|11204
+NY|Kings|Brooklyn|51st Street|11204
+NY|Kings|Brooklyn|51st Street|11219
+NY|Kings|Brooklyn|51st Street|11220
+NY|Kings|Brooklyn|51st Street|11232
+NY|Kings|Brooklyn|51st Street, East|11203
+NY|Kings|Brooklyn|51st Street, East|11234
+NY|Kings|Brooklyn|52nd Street|11204
+NY|Kings|Brooklyn|52nd Street|11219
+NY|Kings|Brooklyn|52nd Street|11220
+NY|Kings|Brooklyn|52nd Street|11232
+NY|Kings|Brooklyn|52nd Street, East|11203
+NY|Kings|Brooklyn|52nd Street, East|11234
+NY|Kings|Brooklyn|53rd Place, East|11234
+NY|Kings|Brooklyn|53rd Street|11204
+NY|Kings|Brooklyn|53rd Street|11219
+NY|Kings|Brooklyn|53rd Street|11220
+NY|Kings|Brooklyn|53rd Street|11232
+NY|Kings|Brooklyn|53rd Street, East|11203
+NY|Kings|Brooklyn|53rd Street, East|11234
+NY|Kings|Brooklyn|54th Street|11204
+NY|Kings|Brooklyn|54th Street|11219
+NY|Kings|Brooklyn|54th Street|11220
+NY|Kings|Brooklyn|54th Street, East|11203
+NY|Kings|Brooklyn|54th Street, East|11234
+NY|Kings|Brooklyn|55th Street|11204
+NY|Kings|Brooklyn|55th Street|11219
+NY|Kings|Brooklyn|55th Street|11220
+NY|Kings|Brooklyn|55th Street, East|11203
+NY|Kings|Brooklyn|55th Street, East|11234
+NY|Kings|Brooklyn|56th Drive|11234
+NY|Kings|Brooklyn|4th Avenue|11215
+NY|Kings|Brooklyn|56th Street|11219
+NY|Kings|Brooklyn|56th Street|11220
+NY|Kings|Brooklyn|56th Street, East|11203
+NY|Kings|Brooklyn|56th Street, East|11234
+NY|Kings|Brooklyn|57th Place, East|11234
+NY|Kings|Brooklyn|57th Street|11204
+NY|Kings|Brooklyn|57th Street|11219
+NY|Kings|Brooklyn|57th Street|11220
+NY|Kings|Brooklyn|57th Street, East|11203
+NY|Kings|Brooklyn|57th Street, East|11234
+NY|Kings|Brooklyn|58th Street|11204
+NY|Kings|Brooklyn|58th Street|11219
+NY|Kings|Brooklyn|58th Street|11220
+NY|Kings|Brooklyn|58th Street, East|11203
+NY|Kings|Brooklyn|58th Street, East|11234
+NY|Kings|Brooklyn|59th Place, East|11234
+NY|Kings|Brooklyn|59th Street|11204
+NY|Kings|Brooklyn|59th Street|11219
+NY|Kings|Brooklyn|59th Street|11220
+NY|Kings|Brooklyn|59th Street, East|11203
+NY|Kings|Brooklyn|59th Street, East|11234
+NY|Kings|Brooklyn|5th Avenue|11209
+NY|Kings|Brooklyn|5th Avenue|11215
+NY|Kings|Brooklyn|5th Avenue|11217
+NY|Kings|Brooklyn|5th Avenue|11220
+NY|Kings|Brooklyn|5th Avenue|11232
+NY|Kings|Brooklyn|5th Street|11215
+NY|Kings|Brooklyn|5th Street|11231
+NY|Kings|Brooklyn|5th Street, East|11218
+NY|Kings|Brooklyn|5th Street, East|11223
+NY|Kings|Brooklyn|5th Street, East|11230
+NY|Kings|Brooklyn|5th Street, North|11211
+NY|Kings|Brooklyn|5th Street, North|11249
+NY|Kings|Brooklyn|5th Street, South|11211
+NY|Kings|Brooklyn|5th Street, South|11249
+NY|Kings|Brooklyn|5th Street, West|11204
+NY|Kings|Brooklyn|5th Street, West|11223
+NY|Kings|Brooklyn|5th Street, West|11224
+NY|Kings|Brooklyn|60th Place, East|11234
+NY|Kings|Brooklyn|60th Street|11204
+NY|Kings|Brooklyn|60th Street|11219
+NY|Kings|Brooklyn|60th Street|11220
+NY|Kings|Brooklyn|60th Street, East|11234
+NY|Kings|Brooklyn|61st Street|11204
+NY|Kings|Brooklyn|61st Street|11219
+NY|Kings|Brooklyn|61st Street|11220
+NY|Kings|Brooklyn|61st Street, East|11234
+NY|Kings|Brooklyn|62nd Street|11204
+NY|Kings|Brooklyn|62nd Street|11219
+NY|Kings|Brooklyn|62nd Street|11220
+NY|Kings|Brooklyn|63rd Street|11204
+NY|Kings|Brooklyn|63rd Street|11219
+NY|Kings|Brooklyn|63rd Street|11220
+NY|Kings|Brooklyn|63rd Street, East|11234
+NY|Kings|Brooklyn|64th Street|11204
+NY|Kings|Brooklyn|64th Street|11219
+NY|Kings|Brooklyn|64th Street|11220
+NY|Kings|Brooklyn|64th Street, East|11234
+NY|Kings|Brooklyn|65th Street|11204
+NY|Kings|Brooklyn|65th Street|11219
+NY|Kings|Brooklyn|65th Street|11220
+NY|Kings|Brooklyn|65th Street, East|11234
+NY|Kings|Brooklyn|66th Street|11204
+NY|Kings|Brooklyn|66th Street|11219
+NY|Kings|Brooklyn|66th Street|11220
+NY|Kings|Brooklyn|66th Street, East|11234
+NY|Kings|Brooklyn|67th Street|11204
+NY|Kings|Brooklyn|67th Street|11219
+NY|Kings|Brooklyn|67th Street|11220
+NY|Kings|Brooklyn|67th Street, East|11234
+NY|Kings|Brooklyn|68th Street|11204
+NY|Kings|Brooklyn|68th Street|11219
+NY|Kings|Brooklyn|68th Street|11220
+NY|Kings|Brooklyn|68th Street, East|11234
+NY|Kings|Brooklyn|69th Street|11204
+NY|Kings|Brooklyn|69th Street|11219
+NY|Kings|Brooklyn|69th Street|11220
+NY|Kings|Brooklyn|69th Street, East|11234
+NY|Kings|Brooklyn|6th Avenue|11209
+NY|Kings|Brooklyn|6th Avenue|11215
+NY|Kings|Brooklyn|6th Avenue|11217
+NY|Kings|Brooklyn|6th Avenue|11220
+NY|Kings|Brooklyn|6th Avenue|11232
+NY|Kings|Brooklyn|6th Street|11215
+NY|Kings|Brooklyn|6th Street, East|11235
+NY|Kings|Brooklyn|6th Street, North|11211
+NY|Kings|Brooklyn|6th Street, North|11249
+NY|Kings|Brooklyn|6th Street, South|11211
+NY|Kings|Brooklyn|50th Street|11232
+NY|Kings|Brooklyn|6th Street, West|11204
+NY|Kings|Brooklyn|6th Street, West|11223
+NY|Kings|Brooklyn|6th Street, West|11224
+NY|Kings|Brooklyn|70th Street|11204
+NY|Kings|Brooklyn|70th Street|11209
+NY|Kings|Brooklyn|70th Street|11228
+NY|Kings|Brooklyn|70th Street, East|11234
+NY|Kings|Brooklyn|71st Street|11204
+NY|Kings|Brooklyn|71st Street|11209
+NY|Kings|Brooklyn|71st Street|11228
+NY|Kings|Brooklyn|71st Street, East|11234
+NY|Kings|Brooklyn|72nd Court|11209
+NY|Kings|Brooklyn|72nd Street|11204
+NY|Kings|Brooklyn|72nd Street|11209
+NY|Kings|Brooklyn|72nd Street|11228
+NY|Kings|Brooklyn|72nd Street, East|11234
+NY|Kings|Brooklyn|73rd Street|11204
+NY|Kings|Brooklyn|73rd Street|11209
+NY|Kings|Brooklyn|73rd Street|11228
+NY|Kings|Brooklyn|73rd Street, East|11234
+NY|Kings|Brooklyn|74th Street|11204
+NY|Kings|Brooklyn|74th Street|11209
+NY|Kings|Brooklyn|74th Street|11228
+NY|Kings|Brooklyn|74th Street, East|11234
+NY|Kings|Brooklyn|75th Street|11204
+NY|Kings|Brooklyn|75th Street|11208
+NY|Kings|Brooklyn|75th Street|11209
+NY|Kings|Brooklyn|75th Street|11228
+NY|Kings|Brooklyn|76th Street|11209
+NY|Kings|Brooklyn|76th Street|11214
+NY|Kings|Brooklyn|76th Street|11228
+NY|Kings|Brooklyn|76th Street, East|11236
+NY|Kings|Brooklyn|77th Street|11209
+NY|Kings|Brooklyn|77th Street|11214
+NY|Kings|Brooklyn|77th Street|11228
+NY|Kings|Brooklyn|77th Street, East|11236
+NY|Kings|Brooklyn|78th Street|11208
+NY|Kings|Brooklyn|78th Street|11209
+NY|Kings|Brooklyn|78th Street|11214
+NY|Kings|Brooklyn|78th Street|11228
+NY|Kings|Brooklyn|78th Street, East|11236
+NY|Kings|Brooklyn|79th Street|11209
+NY|Kings|Brooklyn|79th Street|11214
+NY|Kings|Brooklyn|79th Street|11228
+NY|Kings|Brooklyn|79th Street, East|11236
+NY|Kings|Brooklyn|7th Avenue|11209
+NY|Kings|Brooklyn|7th Avenue|11215
+NY|Kings|Brooklyn|7th Avenue|11217
+NY|Kings|Brooklyn|7th Avenue|11220
+NY|Kings|Brooklyn|7th Avenue|11228
+NY|Kings|Brooklyn|7th Avenue|11232
+NY|Kings|Brooklyn|7th Street|11215
+NY|Kings|Brooklyn|7th Street, East|11218
+NY|Kings|Brooklyn|7th Street, East|11223
+NY|Kings|Brooklyn|7th Street, East|11230
+NY|Kings|Brooklyn|7th Street, East|11235
+NY|Kings|Brooklyn|7th Street, North|11211
+NY|Kings|Brooklyn|7th Street, North|11249
+NY|Kings|Brooklyn|7th Street, West|11204
+NY|Kings|Brooklyn|7th Street, West|11223
+NY|Kings|Brooklyn|80th Street|11209
+NY|Kings|Brooklyn|80th Street|11214
+NY|Kings|Brooklyn|80th Street|11228
+NY|Kings|Brooklyn|80th Street, East|11236
+NY|Kings|Brooklyn|81st Street|11209
+NY|Kings|Brooklyn|81st Street|11214
+NY|Kings|Brooklyn|81st Street|11228
+NY|Kings|Brooklyn|56th Street|11204
+NY|Kings|Brooklyn|27th Street|11232
+NY|Kings|Brooklyn|82nd Street|11214
+NY|Kings|Brooklyn|82nd Street|11228
+NY|Kings|Brooklyn|82nd Street, East|11236
+NY|Kings|Brooklyn|83rd Street|11209
+NY|Kings|Brooklyn|83rd Street|11214
+NY|Kings|Brooklyn|83rd Street|11228
+NY|Kings|Brooklyn|83rd Street, East|11236
+NY|Kings|Brooklyn|84th Street|11209
+NY|Kings|Brooklyn|84th Street|11214
+NY|Kings|Brooklyn|84th Street|11228
+NY|Kings|Brooklyn|84th Street, East|11236
+NY|Kings|Brooklyn|85th Street|11209
+NY|Kings|Brooklyn|6th Street, South|11249
+NY|Kings|Brooklyn|85th Street|11228
+NY|Kings|Brooklyn|85th Street, East|11236
+NY|Kings|Brooklyn|86th Street|11209
+NY|Kings|Brooklyn|86th Street|11214
+NY|Kings|Brooklyn|86th Street|11223
+NY|Kings|Brooklyn|86th Street|11228
+NY|Kings|Brooklyn|86th Street, East|11236
+NY|Kings|Brooklyn|87th Street|11209
+NY|Kings|Brooklyn|87th Street, East|11236
+NY|Kings|Brooklyn|88th Street|11209
+NY|Kings|Brooklyn|88th Street|11228
+NY|Kings|Brooklyn|88th Street, East|11236
+NY|Kings|Brooklyn|89th Street|11209
+NY|Kings|Brooklyn|89th Street, East|11236
+NY|Kings|Brooklyn|8th Avenue|11215
+NY|Kings|Brooklyn|8th Avenue|11217
+NY|Kings|Brooklyn|8th Avenue|11220
+NY|Kings|Brooklyn|8th Avenue|11228
+NY|Kings|Brooklyn|8th Avenue|11232
+NY|Kings|Brooklyn|8th Street|11215
+NY|Kings|Brooklyn|8th Street, East|11218
+NY|Kings|Brooklyn|8th Street, East|11223
+NY|Kings|Brooklyn|8th Street, East|11230
+NY|Kings|Brooklyn|8th Street, North|11211
+NY|Kings|Brooklyn|8th Street, North|11249
+NY|Kings|Brooklyn|8th Street, South|11211
+NY|Kings|Brooklyn|8th Street, South|11249
+NY|Kings|Brooklyn|8th Street, West|11204
+NY|Kings|Brooklyn|8th Street, West|11223
+NY|Kings|Brooklyn|8th Street, West|11224
+NY|Kings|Brooklyn|90th Street|11209
+NY|Kings|Brooklyn|90th Street|11228
+NY|Kings|Brooklyn|91st Street|11209
+NY|Kings|Brooklyn|91st Street, East|11212
+NY|Kings|Brooklyn|91st Street, East|11236
+NY|Kings|Brooklyn|92nd Street|11209
+NY|Kings|Brooklyn|92nd Street|11228
+NY|Kings|Brooklyn|92nd Street, East|11212
+NY|Kings|Brooklyn|92nd Street, East|11236
+NY|Kings|Brooklyn|93rd Street|11209
+NY|Kings|Brooklyn|93rd Street, East|11212
+NY|Kings|Brooklyn|93rd Street, East|11236
+NY|Kings|Brooklyn|94th Street|11209
+NY|Kings|Brooklyn|94th Street, East|11212
+NY|Kings|Brooklyn|94th Street, East|11236
+NY|Kings|Brooklyn|95th Avenue|11208
+NY|Kings|Brooklyn|95th Street|11209
+NY|Kings|Brooklyn|95th Street, East|11212
+NY|Kings|Brooklyn|95th Street, East|11236
+NY|Kings|Brooklyn|96th Street|11209
+NY|Kings|Brooklyn|81st Street, East|11236
+NY|Kings|Brooklyn|96th Street, East|11236
+NY|Kings|Brooklyn|97th Street|11209
+NY|Kings|Brooklyn|98th Street|11209
+NY|Kings|Brooklyn|98th Street, East|11212
+NY|Kings|Brooklyn|98th Street, East|11236
+NY|Kings|Brooklyn|99th Street|11209
+NY|Kings|Brooklyn|99th Street, East|11236
+NY|Kings|Brooklyn|9th Avenue|11220
+NY|Kings|Brooklyn|9th Avenue|11232
+NY|Kings|Brooklyn|9th Street|11215
+NY|Kings|Brooklyn|9th Street, East|11218
+NY|Kings|Brooklyn|9th Street, East|11223
+NY|Kings|Brooklyn|9th Street, East|11230
+NY|Kings|Brooklyn|9th Street, North|11211
+NY|Kings|Brooklyn|96th Street, East|11212
+NY|Kings|Brooklyn|9th Street, North|11249
+NY|Kings|Brooklyn|9th Street, South|11211
+NY|Kings|Brooklyn|9th Street, West|11204
+NY|Kings|Brooklyn|9th Street, West|11223
+NY|Kings|Brooklyn|9th Street, West|11231
+NY|Kings|Brooklyn|Abbey Court|11229
+NY|Kings|Brooklyn|Aberdeen Street|11207
+NY|Kings|Brooklyn|Adams Street|11201
+NY|Kings|Brooklyn|Adelphi Street|11205
+NY|Kings|Brooklyn|Adelphi Street|11238
+NY|Kings|Brooklyn|Adler Place|11208
+NY|Kings|Brooklyn|Agate Court|11213
+NY|Kings|Brooklyn|Ainslie Street|11211
+NY|Kings|Brooklyn|Aitken Place|11201
+NY|Kings|Brooklyn|Alabama Avenue|11207
+NY|Kings|Brooklyn|Albany Avenue|11203
+NY|Kings|Brooklyn|Albany Avenue|11210
+NY|Kings|Brooklyn|Albany Avenue|11213
+NY|Kings|Brooklyn|Albany Avenue|11216
+NY|Kings|Brooklyn|Albee Square|11201
+NY|Kings|Brooklyn|Albemarle Road|11218
+NY|Kings|Brooklyn|Albemarle Road|11226
+NY|Kings|Brooklyn|Albemarle Terrace|11226
+NY|Kings|Brooklyn|Alice Court|11213
+NY|Kings|Brooklyn|Allen Avenue|11229
+NY|Kings|Brooklyn|Alton Place|11210
+NY|Kings|Brooklyn|Amber Street|11208
+NY|Kings|Brooklyn|Amboy Street|11212
+NY|Kings|Brooklyn|Amersfort Place|11210
+NY|Kings|Brooklyn|Amherst Street|11235
+NY|Kings|Brooklyn|Amity Street|11201
+NY|Kings|Brooklyn|Angela Drive|11223
+NY|Kings|Brooklyn|Anna Court|11207
+NY|Kings|Brooklyn|Anthony Street|11222
+NY|Kings|Brooklyn|Apollo Street|11222
+NY|Kings|Brooklyn|Applegate Court|11223
+NY|Kings|Brooklyn|Ardsley Loop|11239
+NY|Kings|Brooklyn|Argyle Road|11218
+NY|Kings|Brooklyn|Argyle Road|11230
+NY|Kings|Brooklyn|Arion Place|11206
+NY|Kings|Brooklyn|Arkansas Drive|11234
+NY|Kings|Brooklyn|Arlington Avenue|11207
+NY|Kings|Brooklyn|Arlington Avenue|11208
+NY|Kings|Brooklyn|Arlington Place|11216
+NY|Kings|Brooklyn|Ash Street|11222
+NY|Kings|Brooklyn|Ashford Street|11207
+NY|Kings|Brooklyn|Ashland Place|11201
+NY|Kings|Brooklyn|Ashland Place|11217
+NY|Kings|Brooklyn|Aster Court|11229
+NY|Kings|Brooklyn|Astor Court|11235
+NY|Kings|Brooklyn|Atkins Avenue|11208
+NY|Kings|Brooklyn|82nd Street|11209
+NY|Kings|Brooklyn|Atlantic Avenue|11204
+NY|Kings|Brooklyn|Atlantic Avenue|11207
+NY|Kings|Brooklyn|Atlantic Avenue|11208
+NY|Kings|Brooklyn|Atlantic Avenue|11213
+NY|Kings|Brooklyn|Atlantic Avenue|11216
+NY|Kings|Brooklyn|Atlantic Avenue|11217
+NY|Kings|Brooklyn|Atlantic Avenue|11224
+NY|Kings|Brooklyn|Atlantic Avenue|11233
+NY|Kings|Brooklyn|Atlantic Avenue|11238
+NY|Kings|Brooklyn|Atlantic Cmns|11217
+NY|Kings|Brooklyn|Auburn Place|11205
+NY|Kings|Brooklyn|Aurelia Court|11210
+NY|Kings|Brooklyn|Autumn Avenue|11208
+NY|Kings|Brooklyn|Avenue A|11236
+NY|Kings|Brooklyn|Avenue B|11236
+NY|Kings|Brooklyn|Avenue C|11218
+NY|Kings|Brooklyn|Avenue D|11203
+NY|Kings|Brooklyn|Avenue D|11226
+NY|Kings|Brooklyn|Avenue D|11236
+NY|Kings|Brooklyn|Avenue F|11218
+NY|Kings|Brooklyn|Avenue G|11203
+NY|Kings|Brooklyn|Avenue G|11210
+NY|Kings|Brooklyn|Avenue G|11234
+NY|Kings|Brooklyn|Avenue H|11210
+NY|Kings|Brooklyn|Avenue H|11230
+NY|Kings|Brooklyn|Avenue H|11234
+NY|Kings|Brooklyn|Avenue I|11210
+NY|Kings|Brooklyn|Avenue I|11230
+NY|Kings|Brooklyn|Avenue I|11234
+NY|Kings|Brooklyn|Avenue J|11210
+NY|Kings|Brooklyn|Avenue J|11230
+NY|Kings|Brooklyn|Avenue J|11234
+NY|Kings|Brooklyn|Avenue J|11236
+NY|Kings|Brooklyn|Avenue K|11210
+NY|Kings|Brooklyn|Avenue K|11230
+NY|Kings|Brooklyn|Avenue K|11234
+NY|Kings|Brooklyn|Avenue K|11236
+NY|Kings|Brooklyn|Avenue L|11210
+NY|Kings|Brooklyn|Avenue L|11230
+NY|Kings|Brooklyn|Avenue L|11234
+NY|Kings|Brooklyn|Avenue L|11236
+NY|Kings|Brooklyn|Avenue M|11210
+NY|Kings|Brooklyn|Avenue M|11230
+NY|Kings|Brooklyn|Avenue M|11234
+NY|Kings|Brooklyn|Avenue M|11236
+NY|Kings|Brooklyn|Avenue N|11210
+NY|Kings|Brooklyn|Avenue N|11230
+NY|Kings|Brooklyn|Avenue N|11234
+NY|Kings|Brooklyn|Avenue N|11236
+NY|Kings|Brooklyn|Avenue O|11204
+NY|Kings|Brooklyn|Avenue O|11210
+NY|Kings|Brooklyn|Avenue O|11230
+NY|Kings|Brooklyn|Avenue O|11234
+NY|Kings|Brooklyn|Avenue P|11204
+NY|Kings|Brooklyn|Avenue P|11223
+NY|Kings|Brooklyn|Avenue P|11229
+NY|Kings|Brooklyn|Avenue P|11234
+NY|Kings|Brooklyn|Avenue Q|11234
+NY|Kings|Brooklyn|Avenue R|11223
+NY|Kings|Brooklyn|Avenue R|11229
+NY|Kings|Brooklyn|85th Street|11214
+NY|Kings|Brooklyn|Avenue S|11223
+NY|Kings|Brooklyn|Avenue S|11229
+NY|Kings|Brooklyn|Avenue S|11234
+NY|Kings|Brooklyn|Avenue T|11223
+NY|Kings|Brooklyn|Avenue T|11229
+NY|Kings|Brooklyn|Avenue T|11234
+NY|Kings|Brooklyn|Avenue U|11223
+NY|Kings|Brooklyn|Avenue U|11229
+NY|Kings|Brooklyn|Avenue U|11234
+NY|Kings|Brooklyn|Avenue V|11223
+NY|Kings|Brooklyn|Avenue V|11229
+NY|Kings|Brooklyn|Avenue V|11234
+NY|Kings|Brooklyn|Avenue W|11223
+NY|Kings|Brooklyn|Avenue W|11229
+NY|Kings|Brooklyn|Avenue W|11234
+NY|Kings|Brooklyn|Avenue X|11223
+NY|Kings|Brooklyn|Avenue X|11229
+NY|Kings|Brooklyn|Avenue X|11234
+NY|Kings|Brooklyn|Avenue X|11235
+NY|Kings|Brooklyn|Avenue Y|11214
+NY|Kings|Brooklyn|Avenue Y|11223
+NY|Kings|Brooklyn|Avenue Y|11229
+NY|Kings|Brooklyn|Avenue Y|11234
+NY|Kings|Brooklyn|Avenue Y|11235
+NY|Kings|Brooklyn|Avenue Z|11214
+NY|Kings|Brooklyn|Avenue Z|11223
+NY|Kings|Brooklyn|Avenue Z|11235
+NY|Kings|Brooklyn|Aviation Road|11234
+NY|Kings|Brooklyn|Bainbridge Street|11233
+NY|Kings|Brooklyn|Balfour Place|11225
+NY|Kings|Brooklyn|Baltic Street|11201
+NY|Kings|Brooklyn|Baltic Street|11217
+NY|Kings|Brooklyn|Bancroft Place|11233
+NY|Kings|Brooklyn|Bank Street|11236
+NY|Kings|Brooklyn|Banker Street|11222
+NY|Kings|Brooklyn|Banner 3rd Road|11235
+NY|Kings|Brooklyn|Banner 3rd Terrace|11235
+NY|Kings|Brooklyn|Banner Avenue|11235
+NY|Kings|Brooklyn|Avenue R|11234
+NY|Kings|Brooklyn|Barberry Court|11207
+NY|Kings|Brooklyn|Atlantic Avenue|11201
+NY|Kings|Brooklyn|Barlow Drive S|11234
+NY|Kings|Brooklyn|Barrineau Park Road|11210
+NY|Kings|Brooklyn|Bartlett Street|11206
+NY|Kings|Brooklyn|Bartlett Place|11229
+NY|Kings|Brooklyn|Barwell Terrace|11209
+NY|Kings|Brooklyn|Bassett Avenue|11234
+NY|Kings|Brooklyn|Batchelder Street|11229
+NY|Kings|Brooklyn|Batchelder Street|11235
+NY|Kings|Brooklyn|Bath Avenue|11214
+NY|Kings|Brooklyn|Bath Avenue|11228
+NY|Kings|Brooklyn|Battery Avenue|11209
+NY|Kings|Brooklyn|Battery Avenue|11228
+NY|Kings|Brooklyn|Baughman Place|11234
+NY|Kings|Brooklyn|Bay 10th Street|11228
+NY|Kings|Brooklyn|Bay 11th Street|11228
+NY|Kings|Brooklyn|Barbey Street|11207
+NY|Kings|Brooklyn|Bay 14th Street|11214
+NY|Kings|Brooklyn|Bay 16th Street|11214
+NY|Kings|Brooklyn|Bay 17th Street|11214
+NY|Kings|Brooklyn|Bay 19th Street|11214
+NY|Kings|Brooklyn|Bay 20th Street|11214
+NY|Kings|Brooklyn|Bay 22nd Street|11214
+NY|Kings|Brooklyn|Bay 23rd Street|11214
+NY|Kings|Brooklyn|Bay 25th Street|11214
+NY|Kings|Brooklyn|Bay 26th Street|11214
+NY|Kings|Brooklyn|Barlow Drive N|11234
+NY|Kings|Brooklyn|Bay 29th Street|11214
+NY|Kings|Brooklyn|Bay 31st Street|11214
+NY|Kings|Brooklyn|Bay 32nd Street|11214
+NY|Kings|Brooklyn|Bay 34th Street|11214
+NY|Kings|Brooklyn|Bay 35th Street|11214
+NY|Kings|Brooklyn|Bay 37th Street|11214
+NY|Kings|Brooklyn|Bay 38th Street|11214
+NY|Kings|Brooklyn|Bay 40th Street|11214
+NY|Kings|Brooklyn|Bay 41st Street|11214
+NY|Kings|Brooklyn|9th Street, South|11249
+NY|Kings|Brooklyn|Bay 44th Street|11214
+NY|Kings|Brooklyn|Bay 46th Street|11214
+NY|Kings|Brooklyn|Bay 47th Street|11214
+NY|Kings|Brooklyn|Bay 48th Street|11214
+NY|Kings|Brooklyn|Bay 49th Street|11214
+NY|Kings|Brooklyn|Bay 50th Street|11214
+NY|Kings|Brooklyn|Bay 52nd Street|11214
+NY|Kings|Brooklyn|Bay 43rd Street|11214
+NY|Kings|Brooklyn|Bay 54th Street|11214
+NY|Kings|Brooklyn|Bay 7th Street|11228
+NY|Kings|Brooklyn|Bay 8th Street|11228
+NY|Kings|Brooklyn|Bay Avenue|11210
+NY|Kings|Brooklyn|Bay Avenue|11230
+NY|Kings|Brooklyn|Bay Cliff Terrace|11220
+NY|Kings|Brooklyn|Bay Pkwy|11204
+NY|Kings|Brooklyn|Bay Pkwy|11214
+NY|Kings|Brooklyn|Bay Pkwy|11230
+NY|Kings|Brooklyn|Bay Ridge Avenue|11204
+NY|Kings|Brooklyn|Bay Ridge Avenue|11219
+NY|Kings|Brooklyn|Bay Ridge Avenue|11220
+NY|Kings|Brooklyn|Bay Ridge Pkwy|11204
+NY|Kings|Brooklyn|Bay Ridge Pkwy|11209
+NY|Kings|Brooklyn|Bay Ridge Pkwy|11228
+NY|Kings|Brooklyn|Bay Ridge Place|11209
+NY|Kings|Brooklyn|Bay Street|11231
+NY|Kings|Brooklyn|Bay View Court|11235
+NY|Kings|Brooklyn|Bayard Street|11211
+NY|Kings|Brooklyn|Bayard Street|11222
+NY|Kings|Brooklyn|Bayview Avenue|11224
+NY|Kings|Brooklyn|Bayview Place|11214
+NY|Kings|Brooklyn|Bayview Place|11236
+NY|Kings|Brooklyn|Bay 28th Street|11214
+NY|Kings|Brooklyn|Beach 38th Street|11224
+NY|Kings|Brooklyn|Beach 40th Street|11224
+NY|Kings|Brooklyn|Beach 42nd Street|11224
+NY|Kings|Brooklyn|Beach 43rd Street|11224
+NY|Kings|Brooklyn|Beach 44th Street|11224
+NY|Kings|Brooklyn|Beach 45th Street|11224
+NY|Kings|Brooklyn|Beach 46th Street|11224
+NY|Kings|Brooklyn|Beach 47th Street|11224
+NY|Kings|Brooklyn|Beach 48th Street|11224
+NY|Kings|Brooklyn|Beach 49th Street|11224
+NY|Kings|Brooklyn|Beach 50th Street|11224
+NY|Kings|Brooklyn|Beach 51st Street|11224
+NY|Kings|Brooklyn|Beach Place|11236
+NY|Kings|Brooklyn|Beach Reservation|11224
+NY|Kings|Brooklyn|Beacon Court|11229
+NY|Kings|Brooklyn|Beadel Street|11222
+NY|Kings|Brooklyn|Beard Street|11231
+NY|Kings|Brooklyn|Beaumont Street|11235
+NY|Kings|Brooklyn|Beaver Street|11206
+NY|Kings|Brooklyn|Beayer Place|11213
+NY|Kings|Brooklyn|Bedell Lane|11236
+NY|Kings|Brooklyn|Bedford Avenue|11205
+NY|Kings|Brooklyn|Bedford Avenue|11206
+NY|Kings|Brooklyn|Bedford Avenue|11210
+NY|Kings|Brooklyn|Bedford Avenue|11211
+NY|Kings|Brooklyn|Bedford Avenue|11216
+NY|Kings|Brooklyn|Beach 37th Street|11224
+NY|Kings|Brooklyn|Bedford Avenue|11225
+NY|Kings|Brooklyn|Bedford Avenue|11226
+NY|Kings|Brooklyn|Bedford Avenue|11229
+NY|Kings|Brooklyn|Bedford Avenue|11235
+NY|Kings|Brooklyn|Bedford Avenue|11249
+NY|Kings|Brooklyn|Bedford Place|11216
+NY|Kings|Brooklyn|Beekman Place|11225
+NY|Kings|Brooklyn|Beesmer Road|11249
+NY|Kings|Brooklyn|Belmont Avenue|11207
+NY|Kings|Brooklyn|Belmont Avenue|11208
+NY|Kings|Brooklyn|Belmont Avenue|11212
+NY|Kings|Brooklyn|Belt Pkwy|11214
+NY|Kings|Brooklyn|Belt Pkwy|11235
+NY|Kings|Brooklyn|Belvidere Street|11206
+NY|Kings|Brooklyn|Bennett Court|11209
+NY|Kings|Brooklyn|Benson Avenue|11214
+NY|Kings|Brooklyn|Benson Avenue|11228
+NY|Kings|Brooklyn|Bergan Street|11233
+NY|Kings|Brooklyn|Bergen Avenue|11234
+NY|Kings|Brooklyn|Bergen Beach Place|11234
+NY|Kings|Brooklyn|Bergen Court|11234
+NY|Kings|Brooklyn|Bergen Cove|11234
+NY|Kings|Brooklyn|Bergen Place|11220
+NY|Kings|Brooklyn|Bergen Street|11201
+NY|Kings|Brooklyn|Bergen Street|11213
+NY|Kings|Brooklyn|Bergen Street|11216
+NY|Kings|Brooklyn|Bergen Street|11217
+NY|Kings|Brooklyn|Bergen Street|11233
+NY|Kings|Brooklyn|Bergen Street|11238
+NY|Kings|Brooklyn|Berkeley Place|11217
+NY|Kings|Brooklyn|Berriman Street|11208
+NY|Kings|Brooklyn|Berry Street|11211
+NY|Kings|Brooklyn|Berry Street|11249
+NY|Kings|Brooklyn|Bethel Loop|11239
+NY|Kings|Brooklyn|Beverley Road|11203
+NY|Kings|Brooklyn|Beverley Road|11218
+NY|Kings|Brooklyn|Beverley Road|11226
+NY|Kings|Brooklyn|Bevy Court|11229
+NY|Kings|Brooklyn|Bijou Avenue|11229
+NY|Kings|Brooklyn|Billings Place|11223
+NY|Kings|Brooklyn|Bills Place|11218
+NY|Kings|Brooklyn|Blake Avenue|11207
+NY|Kings|Brooklyn|Blake Avenue|11208
+NY|Kings|Brooklyn|Blake Avenue|11212
+NY|Kings|Brooklyn|Blake Court|11235
+NY|Kings|Brooklyn|Bleecker Street|11221
+NY|Kings|Brooklyn|Bleecker Street|11237
+NY|Kings|Brooklyn|Bliss Terrace|11220
+NY|Kings|Brooklyn|Boardwalk E|11235
+NY|Kings|Brooklyn|Bay 13th Street|11214
+NY|Kings|Brooklyn|Bedford Avenue|11222
+NY|Kings|Brooklyn|Boerum Street|11206
+NY|Kings|Brooklyn|Bogart Street|11206
+NY|Kings|Brooklyn|Bokee Court|11223
+NY|Kings|Brooklyn|Bond Street|11201
+NY|Kings|Brooklyn|Bond Street|11217
+NY|Kings|Brooklyn|Bond Street|11231
+NY|Kings|Brooklyn|Borinquen Place|11211
+NY|Kings|Brooklyn|Bouck Court|11223
+NY|Kings|Brooklyn|Boulevard Court|11223
+NY|Kings|Brooklyn|Bay 53rd Street|11214
+NY|Kings|Brooklyn|Bowery Street|11224
+NY|Kings|Brooklyn|Box Street|11222
+NY|Kings|Brooklyn|Boynton Place|11223
+NY|Kings|Brooklyn|Bradford Street|11207
+NY|Kings|Brooklyn|Bragg Court|11235
+NY|Kings|Brooklyn|Bragg Street|11214
+NY|Kings|Brooklyn|Bragg Street|11229
+NY|Kings|Brooklyn|Bragg Street|11235
+NY|Kings|Brooklyn|Branton Street|11236
+NY|Kings|Brooklyn|Brevoort Place|11216
+NY|Kings|Brooklyn|Bridge Street|11201
+NY|Kings|Brooklyn|Bridgewater Street|11222
+NY|Kings|Brooklyn|Brigham Street|11229
+NY|Kings|Brooklyn|Brigham Street|11235
+NY|Kings|Brooklyn|Brighton 1 Path|11235
+NY|Kings|Brooklyn|Brighton 1 Place|11235
+NY|Kings|Brooklyn|Brighton 10th Court|11235
+NY|Kings|Brooklyn|Brighton 10th Lane|11235
+NY|Kings|Brooklyn|Brighton 10th Path|11235
+NY|Kings|Brooklyn|Brighton 10th Street|11235
+NY|Kings|Brooklyn|Brighton 10th Terrace|11235
+NY|Kings|Brooklyn|Brighton 11th Street|11235
+NY|Kings|Brooklyn|Brighton 12th Street|11235
+NY|Kings|Brooklyn|Brighton 13th Street|11235
+NY|Kings|Brooklyn|Brighton 14th Street|11235
+NY|Kings|Brooklyn|Boardwalk W|11224
+NY|Kings|Brooklyn|Brighton 1st Court|11235
+NY|Kings|Brooklyn|Brighton 1st Lane|11235
+NY|Kings|Brooklyn|Brighton 1st Path|11235
+NY|Kings|Brooklyn|Bowne Street|11231
+NY|Kings|Brooklyn|Brighton 1st Road|11235
+NY|Kings|Brooklyn|Brighton 1st Street|11235
+NY|Kings|Brooklyn|Brighton 1st Terrace|11235
+NY|Kings|Brooklyn|Brighton 1st Walk|11235
+NY|Kings|Brooklyn|Brighton 2 Path|11235
+NY|Kings|Brooklyn|Brighton 2nd Lane|11235
+NY|Kings|Brooklyn|Brighton 2nd Place|11235
+NY|Kings|Brooklyn|Brighton 2nd Street|11235
+NY|Kings|Brooklyn|Brighton 2nd Walk|11235
+NY|Kings|Brooklyn|Brighton 3 Place|11235
+NY|Kings|Brooklyn|Brighton 3rd Court|11235
+NY|Kings|Brooklyn|Brighton 3rd Lane|11235
+NY|Kings|Brooklyn|Brighton 3rd Road|11235
+NY|Kings|Brooklyn|Brighton 15th Street|11235
+NY|Kings|Brooklyn|Brighton 3rd Walk|11235
+NY|Kings|Brooklyn|Brighton 4 Place|11235
+NY|Kings|Brooklyn|Brighton 4th Court|11235
+NY|Kings|Brooklyn|Brighton 4th Lane|11235
+NY|Kings|Brooklyn|Brighton 4th Road|11235
+NY|Kings|Brooklyn|Brighton 4th Street|11235
+NY|Kings|Brooklyn|Brighton 4th Terrace|11235
+NY|Kings|Brooklyn|Brighton 4th Walk|11235
+NY|Kings|Brooklyn|Brighton 5th Court|11235
+NY|Kings|Brooklyn|Brighton 5th Lane|11235
+NY|Kings|Brooklyn|Brighton 5th Place|11235
+NY|Kings|Brooklyn|Brighton 5th Street|11235
+NY|Kings|Brooklyn|Brighton 5th Walk|11235
+NY|Kings|Brooklyn|Brighton 6th Court|11235
+NY|Kings|Brooklyn|Brighton 6th Street|11235
+NY|Kings|Brooklyn|Brighton 7th Court|11235
+NY|Kings|Brooklyn|Brighton 7th Lane|11235
+NY|Kings|Brooklyn|Brighton 7th Street|11235
+NY|Kings|Brooklyn|Brighton 7th Walk|11235
+NY|Kings|Brooklyn|Brighton 8th Court|11235
+NY|Kings|Brooklyn|Brighton 8th Lane|11235
+NY|Kings|Brooklyn|Brighton 8th Place|11235
+NY|Kings|Brooklyn|Brighton 8th Street|11235
+NY|Kings|Brooklyn|Brighton Avenue, West|11224
+NY|Kings|Brooklyn|Brighton Beach Avenue|11235
+NY|Kings|Brooklyn|Brighton Court|11223
+NY|Kings|Brooklyn|Brighton Court|11235
+NY|Kings|Brooklyn|Brightwater Avenue|11235
+NY|Kings|Brooklyn|Brightwater Court|11235
+NY|Kings|Brooklyn|Bristol Street|11212
+NY|Kings|Brooklyn|Bristol Street|11236
+NY|Kings|Brooklyn|Broadway|11206
+NY|Kings|Brooklyn|Broadway|11207
+NY|Kings|Brooklyn|Broadway|11211
+NY|Kings|Brooklyn|Broadway|11221
+NY|Kings|Brooklyn|Broadway|11249
+NY|Kings|Brooklyn|Brookdale Plaza|11212
+NY|Kings|Brooklyn|Brooklyn Avenue|11203
+NY|Kings|Brooklyn|Brooklyn Avenue|11210
+NY|Kings|Brooklyn|Brooklyn Avenue|11213
+NY|Kings|Brooklyn|Brooklyn Avenue|11216
+NY|Kings|Brooklyn|Brooklyn Avenue|11225
+NY|Kings|Brooklyn|Brooklyn Road|11210
+NY|Kings|Brooklyn|Broome Street|11222
+NY|Kings|Brooklyn|Brown Street|11229
+NY|Kings|Brooklyn|Brown Street|11235
+NY|Kings|Brooklyn|Bryant Street|11231
+NY|Kings|Brooklyn|Buffalo Avenue|11213
+NY|Kings|Brooklyn|Brighton 1st Place|11235
+NY|Kings|Brooklyn|Bulwer Place|11207
+NY|Kings|Brooklyn|Burnett Street|11229
+NY|Kings|Brooklyn|Bush Street|11231
+NY|Kings|Brooklyn|Bushwick Avenue|11206
+NY|Kings|Brooklyn|Brighton 3rd Street|11235
+NY|Kings|Brooklyn|Bushwick Avenue|11211
+NY|Kings|Brooklyn|Bushwick Avenue|11221
+NY|Kings|Brooklyn|Bushwick Court|11206
+NY|Kings|Brooklyn|Bushwick Place|11206
+NY|Kings|Brooklyn|Butler Place|11238
+NY|Kings|Brooklyn|Butler Street|11217
+NY|Kings|Brooklyn|Butler Street|11231
+NY|Kings|Brooklyn|Cadman Plaza E|11201
+NY|Kings|Brooklyn|Cadman Plaza W|11201
+NY|Kings|Brooklyn|Calder Place|11215
+NY|Kings|Brooklyn|Calhoun Street|11211
+NY|Kings|Brooklyn|Calyer Street|11222
+NY|Kings|Brooklyn|Cambridge Place|11238
+NY|Kings|Brooklyn|Cameron Court|11204
+NY|Kings|Brooklyn|Campus Place|11208
+NY|Kings|Brooklyn|Campus Road|11210
+NY|Kings|Brooklyn|Boerum Place|11201
+NY|Kings|Brooklyn|Canarsie Road|11236
+NY|Kings|Brooklyn|Canda Avenue|11235
+NY|Kings|Brooklyn|Canton Court|11229
+NY|Kings|Brooklyn|Carlton Avenue|11205
+NY|Kings|Brooklyn|Buffalo Avenue|11233
+NY|Kings|Brooklyn|Carroll Street|11213
+NY|Kings|Brooklyn|Carroll Street|11215
+NY|Kings|Brooklyn|Carroll Street|11225
+NY|Kings|Brooklyn|Carroll Street|11231
+NY|Kings|Brooklyn|Cass Place|11235
+NY|Kings|Brooklyn|Cathedral Place|11201
+NY|Kings|Brooklyn|Catherine Street|11211
+NY|Kings|Brooklyn|Caton Avenue|11218
+NY|Kings|Brooklyn|Caton Avenue|11226
+NY|Kings|Brooklyn|Caton Place|11218
+NY|Kings|Brooklyn|Cedar Street|11221
+NY|Kings|Brooklyn|Cedar Street|11230
+NY|Kings|Brooklyn|Celeste Court|11229
+NY|Kings|Brooklyn|Center Mall|11231
+NY|Kings|Brooklyn|Center Market Street|11236
+NY|Kings|Brooklyn|Canal Avenue|11224
+NY|Kings|Brooklyn|Central Avenue|11207
+NY|Kings|Brooklyn|Central Avenue|11221
+NY|Kings|Brooklyn|Central Avenue|11206
+NY|Kings|Brooklyn|Centre Street|11231
+NY|Kings|Brooklyn|Channel Avenue|11229
+NY|Kings|Brooklyn|Chapel Street|11201
+NY|Kings|Brooklyn|Charles Place|11221
+NY|Kings|Brooklyn|Chase Court|11236
+NY|Kings|Brooklyn|Chauncey Street|11207
+NY|Kings|Brooklyn|Chauncey Street|11233
+NY|Kings|Brooklyn|Cheever Place|11231
+NY|Kings|Brooklyn|Cherry Street|11222
+NY|Kings|Brooklyn|Chester Avenue|11218
+NY|Kings|Brooklyn|Chester Court|11225
+NY|Kings|Brooklyn|Bushwick Avenue|11207
+NY|Kings|Brooklyn|Chester Street|11236
+NY|Kings|Brooklyn|Chestnut Avenue|11230
+NY|Kings|Brooklyn|Chestnut Street|11208
+NY|Kings|Brooklyn|Christopher Avenue|11212
+NY|Kings|Brooklyn|Church Avenue|11203
+NY|Kings|Brooklyn|Church Avenue|11212
+NY|Kings|Brooklyn|Church Avenue|11218
+NY|Kings|Brooklyn|Church Avenue|11226
+NY|Kings|Brooklyn|Church Avenue|11236
+NY|Kings|Brooklyn|Church Lane|11236
+NY|Kings|Brooklyn|Clara Street|11218
+NY|Kings|Brooklyn|Clarendon Road|11203
+NY|Kings|Brooklyn|Clarendon Road|11226
+NY|Kings|Brooklyn|Clark Street|11201
+NY|Kings|Brooklyn|Clarkson Avenue|11203
+NY|Kings|Brooklyn|Clarkson Avenue|11212
+NY|Kings|Brooklyn|Clarkson Avenue|11226
+NY|Kings|Brooklyn|Chester Street|11212
+NY|Kings|Brooklyn|Classon Avenue|11211
+NY|Kings|Brooklyn|Classon Avenue|11225
+NY|Kings|Brooklyn|Classon Avenue|11238
+NY|Kings|Brooklyn|Claver Place|11238
+NY|Kings|Brooklyn|Clay Street|11222
+NY|Kings|Brooklyn|Clear Water Road|11234
+NY|Kings|Brooklyn|Clermont Avenue|11205
+NY|Kings|Brooklyn|Clermont Avenue|11238
+NY|Kings|Brooklyn|Cleveland Street|11208
+NY|Kings|Brooklyn|Clifford Place|11222
+NY|Kings|Brooklyn|Clifton Place|11216
+NY|Kings|Brooklyn|Clifton Place|11238
+NY|Kings|Brooklyn|Clinton Avenue|11205
+NY|Kings|Brooklyn|Clinton Avenue|11238
+NY|Kings|Brooklyn|Clinton Street|11201
+NY|Kings|Brooklyn|Clinton Street|11231
+NY|Kings|Brooklyn|Clinton Wharf|11231
+NY|Kings|Brooklyn|Clove Road|11225
+NY|Kings|Brooklyn|Clymer Street|11249
+NY|Kings|Brooklyn|Clymer Street|11211
+NY|Kings|Brooklyn|Co Road A, East|11224
+NY|Kings|Brooklyn|Cobek Court|11223
+NY|Kings|Brooklyn|Coffey Street|11231
+NY|Kings|Brooklyn|Colby Court|11223
+NY|Kings|Brooklyn|Coleman Street|11234
+NY|Kings|Brooklyn|Coleridge Street|11235
+NY|Kings|Brooklyn|Coles Street|11231
+NY|Kings|Brooklyn|Colin Place|11223
+NY|Kings|Brooklyn|College Place|11201
+NY|Kings|Brooklyn|Colonial Court|11209
+NY|Kings|Brooklyn|Colonial Gdns|11209
+NY|Kings|Brooklyn|Colonial Road|11209
+NY|Kings|Brooklyn|Colonial Road|11220
+NY|Kings|Brooklyn|Columbia Hts|11201
+NY|Kings|Brooklyn|Columbia Place|11201
+NY|Kings|Brooklyn|Columbia Street|11201
+NY|Kings|Brooklyn|Columbia Street|11231
+NY|Kings|Brooklyn|Columbus Place|11233
+NY|Kings|Brooklyn|Commerce Street|11231
+NY|Kings|Brooklyn|Commercial Street|11222
+NY|Kings|Brooklyn|Commercial Wharf|11231
+NY|Kings|Brooklyn|Concord Street|11201
+NY|Kings|Brooklyn|Conduit Boulevard, North|11208
+NY|Kings|Brooklyn|Conduit Boulevard, South|11208
+NY|Kings|Brooklyn|Coney Island Avenue|11218
+NY|Kings|Brooklyn|Coney Island Avenue|11223
+NY|Kings|Brooklyn|Coney Island Avenue|11230
+NY|Kings|Brooklyn|Coney Island Avenue|11235
+NY|Kings|Brooklyn|Congress Street|11201
+NY|Kings|Brooklyn|Conklin Avenue|11236
+NY|Kings|Brooklyn|Conover Street|11231
+NY|Kings|Brooklyn|Conselyea Street|11211
+NY|Kings|Brooklyn|Conway Street|11207
+NY|Kings|Brooklyn|Conway Street|11233
+NY|Kings|Brooklyn|Cook Street|11206
+NY|Kings|Brooklyn|Cooke Court|11207
+NY|Kings|Brooklyn|Cooper Street|11207
+NY|Kings|Brooklyn|Cooper Street|11237
+NY|Kings|Brooklyn|Corbin Court|11230
+NY|Kings|Brooklyn|Corbin Place|11235
+NY|Kings|Brooklyn|Cornelia Street|11221
+NY|Kings|Brooklyn|Cornelia Street|11237
+NY|Kings|Brooklyn|Corso Court|11223
+NY|Kings|Brooklyn|Cortelyou Road|11203
+NY|Kings|Brooklyn|Cortelyou Road|11218
+NY|Kings|Brooklyn|Cortelyou Road|11226
+NY|Kings|Brooklyn|County Road 196|11210
+NY|Kings|Brooklyn|County Road A|11224
+NY|Kings|Brooklyn|County Road B|11221
+NY|Kings|Brooklyn|County Road H|11224
+NY|Kings|Brooklyn|County Road V|11241
+NY|Kings|Brooklyn|Court Square|11201
+NY|Kings|Brooklyn|Court Street|11201
+NY|Kings|Brooklyn|Court Street|11231
+NY|Kings|Brooklyn|Cove Lane|11234
+NY|Kings|Brooklyn|Classon Avenue|11205
+NY|Kings|Brooklyn|Covert Street|11207
+NY|Kings|Brooklyn|Covert Street|11237
+NY|Kings|Brooklyn|Cox Place|11208
+NY|Kings|Brooklyn|Coyle Street|11229
+NY|Kings|Brooklyn|Coyle Street|11235
+NY|Kings|Brooklyn|Cozine Avenue|11207
+NY|Kings|Brooklyn|Cozine Avenue|11208
+NY|Kings|Brooklyn|Cranberry Street|11201
+NY|Kings|Brooklyn|Crawford Avenue|11223
+NY|Kings|Brooklyn|Creamer Street|11231
+NY|Kings|Brooklyn|Crescent Street|11208
+NY|Kings|Brooklyn|Cristoforo Colombo Boulevard|11204
+NY|Kings|Brooklyn|Cristoforo Colombo Boulevard|11214
+NY|Kings|Brooklyn|Cristoforo Colombo Boulevard|11218
+NY|Kings|Brooklyn|Crooke Avenue|11226
+NY|Kings|Brooklyn|Cropsey Avenue|11214
+NY|Kings|Brooklyn|Cropsey Avenue|11224
+NY|Kings|Brooklyn|Coventry Road|11236
+NY|Kings|Brooklyn|Crosby Avenue|11207
+NY|Kings|Brooklyn|Croton Loop|11239
+NY|Kings|Brooklyn|Crown Street|11213
+NY|Kings|Brooklyn|Crown Street|11225
+NY|Kings|Brooklyn|Crystal Street|11208
+NY|Kings|Brooklyn|Cumberland Street|11205
+NY|Kings|Brooklyn|Carlton Avenue|11238
+NY|Kings|Brooklyn|Cumberland Walk|11205
+NY|Kings|Brooklyn|Cypress Avenue|11224
+NY|Kings|Brooklyn|Cypress Avenue|11237
+NY|Kings|Brooklyn|Cypress Court|11208
+NY|Kings|Brooklyn|Cumberland Street|11238
+NY|Kings|Brooklyn|Cyrus Avenue|11229
+NY|Kings|Brooklyn|Dahill Road|11218
+NY|Kings|Brooklyn|Dahill Road|11223
+NY|Kings|Brooklyn|Dahl Court|11204
+NY|Kings|Brooklyn|Dahlgren Place|11228
+NY|Kings|Brooklyn|Dakota Place|11234
+NY|Kings|Brooklyn|Danforth Street|11208
+NY|Kings|Brooklyn|Dank Court|11223
+NY|Kings|Brooklyn|Dare Court|11229
+NY|Kings|Brooklyn|de Koven Court|11230
+NY|Kings|Brooklyn|de Sales Place|11207
+NY|Kings|Brooklyn|Dean Street|11201
+NY|Kings|Brooklyn|Dean Street|11213
+NY|Kings|Brooklyn|Dean Street|11216
+NY|Kings|Brooklyn|Dean Street|11217
+NY|Kings|Brooklyn|Dean Street|11233
+NY|Kings|Brooklyn|Dean Street|11238
+NY|Kings|Brooklyn|Dearborn Court|11225
+NY|Kings|Brooklyn|Debevoise Avenue|11211
+NY|Kings|Brooklyn|Debevoise Avenue|11222
+NY|Kings|Brooklyn|Debevoise Street|11206
+NY|Kings|Brooklyn|Decatur Street|11207
+NY|Kings|Brooklyn|Decatur Street|11216
+NY|Kings|Brooklyn|Decatur Street|11233
+NY|Kings|Brooklyn|Decatur Street|11237
+NY|Kings|Brooklyn|Degraw Street|11217
+NY|Kings|Brooklyn|Degraw Street|11231
+NY|Kings|Brooklyn|Dekalb Avenue|11201
+NY|Kings|Brooklyn|Dekalb Avenue|11205
+NY|Kings|Brooklyn|Dekalb Avenue|11216
+NY|Kings|Brooklyn|Dekalb Avenue|11217
+NY|Kings|Brooklyn|Dekalb Avenue|11221
+NY|Kings|Brooklyn|Dekalb Avenue|11237
+NY|Kings|Brooklyn|Delevan Street|11231
+NY|Kings|Brooklyn|Delmar Loop|11239
+NY|Kings|Brooklyn|Dennett Place|11231
+NY|Kings|Brooklyn|Denton Place|11215
+NY|Kings|Brooklyn|Desmond Court|11235
+NY|Kings|Brooklyn|Devoe Street|11211
+NY|Kings|Brooklyn|Devon Avenue|11229
+NY|Kings|Brooklyn|Dewey Place|11233
+NY|Kings|Brooklyn|Dewitt Avenue|11207
+NY|Kings|Brooklyn|Dewitt Avenue|11236
+NY|Kings|Brooklyn|Diamond Street|11222
+NY|Kings|Brooklyn|Dictum Court|11229
+NY|Kings|Brooklyn|Dikeman Street|11231
+NY|Kings|Brooklyn|Dinsmore Place|11208
+NY|Kings|Brooklyn|Ditmars Street|11221
+NY|Kings|Brooklyn|Ditmas Avenue|11203
+NY|Kings|Brooklyn|Ditmas Avenue|11218
+NY|Kings|Brooklyn|Ditmas Avenue|11226
+NY|Kings|Brooklyn|Ditmas Avenue|11236
+NY|Kings|Brooklyn|Division Avenue|11211
+NY|Kings|Brooklyn|Division Avenue|11249
+NY|Kings|Brooklyn|Division Place|11222
+NY|Kings|Brooklyn|Dobbin Street|11222
+NY|Kings|Brooklyn|Doctor H L James Boulevard|11233
+NY|Kings|Brooklyn|Centre Mall|11231
+NY|Kings|Brooklyn|Dodworth Street|11221
+NY|Kings|Brooklyn|Doone Court|11235
+NY|Kings|Brooklyn|Dorchester Road|11218
+NY|Kings|Brooklyn|Dorchester Road|11226
+NY|Kings|Brooklyn|Dorset Street|11236
+NY|Kings|Brooklyn|Doscher Street|11208
+NY|Kings|Brooklyn|Doughty Street|11201
+NY|Kings|Brooklyn|Douglass Street|11217
+NY|Kings|Brooklyn|Douglass Street|11231
+NY|Kings|Brooklyn|Doulbeday Lane|11209
+NY|Kings|Brooklyn|Dover Street|11235
+NY|Kings|Brooklyn|Downing Street|11238
+NY|Kings|Brooklyn|Dr Sandy Feay Boulevard|11221
+NY|Kings|Brooklyn|Dr Wesley Macdonald Holder Avenue|11213
+NY|Kings|Brooklyn|Dr Wesley McDonald Avenue|11203
+NY|Kings|Brooklyn|Dr Wesley McDonald Holder Avenue|11203
+NY|Kings|Brooklyn|Drew Street|11208
+NY|Kings|Brooklyn|Drew Street|11216
+NY|Kings|Brooklyn|Driggs Avenue|11211
+NY|Kings|Brooklyn|Driggs Avenue|11222
+NY|Kings|Brooklyn|Driggs Avenue|11249
+NY|Kings|Brooklyn|Duffield Street|11201
+NY|Kings|Brooklyn|Dumont Avenue|11207
+NY|Kings|Brooklyn|Dumont Avenue|11208
+NY|Kings|Brooklyn|Dumont Avenue|11212
+NY|Kings|Brooklyn|Dunham Place|11249
+NY|Kings|Brooklyn|Dunne Court|11235
+NY|Kings|Brooklyn|Dunne Place|11235
+NY|Kings|Brooklyn|Dupont Street|11222
+NY|Kings|Brooklyn|Durland Place|11236
+NY|Kings|Brooklyn|Duryea Court|11219
+NY|Kings|Brooklyn|Duryea Place|11226
+NY|Kings|Brooklyn|Dwight Street|11231
+NY|Kings|Brooklyn|Dyker Place|11228
+NY|Kings|Brooklyn|E 100th Street|11236
+NY|Kings|Brooklyn|E 101st Street|11236
+NY|Kings|Brooklyn|E 102nd Street|11236
+NY|Kings|Brooklyn|E 103rd Street|11236
+NY|Kings|Brooklyn|Dahill Road|11204
+NY|Kings|Brooklyn|E 105th Street|11236
+NY|Kings|Brooklyn|E 106th Street|11236
+NY|Kings|Brooklyn|E 107th Street|11236
+NY|Kings|Brooklyn|E 108th Street|11236
+NY|Kings|Brooklyn|Cropsey Avenue|11228
+NY|Kings|Brooklyn|E 10th Street|11223
+NY|Kings|Brooklyn|E 10th Street|11230
+NY|Kings|Brooklyn|E 11th Street|11218
+NY|Kings|Brooklyn|E 11th Street|11235
+NY|Kings|Brooklyn|E 12th Street|11218
+NY|Kings|Brooklyn|E 12th Street|11229
+NY|Kings|Brooklyn|E 12th Street|11230
+NY|Kings|Brooklyn|E 12th Street|11235
+NY|Kings|Brooklyn|E 13th Street|11218
+NY|Kings|Brooklyn|E 13th Street|11229
+NY|Kings|Brooklyn|E 13th Street|11230
+NY|Kings|Brooklyn|E 13th Street|11235
+NY|Kings|Brooklyn|E 14th Street|11226
+NY|Kings|Brooklyn|E 14th Street|11229
+NY|Kings|Brooklyn|E 14th Street|11230
+NY|Kings|Brooklyn|E 14th Street|11235
+NY|Kings|Brooklyn|E 15th Street|11226
+NY|Kings|Brooklyn|E 15th Street|11229
+NY|Kings|Brooklyn|E 15th Street|11230
+NY|Kings|Brooklyn|E 15th Street|11235
+NY|Kings|Brooklyn|E 16th Street|11226
+NY|Kings|Brooklyn|E 16th Street|11229
+NY|Kings|Brooklyn|E 16th Street|11230
+NY|Kings|Brooklyn|E 16th Street|11235
+NY|Kings|Brooklyn|E 17th Street|11226
+NY|Kings|Brooklyn|E 17th Street|11229
+NY|Kings|Brooklyn|E 17th Street|11230
+NY|Kings|Brooklyn|E 17th Street|11235
+NY|Kings|Brooklyn|E 18th Street|11226
+NY|Kings|Brooklyn|E 10th Street|11218
+NY|Kings|Brooklyn|E 18th Street|11230
+NY|Kings|Brooklyn|E 18th Street|11235
+NY|Kings|Brooklyn|E 19th Street|11226
+NY|Kings|Brooklyn|E 19th Street|11229
+NY|Kings|Brooklyn|E 19th Street|11230
+NY|Kings|Brooklyn|E 19th Street|11235
+NY|Kings|Brooklyn|E 1st Street|11223
+NY|Kings|Brooklyn|E 21st Street|11210
+NY|Kings|Brooklyn|E 21st Street|11226
+NY|Kings|Brooklyn|E 21st Street|11229
+NY|Kings|Brooklyn|E 21st Street|11235
+NY|Kings|Brooklyn|E 22nd Street|11210
+NY|Kings|Brooklyn|E 22nd Street|11226
+NY|Kings|Brooklyn|E 22nd Street|11229
+NY|Kings|Brooklyn|E 22nd Street|11235
+NY|Kings|Brooklyn|E 23rd Street|11210
+NY|Kings|Brooklyn|E 23rd Street|11226
+NY|Kings|Brooklyn|E 23rd Street|11229
+NY|Kings|Brooklyn|E 23rd Street|11235
+NY|Kings|Brooklyn|E 24th Street|11210
+NY|Kings|Brooklyn|E 24th Street|11229
+NY|Kings|Brooklyn|E 24th Street|11235
+NY|Kings|Brooklyn|E 25th Street|11226
+NY|Kings|Brooklyn|E 26th Street|11210
+NY|Kings|Brooklyn|E 26th Street|11226
+NY|Kings|Brooklyn|E 26th Street|11229
+NY|Kings|Brooklyn|E 26th Street|11235
+NY|Kings|Brooklyn|E 27th Street|11210
+NY|Kings|Brooklyn|E 27th Street|11229
+NY|Kings|Brooklyn|E 27th Street|11235
+NY|Kings|Brooklyn|E 28th Street|11210
+NY|Kings|Brooklyn|E 28th Street|11226
+NY|Kings|Brooklyn|E 28th Street|11229
+NY|Kings|Brooklyn|E 28th Street|11235
+NY|Kings|Brooklyn|E 28th Street Exd|11235
+NY|Kings|Brooklyn|E 29th Street|11210
+NY|Kings|Brooklyn|E 29th Street|11226
+NY|Kings|Brooklyn|E 29th Street|11229
+NY|Kings|Brooklyn|E 29th Street|11235
+NY|Kings|Brooklyn|E 2nd Street|11218
+NY|Kings|Brooklyn|E 2nd Street|11223
+NY|Kings|Brooklyn|E 2nd Street|11230
+NY|Kings|Brooklyn|E 31st Street|11210
+NY|Kings|Brooklyn|E 31st Street|11226
+NY|Kings|Brooklyn|E 31st Street|11234
+NY|Kings|Brooklyn|E 32nd Street|11210
+NY|Kings|Brooklyn|E 32nd Street|11226
+NY|Kings|Brooklyn|E 32nd Street|11234
+NY|Kings|Brooklyn|E 33rd Street|11234
+NY|Kings|Brooklyn|E 34th Street|11203
+NY|Kings|Brooklyn|E 104th Street|11236
+NY|Kings|Brooklyn|E 34th Street|11210
+NY|Kings|Brooklyn|Dooley Street|11235
+NY|Kings|Brooklyn|E 35th Street|11210
+NY|Kings|Brooklyn|E 35th Street|11234
+NY|Kings|Brooklyn|E 36th Street|11210
+NY|Kings|Brooklyn|E 36th Street|11234
+NY|Kings|Brooklyn|E 37th Street|11203
+NY|Kings|Brooklyn|E 37th Street|11210
+NY|Kings|Brooklyn|E 18th Street|11229
+NY|Kings|Brooklyn|E 38th Street|11203
+NY|Kings|Brooklyn|E 38th Street|11210
+NY|Kings|Brooklyn|E 38th Street|11234
+NY|Kings|Brooklyn|E 39th Street|11203
+NY|Kings|Brooklyn|E 39th Street|11210
+NY|Kings|Brooklyn|E 3rd Street|11218
+NY|Kings|Brooklyn|E 3rd Street|11223
+NY|Kings|Brooklyn|E 3rd Street|11230
+NY|Kings|Brooklyn|E 40th Street|11203
+NY|Kings|Brooklyn|E 34th Street|11234
+NY|Kings|Brooklyn|E 40th Street|11234
+NY|Kings|Brooklyn|E 41st Street|11234
+NY|Kings|Brooklyn|E 42nd Street|11203
+NY|Kings|Brooklyn|E 42nd Street|11210
+NY|Kings|Brooklyn|E 43rd Street|11203
+NY|Kings|Brooklyn|E 43rd Street|11210
+NY|Kings|Brooklyn|E 43rd Street|11234
+NY|Kings|Brooklyn|E 45th Street|11203
+NY|Kings|Brooklyn|E 45th Street|11234
+NY|Kings|Brooklyn|E 46th Street|11203
+NY|Kings|Brooklyn|E 46th Street|11234
+NY|Kings|Brooklyn|E 47th Street|11203
+NY|Kings|Brooklyn|E 47th Street|11234
+NY|Kings|Brooklyn|E 48th Street|11203
+NY|Kings|Brooklyn|E 48th Street|11234
+NY|Kings|Brooklyn|E 49th Street|11203
+NY|Kings|Brooklyn|E 37th Street|11234
+NY|Kings|Brooklyn|E 4th Street|11218
+NY|Kings|Brooklyn|E 35th Street|11203
+NY|Kings|Brooklyn|E 4th Street|11230
+NY|Kings|Brooklyn|E 4th Street|11234
+NY|Kings|Brooklyn|E 51st Street|11203
+NY|Kings|Brooklyn|E 51st Street|11234
+NY|Kings|Brooklyn|E 52nd Street|11203
+NY|Kings|Brooklyn|E 52nd Street|11234
+NY|Kings|Brooklyn|E 53rd Place|11234
+NY|Kings|Brooklyn|E 53rd Street|11203
+NY|Kings|Brooklyn|E 4th Street|11223
+NY|Kings|Brooklyn|E 54th Street|11203
+NY|Kings|Brooklyn|E 54th Street|11234
+NY|Kings|Brooklyn|E 55th Street|11203
+NY|Kings|Brooklyn|E 55th Street|11234
+NY|Kings|Brooklyn|E 56th Street|11203
+NY|Kings|Brooklyn|E 56th Street|11234
+NY|Kings|Brooklyn|E 57th Place|11234
+NY|Kings|Brooklyn|E 57th Street|11203
+NY|Kings|Brooklyn|E 57th Street|11234
+NY|Kings|Brooklyn|E 40th Street|11210
+NY|Kings|Brooklyn|E 58th Street|11203
+NY|Kings|Brooklyn|E 53rd Street|11234
+NY|Kings|Brooklyn|E 59th Street|11203
+NY|Kings|Brooklyn|E 59th Street|11234
+NY|Kings|Brooklyn|E 5th Street|11218
+NY|Kings|Brooklyn|E 58th Street|11234
+NY|Kings|Brooklyn|E 5th Street|11223
+NY|Kings|Brooklyn|E 59th Place|11234
+NY|Kings|Brooklyn|E 49th Street|11234
+NY|Kings|Brooklyn|E 61st Street|11234
+NY|Kings|Brooklyn|E 63rd Street|11234
+NY|Kings|Brooklyn|E 64th Street|11234
+NY|Kings|Brooklyn|E 65th Street|11234
+NY|Kings|Brooklyn|E 66th Street|11234
+NY|Kings|Brooklyn|E 67th Street|11234
+NY|Kings|Brooklyn|E 60th Place|11234
+NY|Kings|Brooklyn|E 68th Street|11234
+NY|Kings|Brooklyn|E 60th Street|11234
+NY|Kings|Brooklyn|E 69th Street|11234
+NY|Kings|Brooklyn|E 71st Street|11234
+NY|Kings|Brooklyn|E 72nd Street|11234
+NY|Kings|Brooklyn|E 73rd Street|11234
+NY|Kings|Brooklyn|E 70th Street|11234
+NY|Kings|Brooklyn|E 76th Street|11236
+NY|Kings|Brooklyn|E 77th Street|11236
+NY|Kings|Brooklyn|E 78th Street|11236
+NY|Kings|Brooklyn|E 79th Street|11236
+NY|Kings|Brooklyn|E 7th Street|11218
+NY|Kings|Brooklyn|E 7th Street|11223
+NY|Kings|Brooklyn|E 7th Street|11230
+NY|Kings|Brooklyn|E 7th Street|11235
+NY|Kings|Brooklyn|E 80th Street|11236
+NY|Kings|Brooklyn|E 81st Street|11236
+NY|Kings|Brooklyn|E 82nd Street|11236
+NY|Kings|Brooklyn|E 83rd Street|11236
+NY|Kings|Brooklyn|E 84th Street|11236
+NY|Kings|Brooklyn|E 85th Street|11236
+NY|Kings|Brooklyn|E 86th Street|11236
+NY|Kings|Brooklyn|E 87th Street|11236
+NY|Kings|Brooklyn|E 88th Street|11236
+NY|Kings|Brooklyn|E 89th Street|11236
+NY|Kings|Brooklyn|E 8th Street|11218
+NY|Kings|Brooklyn|E 8th Street|11223
+NY|Kings|Brooklyn|E 8th Street|11230
+NY|Kings|Brooklyn|E 91st Street|11212
+NY|Kings|Brooklyn|E 91st Street|11236
+NY|Kings|Brooklyn|E 92nd Street|11212
+NY|Kings|Brooklyn|E 92nd Street|11236
+NY|Kings|Brooklyn|E 93rd Street|11212
+NY|Kings|Brooklyn|E 93rd Street|11236
+NY|Kings|Brooklyn|E 94th Street|11212
+NY|Kings|Brooklyn|E 94th Street|11236
+NY|Kings|Brooklyn|E 95th Street|11212
+NY|Kings|Brooklyn|E 95th Street|11236
+NY|Kings|Brooklyn|E 96th Street|11212
+NY|Kings|Brooklyn|E 96th Street|11236
+NY|Kings|Brooklyn|E 98th Street|11212
+NY|Kings|Brooklyn|E 98th Street|11236
+NY|Kings|Brooklyn|E 99th Street|11236
+NY|Kings|Brooklyn|E 6th Street|11235
+NY|Kings|Brooklyn|E 9th Street|11223
+NY|Kings|Brooklyn|E 9th Street|11230
+NY|Kings|Brooklyn|E Co Road A|11224
+NY|Kings|Brooklyn|E Main Street|11224
+NY|Kings|Brooklyn|E Marginal Street|11207
+NY|Kings|Brooklyn|E New York Avenue|11203
+NY|Kings|Brooklyn|E New York Avenue|11207
+NY|Kings|Brooklyn|E New York Avenue|11212
+NY|Kings|Brooklyn|E New York Avenue|11225
+NY|Kings|Brooklyn|E New York Avenue|11233
+NY|Kings|Brooklyn|Eagle Street|11222
+NY|Kings|Brooklyn|Eastern Pkwy|11207
+NY|Kings|Brooklyn|Eastern Pkwy|11213
+NY|Kings|Brooklyn|Eastern Pkwy|11216
+NY|Kings|Brooklyn|Eastern Pkwy|11225
+NY|Kings|Brooklyn|Eastern Pkwy|11233
+NY|Kings|Brooklyn|Eastern Pkwy|11238
+NY|Kings|Brooklyn|Eastern Pkwy Exn|11233
+NY|Kings|Brooklyn|Eaton Court|11229
+NY|Kings|Brooklyn|Ebony Court|11229
+NY|Kings|Brooklyn|Eckford Street|11222
+NY|Kings|Brooklyn|Eldert Lane|11208
+NY|Kings|Brooklyn|Eldert Street|11207
+NY|Kings|Brooklyn|Eldert Street|11237
+NY|Kings|Brooklyn|Elderts Lane|11208
+NY|Kings|Brooklyn|Elizabeth Place|11201
+NY|Kings|Brooklyn|Ellery Street|11206
+NY|Kings|Brooklyn|Elliott Place, North|11205
+NY|Kings|Brooklyn|Elliott Place, South|11217
+NY|Kings|Brooklyn|E 9th Street|11218
+NY|Kings|Brooklyn|Elm Avenue|11230
+NY|Kings|Brooklyn|Elm Place|11201
+NY|Kings|Brooklyn|Elmira Loop|11239
+NY|Kings|Brooklyn|Elliott Walk, North|11205
+NY|Kings|Brooklyn|Elton Street|11208
+NY|Kings|Brooklyn|Emerald Street|11208
+NY|Kings|Brooklyn|Emerson Place|11205
+NY|Kings|Brooklyn|Emmons Avenue|11235
+NY|Kings|Brooklyn|Empire Boulevard|11213
+NY|Kings|Brooklyn|Empire Boulevard|11225
+NY|Kings|Brooklyn|End Avenue, West|11235
+NY|Kings|Brooklyn|Engert Avenue|11222
+NY|Kings|Brooklyn|Erasmus Street|11226
+NY|Kings|Brooklyn|Erskine Loop|11239
+NY|Kings|Brooklyn|Erskine Street|11239
+NY|Kings|Brooklyn|Essex Street|11208
+NY|Kings|Brooklyn|Estate Road|11223
+NY|Kings|Brooklyn|Etna Street|11208
+NY|Kings|Brooklyn|Euclid Avenue|11208
+NY|Kings|Brooklyn|Evans Street|11201
+NY|Kings|Brooklyn|Everett Avenue|11229
+NY|Kings|Brooklyn|Evergreen Avenue|11206
+NY|Kings|Brooklyn|Evergreen Avenue|11207
+NY|Kings|Brooklyn|Evergreen Avenue|11221
+NY|Kings|Brooklyn|Everit Street|11201
+NY|Kings|Brooklyn|Exeter Street|11235
+NY|Kings|Brooklyn|Fair Street|11201
+NY|Kings|Brooklyn|Fairview Place|11226
+NY|Kings|Brooklyn|E 74th Street|11234
+NY|Kings|Brooklyn|Fanchon Place|11207
+NY|Kings|Brooklyn|Fane Court|11229
+NY|Kings|Brooklyn|Farnham Square|11228
+NY|Kings|Brooklyn|Farragut Place|11210
+NY|Kings|Brooklyn|Farragut Road|11203
+NY|Kings|Brooklyn|Farragut Road|11210
+NY|Kings|Brooklyn|Farragut Road|11234
+NY|Kings|Brooklyn|Farragut Road|11236
+NY|Kings|Brooklyn|Fay Court|11235
+NY|Kings|Brooklyn|Fayette Street|11206
+NY|Kings|Brooklyn|Fenimore Street|11203
+NY|Kings|Brooklyn|Fenimore Street|11225
+NY|Kings|Brooklyn|Ferris Street|11231
+NY|Kings|Brooklyn|Ferry Place|11231
+NY|Kings|Brooklyn|Fillmore Avenue|11229
+NY|Kings|Brooklyn|Fillmore Avenue|11234
+NY|Kings|Brooklyn|Fillmore Place|11211
+NY|Kings|Brooklyn|Fiske Place|11215
+NY|Kings|Brooklyn|Flatbush Avenue|11210
+NY|Kings|Brooklyn|Flatbush Avenue|11217
+NY|Kings|Brooklyn|Flatbush Avenue|11225
+NY|Kings|Brooklyn|Flatbush Avenue|11226
+NY|Kings|Brooklyn|Flatbush Avenue|11234
+NY|Kings|Brooklyn|Flatbush Avenue|11238
+NY|Kings|Brooklyn|Flatbush Avenue Exn|11201
+NY|Kings|Brooklyn|Flatland Avenue|11208
+NY|Kings|Brooklyn|Flatlands 10th Street|11236
+NY|Kings|Brooklyn|Flatlands 1st Street|11236
+NY|Kings|Brooklyn|Flatlands 2nd Street|11236
+NY|Kings|Brooklyn|Flatlands 3rd Street|11236
+NY|Kings|Brooklyn|Flatlands 4th Street|11236
+NY|Kings|Brooklyn|Flatlands 5th Street|11236
+NY|Kings|Brooklyn|Flatlands 6th Street|11236
+NY|Kings|Brooklyn|Flatlands 7th Street|11236
+NY|Kings|Brooklyn|Flatlands 8th Street|11236
+NY|Kings|Brooklyn|Flatlands 9th Street|11236
+NY|Kings|Brooklyn|Flatlands Avenue|11207
+NY|Kings|Brooklyn|Flatlands Avenue|11208
+NY|Kings|Brooklyn|Flatlands Avenue|11234
+NY|Kings|Brooklyn|Flatlands Avenue|11236
+NY|Kings|Brooklyn|Fleet Place|11201
+NY|Kings|Brooklyn|Fleet Street|11201
+NY|Kings|Brooklyn|Fleet Walk|11201
+NY|Kings|Brooklyn|Florence Avenue|11229
+NY|Kings|Brooklyn|Floyd Bennett Field|11234
+NY|Kings|Brooklyn|Floyd Street|11206
+NY|Kings|Brooklyn|Flushing Avenue|11205
+NY|Kings|Brooklyn|Flushing Avenue|11206
+NY|Kings|Brooklyn|Flushing Avenue|11237
+NY|Kings|Brooklyn|Folsom Place|11208
+NY|Kings|Brooklyn|Forbell Street|11208
+NY|Kings|Brooklyn|Force Tube Avenue|11208
+NY|Kings|Brooklyn|Ford Street|11213
+NY|Kings|Brooklyn|Ford Street|11229
+NY|Kings|Brooklyn|Ford Street|11235
+NY|Kings|Brooklyn|Forest Place|11209
+NY|Kings|Brooklyn|Forrest Street|11206
+NY|Kings|Brooklyn|Fort Greene Place|11217
+NY|Kings|Brooklyn|Fort Hamilton Manor|11209
+NY|Kings|Brooklyn|Fort Hamilton Pkwy|11209
+NY|Kings|Brooklyn|Fort Hamilton Pkwy|11218
+NY|Kings|Brooklyn|Fort Hamilton Pkwy|11219
+NY|Kings|Brooklyn|Fort Hamilton Pkwy|11228
+NY|Kings|Brooklyn|Fort Hill Place|11228
+NY|Kings|Brooklyn|Foster Avenue|11203
+NY|Kings|Brooklyn|Foster Avenue|11210
+NY|Kings|Brooklyn|Foster Avenue|11226
+NY|Kings|Brooklyn|Foster Avenue|11230
+NY|Kings|Brooklyn|Foster Avenue|11234
+NY|Kings|Brooklyn|Foster Avenue|11236
+NY|Kings|Brooklyn|Fountain Avenue|11208
+NY|Kings|Brooklyn|Frank Court|11229
+NY|Kings|Brooklyn|Franklin Avenue|11205
+NY|Kings|Brooklyn|Franklin Avenue|11211
+NY|Kings|Brooklyn|Franklin Avenue|11225
+NY|Kings|Brooklyn|Franklin Avenue|11238
+NY|Kings|Brooklyn|Franklin Avenue|11249
+NY|Kings|Brooklyn|Franklin Street|11222
+NY|Kings|Brooklyn|Freeman Street|11222
+NY|Kings|Brooklyn|Freeport Loop|11239
+NY|Kings|Brooklyn|Friel Place|11218
+NY|Kings|Brooklyn|Front Street|11201
+NY|Kings|Brooklyn|Frost Street|11211
+NY|Kings|Brooklyn|Frost Street|11222
+NY|Kings|Brooklyn|Fuller Place|11215
+NY|Kings|Brooklyn|Fulton Street|11201
+NY|Kings|Brooklyn|Fulton Street|11207
+NY|Kings|Brooklyn|Fulton Street|11208
+NY|Kings|Brooklyn|Fulton Street|11213
+NY|Kings|Brooklyn|Fulton Street|11216
+NY|Kings|Brooklyn|Fulton Street|11217
+NY|Kings|Brooklyn|Fulton Street|11233
+NY|Kings|Brooklyn|Fulton Street|11238
+NY|Kings|Brooklyn|Furman Avenue|11207
+NY|Kings|Brooklyn|Furman Street|11201
+NY|Kings|Brooklyn|Gain Court|11229
+NY|Kings|Brooklyn|Gallatin Place|11201
+NY|Kings|Brooklyn|Falmouth Street|11235
+NY|Kings|Brooklyn|Garden Street|11206
+NY|Kings|Brooklyn|Gardner Avenue|11211
+NY|Kings|Brooklyn|Gardner Avenue|11222
+NY|Kings|Brooklyn|Gardner Avenue|11237
+NY|Kings|Brooklyn|Garfield Place|11215
+NY|Kings|Brooklyn|Garland Court|11229
+NY|Kings|Brooklyn|Garnet Street|11231
+NY|Kings|Brooklyn|Garvey Avenue|11216
+NY|Kings|Brooklyn|Garvey Boulevard|11216
+NY|Kings|Brooklyn|Gates Avenue|11216
+NY|Kings|Brooklyn|Gates Avenue|11221
+NY|Kings|Brooklyn|Gates Avenue|11237
+NY|Kings|Brooklyn|Gates Avenue|11238
+NY|Kings|Brooklyn|Gateway Drive|11239
+NY|Kings|Brooklyn|Gatling Place|11209
+NY|Kings|Brooklyn|Gaylord Drive N|11234
+NY|Kings|Brooklyn|Gaylord Drive S|11234
+NY|Kings|Brooklyn|Gelston Avenue|11209
+NY|Kings|Brooklyn|Gem Street|11222
+NY|Kings|Brooklyn|General Lee Avenue|11209
+NY|Kings|Brooklyn|Geneva Loop|11239
+NY|Kings|Brooklyn|George Street|11206
+NY|Kings|Brooklyn|George Street|11237
+NY|Kings|Brooklyn|Elmwood Avenue|11230
+NY|Kings|Brooklyn|Georgia Avenue|11207
+NY|Kings|Brooklyn|Gerald Court|11235
+NY|Kings|Brooklyn|Gerald H Chambers Square|11235
+NY|Kings|Brooklyn|Gerritsen Avenue|11229
+NY|Kings|Brooklyn|Gerry Street|11206
+NY|Kings|Brooklyn|Gilmore Court|11235
+NY|Kings|Brooklyn|Girard Street|11235
+NY|Kings|Brooklyn|Glen Street|11208
+NY|Kings|Brooklyn|Glendale Court|11234
+NY|Kings|Brooklyn|Glenmore Avenue|11207
+NY|Kings|Brooklyn|Glenmore Avenue|11208
+NY|Kings|Brooklyn|Glenmore Avenue|11212
+NY|Kings|Brooklyn|Glenwood Road|11203
+NY|Kings|Brooklyn|Glenwood Road|11207
+NY|Kings|Brooklyn|Glenwood Road|11210
+NY|Kings|Brooklyn|Glenwood Road|11230
+NY|Kings|Brooklyn|Glenwood Road|11234
+NY|Kings|Brooklyn|Glenwood Road|11236
+NY|Kings|Brooklyn|Gold Street|11201
+NY|Kings|Brooklyn|Goodwin Place|11221
+NY|Kings|Brooklyn|Garden Place|11201
+NY|Kings|Brooklyn|Gowanus Expy|11220
+NY|Kings|Brooklyn|Gowanus Expy|11232
+NY|Kings|Brooklyn|Grace Court|11201
+NY|Kings|Brooklyn|Grace Court Alley|11201
+NY|Kings|Brooklyn|Grafton Street|11212
+NY|Kings|Brooklyn|Graham Avenue|11206
+NY|Kings|Brooklyn|Graham Avenue|11211
+NY|Kings|Brooklyn|Graham Avenue|11222
+NY|Kings|Brooklyn|Grand Army Plaza|11238
+NY|Kings|Brooklyn|Grand Avenue|11205
+NY|Kings|Brooklyn|Grand Avenue|11238
+NY|Kings|Brooklyn|Grand Parents Avenue|11211
+NY|Kings|Brooklyn|Grand Street|11211
+NY|Kings|Brooklyn|Grand Street|11249
+NY|Kings|Brooklyn|Grand Street Exd|11211
+NY|Kings|Brooklyn|Grandparents Avenue|11222
+NY|Kings|Brooklyn|Granite Street|11207
+NY|Kings|Brooklyn|Grant Avenue|11208
+NY|Kings|Brooklyn|Granville Payne Avenue|11239
+NY|Kings|Brooklyn|Grattan Street|11206
+NY|Kings|Brooklyn|Grattan Street|11237
+NY|Kings|Brooklyn|Gravesend Neck Road|11223
+NY|Kings|Brooklyn|Gravesend Neck Road|11229
+NY|Kings|Brooklyn|Gray Court|11235
+NY|Kings|Brooklyn|Green Street|11222
+NY|Kings|Brooklyn|Greene Avenue|11216
+NY|Kings|Brooklyn|Greene Avenue|11221
+NY|Kings|Brooklyn|Greene Avenue|11237
+NY|Kings|Brooklyn|Greene Avenue|11238
+NY|Kings|Brooklyn|Greenpoint Avenue|11222
+NY|Kings|Brooklyn|Greenwood Avenue|11218
+NY|Kings|Brooklyn|Georgetown Lane|11234
+NY|Kings|Brooklyn|Grimes Road|11209
+NY|Kings|Brooklyn|Grove Place|11201
+NY|Kings|Brooklyn|Grove Street|11221
+NY|Kings|Brooklyn|Grove Street|11237
+NY|Kings|Brooklyn|Guernsey Street|11222
+NY|Kings|Brooklyn|Guider Avenue|11235
+NY|Kings|Brooklyn|Gunnison Court|11235
+NY|Kings|Brooklyn|Gunther Place|11233
+NY|Kings|Brooklyn|Hale Avenue|11208
+NY|Kings|Brooklyn|Hall Street|11205
+NY|Kings|Brooklyn|Halleck Street|11231
+NY|Kings|Brooklyn|Hallelujah Way|11207
+NY|Kings|Brooklyn|Halsey Street|11207
+NY|Kings|Brooklyn|Halsey Street|11216
+NY|Kings|Brooklyn|Halsey Street|11233
+NY|Kings|Brooklyn|Halsey Street|11237
+NY|Kings|Brooklyn|Hamilton Avenue|11231
+NY|Kings|Brooklyn|Hamilton Manor|11209
+NY|Kings|Brooklyn|Hamilton Walk|11209
+NY|Kings|Brooklyn|Hampton Avenue|11235
+NY|Kings|Brooklyn|Hampton Place|11213
+NY|Kings|Brooklyn|Hancock Street|11216
+NY|Kings|Brooklyn|Hancock Street|11221
+NY|Kings|Brooklyn|Greenwood Avenue|11230
+NY|Kings|Brooklyn|Hancock Street|11237
+NY|Kings|Brooklyn|Hanover Place|11201
+NY|Kings|Brooklyn|Hanson Place|11217
+NY|Kings|Brooklyn|Harbor Court|11209
+NY|Kings|Brooklyn|Harbor View Terrace|11209
+NY|Kings|Brooklyn|Harbor Lane|11209
+NY|Kings|Brooklyn|Harden Street|11234
+NY|Kings|Brooklyn|Haring Street|11229
+NY|Kings|Brooklyn|Haring Street|11235
+NY|Kings|Brooklyn|Harkness Avenue|11235
+NY|Kings|Brooklyn|Harman Street|11221
+NY|Kings|Brooklyn|Harman Street|11237
+NY|Kings|Brooklyn|Harrison Alley|11201
+NY|Kings|Brooklyn|Harrison Avenue|11206
+NY|Kings|Brooklyn|Harrison Avenue|11211
+NY|Kings|Brooklyn|Harrison Place|11206
+NY|Kings|Brooklyn|Harrison Place|11237
+NY|Kings|Brooklyn|Hart Place|11224
+NY|Kings|Brooklyn|Hart Street|11206
+NY|Kings|Brooklyn|Hart Street|11221
+NY|Kings|Brooklyn|Hart Street|11237
+NY|Kings|Brooklyn|Harway Avenue|11214
+NY|Kings|Brooklyn|Harwood Place|11203
+NY|Kings|Brooklyn|Hastings Street|11235
+NY|Kings|Brooklyn|Hattie Jones Place|11213
+NY|Kings|Brooklyn|Hausman Street|11222
+NY|Kings|Brooklyn|Havemeyer Street|11211
+NY|Kings|Brooklyn|Havens Place|11233
+NY|Kings|Brooklyn|Hawthorne Street|11203
+NY|Kings|Brooklyn|Hawthorne Street|11225
+NY|Kings|Brooklyn|Hazel Court|11229
+NY|Kings|Brooklyn|Heath Place|11207
+NY|Kings|Brooklyn|Hegeman Avenue|11207
+NY|Kings|Brooklyn|Hegeman Avenue|11208
+NY|Kings|Brooklyn|Hegeman Avenue|11212
+NY|Kings|Brooklyn|Hemlock Street|11208
+NY|Kings|Brooklyn|Henderson Walk|11224
+NY|Kings|Brooklyn|Hendrickson Place|11234
+NY|Kings|Brooklyn|Hendrickson Street|11234
+NY|Kings|Brooklyn|Hendrix Street|11203
+NY|Kings|Brooklyn|Gotham Avenue|11229
+NY|Kings|Brooklyn|Henry Street|11201
+NY|Kings|Brooklyn|Henry Street|11231
+NY|Kings|Brooklyn|Henry Street, North|11222
+NY|Kings|Brooklyn|Herbert Street|11222
+NY|Kings|Brooklyn|Herkimer Place|11216
+NY|Kings|Brooklyn|Herkimer Court|11216
+NY|Kings|Brooklyn|Herkimer Street|11207
+NY|Kings|Brooklyn|Herkimer Street|11213
+NY|Kings|Brooklyn|Herkimer Street|11216
+NY|Kings|Brooklyn|Herkimer Street|11233
+NY|Kings|Brooklyn|Herzl Street|11212
+NY|Kings|Brooklyn|Hewes Street|11211
+NY|Kings|Brooklyn|Hewes Street|11249
+NY|Kings|Brooklyn|Heyward Street|11206
+NY|Kings|Brooklyn|Heyward Street|11211
+NY|Kings|Brooklyn|Heyward Street|11249
+NY|Kings|Brooklyn|Hicks Street|11201
+NY|Kings|Brooklyn|Hicks Street|11231
+NY|Kings|Brooklyn|High Street|11201
+NY|Kings|Brooklyn|Highland Avenue|11224
+NY|Kings|Brooklyn|Highland Boulevard|11207
+NY|Kings|Brooklyn|Highland Place|11208
+NY|Kings|Brooklyn|E 5th Street|11230
+NY|Kings|Brooklyn|Highlawn Avenue|11223
+NY|Kings|Brooklyn|Hill Street|11208
+NY|Kings|Brooklyn|Hillel Place|11210
+NY|Kings|Brooklyn|Himrod Street|11221
+NY|Kings|Brooklyn|Himrod Street|11237
+NY|Kings|Brooklyn|Hinckley Place|11218
+NY|Kings|Brooklyn|Hinsdale Street|11207
+NY|Kings|Brooklyn|Hitchings Avenue|11235
+NY|Kings|Brooklyn|Holly Street|11208
+NY|Kings|Brooklyn|Holmes Lane|11236
+NY|Kings|Brooklyn|Holt Court|11235
+NY|Kings|Brooklyn|Homecrest Avenue|11229
+NY|Kings|Brooklyn|Homecrest Avenue|11235
+NY|Kings|Brooklyn|Homecrest Court|11223
+NY|Kings|Brooklyn|Hooper Street|11211
+NY|Kings|Brooklyn|Hooper Street|11249
+NY|Kings|Brooklyn|Hope Street|11211
+NY|Kings|Brooklyn|Hopkins Street|11206
+NY|Kings|Brooklyn|Hopkinson Avenue|11212
+NY|Kings|Brooklyn|Hopkinson Avenue|11233
+NY|Kings|Brooklyn|Hopkinson Avenue|11236
+NY|Kings|Brooklyn|Hendrix Street|11207
+NY|Kings|Brooklyn|Hornell Loop|11239
+NY|Kings|Brooklyn|Howard Alley|11201
+NY|Kings|Brooklyn|Howard Avenue|11212
+NY|Kings|Brooklyn|Howard Avenue|11221
+NY|Kings|Brooklyn|Howard Avenue|11233
+NY|Kings|Brooklyn|Howard Place|11215
+NY|Kings|Brooklyn|Hoyt Street|11201
+NY|Kings|Brooklyn|Hoyt Street|11217
+NY|Kings|Brooklyn|Hoyt Street|11231
+NY|Kings|Brooklyn|Hoyts Lane|11236
+NY|Kings|Brooklyn|Hubbard Place|11210
+NY|Kings|Brooklyn|Hubbard Street|11235
+NY|Kings|Brooklyn|Hudson Avenue|11201
+NY|Kings|Brooklyn|Hudson Walk|11201
+NY|Kings|Brooklyn|Hull Street|11233
+NY|Kings|Brooklyn|Humboldt Street|11206
+NY|Kings|Brooklyn|Humboldt Street|11211
+NY|Kings|Brooklyn|Humboldt Street|11222
+NY|Kings|Brooklyn|Hunterfly Place|11233
+NY|Kings|Brooklyn|Huntington Street|11231
+NY|Kings|Brooklyn|Hunts Lane|11201
+NY|Kings|Brooklyn|Highland View Avenue|11224
+NY|Kings|Brooklyn|Hutchinson Court|11223
+NY|Kings|Brooklyn|Huron Street|11222
+NY|Kings|Brooklyn|Ide Court|11235
+NY|Kings|Brooklyn|Imlay Street|11231
+NY|Kings|Brooklyn|Independence Avenue|11228
+NY|Kings|Brooklyn|Hyman Court|11229
+NY|Kings|Brooklyn|Indiana Place|11234
+NY|Kings|Brooklyn|Ingraham Street|11206
+NY|Kings|Brooklyn|Ingraham Street|11237
+NY|Kings|Brooklyn|Interborough Pkwy|11207
+NY|Kings|Brooklyn|Interstate 278|11220
+NY|Kings|Brooklyn|Ira Court|11229
+NY|Kings|Brooklyn|Irving Avenue|11237
+NY|Kings|Brooklyn|Horace Court|11218
+NY|Kings|Brooklyn|Irving Street|11231
+NY|Kings|Brooklyn|Irvington Place|11230
+NY|Kings|Brooklyn|Irwin Street|11235
+NY|Kings|Brooklyn|Ivan Court|11229
+NY|Kings|Brooklyn|Jackie Robinson Pkwy|11207
+NY|Kings|Brooklyn|Jackson Court|11209
+NY|Kings|Brooklyn|India Street|11222
+NY|Kings|Brooklyn|Jackson Street|11211
+NY|Kings|Brooklyn|Jaffray Street|11235
+NY|Kings|Brooklyn|Jamaica Avenue|11207
+NY|Kings|Brooklyn|Jamaica Avenue|11208
+NY|Kings|Brooklyn|Jardine Place|11233
+NY|Kings|Brooklyn|Java Street|11222
+NY|Kings|Brooklyn|Jay Street|11201
+NY|Kings|Brooklyn|Jefferson Avenue|11216
+NY|Kings|Brooklyn|Jefferson Avenue|11221
+NY|Kings|Brooklyn|Jefferson Avenue|11237
+NY|Kings|Brooklyn|Jefferson Avenue|11238
+NY|Kings|Brooklyn|Jefferson Street|11206
+NY|Kings|Brooklyn|Jefferson Street|11237
+NY|Kings|Brooklyn|Jerome Avenue|11208
+NY|Kings|Brooklyn|Jerome Avenue|11235
+NY|Kings|Brooklyn|Jerome Street|11207
+NY|Kings|Brooklyn|Jewel Street|11222
+NY|Kings|Brooklyn|Jewell McKoy Lane|11213
+NY|Kings|Brooklyn|Jodie Court|11203
+NY|Kings|Brooklyn|John Street|11201
+NY|Kings|Brooklyn|John Tuttle Road|11238
+NY|Kings|Brooklyn|Johnson Avenue|11206
+NY|Kings|Brooklyn|Irving Place|11238
+NY|Kings|Brooklyn|Johnson Avenue|11237
+NY|Kings|Brooklyn|Johnson Place|11226
+NY|Kings|Brooklyn|Hancock Street|11233
+NY|Kings|Brooklyn|Jones Walk|11224
+NY|Kings|Brooklyn|Joralemon Street|11201
+NY|Kings|Brooklyn|Joval Court|11229
+NY|Kings|Brooklyn|Joy Way|11207
+NY|Kings|Brooklyn|Judge Street|11211
+NY|Kings|Brooklyn|Johnson Street|11201
+NY|Kings|Brooklyn|Juliana Place|11249
+NY|Kings|Brooklyn|Johnson Avenue|11211
+NY|Kings|Brooklyn|Just Court|11229
+NY|Kings|Brooklyn|Kane Place|11233
+NY|Kings|Brooklyn|Kane Street|11231
+NY|Kings|Brooklyn|Kansas Place|11234
+NY|Kings|Brooklyn|Karweg Place|11208
+NY|Kings|Brooklyn|Kathleen Court|11235
+NY|Kings|Brooklyn|Kaufman Place|11236
+NY|Kings|Brooklyn|Kay Court|11229
+NY|Kings|Brooklyn|Keap Street|11211
+NY|Kings|Brooklyn|Keap Street|11249
+NY|Kings|Brooklyn|Keen Court|11229
+NY|Kings|Brooklyn|Kenilworth Place|11210
+NY|Kings|Brooklyn|Juliana Place|11211
+NY|Kings|Brooklyn|Kenmore Place|11226
+NY|Kings|Brooklyn|Kenmore Terrace|11226
+NY|Kings|Brooklyn|Kenmore Court|11235
+NY|Kings|Brooklyn|Kensington Walk|11224
+NY|Kings|Brooklyn|Junius Street|11212
+NY|Kings|Brooklyn|Kent Avenue|11211
+NY|Kings|Brooklyn|Kent Avenue|11249
+NY|Kings|Brooklyn|Kent Street|11222
+NY|Kings|Brooklyn|Kermit Place|11218
+NY|Kings|Brooklyn|Kiely Place|11208
+NY|Kings|Brooklyn|Kimball Street|11234
+NY|Kings|Brooklyn|King Street|11231
+NY|Kings|Brooklyn|Kings Highway|11203
+NY|Kings|Brooklyn|Kings Highway|11212
+NY|Kings|Brooklyn|Kings Highway|11214
+NY|Kings|Brooklyn|Kings Highway|11223
+NY|Kings|Brooklyn|Kings Highway|11229
+NY|Kings|Brooklyn|Kings Highway|11234
+NY|Kings|Brooklyn|Kings Place|11223
+NY|Kings|Brooklyn|Kingsborough 1st Walk|11233
+NY|Kings|Brooklyn|Kingsborough 2nd Walk|11233
+NY|Kings|Brooklyn|Kingsborough 3rd Walk|11233
+NY|Kings|Brooklyn|Kingsborough 4th Walk|11233
+NY|Kings|Brooklyn|Kingsborough 5th Walk|11233
+NY|Kings|Brooklyn|Kingsborough 6th Walk|11233
+NY|Kings|Brooklyn|Kingsborough 7th Walk|11233
+NY|Kings|Brooklyn|Kingsland Avenue|11211
+NY|Kings|Brooklyn|Kingsland Avenue|11222
+NY|Kings|Brooklyn|Kingston Avenue|11203
+NY|Kings|Brooklyn|Kingston Avenue|11213
+NY|Kings|Brooklyn|Kingston Avenue|11225
+NY|Kings|Brooklyn|Kingsway Place|11234
+NY|Kings|Brooklyn|Knapp Street|11229
+NY|Kings|Brooklyn|Knapp Street|11235
+NY|Kings|Brooklyn|Knickerbocker Avenue|11207
+NY|Kings|Brooklyn|Knickerbocker Avenue|11221
+NY|Kings|Brooklyn|Knickerbocker Avenue|11237
+NY|Kings|Brooklyn|Knight Court|11229
+NY|Kings|Brooklyn|Kosciuszko Street|11221
+NY|Kings|Brooklyn|Kossuth Place|11221
+NY|Kings|Brooklyn|Krier Place|11236
+NY|Kings|Brooklyn|Lacon Court|11229
+NY|Kings|Brooklyn|Jackson Place|11215
+NY|Kings|Brooklyn|Lafayette Avenue|11216
+NY|Kings|Brooklyn|Lafayette Avenue|11217
+NY|Kings|Brooklyn|Lafayette Avenue|11221
+NY|Kings|Brooklyn|Lafayette Avenue|11238
+NY|Kings|Brooklyn|Lafayette Walk|11209
+NY|Kings|Brooklyn|Lake Avenue|11235
+NY|Kings|Brooklyn|Lake Mother Gaston Bay|11233
+NY|Kings|Brooklyn|Lake Place|11223
+NY|Kings|Brooklyn|Lake Street|11223
+NY|Kings|Brooklyn|Lama Court|11223
+NY|Kings|Brooklyn|Lamont Court|11225
+NY|Kings|Brooklyn|Lancaster Avenue|11223
+NY|Kings|Brooklyn|Landis Court|11229
+NY|Kings|Brooklyn|Langham Street|11235
+NY|Kings|Brooklyn|Lafayette Avenue|11205
+NY|Kings|Brooklyn|Lawn Court|11235
+NY|Kings|Brooklyn|Lawrence Avenue|11230
+NY|Kings|Brooklyn|Lawrence Street|11201
+NY|Kings|Brooklyn|Lawton Street|11221
+NY|Kings|Brooklyn|Lee Avenue|11206
+NY|Kings|Brooklyn|Laurel Avenue|11224
+NY|Kings|Brooklyn|Lefferts Avenue|11203
+NY|Kings|Brooklyn|Lefferts Avenue|11225
+NY|Kings|Brooklyn|Lefferts Place|11238
+NY|Kings|Brooklyn|Legion Street|11212
+NY|Kings|Brooklyn|Leif Ericson Drive|11214
+NY|Kings|Brooklyn|Leif Ericson Drive|11235
+NY|Kings|Brooklyn|Lenox Road|11203
+NY|Kings|Brooklyn|Lenox Road|11212
+NY|Kings|Brooklyn|Lee Avenue|11211
+NY|Kings|Brooklyn|Leonard Street|11206
+NY|Kings|Brooklyn|Leonard Street|11211
+NY|Kings|Brooklyn|Lenox Road|11226
+NY|Kings|Brooklyn|Leonora Court|11223
+NY|Kings|Brooklyn|Lester Court|11229
+NY|Kings|Brooklyn|Lewis Avenue|11206
+NY|Kings|Brooklyn|Lewis Avenue|11221
+NY|Kings|Brooklyn|Lewis Avenue|11233
+NY|Kings|Brooklyn|Lewis Place|11218
+NY|Kings|Brooklyn|Lexington Avenue|11216
+NY|Kings|Brooklyn|Leonard Street|11222
+NY|Kings|Brooklyn|Lexington Avenue|11238
+NY|Kings|Brooklyn|Liberty Avenue|11207
+NY|Kings|Brooklyn|Lexington Avenue|11221
+NY|Kings|Brooklyn|Liberty Avenue|11212
+NY|Kings|Brooklyn|Liberty Way|11209
+NY|Kings|Brooklyn|Lincoln Avenue|11208
+NY|Kings|Brooklyn|Lincoln Place|11213
+NY|Kings|Brooklyn|Lincoln Place|11216
+NY|Kings|Brooklyn|Lincoln Place|11217
+NY|Kings|Brooklyn|Lincoln Place|11233
+NY|Kings|Brooklyn|Lincoln Place|11238
+NY|Kings|Brooklyn|Lincoln Road|11225
+NY|Kings|Brooklyn|Lincoln Terrace|11235
+NY|Kings|Brooklyn|Linden Boulevard|11203
+NY|Kings|Brooklyn|Linden Boulevard|11207
+NY|Kings|Brooklyn|Linden Boulevard|11208
+NY|Kings|Brooklyn|Linden Boulevard|11212
+NY|Kings|Brooklyn|Linden Boulevard|11226
+NY|Kings|Brooklyn|Linden Street|11221
+NY|Kings|Brooklyn|Kent Avenue|11205
+NY|Kings|Brooklyn|Liberty Avenue|11208
+NY|Kings|Brooklyn|Little Nassau Street|11205
+NY|Kings|Brooklyn|Little Street|11201
+NY|Kings|Brooklyn|Linwood Street|11208
+NY|Kings|Brooklyn|Kensington Street|11235
+NY|Kings|Brooklyn|Livonia Avenue|11207
+NY|Kings|Brooklyn|Livonia Avenue|11212
+NY|Kings|Brooklyn|Llama Court|11223
+NY|Kings|Brooklyn|Livingston Street|11217
+NY|Kings|Brooklyn|Lloyd Street|11226
+NY|Kings|Brooklyn|Locust Avenue|11230
+NY|Kings|Brooklyn|Locust Street|11206
+NY|Kings|Brooklyn|Logan Street|11208
+NY|Kings|Brooklyn|Lois Avenue|11229
+NY|Kings|Brooklyn|Livingston Street|11201
+NY|Kings|Brooklyn|Lorimer Street|11206
+NY|Kings|Brooklyn|Lorimer Street|11211
+NY|Kings|Brooklyn|Lorimer Street|11222
+NY|Kings|Brooklyn|Loring Avenue|11208
+NY|Kings|Brooklyn|Lorraine Street|11231
+NY|Kings|Brooklyn|Linden Street|11237
+NY|Kings|Brooklyn|Lott Avenue|11212
+NY|Kings|Brooklyn|Lott Place|11234
+NY|Kings|Brooklyn|Lott Street|11226
+NY|Kings|Brooklyn|Louis Place|11233
+NY|Kings|Brooklyn|Louisa Street|11218
+NY|Kings|Brooklyn|Louise Terrace|11209
+NY|Kings|Brooklyn|Lombardy Street|11222
+NY|Kings|Brooklyn|Louisiana Avenue|11239
+NY|Kings|Brooklyn|Love Lane|11201
+NY|Kings|Brooklyn|Ludlam Place|11225
+NY|Kings|Brooklyn|Luquer Street|11231
+NY|Kings|Brooklyn|Lyme Avenue|11224
+NY|Kings|Brooklyn|Lynch Street|11206
+NY|Kings|Brooklyn|Lynch Street|11249
+NY|Kings|Brooklyn|Macdonough Street|11216
+NY|Kings|Brooklyn|Macdonough Street|11233
+NY|Kings|Brooklyn|Macdougal Street|11233
+NY|Kings|Brooklyn|Losee Terrace|11235
+NY|Kings|Brooklyn|Mackenzie Street|11235
+NY|Kings|Brooklyn|Lloyd Court|11223
+NY|Kings|Brooklyn|Louisiana Avenue|11207
+NY|Kings|Brooklyn|Madeline Court|11220
+NY|Kings|Brooklyn|Madison Place|11229
+NY|Kings|Brooklyn|Madison Street|11216
+NY|Kings|Brooklyn|Madison Street|11221
+NY|Kings|Brooklyn|Madison Street|11237
+NY|Kings|Brooklyn|Madison Street|11238
+NY|Kings|Brooklyn|Madoc Avenue|11229
+NY|Kings|Brooklyn|Main Street|11201
+NY|Kings|Brooklyn|Mackay Place|11209
+NY|Kings|Brooklyn|Main Street, East|11224
+NY|Kings|Brooklyn|Main Street, West|11224
+NY|Kings|Brooklyn|Malbone Street|11225
+NY|Kings|Brooklyn|Malcolm X Boulevard|11221
+NY|Kings|Brooklyn|Malcolm X Boulevard|11233
+NY|Kings|Brooklyn|Malta Street|11207
+NY|Kings|Brooklyn|Manhattan Avenue|11206
+NY|Kings|Brooklyn|Manhattan Avenue|11211
+NY|Kings|Brooklyn|Manhattan Avenue|11222
+NY|Kings|Brooklyn|Manhattan Avenue|11224
+NY|Kings|Brooklyn|Manhattan Court|11223
+NY|Kings|Brooklyn|Manhattan Court|11235
+NY|Kings|Brooklyn|Manor Court|11235
+NY|Kings|Brooklyn|Macon Street|11216
+NY|Kings|Brooklyn|Maple Street|11203
+NY|Kings|Brooklyn|Maple Street|11225
+NY|Kings|Brooklyn|Marconi Place|11233
+NY|Kings|Brooklyn|Marcus Garvey Avenue|11216
+NY|Kings|Brooklyn|Main Street|11224
+NY|Kings|Brooklyn|Marcus Garvey Boulevard|11216
+NY|Kings|Brooklyn|Marcus Garvey Boulevard|11221
+NY|Kings|Brooklyn|Marcy Avenue|11206
+NY|Kings|Brooklyn|Marcy Avenue|11211
+NY|Kings|Brooklyn|Marcy Avenue|11216
+NY|Kings|Brooklyn|Margaret Court|11235
+NY|Kings|Brooklyn|Marginal Street E|11207
+NY|Kings|Brooklyn|Marginal Street W|11207
+NY|Kings|Brooklyn|Marginal Street, East|11207
+NY|Kings|Brooklyn|Marginal Street, West|11207
+NY|Kings|Brooklyn|Marine Avenue|11209
+NY|Kings|Brooklyn|Marine Pkwy|11234
+NY|Kings|Brooklyn|Marion Street|11233
+NY|Kings|Brooklyn|Market Street, North|11236
+NY|Kings|Brooklyn|Marcus Garvey Boulevard|11206
+NY|Kings|Brooklyn|Marlborough Road|11226
+NY|Kings|Brooklyn|Marlborough Road|11230
+NY|Kings|Brooklyn|Marshal Drive S|11209
+NY|Kings|Brooklyn|Marshall Drive|11209
+NY|Kings|Brooklyn|Marshall Drive S|11209
+NY|Kings|Brooklyn|Marshall Street|11201
+NY|Kings|Brooklyn|Martense Court|11226
+NY|Kings|Brooklyn|Martense Street|11226
+NY|Kings|Brooklyn|Market Street, South|11236
+NY|Kings|Brooklyn|Maspeth Avenue|11211
+NY|Kings|Brooklyn|Matthews Court|11218
+NY|Kings|Brooklyn|Matthews Place|11236
+NY|Kings|Brooklyn|Maujer Street|11206
+NY|Kings|Brooklyn|Maujer Street|11211
+NY|Kings|Brooklyn|Mayfair Drive N|11234
+NY|Kings|Brooklyn|Mayfair Drive S|11234
+NY|Kings|Brooklyn|Macon Street|11233
+NY|Kings|Brooklyn|Mc Guinness Blvd S|11222
+NY|Kings|Brooklyn|Mc Kenny Street|11201
+NY|Kings|Brooklyn|Mc Clancy Place|11207
+NY|Kings|Brooklyn|McDonald Avenue|11218
+NY|Kings|Brooklyn|McDonald Avenue|11223
+NY|Kings|Brooklyn|Martin Luther King Jr Place|11206
+NY|Kings|Brooklyn|McGuinness Boulevard|11222
+NY|Kings|Brooklyn|McKeever Place|11225
+NY|Kings|Brooklyn|McClancy Place|11207
+NY|Kings|Brooklyn|McKibbin Court|11206
+NY|Kings|Brooklyn|McKinley Avenue|11208
+NY|Kings|Brooklyn|Meadow Street|11206
+NY|Kings|Brooklyn|Meadow Street|11237
+NY|Kings|Brooklyn|Meeker Avenue|11211
+NY|Kings|Brooklyn|Meeker Avenue|11222
+NY|Kings|Brooklyn|Melba Court|11229
+NY|Kings|Brooklyn|Melrose Street|11206
+NY|Kings|Brooklyn|Melrose Street|11237
+NY|Kings|Brooklyn|Menahan Street|11221
+NY|Kings|Brooklyn|Maple Avenue|11224
+NY|Kings|Brooklyn|Merit Court|11229
+NY|Kings|Brooklyn|Mermaid Avenue|11224
+NY|Kings|Brooklyn|Mesereau Court|11235
+NY|Kings|Brooklyn|Meserole Avenue|11222
+NY|Kings|Brooklyn|Meserole Street|11206
+NY|Kings|Brooklyn|Menahan Street|11237
+NY|Kings|Brooklyn|Metropolitan Avenue|11211
+NY|Kings|Brooklyn|Metropolitan Avenue|11237
+NY|Kings|Brooklyn|Meserole Street|11237
+NY|Kings|Brooklyn|Metrotech|11201
+NY|Kings|Brooklyn|Metrotech Center|11201
+NY|Kings|Brooklyn|Metrotech Walk|11201
+NY|Kings|Brooklyn|Miami Court|11225
+NY|Kings|Brooklyn|McDonald Avenue|11230
+NY|Kings|Brooklyn|Middagh Street|11201
+NY|Kings|Brooklyn|Middleton Street|11206
+NY|Kings|Brooklyn|Midwood Street|11203
+NY|Kings|Brooklyn|Midwood Street|11225
+NY|Kings|Brooklyn|Milford Street|11208
+NY|Kings|Brooklyn|Mill Avenue|11234
+NY|Kings|Brooklyn|Mill Creek Road|11228
+NY|Kings|Brooklyn|Mill Lane|11234
+NY|Kings|Brooklyn|Mill Road|11214
+NY|Kings|Brooklyn|Mill Street|11231
+NY|Kings|Brooklyn|Miller Avenue|11207
+NY|Kings|Brooklyn|Micieli Place|11218
+NY|Kings|Brooklyn|Milton Street|11222
+NY|Kings|Brooklyn|Minna Street|11218
+NY|Kings|Brooklyn|Moffat Street|11207
+NY|Kings|Brooklyn|Moffat Street|11237
+NY|Kings|Brooklyn|McKibben Street|11206
+NY|Kings|Brooklyn|Monitor Street|11222
+NY|Kings|Brooklyn|Monroe Place|11201
+NY|Kings|Brooklyn|Monroe Street|11216
+NY|Kings|Brooklyn|Monroe Street|11221
+NY|Kings|Brooklyn|Monroe Street|11238
+NY|Kings|Brooklyn|Monsignor Delveccio Place|11231
+NY|Kings|Brooklyn|Montague Street|11201
+NY|Kings|Brooklyn|Montague Terrace|11201
+NY|Kings|Brooklyn|Montana Place|11234
+NY|Kings|Brooklyn|Miller Place|11207
+NY|Kings|Brooklyn|Montauk Court|11235
+NY|Kings|Brooklyn|Montgomery Place|11215
+NY|Kings|Brooklyn|Montgomery Street|11213
+NY|Kings|Brooklyn|Montgomery Street|11225
+NY|Kings|Brooklyn|Montieth Street|11206
+NY|Kings|Brooklyn|Montrose Avenue|11206
+NY|Kings|Brooklyn|Montrose Avenue|11211
+NY|Kings|Brooklyn|Monument Walk|11205
+NY|Kings|Brooklyn|Moore Place|11229
+NY|Kings|Brooklyn|Moore Street|11206
+NY|Kings|Brooklyn|Morgan Avenue|11211
+NY|Kings|Brooklyn|Morgan Avenue|11222
+NY|Kings|Brooklyn|Morgan Avenue|11237
+NY|Kings|Brooklyn|Morton Street|11211
+NY|Kings|Brooklyn|Morton Street|11249
+NY|Kings|Brooklyn|Mother Gaston Boulevard|11212
+NY|Kings|Brooklyn|Mother Gaston Boulevard|11233
+NY|Kings|Brooklyn|Moultrie Street|11222
+NY|Kings|Brooklyn|Murdock Court|11223
+NY|Kings|Brooklyn|Myrtle Avenue|11201
+NY|Kings|Brooklyn|Myrtle Avenue|11205
+NY|Kings|Brooklyn|Myrtle Avenue|11206
+NY|Kings|Brooklyn|Myrtle Avenue|11221
+NY|Kings|Brooklyn|Myrtle Avenue|11237
+NY|Kings|Brooklyn|N 10th Street|11211
+NY|Kings|Brooklyn|N 10th Street|11249
+NY|Kings|Brooklyn|Montauk Avenue|11208
+NY|Kings|Brooklyn|N 11th Street|11249
+NY|Kings|Brooklyn|N 12th Street|11211
+NY|Kings|Brooklyn|N 12th Street|11249
+NY|Kings|Brooklyn|N 13th Street|11211
+NY|Kings|Brooklyn|N 13th Street|11249
+NY|Kings|Brooklyn|N 14th Street|11211
+NY|Kings|Brooklyn|N 14th Street|11249
+NY|Kings|Brooklyn|N 15th Street|11222
+NY|Kings|Brooklyn|N 1st Street|11211
+NY|Kings|Brooklyn|N 1st Street|11249
+NY|Kings|Brooklyn|N 3rd Street|11211
+NY|Kings|Brooklyn|N 3rd Street|11249
+NY|Kings|Brooklyn|N 4th Street|11211
+NY|Kings|Brooklyn|N 4th Street|11249
+NY|Kings|Brooklyn|N 5th Street|11211
+NY|Kings|Brooklyn|Monaco Place|11233
+NY|Kings|Brooklyn|N 6th Street|11211
+NY|Kings|Brooklyn|N 6th Street|11249
+NY|Kings|Brooklyn|N 7th Street|11211
+NY|Kings|Brooklyn|N 7th Street|11249
+NY|Kings|Brooklyn|N 8th Street|11211
+NY|Kings|Brooklyn|N 8th Street|11249
+NY|Kings|Brooklyn|Metropolitan Avenue|11249
+NY|Kings|Brooklyn|N 9th Street|11249
+NY|Kings|Brooklyn|N Conduit Boulevard|11208
+NY|Kings|Brooklyn|N Elliott Place|11205
+NY|Kings|Brooklyn|N Elliott Walk|11205
+NY|Kings|Brooklyn|N Henry Street|11222
+NY|Kings|Brooklyn|N Market Street|11236
+NY|Kings|Brooklyn|N Oxford Street|11205
+NY|Kings|Brooklyn|N Oxford Walk|11205
+NY|Kings|Brooklyn|N 9th Street|11211
+NY|Kings|Brooklyn|N Portland Avenue|11217
+NY|Kings|Brooklyn|Narrows Avenue|11209
+NY|Kings|Brooklyn|Narrows Avenue|11220
+NY|Kings|Brooklyn|Nassau Avenue|11222
+NY|Kings|Brooklyn|Nassau Street|11201
+NY|Kings|Brooklyn|National Drive|11234
+NY|Kings|Brooklyn|Nautilus Avenue|11224
+NY|Kings|Brooklyn|Navy Street|11201
+NY|Kings|Brooklyn|Navy Walk|11201
+NY|Kings|Brooklyn|Nelson Street|11231
+NY|Kings|Brooklyn|Neptune Avenue|11224
+NY|Kings|Brooklyn|Neptune Avenue|11235
+NY|Kings|Brooklyn|Neptune Court|11235
+NY|Kings|Brooklyn|Nevins Street|11215
+NY|Kings|Brooklyn|Nevins Street|11217
+NY|Kings|Brooklyn|New Dock Street|11201
+NY|Kings|Brooklyn|New Jersey Avenue|11207
+NY|Kings|Brooklyn|New Lots Avenue|11207
+NY|Kings|Brooklyn|New Lots Avenue|11208
+NY|Kings|Brooklyn|New Lots Avenue|11212
+NY|Kings|Brooklyn|New Utrecht Avenue|11204
+NY|Kings|Brooklyn|New Utrecht Avenue|11214
+NY|Kings|Brooklyn|New Utrecht Avenue|11219
+NY|Kings|Brooklyn|New Utrecht Avenue|11228
+NY|Kings|Brooklyn|New Utrecth Avenue|11219
+NY|Kings|Brooklyn|New York Avenue|11203
+NY|Kings|Brooklyn|New York Avenue|11210
+NY|Kings|Brooklyn|New York Avenue|11213
+NY|Kings|Brooklyn|New York Avenue|11216
+NY|Kings|Brooklyn|New York Avenue|11225
+NY|Kings|Brooklyn|New York Avenue|11234
+NY|Kings|Brooklyn|N 5th Street|11249
+NY|Kings|Brooklyn|N Portland Avenue|11205
+NY|Kings|Brooklyn|New York Avenue, East|11212
+NY|Kings|Brooklyn|New York Avenue, East|11203
+NY|Kings|Brooklyn|New York Avenue, East|11233
+NY|Kings|Brooklyn|Newell Street|11222
+NY|Kings|Brooklyn|Newkirk Avenue|11203
+NY|Kings|Brooklyn|Newkirk Avenue|11210
+NY|Kings|Brooklyn|Newkirk Avenue|11226
+NY|Kings|Brooklyn|Newkirk Avenue|11230
+NY|Kings|Brooklyn|Newkirk Plaza|11226
+NY|Kings|Brooklyn|Newport Street|11207
+NY|Kings|Brooklyn|Newport Street|11212
+NY|Kings|Brooklyn|Newton Street|11222
+NY|Kings|Brooklyn|Nicholas J Sciarra Place|11232
+NY|Kings|Brooklyn|Nichols Avenue|11208
+NY|Kings|Brooklyn|Nixon Court|11223
+NY|Kings|Brooklyn|Noble Street|11222
+NY|Kings|Brooklyn|New York Avenue, East|11225
+NY|Kings|Brooklyn|Nolans Lane|11236
+NY|Kings|Brooklyn|Noll Street|11206
+NY|Kings|Brooklyn|New York Avenue, East|11207
+NY|Kings|Brooklyn|N 11th Street|11211
+NY|Kings|Brooklyn|Norman Avenue|11222
+NY|Kings|Brooklyn|Norwood Avenue|11208
+NY|Kings|Brooklyn|Noel Avenue|11229
+NY|Kings|Brooklyn|Nostrand Avenue|11205
+NY|Kings|Brooklyn|Nostrand Avenue|11206
+NY|Kings|Brooklyn|Nostrand Avenue|11210
+NY|Kings|Brooklyn|Nostrand Avenue|11216
+NY|Kings|Brooklyn|Nostrand Avenue|11225
+NY|Kings|Brooklyn|Nostrand Avenue|11226
+NY|Kings|Brooklyn|Nostrand Avenue|11229
+NY|Kings|Brooklyn|Norwood Avenue|11230
+NY|Kings|Brooklyn|Nova Court|11229
+NY|Kings|Brooklyn|Oak Street|11222
+NY|Kings|Brooklyn|Oakland Place|11226
+NY|Kings|Brooklyn|Obrien Place|11208
+NY|Kings|Brooklyn|Ocean Avenue|11225
+NY|Kings|Brooklyn|Ocean Avenue|11226
+NY|Kings|Brooklyn|Ocean Avenue|11229
+NY|Kings|Brooklyn|Ocean Avenue|11230
+NY|Kings|Brooklyn|Nostrand Avenue|11235
+NY|Kings|Brooklyn|Ocean Court|11223
+NY|Kings|Brooklyn|Ocean Court|11235
+NY|Kings|Brooklyn|Ocean Pkwy|11218
+NY|Kings|Brooklyn|Ocean Pkwy|11223
+NY|Kings|Brooklyn|Ocean Pkwy|11224
+NY|Kings|Brooklyn|Ocean Pkwy|11230
+NY|Kings|Brooklyn|Ocean Pkwy|11235
+NY|Kings|Brooklyn|Norfolk Street|11235
+NY|Kings|Brooklyn|Ocean View Avenue|11235
+NY|Kings|Brooklyn|Oceana Drive E|11235
+NY|Kings|Brooklyn|Oceana Drive W|11235
+NY|Kings|Brooklyn|Oceanic Avenue|11224
+NY|Kings|Brooklyn|Ogontz Drive|11234
+NY|Kings|Brooklyn|Old Fulton Street|11201
+NY|Kings|Brooklyn|Old Mill Road|11208
+NY|Kings|Brooklyn|Old New Utrecht Road|11204
+NY|Kings|Brooklyn|Old New Utrecht Road|11218
+NY|Kings|Brooklyn|Old Vandalia Avenue|11208
+NY|Kings|Brooklyn|Old Vandalia Street|11208
+NY|Kings|Brooklyn|Old Vandalia Street|11239
+NY|Kings|Brooklyn|Olean Street|11210
+NY|Kings|Brooklyn|Olive Street|11211
+NY|Kings|Brooklyn|Oliver Street|11209
+NY|Kings|Brooklyn|Onderdonk Avenue|11237
+NY|Kings|Brooklyn|Opal Court|11229
+NY|Kings|Brooklyn|Orange Street|11201
+NY|Kings|Brooklyn|Oratory Place|11201
+NY|Kings|Brooklyn|Orient Avenue|11211
+NY|Kings|Brooklyn|Ocean View Avenue|11224
+NY|Kings|Brooklyn|Oriental Court|11235
+NY|Kings|Brooklyn|Osborn Street|11212
+NY|Kings|Brooklyn|Otsego Street|11231
+NY|Kings|Brooklyn|Our Lady of Snows Square|11222
+NY|Kings|Brooklyn|Overbaugh Place|11210
+NY|Kings|Brooklyn|Ovington Avenue|11209
+NY|Kings|Brooklyn|Ovington Avenue|11219
+NY|Kings|Brooklyn|Ovington Avenue|11220
+NY|Kings|Brooklyn|Ovington Court|11204
+NY|Kings|Brooklyn|Owls Head Court|11220
+NY|Kings|Brooklyn|Oxford Street|11235
+NY|Kings|Brooklyn|Oxford Street, North|11205
+NY|Kings|Brooklyn|Oxford Street, South|11217
+NY|Kings|Brooklyn|Oxford Walk, North|11205
+NY|Kings|Brooklyn|Pacific Street|11201
+NY|Kings|Brooklyn|Pacific Street|11213
+NY|Kings|Brooklyn|Pacific Street|11216
+NY|Kings|Brooklyn|Pacific Street|11217
+NY|Kings|Brooklyn|Pacific Street|11233
+NY|Kings|Brooklyn|Pacific Street|11238
+NY|Kings|Brooklyn|Paerdegat 10th Street|11236
+NY|Kings|Brooklyn|Paerdegat 11th Street|11236
+NY|Kings|Brooklyn|Paerdegat 12th Street|11236
+NY|Kings|Brooklyn|Paerdegat 13th Street|11236
+NY|Kings|Brooklyn|Paerdegat 14th Street|11236
+NY|Kings|Brooklyn|Paerdegat 15th Street|11236
+NY|Kings|Brooklyn|Paerdegat 1st Street|11236
+NY|Kings|Brooklyn|Paerdegat 2nd Street|11236
+NY|Kings|Brooklyn|Paerdegat 3rd Street|11236
+NY|Kings|Brooklyn|Paerdegat 4th Street|11236
+NY|Kings|Brooklyn|Paerdegat 5th Street|11236
+NY|Kings|Brooklyn|Paerdegat 6th Street|11236
+NY|Kings|Brooklyn|Paerdegat 7th Street|11236
+NY|Kings|Brooklyn|Paerdegat 8th Street|11236
+NY|Kings|Brooklyn|Paerdegat 9th Street|11236
+NY|Kings|Brooklyn|Paerdegat Avenue N|11236
+NY|Kings|Brooklyn|Paerdegat Avenue S|11234
+NY|Kings|Brooklyn|Noll Street|11237
+NY|Kings|Brooklyn|Palm Court|11225
+NY|Kings|Brooklyn|Palmetto Street|11221
+NY|Kings|Brooklyn|Palmetto Street|11237
+NY|Kings|Brooklyn|Oriental Boulevard|11235
+NY|Kings|Brooklyn|Park Avenue|11201
+NY|Kings|Brooklyn|Park Avenue|11205
+NY|Kings|Brooklyn|Park Avenue|11206
+NY|Kings|Brooklyn|Park Circle|11218
+NY|Kings|Brooklyn|Paidge Avenue|11222
+NY|Kings|Brooklyn|Park Place|11216
+NY|Kings|Brooklyn|Park Place|11217
+NY|Kings|Brooklyn|Park Place|11233
+NY|Kings|Brooklyn|Park Place|11238
+NY|Kings|Brooklyn|Ocean Avenue|11235
+NY|Kings|Brooklyn|Parkside Avenue|11226
+NY|Kings|Brooklyn|Parkside Court|11226
+NY|Kings|Brooklyn|Parkville Avenue|11230
+NY|Kings|Brooklyn|Parkway Court|11223
+NY|Kings|Brooklyn|Parkway Court|11235
+NY|Kings|Brooklyn|Parrott Place|11228
+NY|Kings|Brooklyn|Patchen Avenue|11221
+NY|Kings|Brooklyn|Patchen Avenue|11233
+NY|Kings|Brooklyn|Pearl Street|11201
+NY|Kings|Brooklyn|Pearson Street|11234
+NY|Kings|Brooklyn|Pembroke Street|11235
+NY|Kings|Brooklyn|Pence Street|11209
+NY|Kings|Brooklyn|Penn Street|11211
+NY|Kings|Brooklyn|Penn Street|11249
+NY|Kings|Brooklyn|Pennsylvania Avenue|11207
+NY|Kings|Brooklyn|Pennsylvania Avenue|11239
+NY|Kings|Brooklyn|Peri Lane|11234
+NY|Kings|Brooklyn|Perry Place|11216
+NY|Kings|Brooklyn|Perry Terrace|11209
+NY|Kings|Brooklyn|Pershing Loop|11209
+NY|Kings|Brooklyn|Pershing Loop|11252
+NY|Kings|Brooklyn|Pierrepont Place|11201
+NY|Kings|Brooklyn|Pierrepont Street|11201
+NY|Kings|Brooklyn|Pilling Street|11207
+NY|Kings|Brooklyn|Pine Street|11208
+NY|Kings|Brooklyn|Pineapple Street|11201
+NY|Kings|Brooklyn|Pioneer Street|11231
+NY|Kings|Brooklyn|Pitkin Avenue|11207
+NY|Kings|Brooklyn|Pitkin Avenue|11208
+NY|Kings|Brooklyn|Pitkin Avenue|11212
+NY|Kings|Brooklyn|Pitkin Avenue|11233
+NY|Kings|Brooklyn|Plaza Street E|11238
+NY|Kings|Brooklyn|Plaza Street W|11217
+NY|Kings|Brooklyn|Pleasant Place|11233
+NY|Kings|Brooklyn|Plumb 1st Street|11229
+NY|Kings|Brooklyn|Plumb 1st Street|11235
+NY|Kings|Brooklyn|Plumb 2nd Street|11229
+NY|Kings|Brooklyn|Plumb 2nd Street|11235
+NY|Kings|Brooklyn|Plumb 3rd Street|11235
+NY|Kings|Brooklyn|Plymouth Street|11201
+NY|Kings|Brooklyn|Polar Street|11224
+NY|Kings|Brooklyn|Polhemus Place|11215
+NY|Kings|Brooklyn|Poly Place|11209
+NY|Kings|Brooklyn|Poly Place|11228
+NY|Kings|Brooklyn|Pooles Lane|11235
+NY|Kings|Brooklyn|Poplar Avenue|11224
+NY|Kings|Brooklyn|Poplar Street|11201
+NY|Kings|Brooklyn|Portal Street|11233
+NY|Kings|Brooklyn|Porter Avenue|11222
+NY|Kings|Brooklyn|Porter Avenue|11237
+NY|Kings|Brooklyn|Portland Avenue, North|11205
+NY|Kings|Brooklyn|Portland Avenue, North|11217
+NY|Kings|Brooklyn|Portland Avenue, South|11217
+NY|Kings|Brooklyn|Post Court|11229
+NY|Kings|Brooklyn|Powell Street|11212
+NY|Kings|Brooklyn|Powers Street|11211
+NY|Kings|Brooklyn|Prescott Place|11233
+NY|Kings|Brooklyn|President Street|11213
+NY|Kings|Brooklyn|President Street|11215
+NY|Kings|Brooklyn|President Street|11225
+NY|Kings|Brooklyn|President Street|11231
+NY|Kings|Brooklyn|Preston Court|11234
+NY|Kings|Brooklyn|Preston Court|11236
+NY|Kings|Brooklyn|Prince Street|11201
+NY|Kings|Brooklyn|Prospect Avenue|11215
+NY|Kings|Brooklyn|Prospect Avenue|11218
+NY|Kings|Brooklyn|Prospect Park SW|11215
+NY|Kings|Brooklyn|Prospect Park SW|11218
+NY|Kings|Brooklyn|Prospect Park W|11215
+NY|Kings|Brooklyn|Prospect Place|11213
+NY|Kings|Brooklyn|Prospect Place|11216
+NY|Kings|Brooklyn|Prospect Place|11217
+NY|Kings|Brooklyn|Prospect Place|11233
+NY|Kings|Brooklyn|Prospect Place|11238
+NY|Kings|Brooklyn|Prospect Street|11201
+NY|Kings|Brooklyn|Provost Street|11222
+NY|Kings|Brooklyn|Pulaski Brg|11222
+NY|Kings|Brooklyn|Pulaski Street|11206
+NY|Kings|Brooklyn|Pulaski Street|11221
+NY|Kings|Brooklyn|Putnam Avenue|11216
+NY|Kings|Brooklyn|Putnam Avenue|11221
+NY|Kings|Brooklyn|Putnam Avenue|11237
+NY|Kings|Brooklyn|Putnam Avenue|11238
+NY|Kings|Brooklyn|Pvt A Catanzaro Square|11214
+NY|Kings|Brooklyn|Quay Street|11222
+NY|Kings|Brooklyn|Quentin Road|11223
+NY|Kings|Brooklyn|Quentin Road|11229
+NY|Kings|Brooklyn|Quentin Road|11234
+NY|Kings|Brooklyn|Park Place|11213
+NY|Kings|Brooklyn|Quincy Street|11216
+NY|Kings|Brooklyn|Quincy Street|11221
+NY|Kings|Brooklyn|Quincy Street|11238
+NY|Kings|Brooklyn|Radde Place|11233
+NY|Kings|Brooklyn|Railroad Avenue|11224
+NY|Kings|Brooklyn|Raleigh Place|11226
+NY|Kings|Brooklyn|Ralph Avenue|11212
+NY|Kings|Brooklyn|Ralph Avenue|11221
+NY|Kings|Brooklyn|Ralph Avenue|11233
+NY|Kings|Brooklyn|Ralph Avenue|11234
+NY|Kings|Brooklyn|Ralph Avenue|11236
+NY|Kings|Brooklyn|Randolph Street|11237
+NY|Kings|Brooklyn|Rapelye Street|11231
+NY|Kings|Brooklyn|Red Cross Place|11201
+NY|Kings|Brooklyn|Red Hook Lane|11201
+NY|Kings|Brooklyn|Reed Street|11231
+NY|Kings|Brooklyn|Reeve Place|11218
+NY|Kings|Brooklyn|Regent Place|11226
+NY|Kings|Brooklyn|Reid Avenue|11221
+NY|Kings|Brooklyn|Reid Avenue|11233
+NY|Kings|Brooklyn|Remsen Avenue|11212
+NY|Kings|Brooklyn|Remsen Avenue|11236
+NY|Kings|Brooklyn|Remsen Street|11201
+NY|Kings|Brooklyn|Renaissance Court|11206
+NY|Kings|Brooklyn|Revere Place|11213
+NY|Kings|Brooklyn|Rewe Street|11211
+NY|Kings|Brooklyn|Richards Street|11231
+NY|Kings|Brooklyn|Richardson Street|11211
+NY|Kings|Brooklyn|Richardson Street|11222
+NY|Kings|Brooklyn|Richmond Street|11208
+NY|Kings|Brooklyn|Ridge Boulevard|11209
+NY|Kings|Brooklyn|Ridge Boulevard|11220
+NY|Kings|Brooklyn|Ridge Court|11209
+NY|Kings|Brooklyn|Ridgecrest Terrace|11209
+NY|Kings|Brooklyn|Ridgewood Avenue|11207
+NY|Kings|Brooklyn|Ridgewood Avenue|11208
+NY|Kings|Brooklyn|Ridgewood Place|11237
+NY|Kings|Brooklyn|Riegelmann Boardwalk|11235
+NY|Kings|Brooklyn|River Street|11211
+NY|Kings|Brooklyn|Riverdale Avenue|11207
+NY|Kings|Brooklyn|Park Street|11206
+NY|Kings|Brooklyn|Robert Street|11207
+NY|Kings|Brooklyn|Rochester Avenue|11213
+NY|Kings|Brooklyn|Rochester Avenue|11233
+NY|Kings|Brooklyn|Rock Street|11206
+NY|Kings|Brooklyn|Rockaway Avenue|11212
+NY|Kings|Brooklyn|Rockaway Avenue|11233
+NY|Kings|Brooklyn|Rockaway Avenue|11236
+NY|Kings|Brooklyn|Rockaway Pkwy|11212
+NY|Kings|Brooklyn|Rockaway Pkwy|11236
+NY|Kings|Brooklyn|Rockwell Place|11217
+NY|Kings|Brooklyn|Roder Avenue|11230
+NY|Kings|Brooklyn|Rodney Street|11211
+NY|Kings|Brooklyn|Rodney Street|11249
+NY|Kings|Brooklyn|Roebling Street|11211
+NY|Kings|Brooklyn|Rogers Avenue|11210
+NY|Kings|Brooklyn|Rogers Avenue|11216
+NY|Kings|Brooklyn|Rogers Avenue|11225
+NY|Kings|Brooklyn|Rogers Avenue|11226
+NY|Kings|Brooklyn|Roosevelt Court|11232
+NY|Kings|Brooklyn|Roosevelt Place|11233
+NY|Kings|Brooklyn|Rose Street|11236
+NY|Kings|Brooklyn|Ross Street|11211
+NY|Kings|Brooklyn|Ross Street|11249
+NY|Kings|Brooklyn|Rost Place|11236
+NY|Kings|Brooklyn|Royce Place|11234
+NY|Kings|Brooklyn|Royce Street|11234
+NY|Kings|Brooklyn|Ruby Street|11208
+NY|Kings|Brooklyn|Rugby Road|11226
+NY|Kings|Brooklyn|Rugby Road|11230
+NY|Kings|Brooklyn|Russell Street|11222
+NY|Kings|Brooklyn|Rutherford Place|11214
+NY|Kings|Brooklyn|Rutland Road|11203
+NY|Kings|Brooklyn|Rutland Road|11212
+NY|Kings|Brooklyn|Rutland Road|11225
+NY|Kings|Brooklyn|Rutledge Street|11211
+NY|Kings|Brooklyn|Riverdale Avenue|11212
+NY|Kings|Brooklyn|Ryder Avenue|11230
+NY|Kings|Brooklyn|Ryder Street|11234
+NY|Kings|Brooklyn|Ryerson Street|11205
+NY|Kings|Brooklyn|S 10th Street|11249
+NY|Kings|Brooklyn|S 11th Street|11249
+NY|Kings|Brooklyn|S 1st Street|11211
+NY|Kings|Brooklyn|S 1st Street|11249
+NY|Kings|Brooklyn|S 2nd Street|11211
+NY|Kings|Brooklyn|S 2nd Street|11249
+NY|Kings|Brooklyn|S 3rd Street|11211
+NY|Kings|Brooklyn|S 3rd Street|11249
+NY|Kings|Brooklyn|S 4th Street|11211
+NY|Kings|Brooklyn|S 4th Street|11249
+NY|Kings|Brooklyn|S 5th Street|11211
+NY|Kings|Brooklyn|S 5th Street|11249
+NY|Kings|Brooklyn|S 6th Street|11211
+NY|Kings|Brooklyn|Quentin Street|11235
+NY|Kings|Brooklyn|S 8th Street|11211
+NY|Kings|Brooklyn|S 8th Street|11249
+NY|Kings|Brooklyn|S 9th Street|11211
+NY|Kings|Brooklyn|S 9th Street|11249
+NY|Kings|Brooklyn|S 6th Street|11249
+NY|Kings|Brooklyn|S Conduit Boulevard|11208
+NY|Kings|Brooklyn|Rutledge Street|11249
+NY|Kings|Brooklyn|S Oxford Street|11217
+NY|Kings|Brooklyn|S Portland Avenue|11217
+NY|Kings|Brooklyn|Sackett Street|11217
+NY|Kings|Brooklyn|Sackett Street|11231
+NY|Kings|Brooklyn|Sackman Street|11212
+NY|Kings|Brooklyn|Sackman Street|11233
+NY|Kings|Brooklyn|Saint Edwards Street|11201
+NY|Kings|Brooklyn|Saint Edwards Street|11205
+NY|Kings|Brooklyn|Saint Jude Place|11236
+NY|Kings|Brooklyn|Sairs Avenue|11236
+NY|Kings|Brooklyn|Sandford Street|11205
+NY|Kings|Brooklyn|Sands Street|11201
+NY|Kings|Brooklyn|Sapphire Street|11208
+NY|Kings|Brooklyn|Saratoga Avenue|11212
+NY|Kings|Brooklyn|Saratoga Avenue|11233
+NY|Kings|Brooklyn|Schaefer Street|11207
+NY|Kings|Brooklyn|Schaefer Street|11237
+NY|Kings|Brooklyn|Schenck Avenue|11207
+NY|Kings|Brooklyn|Schenck Court|11207
+NY|Kings|Brooklyn|Schenck Place|11236
+NY|Kings|Brooklyn|Schenck Street|11236
+NY|Kings|Brooklyn|Schenectady Avenue|11203
+NY|Kings|Brooklyn|Schenectady Avenue|11213
+NY|Kings|Brooklyn|Schenectady Avenue|11234
+NY|Kings|Brooklyn|Schermerhorn Street|11201
+NY|Kings|Brooklyn|Schermerhorn Street|11217
+NY|Kings|Brooklyn|Scholes Street|11206
+NY|Kings|Brooklyn|Scholes Street|11237
+NY|Kings|Brooklyn|Parade Place|11226
+NY|Kings|Brooklyn|S Market Street|11236
+NY|Kings|Brooklyn|Schum Avenue|11229
+NY|Kings|Brooklyn|Schweikerts Walk|11224
+NY|Kings|Brooklyn|Scott Avenue|11222
+NY|Kings|Brooklyn|Scott Avenue|11237
+NY|Kings|Brooklyn|Sea Breeze Avenue|11224
+NY|Kings|Brooklyn|Sea Breeze Avenue|11235
+NY|Kings|Brooklyn|Sea Breeze Court|11235
+NY|Kings|Brooklyn|Sea Gate Avenue|11224
+NY|Kings|Brooklyn|Sea View Avenue|11239
+NY|Kings|Brooklyn|Seabring Street|11231
+NY|Kings|Brooklyn|Seacoast Terrace|11235
+NY|Kings|Brooklyn|Seaview Avenue|11236
+NY|Kings|Brooklyn|Seaview Court|11236
+NY|Kings|Brooklyn|S Elliott Place|11217
+NY|Kings|Brooklyn|Seba Avenue|11229
+NY|Kings|Brooklyn|Sedgwick Place|11220
+NY|Kings|Brooklyn|Sedgwick Street|11231
+NY|Kings|Brooklyn|Seeley Street|11218
+NY|Kings|Brooklyn|Seigel Court|11206
+NY|Kings|Brooklyn|Seaview Gdns|11235
+NY|Kings|Brooklyn|Senator Street|11220
+NY|Kings|Brooklyn|Seton Place|11230
+NY|Kings|Brooklyn|Shale Street|11235
+NY|Kings|Brooklyn|Sharon Street|11211
+NY|Kings|Brooklyn|Sheepshead Bay Road|11224
+NY|Kings|Brooklyn|Sheepshead Bay Road|11229
+NY|Kings|Brooklyn|Schroeders Avenue|11239
+NY|Kings|Brooklyn|Sheffield Avenue|11207
+NY|Kings|Brooklyn|Shell Road|11223
+NY|Kings|Brooklyn|Shell Road|11224
+NY|Kings|Brooklyn|Shepherd Avenue|11208
+NY|Kings|Brooklyn|Sheridan Avenue|11208
+NY|Kings|Brooklyn|Sherlock Place|11233
+NY|Kings|Brooklyn|Sherman Street|11215
+NY|Kings|Brooklyn|Sherman Street|11218
+NY|Kings|Brooklyn|Shore Boulevard|11235
+NY|Kings|Brooklyn|Shore Court|11209
+NY|Kings|Brooklyn|Shore Pkwy|11214
+NY|Kings|Brooklyn|Shore Pkwy|11223
+NY|Kings|Brooklyn|Shore Pkwy|11235
+NY|Kings|Brooklyn|Shore Pkwy|11236
+NY|Kings|Brooklyn|Shore Pkwy N|11214
+NY|Kings|Brooklyn|Shore Pkwy N|11223
+NY|Kings|Brooklyn|Shore Pkwy N|11228
+NY|Kings|Brooklyn|Shore Pkwy N|11235
+NY|Kings|Brooklyn|Shore Pkwy S|11235
+NY|Kings|Brooklyn|Shore Pkwy Svc Road|11236
+NY|Kings|Brooklyn|Shore Road|11209
+NY|Kings|Brooklyn|Shore Road|11220
+NY|Kings|Brooklyn|Shore Road Lane|11209
+NY|Kings|Brooklyn|Sidney Place|11201
+NY|Kings|Brooklyn|Sigourney Street|11231
+NY|Kings|Brooklyn|Skidmore Avenue|11236
+NY|Kings|Brooklyn|Skidmore Lane|11236
+NY|Kings|Brooklyn|Skidmore Place|11236
+NY|Kings|Brooklyn|Skillman Avenue|11211
+NY|Kings|Brooklyn|Skillman Street|11205
+NY|Kings|Brooklyn|Sloan Place|11223
+NY|Kings|Brooklyn|Seigel Street|11206
+NY|Kings|Brooklyn|Smith Street|11201
+NY|Kings|Brooklyn|Smith Street|11231
+NY|Kings|Brooklyn|Smiths Lane|11236
+NY|Kings|Brooklyn|Snediker Avenue|11207
+NY|Kings|Brooklyn|Snyder Avenue|11203
+NY|Kings|Brooklyn|Snyder Avenue|11206
+NY|Kings|Brooklyn|Snyder Avenue|11226
+NY|Kings|Brooklyn|Somers Street|11233
+NY|Kings|Brooklyn|Southgate Court|11223
+NY|Kings|Brooklyn|Spencer Court|11205
+NY|Kings|Brooklyn|School Lane|11236
+NY|Kings|Brooklyn|Spencer Street|11205
+NY|Kings|Brooklyn|St Andrews Place|11216
+NY|Kings|Brooklyn|St Charles Place|11216
+NY|Kings|Brooklyn|St Felix Street|11217
+NY|Kings|Brooklyn|St Francis Place|11216
+NY|Kings|Brooklyn|St James Place|11205
+NY|Kings|Brooklyn|St James Place|11238
+NY|Kings|Brooklyn|St Johns Place|11213
+NY|Kings|Brooklyn|St Johns Place|11216
+NY|Kings|Brooklyn|St Johns Place|11217
+NY|Kings|Brooklyn|St Johns Place|11233
+NY|Kings|Brooklyn|St Johns Place|11238
+NY|Kings|Brooklyn|St Jude Place|11236
+NY|Kings|Brooklyn|Sheepshead Bay Road|11235
+NY|Kings|Brooklyn|Spencer Place|11216
+NY|Kings|Brooklyn|St Marks Avenue|11217
+NY|Kings|Brooklyn|St Marks Avenue|11233
+NY|Kings|Brooklyn|St Marks Avenue|11238
+NY|Kings|Brooklyn|St Mark's Avenue|11213
+NY|Kings|Brooklyn|St Marks Place|11217
+NY|Kings|Brooklyn|St Nicholas Avenue|11237
+NY|Kings|Brooklyn|St Pauls Court|11226
+NY|Kings|Brooklyn|St Pauls Place|11226
+NY|Kings|Brooklyn|Stagg Street|11206
+NY|Kings|Brooklyn|Slocum Place|11218
+NY|Kings|Brooklyn|Stagg Walk|11206
+NY|Kings|Brooklyn|Stanhope Street|11221
+NY|Kings|Brooklyn|Stanhope Street|11237
+NY|Kings|Brooklyn|St Marks Avenue|11216
+NY|Kings|Brooklyn|Stanley Avenue|11208
+NY|Kings|Brooklyn|Stanton Road|11235
+NY|Kings|Brooklyn|Stanwix Street|11206
+NY|Kings|Brooklyn|Starr Street|11221
+NY|Kings|Brooklyn|Starr Street|11237
+NY|Kings|Brooklyn|St Marks Avenue|11213
+NY|Kings|Brooklyn|State Highway 29|11224
+NY|Kings|Brooklyn|State Route 27|11203
+NY|Kings|Brooklyn|State Route 27|11207
+NY|Kings|Brooklyn|State Route 27|11208
+NY|Kings|Brooklyn|State Route 27|11212
+NY|Kings|Brooklyn|State Route 27|11218
+NY|Kings|Brooklyn|State Route 27|11226
+NY|Kings|Brooklyn|State Street|11201
+NY|Kings|Brooklyn|State Street|11217
+NY|Kings|Brooklyn|Stephens Court|11226
+NY|Kings|Brooklyn|Sterling Drive|11209
+NY|Kings|Brooklyn|Sterling Place|11213
+NY|Kings|Brooklyn|Sterling Place|11216
+NY|Kings|Brooklyn|Sterling Place|11217
+NY|Kings|Brooklyn|Sterling Place|11233
+NY|Kings|Brooklyn|Sterling Place|11238
+NY|Kings|Brooklyn|Sterling Street|11225
+NY|Kings|Brooklyn|Steuben Street|11205
+NY|Kings|Brooklyn|Stewart Avenue|11209
+NY|Kings|Brooklyn|Stewart Avenue|11211
+NY|Kings|Brooklyn|Stewart Avenue|11222
+NY|Kings|Brooklyn|Stewart Avenue|11237
+NY|Kings|Brooklyn|Stewart Street|11207
+NY|Kings|Brooklyn|Stillwell Avenue|11223
+NY|Kings|Brooklyn|Stillwell Avenue|11224
+NY|Kings|Brooklyn|Stillwell Place|11236
+NY|Kings|Brooklyn|Stockholm Street|11221
+NY|Kings|Brooklyn|Stockholm Street|11237
+NY|Kings|Brooklyn|Stockton Street|11206
+NY|Kings|Brooklyn|Stoddard Place|11225
+NY|Kings|Brooklyn|Stone Avenue|11212
+NY|Kings|Brooklyn|Stone Avenue|11233
+NY|Kings|Brooklyn|Stanley Avenue|11207
+NY|Kings|Brooklyn|Story Court|11218
+NY|Kings|Brooklyn|Story Street|11218
+NY|Kings|Brooklyn|Stratford Road|11218
+NY|Kings|Brooklyn|Strauss Street|11212
+NY|Kings|Brooklyn|Strickland Avenue|11234
+NY|Kings|Brooklyn|Strong Place|11231
+NY|Kings|Brooklyn|Stryker Court|11223
+NY|Kings|Brooklyn|Stryker Street|11223
+NY|Kings|Brooklyn|Stonewall Jackson Drive|11209
+NY|Kings|Brooklyn|Stuyvesant Avenue|11221
+NY|Kings|Brooklyn|Stuyvesant Avenue|11233
+NY|Kings|Brooklyn|Sullivan Place|11225
+NY|Kings|Brooklyn|Sullivan Street|11231
+NY|Kings|Brooklyn|Summit Street|11231
+NY|Kings|Brooklyn|Sumner Avenue|11206
+NY|Kings|Brooklyn|Sumner Avenue|11216
+NY|Kings|Brooklyn|Sumner Avenue|11221
+NY|Kings|Brooklyn|Sumner Place|11206
+NY|Kings|Brooklyn|Sumpter Street|11233
+NY|Kings|Brooklyn|Sunnyside Avenue|11207
+NY|Kings|Brooklyn|Sunnyside Court|11207
+NY|Kings|Brooklyn|Sunrise Drive|11209
+NY|Kings|Brooklyn|Sunset Court|11224
+NY|Kings|Brooklyn|Sunset Terrace|11220
+NY|Kings|Brooklyn|Surf Avenue|11224
+NY|Kings|Brooklyn|Sutter Avenue|11207
+NY|Kings|Brooklyn|Sutter Avenue|11208
+NY|Kings|Brooklyn|Sutter Avenue|11212
+NY|Kings|Brooklyn|Sutters Avenue|11208
+NY|Kings|Brooklyn|Sutton Street|11222
+NY|Kings|Brooklyn|Suydam Place|11233
+NY|Kings|Brooklyn|Suydam Street|11221
+NY|Kings|Brooklyn|Stuart Street|11229
+NY|Kings|Brooklyn|Taaffe Place|11205
+NY|Kings|Brooklyn|Tabor Court|11219
+NY|Kings|Brooklyn|Tampa Court|11225
+NY|Kings|Brooklyn|Tapscott Avenue|11212
+NY|Kings|Brooklyn|Tapscott Street|11212
+NY|Kings|Brooklyn|Taylor Street|11211
+NY|Kings|Brooklyn|Taylor Street|11249
+NY|Kings|Brooklyn|Tech Place|11201
+NY|Kings|Brooklyn|Stagg Street|11237
+NY|Kings|Brooklyn|Temple Court|11218
+NY|Kings|Brooklyn|Suydam Street|11237
+NY|Kings|Brooklyn|Ten Eyck Street|11237
+NY|Kings|Brooklyn|Ten Eyck Walk|11206
+NY|Kings|Brooklyn|Tennis Court|11226
+NY|Kings|Brooklyn|Terrace Place|11218
+NY|Kings|Brooklyn|Thames Street|11206
+NY|Kings|Brooklyn|Thames Street|11237
+NY|Kings|Brooklyn|Thatford Avenue|11212
+NY|Kings|Brooklyn|Thomas S Boyland Street|11212
+NY|Kings|Brooklyn|Thomas S Boyland Street|11233
+NY|Kings|Brooklyn|Thomas S Boyland Street|11236
+NY|Kings|Brooklyn|Thomas Street|11222
+NY|Kings|Brooklyn|Thornton Street|11206
+NY|Kings|Brooklyn|Throop Avenue|11206
+NY|Kings|Brooklyn|Throop Avenue|11216
+NY|Kings|Brooklyn|Throop Avenue|11221
+NY|Kings|Brooklyn|Tiffany Place|11231
+NY|Kings|Brooklyn|Tilden Avenue|11203
+NY|Kings|Brooklyn|Tilden Avenue|11226
+NY|Kings|Brooklyn|Tillary Street|11201
+NY|Kings|Brooklyn|Times Plaza|11217
+NY|Kings|Brooklyn|Tompkins Avenue|11206
+NY|Kings|Brooklyn|Tompkins Avenue|11216
+NY|Kings|Brooklyn|Tompkins Place|11231
+NY|Kings|Brooklyn|Townsend Street|11222
+NY|Kings|Brooklyn|Troutman Street|11206
+NY|Kings|Brooklyn|Tehama Street|11218
+NY|Kings|Brooklyn|Troy Avenue|11203
+NY|Kings|Brooklyn|Troy Avenue|11213
+NY|Kings|Brooklyn|Troy Avenue|11234
+NY|Kings|Brooklyn|Trucklemans Lane|11236
+NY|Kings|Brooklyn|Truxton Street|11233
+NY|Kings|Brooklyn|Ten Eyck Street|11206
+NY|Kings|Brooklyn|Tudor Terrace|11224
+NY|Kings|Brooklyn|Turnbull Avenue|11236
+NY|Kings|Brooklyn|Turner Place|11218
+NY|Kings|Brooklyn|Troutman Street|11237
+NY|Kings|Brooklyn|Union Avenue|11206
+NY|Kings|Brooklyn|Union Avenue|11211
+NY|Kings|Brooklyn|Union Street|11212
+NY|Kings|Brooklyn|Underhill Avenue|11238
+NY|Kings|Brooklyn|Union Street|11215
+NY|Kings|Brooklyn|Union Street|11225
+NY|Kings|Brooklyn|Union Street|11231
+NY|Kings|Brooklyn|Union Street|11233
+NY|Kings|Brooklyn|US Highway 141|11224
+NY|Kings|Brooklyn|Utica Avenue|11203
+NY|Kings|Brooklyn|Utica Avenue|11213
+NY|Kings|Brooklyn|Utica Avenue|11233
+NY|Kings|Brooklyn|Utica Avenue|11234
+NY|Kings|Brooklyn|V Avenue|11229
+NY|Kings|Brooklyn|Van Brunt Street|11231
+NY|Kings|Brooklyn|Van Buren Street|11221
+NY|Kings|Brooklyn|Van Dam Street|11222
+NY|Kings|Brooklyn|Van Dyke Street|11231
+NY|Kings|Brooklyn|Van Sicklen Street|11223
+NY|Kings|Brooklyn|Van Siclen Avenue|11207
+NY|Kings|Brooklyn|Van Siclen Avenue|11239
+NY|Kings|Brooklyn|Van Siclen Court|11207
+NY|Kings|Brooklyn|Van Sinderen Avenue|11207
+NY|Kings|Brooklyn|Vandalia Avenue|11208
+NY|Kings|Brooklyn|Vandalia Avenue|11239
+NY|Kings|Brooklyn|Vanderbilt Avenue|11205
+NY|Kings|Brooklyn|Vanderbilt Avenue|11238
+NY|Kings|Brooklyn|Union Street|11213
+NY|Kings|Brooklyn|Vanderveer Place|11226
+NY|Kings|Brooklyn|Vanderveer Street|11207
+NY|Kings|Brooklyn|Vandervoort Avenue|11211
+NY|Kings|Brooklyn|Vandervoort Avenue|11222
+NY|Kings|Brooklyn|Vandervoort Place|11237
+NY|Kings|Brooklyn|Varandah Place|11201
+NY|Kings|Brooklyn|State Highway 19|11224
+NY|Kings|Brooklyn|Vanderbilt Street|11218
+NY|Kings|Brooklyn|Varick Avenue|11237
+NY|Kings|Brooklyn|Varick Street|11222
+NY|Kings|Brooklyn|Varkens Hook Road|11236
+NY|Kings|Brooklyn|Verandah Place|11201
+NY|Kings|Brooklyn|Vermont Avenue|11207
+NY|Kings|Brooklyn|Vermont Court|11207
+NY|Kings|Brooklyn|Vermont Street|11207
+NY|Kings|Brooklyn|Vernon Avenue|11206
+NY|Kings|Brooklyn|Verona Place|11216
+NY|Kings|Brooklyn|Verona Street|11231
+NY|Kings|Brooklyn|Veronica Place|11226
+NY|Kings|Brooklyn|Veterans Avenue|11234
+NY|Kings|Brooklyn|Via Vespucci|11222
+NY|Kings|Brooklyn|Varick Avenue|11222
+NY|Kings|Brooklyn|Village Court|11223
+NY|Kings|Brooklyn|Village Road E|11223
+NY|Kings|Brooklyn|Village Road N|11223
+NY|Kings|Brooklyn|Village Road S|11223
+NY|Kings|Brooklyn|Vine Street|11201
+NY|Kings|Brooklyn|Virginia Place|11213
+NY|Kings|Brooklyn|Visitation Place|11231
+NY|Kings|Brooklyn|Vista Place|11220
+NY|Kings|Brooklyn|Voorhies Avenue|11235
+NY|Kings|Brooklyn|Varet Street|11206
+NY|Kings|Brooklyn|Twin Pines Drive E|11239
+NY|Kings|Brooklyn|W 10th Street|11224
+NY|Kings|Brooklyn|W 11th Street|11204
+NY|Kings|Brooklyn|Victor Road|11203
+NY|Kings|Brooklyn|W 12th Street|11204
+NY|Kings|Brooklyn|W 12th Street|11223
+NY|Kings|Brooklyn|W 12th Street|11224
+NY|Kings|Brooklyn|W 13th Street|11223
+NY|Kings|Brooklyn|W 15th Place|11214
+NY|Kings|Brooklyn|W 15th Street|11214
+NY|Kings|Brooklyn|W 15th Street|11224
+NY|Kings|Brooklyn|W 16th Street|11214
+NY|Kings|Brooklyn|W 16th Street|11224
+NY|Kings|Brooklyn|W 17th Street|11214
+NY|Kings|Brooklyn|W 17th Street|11224
+NY|Kings|Brooklyn|W 19th Street|11224
+NY|Kings|Brooklyn|W 1st Street|11204
+NY|Kings|Brooklyn|W 1st Street|11223
+NY|Kings|Brooklyn|W 1st Street|11224
+NY|Kings|Brooklyn|W 20th Street|11224
+NY|Kings|Brooklyn|W 21st Street|11224
+NY|Kings|Brooklyn|W 22nd Street|11214
+NY|Kings|Brooklyn|W 22nd Street|11224
+NY|Kings|Brooklyn|W 23rd Street|11224
+NY|Kings|Brooklyn|W 24th Street|11224
+NY|Kings|Brooklyn|W 25th Street|11224
+NY|Kings|Brooklyn|W 10th Street|11204
+NY|Kings|Brooklyn|W 28th Street|11224
+NY|Kings|Brooklyn|W 29th Street|11224
+NY|Kings|Brooklyn|W 27th Street|11224
+NY|Kings|Brooklyn|W 2nd Street|11204
+NY|Kings|Brooklyn|W 2nd Street|11223
+NY|Kings|Brooklyn|W 2nd Street|11224
+NY|Kings|Brooklyn|W 30th Street|11224
+NY|Kings|Brooklyn|W 31st Street|11224
+NY|Kings|Brooklyn|W 32nd Street|11224
+NY|Kings|Brooklyn|W 33rd Street|11224
+NY|Kings|Brooklyn|W 35th Street|11224
+NY|Kings|Brooklyn|W 36th Street|11224
+NY|Kings|Brooklyn|W 37th Street|11224
+NY|Kings|Brooklyn|W 3rd Street|11204
+NY|Kings|Brooklyn|W 3rd Street|11223
+NY|Kings|Brooklyn|W 3rd Street|11224
+NY|Kings|Brooklyn|W 4th Street|11204
+NY|Kings|Brooklyn|W 4th Street|11223
+NY|Kings|Brooklyn|W 5th Street|11204
+NY|Kings|Brooklyn|W 5th Street|11223
+NY|Kings|Brooklyn|W 5th Street|11224
+NY|Kings|Brooklyn|W 6th Street|11204
+NY|Kings|Brooklyn|W 11th Street|11223
+NY|Kings|Brooklyn|W 2nd Place|11224
+NY|Kings|Brooklyn|W 7th Street|11204
+NY|Kings|Brooklyn|W 7th Street|11223
+NY|Kings|Brooklyn|W 8th Street|11204
+NY|Kings|Brooklyn|W 8th Street|11223
+NY|Kings|Brooklyn|W 8th Street|11224
+NY|Kings|Brooklyn|W 6th Street|11224
+NY|Kings|Brooklyn|W 9th Street|11223
+NY|Kings|Brooklyn|W 9th Street|11231
+NY|Kings|Brooklyn|W Brighton Avenue|11224
+NY|Kings|Brooklyn|W End Avenue|11235
+NY|Kings|Brooklyn|W Main Street|11224
+NY|Kings|Brooklyn|W Marginal Street|11207
+NY|Kings|Brooklyn|Wainwright Drive|11209
+NY|Kings|Brooklyn|Wakeman Place|11220
+NY|Kings|Brooklyn|Waldane Court|11235
+NY|Kings|Brooklyn|Waldorf Court|11230
+NY|Kings|Brooklyn|Wallabout Street|11206
+NY|Kings|Brooklyn|Wallabout Street|11211
+NY|Kings|Brooklyn|Wallabout Street|11249
+NY|Kings|Brooklyn|Wallaston Court|11204
+NY|Kings|Brooklyn|Walsh Court|11230
+NY|Kings|Brooklyn|Walton Street|11206
+NY|Kings|Brooklyn|Walworth Street|11205
+NY|Kings|Brooklyn|Warren Place|11201
+NY|Kings|Brooklyn|Warren Street|11201
+NY|Kings|Brooklyn|Warren Street|11217
+NY|Kings|Brooklyn|Warsoff Place|11205
+NY|Kings|Brooklyn|Warwick Street|11207
+NY|Kings|Brooklyn|Washington Avenue|11205
+NY|Kings|Brooklyn|Washington Avenue|11225
+NY|Kings|Brooklyn|Washington Avenue|11238
+NY|Kings|Brooklyn|W 10th Street|11223
+NY|Kings|Brooklyn|W 6th Street|11223
+NY|Kings|Brooklyn|Washington Street|11201
+NY|Kings|Brooklyn|Washington Walk|11205
+NY|Kings|Brooklyn|Water Street|11201
+NY|Kings|Brooklyn|Waterbury Street|11206
+NY|Kings|Brooklyn|Watkins Street|11212
+NY|Kings|Brooklyn|Waverly Avenue|11205
+NY|Kings|Brooklyn|Waverly Avenue|11238
+NY|Kings|Brooklyn|Webers Court|11235
+NY|Kings|Brooklyn|Webster Avenue|11230
+NY|Kings|Brooklyn|Webster Place|11215
+NY|Kings|Brooklyn|Weirfield Street|11221
+NY|Kings|Brooklyn|Weirfield Street|11237
+NY|Kings|Brooklyn|Weldon Street|11208
+NY|Kings|Brooklyn|Wellington Court|11230
+NY|Kings|Brooklyn|Wells Street|11208
+NY|Kings|Brooklyn|West Avenue|11224
+NY|Kings|Brooklyn|West Street|11222
+NY|Kings|Brooklyn|West Street|11223
+NY|Kings|Brooklyn|Westbury Court|11225
+NY|Kings|Brooklyn|Westminster Road|11218
+NY|Kings|Brooklyn|Westminster Road|11230
+NY|Kings|Brooklyn|W 9th Street|11204
+NY|Kings|Brooklyn|Wharton Place|11208
+NY|Kings|Brooklyn|Whipple Street|11206
+NY|Kings|Brooklyn|White Avenue|11252
+NY|Kings|Brooklyn|White Street|11206
+NY|Kings|Brooklyn|Whitman Drive|11234
+NY|Kings|Brooklyn|Whitney Avenue|11229
+NY|Kings|Brooklyn|Whitney Place|11223
+NY|Kings|Brooklyn|Washington Park|11205
+NY|Kings|Brooklyn|Whitwell Place|11215
+NY|Kings|Brooklyn|Will Place|11207
+NY|Kings|Brooklyn|Williams Avenue|11207
+NY|Kings|Brooklyn|Williams Court|11235
+NY|Kings|Brooklyn|Williams Place|11207
+NY|Kings|Brooklyn|Washington Drive|11209
+NY|Kings|Brooklyn|Williamsburg Street W|11211
+NY|Kings|Brooklyn|Williamsburg Street W|11249
+NY|Kings|Brooklyn|Williamsburg Street E|11211
+NY|Kings|Brooklyn|Willoughby Avenue|11205
+NY|Kings|Brooklyn|Willoughby Avenue|11206
+NY|Kings|Brooklyn|Willoughby Avenue|11221
+NY|Kings|Brooklyn|Willoughby Avenue|11237
+NY|Kings|Brooklyn|Whale Square|11232
+NY|Kings|Brooklyn|Willow Place|11201
+NY|Kings|Brooklyn|Willow Street|11201
+NY|Kings|Brooklyn|Wilson Avenue|11207
+NY|Kings|Brooklyn|Wilson Avenue|11221
+NY|Kings|Brooklyn|Wilson Avenue|11237
+NY|Kings|Brooklyn|Wilson Street|11211
+NY|Kings|Brooklyn|Wilson Street|11249
+NY|Kings|Brooklyn|Windsor Place|11215
+NY|Kings|Brooklyn|Windsor Place|11218
+NY|Kings|Brooklyn|Winthrop Street|11203
+NY|Kings|Brooklyn|Winthrop Street|11212
+NY|Kings|Brooklyn|Winthrop Street|11225
+NY|Kings|Brooklyn|Withers Street|11211
+NY|Kings|Brooklyn|Whitty Lane|11203
+NY|Kings|Brooklyn|Wogan Terrace|11209
+NY|Kings|Brooklyn|Wolcott Street|11231
+NY|Kings|Brooklyn|Wolf Place|11223
+NY|Kings|Brooklyn|Woodbine Street|11221
+NY|Kings|Brooklyn|Woodbine Street|11237
+NY|Kings|Brooklyn|Woodhull Street|11231
+NY|Kings|Brooklyn|Woodpoint Road|11211
+NY|Kings|Brooklyn|Woodrow Court|11232
+NY|Kings|Brooklyn|Woodruff Avenue|11225
+NY|Kings|Brooklyn|Woodruff Avenue|11226
+NY|Kings|Brooklyn|Willmohr Street|11212
+NY|Kings|Brooklyn|Woodside Avenue|11223
+NY|Kings|Brooklyn|Wortman Avenue|11207
+NY|Kings|Brooklyn|Wortman Avenue|11208
+NY|Kings|Brooklyn|Wyckoff Avenue|11237
+NY|Kings|Brooklyn|Wyckoff Street|11201
+NY|Kings|Brooklyn|Wyckoff Street|11217
+NY|Kings|Brooklyn|Wyona Street|11207
+NY|Kings|Brooklyn|Wythe Avenue|11211
+NY|Kings|Brooklyn|Wythe Avenue|11222
+NY|Kings|Brooklyn|Wythe Avenue|11249
+NY|Kings|Brooklyn|Wythe Place|11211
+NY|Kings|Brooklyn|Wythe Place|11249
+NY|Kings|Brooklyn|York Street|11201
+NY|Kings|Brooklyn|Woods Place|11226
+NY|Kings|Brooklyn|Withers Street|11222
+NY|Kings|Brooklyn|Willoughby Street|11201

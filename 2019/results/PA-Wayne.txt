@@ -1,0 +1,3316 @@
+PA|Wayne|Lake Como|Como Road|18437
+PA|Wayne|Lake Como|Creamton Road|18437
+PA|Wayne|Lake Como|Geer Road|18437
+PA|Wayne|Lake Como|High Lake Road|18437
+PA|Wayne|Lake Como|Holbert Hill Road|18437
+PA|Wayne|Lake Como|Hunt Road|18437
+PA|Wayne|Lake Como|Jericho Road|18437
+PA|Wayne|Lake Como|Kinneyville Road|18437
+PA|Wayne|Lake Como|Lenape Lane|18437
+PA|Wayne|Lake Como|Main Avenue|18437
+PA|Wayne|Lake Como|O & W Road|18437
+PA|Wayne|Lake Como|Cherokee Drive|18437
+PA|Wayne|Lake Como|Poor Farm Road|18437
+PA|Wayne|Lake Como|Preacher Road|18437
+PA|Wayne|Lake Como|Rose Hill Road|18437
+PA|Wayne|Lake Como|Stockport Road|18437
+PA|Wayne|Lake Como|Stockport Tpke|18437
+PA|Wayne|Lake Como|T 589|18437
+PA|Wayne|Lake Como|T 605|18437
+PA|Wayne|Lake Como|T585|18437
+PA|Wayne|Lake Como|T601|18437
+PA|Wayne|Lake Como|T603|18437
+PA|Wayne|Lake Como|Paxinos Drive|18437
+PA|Wayne|Lake Como|T605|18437
+PA|Wayne|Lake Como|T712|18437
+PA|Wayne|Lake Como|Crosstown Highway|18437
+PA|Wayne|Lake Como|T728|18437
+PA|Wayne|Lake Como|T730|18437
+PA|Wayne|Lake Como|Towpath Road|18437
+PA|Wayne|Lake Como|T680|18437
+PA|Wayne|Lake Como|T726|18437
+PA|Wayne|Lake Como|Wallerville Road|18437
+PA|Wayne|Damascus|Baldwin Hill Road|18415
+PA|Wayne|Damascus|Bauer Lane|18415
+PA|Wayne|Damascus|Beaver Lane|18415
+PA|Wayne|Damascus|Blackwell Road|18415
+PA|Wayne|Damascus|Bolts Lane|18415
+PA|Wayne|Damascus|Boyce Road|18415
+PA|Wayne|Damascus|Brucher Road|18415
+PA|Wayne|Damascus|Burke Road|18415
+PA|Wayne|Damascus|Bush Road|18415
+PA|Wayne|Damascus|Callicoon Road|18415
+PA|Wayne|Damascus|Canfield Road|18415
+PA|Wayne|Damascus|Cemetery Road|18415
+PA|Wayne|Damascus|Chicopee Road|18415
+PA|Wayne|Damascus|Church Road|18415
+PA|Wayne|Damascus|Clover Hill Lane|18415
+PA|Wayne|Damascus|Cochecton Tpke|18415
+PA|Wayne|Damascus|Conklin Hill Road|18415
+PA|Wayne|Damascus|Cooley Creek Road|18415
+PA|Wayne|Damascus|Damascus Manor|18415
+PA|Wayne|Damascus|Deerhaven Lane|18415
+PA|Wayne|Damascus|Delaware Avenue|18415
+PA|Wayne|Damascus|Delaware Drive|18415
+PA|Wayne|Damascus|Diehl Line Drive|18415
+PA|Wayne|Damascus|Diehl Road|18415
+PA|Wayne|Damascus|Dustys Trail|18415
+PA|Wayne|Damascus|E Hill Road|18415
+PA|Wayne|Damascus|Edwards Road|18415
+PA|Wayne|Damascus|Edwin Drive|18415
+PA|Wayne|Damascus|Ellison Road|18415
+PA|Wayne|Damascus|Elm Drive|18415
+PA|Wayne|Damascus|Excursion Drive|18415
+PA|Wayne|Damascus|Flat Rock Road|18415
+PA|Wayne|Damascus|Galilee Road|18415
+PA|Wayne|Damascus|Gelbhaus Lane|18415
+PA|Wayne|Damascus|Ghost Horse Place|18415
+PA|Wayne|Damascus|Glen Road|18415
+PA|Wayne|Damascus|Grammies Boulevard|18415
+PA|Wayne|Damascus|Grossetto Lane|18415
+PA|Wayne|Damascus|Hickory Lane|18415
+PA|Wayne|Damascus|High School Road|18415
+PA|Wayne|Damascus|Hill Road, East|18415
+PA|Wayne|Damascus|Hurley's Meadows|18415
+PA|Wayne|Damascus|Katie Lane|18415
+PA|Wayne|Damascus|Keesler|18415
+PA|Wayne|Damascus|Kuchta Lane|18415
+PA|Wayne|Damascus|Laurel Lane|18415
+PA|Wayne|Damascus|Little Lakes Lane|18415
+PA|Wayne|Damascus|Lucys Way|18415
+PA|Wayne|Damascus|Maria Avenue|18415
+PA|Wayne|Damascus|Marks Road|18415
+PA|Wayne|Damascus|Meadowland Drive|18415
+PA|Wayne|Damascus|Mountain Lion Trail|18415
+PA|Wayne|Damascus|Neer Lane|18415
+PA|Wayne|Damascus|Oakley Road|18415
+PA|Wayne|Damascus|Old Road|18415
+PA|Wayne|Damascus|Lakeview Drive|18415
+PA|Wayne|Damascus|Paradise Lane|18415
+PA|Wayne|Damascus|Peeties Path|18415
+PA|Wayne|Damascus|Baker Hill Road|18415
+PA|Wayne|Damascus|Pleasant View Lane|18415
+PA|Wayne|Damascus|R 1029, South|18415
+PA|Wayne|Damascus|River Road|18415
+PA|Wayne|Damascus|Robbs Road|18415
+PA|Wayne|Damascus|Rodano Drive|18415
+PA|Wayne|Damascus|S R 1029|18415
+PA|Wayne|Damascus|Schuman Road|18415
+PA|Wayne|Damascus|Shamrock Lane|18415
+PA|Wayne|Damascus|Sky Lake Road|18415
+PA|Wayne|Damascus|Steiner Road|18415
+PA|Wayne|Damascus|Stone House Road|18415
+PA|Wayne|Damascus|Stonefence Road|18415
+PA|Wayne|Damascus|Summit Drive|18415
+PA|Wayne|Damascus|Swago Road|18415
+PA|Wayne|Damascus|Swendsen Road|18415
+PA|Wayne|Damascus|Swendson Road|18415
+PA|Wayne|Damascus|Pflaster Road|18415
+PA|Wayne|Damascus|T R 650|18415
+PA|Wayne|Damascus|T539|18415
+PA|Wayne|Damascus|T541|18415
+PA|Wayne|Damascus|T543|18415
+PA|Wayne|Damascus|T545|18415
+PA|Wayne|Damascus|T549|18415
+PA|Wayne|Damascus|Syloro Lane|18415
+PA|Wayne|Damascus|T553|18415
+PA|Wayne|Damascus|T555|18415
+PA|Wayne|Damascus|T557|18415
+PA|Wayne|Damascus|T559|18415
+PA|Wayne|Damascus|T561|18415
+PA|Wayne|Damascus|T625|18415
+PA|Wayne|Damascus|T-627|18415
+PA|Wayne|Damascus|T631|18415
+PA|Wayne|Damascus|T638|18415
+PA|Wayne|Damascus|T654|18415
+PA|Wayne|Damascus|T658|18415
+PA|Wayne|Damascus|T664|18415
+PA|Wayne|Damascus|T668|18415
+PA|Wayne|Damascus|T670|18415
+PA|Wayne|Damascus|T-672|18415
+PA|Wayne|Damascus|T677|18415
+PA|Wayne|Damascus|T679|18415
+PA|Wayne|Damascus|T680|18415
+PA|Wayne|Damascus|T683|18415
+PA|Wayne|Damascus|T688|18415
+PA|Wayne|Damascus|T742|18415
+PA|Wayne|Damascus|Tammany Flats|18415
+PA|Wayne|Damascus|Tammany Flats Terrace|18415
+PA|Wayne|Damascus|Terrace Lane|18415
+PA|Wayne|Damascus|The Glade|18415
+PA|Wayne|Damascus|Tr650|18415
+PA|Wayne|Damascus|Tr652|18415
+PA|Wayne|Damascus|Tr684|18415
+PA|Wayne|Damascus|Turkey Ridge|18415
+PA|Wayne|Damascus|Turkey Run|18415
+PA|Wayne|Damascus|Rock Run Road|18415
+PA|Wayne|Damascus|Wagner Hill Road|18415
+PA|Wayne|Damascus|Waterside Drive|18415
+PA|Wayne|Damascus|Weeks Mountain Road|18415
+PA|Wayne|Damascus|Whitmore Road|18415
+PA|Wayne|Damascus|Wilcox Road|18415
+PA|Wayne|Damascus|Williams Drive|18415
+PA|Wayne|Damascus|T551|18415
+PA|Wayne|Damascus|Paint Mine Road|18415
+PA|Wayne|Damascus|Woodhill Drive|18415
+PA|Wayne|Damascus|Woodshire Lane|18415
+PA|Wayne|Damascus|Woodward Avenue|18415
+PA|Wayne|Damascus|Zacher Strasse N|18415
+PA|Wayne|Damascus|Zig Zag|18415
+PA|Wayne|Damascus|Wood Road|18415
+PA|Wayne|Beach Lake|3rd Street|18405
+PA|Wayne|Beach Lake|Adams Pond Road|18405
+PA|Wayne|Beach Lake|Alpine Road|18405
+PA|Wayne|Beach Lake|Atco Road|18405
+PA|Wayne|Beach Lake|Bambi Lane|18405
+PA|Wayne|Beach Lake|Barkley Lake Road|18405
+PA|Wayne|Beach Lake|Barns Avenue|18405
+PA|Wayne|Beach Lake|Bavarian Hill Road|18405
+PA|Wayne|Beach Lake|Beach Lake Highway|18405
+PA|Wayne|Beach Lake|Bear Hollow|18405
+PA|Wayne|Beach Lake|Bear Springs Road|18405
+PA|Wayne|Beach Lake|Bergstrasse Street|18405
+PA|Wayne|Beach Lake|Blue Ridge Road|18405
+PA|Wayne|Beach Lake|Blueberry Drive|18405
+PA|Wayne|Beach Lake|Boyds Mill Road|18405
+PA|Wayne|Damascus|Valley View Road|18415
+PA|Wayne|Beach Lake|Briarwood Trail|18405
+PA|Wayne|Beach Lake|Britton Lane|18405
+PA|Wayne|Beach Lake|Brook Pond Drive|18405
+PA|Wayne|Beach Lake|Burlein Drive|18405
+PA|Wayne|Beach Lake|Butternut Flats|18405
+PA|Wayne|Beach Lake|Branning Road|18405
+PA|Wayne|Beach Lake|Camp Timberledge Road|18405
+PA|Wayne|Beach Lake|Castle Hill Road|18405
+PA|Wayne|Beach Lake|Catholic Church Road|18405
+PA|Wayne|Beach Lake|Circle Drive|18405
+PA|Wayne|Beach Lake|Clemen and Mueller Street|18405
+PA|Wayne|Beach Lake|Clemen U Muller Street|18405
+PA|Wayne|Beach Lake|Clemen V Muller Street|18405
+PA|Wayne|Beach Lake|Cole Drive|18405
+PA|Wayne|Beach Lake|Conbeer Lane|18405
+PA|Wayne|Beach Lake|Cortese Road|18405
+PA|Wayne|Beach Lake|Cosgrove Road|18405
+PA|Wayne|Beach Lake|Country Lane|18405
+PA|Wayne|Beach Lake|County Road 4003|18405
+PA|Wayne|Beach Lake|Cozy Cabin Lane|18405
+PA|Wayne|Beach Lake|Crystal Brook Road|18405
+PA|Wayne|Beach Lake|Dexter Road|18405
+PA|Wayne|Beach Lake|Dragon Keeps Road|18405
+PA|Wayne|Beach Lake|E Shore Lane|18405
+PA|Wayne|Beach Lake|Eagle Rdg|18405
+PA|Wayne|Beach Lake|Edgewood Lane|18405
+PA|Wayne|Beach Lake|Edwards Road|18405
+PA|Wayne|Beach Lake|Elbert Behling Road|18405
+PA|Wayne|Beach Lake|Elizabeth Road|18405
+PA|Wayne|Beach Lake|Emme Lane|18405
+PA|Wayne|Beach Lake|Florence Street|18405
+PA|Wayne|Beach Lake|Forest Street|18405
+PA|Wayne|Beach Lake|Friermuth Drive|18405
+PA|Wayne|Beach Lake|Gobbler Knob Lane|18405
+PA|Wayne|Beach Lake|Gregory Lane|18405
+PA|Wayne|Beach Lake|Grover Branning Road|18405
+PA|Wayne|Beach Lake|Haase Road|18405
+PA|Wayne|Beach Lake|Hansdale and Delaware Tpke|18405
+PA|Wayne|Beach Lake|Hartman Road|18405
+PA|Wayne|Beach Lake|Hill Street|18405
+PA|Wayne|Beach Lake|Honesdale and Big Eddy Tpke|18405
+PA|Wayne|Beach Lake|Hunter Lane|18405
+PA|Wayne|Beach Lake|John Davis Road|18405
+PA|Wayne|Beach Lake|Kaiser Strasse|18405
+PA|Wayne|Beach Lake|Kaiser Street|18405
+PA|Wayne|Beach Lake|Kelly Lane|18405
+PA|Wayne|Beach Lake|Butternut Flats Road|18405
+PA|Wayne|Beach Lake|Lakeside Lane|18405
+PA|Wayne|Beach Lake|Lang Road|18405
+PA|Wayne|Beach Lake|Lazy J Road|18405
+PA|Wayne|Beach Lake|1st Street|18405
+PA|Wayne|Beach Lake|Little Beach Lake Road|18405
+PA|Wayne|Beach Lake|Maccubbins Road|18405
+PA|Wayne|Beach Lake|Leslie Lane|18405
+PA|Wayne|Beach Lake|Milanville Road|18405
+PA|Wayne|Beach Lake|Miller Road|18405
+PA|Wayne|Beach Lake|Main Avenue|18405
+PA|Wayne|Beach Lake|Mott Road|18405
+PA|Wayne|Beach Lake|My Way Lane|18405
+PA|Wayne|Beach Lake|Olde Peggy Runway|18405
+PA|Wayne|Beach Lake|Orchard Hts|18405
+PA|Wayne|Beach Lake|Ostrando Boulevard|18405
+PA|Wayne|Beach Lake|Overlook Drive|18405
+PA|Wayne|Beach Lake|Ox-Tail Street|18405
+PA|Wayne|Beach Lake|Ox-Team Road|18405
+PA|Wayne|Beach Lake|Peggy Runway Road|18405
+PA|Wayne|Beach Lake|Perkins Pond Road|18405
+PA|Wayne|Beach Lake|Pike Street|18405
+PA|Wayne|Beach Lake|Pine Valley Drive|18405
+PA|Wayne|Beach Lake|Pintler Road|18405
+PA|Wayne|Beach Lake|Plank Road|18405
+PA|Wayne|Beach Lake|Rick Lane|18405
+PA|Wayne|Beach Lake|Ridge Strasse|18405
+PA|Wayne|Beach Lake|Ripple Lane|18405
+PA|Wayne|Beach Lake|River Rest Drive|18405
+PA|Wayne|Beach Lake|River Road|18405
+PA|Wayne|Beach Lake|Riverview Lane|18405
+PA|Wayne|Beach Lake|Rosencrance Road|18405
+PA|Wayne|Beach Lake|Shady Hill|18405
+PA|Wayne|Beach Lake|Shady Lane Drive|18405
+PA|Wayne|Beach Lake|Shagbark Lane|18405
+PA|Wayne|Beach Lake|Shale Road|18405
+PA|Wayne|Beach Lake|Shore Lane, East|18405
+PA|Wayne|Beach Lake|Short Road|18405
+PA|Wayne|Beach Lake|Slater Road|18405
+PA|Wayne|Beach Lake|Spruce Drive|18405
+PA|Wayne|Beach Lake|Spruce Swamp Road|18405
+PA|Wayne|Beach Lake|Sr1015|18405
+PA|Wayne|Beach Lake|Star Route 1008|18405
+PA|Wayne|Beach Lake|State Route 652|18405
+PA|Wayne|Beach Lake|Steep Hill Road|18405
+PA|Wayne|Beach Lake|Sunny Lane|18405
+PA|Wayne|Beach Lake|Suroka Drive|18405
+PA|Wayne|Beach Lake|T 480|18405
+PA|Wayne|Beach Lake|T-419|18405
+PA|Wayne|Damascus|Wood Lane|18415
+PA|Wayne|Beach Lake|T486|18405
+PA|Wayne|Beach Lake|T-487|18405
+PA|Wayne|Beach Lake|T488|18405
+PA|Wayne|Beach Lake|T500|18405
+PA|Wayne|Beach Lake|T502|18405
+PA|Wayne|Beach Lake|T504|18405
+PA|Wayne|Beach Lake|T508|18405
+PA|Wayne|Beach Lake|T513|18405
+PA|Wayne|Beach Lake|T515|18405
+PA|Wayne|Beach Lake|T517|18405
+PA|Wayne|Beach Lake|T519|18405
+PA|Wayne|Beach Lake|T521|18405
+PA|Wayne|Beach Lake|T529|18405
+PA|Wayne|Beach Lake|T622|18405
+PA|Wayne|Beach Lake|T624|18405
+PA|Wayne|Beach Lake|T626|18405
+PA|Wayne|Beach Lake|T675|18405
+PA|Wayne|Beach Lake|Kelly Way|18405
+PA|Wayne|Beach Lake|T691|18405
+PA|Wayne|Beach Lake|T692|18405
+PA|Wayne|Beach Lake|T678|18405
+PA|Wayne|Beach Lake|Tall Tree Lane|18405
+PA|Wayne|Beach Lake|Tall Trees Lane|18405
+PA|Wayne|Beach Lake|Tenic Lane|18405
+PA|Wayne|Beach Lake|Teradon Drive|18405
+PA|Wayne|Beach Lake|Twin Acres Drive|18405
+PA|Wayne|Beach Lake|Upe Road|18405
+PA|Wayne|Beach Lake|Vandine Road|18405
+PA|Wayne|Beach Lake|Via Campo Doro|18405
+PA|Wayne|Beach Lake|Victory Lane|18405
+PA|Wayne|Beach Lake|Village Auto Drive|18405
+PA|Wayne|Beach Lake|Village Road|18405
+PA|Wayne|Beach Lake|Weiland Road|18405
+PA|Wayne|Beach Lake|Welcome Lake Estates Lane|18405
+PA|Wayne|Beach Lake|Welcome Lake House Estates Lane|18405
+PA|Wayne|Beach Lake|Welcome Lake Road|18405
+PA|Wayne|Beach Lake|White Oak Road|18405
+PA|Wayne|Beach Lake|White Oaks|18405
+PA|Wayne|Beach Lake|White Tail Ridge|18405
+PA|Wayne|Beach Lake|Wolf Lane|18405
+PA|Wayne|Beach Lake|Woodland Drive|18405
+PA|Wayne|Beach Lake|Woodland Vw|18405
+PA|Wayne|Beach Lake|Zimmer Trail|18405
+PA|Wayne|Beach Lake|T693|18405
+PA|Wayne|Beach Lake|Mohn Road|18405
+PA|Wayne|Beach Lake|Zimmer Trl Exd|18405
+PA|Wayne|Beach Lake|T484|18405
+PA|Wayne|Gouldsboro|1st Street, North|18424
+PA|Wayne|Gouldsboro|2nd Street|18424
+PA|Wayne|Gouldsboro|3rd Street|18424
+PA|Wayne|Gouldsboro|4th Street|18424
+PA|Wayne|Gouldsboro|Adello Trail|18424
+PA|Wayne|Gouldsboro|Acres of Diamonds Court|18424
+PA|Wayne|Gouldsboro|Adena Trail|18424
+PA|Wayne|Gouldsboro|Adventure Avenue|18424
+PA|Wayne|Gouldsboro|Adventure Drive|18424
+PA|Wayne|Gouldsboro|Ahwahnee Trail|18424
+PA|Wayne|Gouldsboro|Am Hughes Memorial Boulevard|18424
+PA|Wayne|Gouldsboro|Amado Trail|18424
+PA|Wayne|Gouldsboro|Antler Court|18424
+PA|Wayne|Gouldsboro|Antlers Alley|18424
+PA|Wayne|Gouldsboro|Apache Trail|18424
+PA|Wayne|Gouldsboro|Apollo Drive|18424
+PA|Wayne|Gouldsboro|Arapaho Path|18424
+PA|Wayne|Gouldsboro|Ash Gap Road|18424
+PA|Wayne|Gouldsboro|Atoka Trail|18424
+PA|Wayne|Gouldsboro|Bald Eagle Trail|18424
+PA|Wayne|Gouldsboro|Bass Court|18424
+PA|Wayne|Gouldsboro|Bass Lane|18424
+PA|Wayne|Gouldsboro|Bear Lake Road|18424
+PA|Wayne|Gouldsboro|Bear Lane|18424
+PA|Wayne|Gouldsboro|Beech Place|18424
+PA|Wayne|Gouldsboro|Beech Street|18424
+PA|Wayne|Gouldsboro|Beech Street, East|18424
+PA|Wayne|Gouldsboro|Beechnut Drive|18424
+PA|Wayne|Gouldsboro|Bender Road|18424
+PA|Wayne|Gouldsboro|Belle Terrace|18424
+PA|Wayne|Gouldsboro|Bent Bow Path|18424
+PA|Wayne|Gouldsboro|Bentler Road|18424
+PA|Wayne|Gouldsboro|Big Bass Drive|18424
+PA|Wayne|Gouldsboro|Birch Lane|18424
+PA|Wayne|Gouldsboro|Birch Point Road|18424
+PA|Wayne|Gouldsboro|Birch Street|18424
+PA|Wayne|Gouldsboro|Birch Terrace|18424
+PA|Wayne|Gouldsboro|Blackfoot Path|18424
+PA|Wayne|Gouldsboro|Blue Heron Court|18424
+PA|Wayne|Gouldsboro|Blue Jay Drive|18424
+PA|Wayne|Gouldsboro|Blue Jay Lane|18424
+PA|Wayne|Gouldsboro|Blue Sky Path|18424
+PA|Wayne|Gouldsboro|Bluebird Drive|18424
+PA|Wayne|Gouldsboro|Bluebird Lane|18424
+PA|Wayne|Gouldsboro|Boaters Byway|18424
+PA|Wayne|Gouldsboro|Broken Arrow Lane|18424
+PA|Wayne|Gouldsboro|Bronc Buster Trail|18424
+PA|Wayne|Gouldsboro|Bruin Way|18424
+PA|Wayne|Gouldsboro|Bubba Lane|18424
+PA|Wayne|Gouldsboro|Buck River Road|18424
+PA|Wayne|Gouldsboro|Buckaroo Byway|18424
+PA|Wayne|Gouldsboro|Campfire Lane|18424
+PA|Wayne|Gouldsboro|Campfire Trail|18424
+PA|Wayne|Gouldsboro|Big Chief Trail|18424
+PA|Wayne|Gouldsboro|Canoe Corridor|18424
+PA|Wayne|Gouldsboro|Cardinal Drive|18424
+PA|Wayne|Gouldsboro|Cardinal Lane|18424
+PA|Wayne|Gouldsboro|Cardinal Road|18424
+PA|Wayne|Gouldsboro|Caroga Trail|18424
+PA|Wayne|Gouldsboro|Carousel Court|18424
+PA|Wayne|Gouldsboro|Cavalry Court|18424
+PA|Wayne|Gouldsboro|Cayuga Drive|18424
+PA|Wayne|Gouldsboro|Cedar Lane|18424
+PA|Wayne|Gouldsboro|Cedar Street|18424
+PA|Wayne|Gouldsboro|Center Street|18424
+PA|Wayne|Gouldsboro|Chelsea Court|18424
+PA|Wayne|Gouldsboro|Chenoa Trail|18424
+PA|Wayne|Gouldsboro|Cherry Court|18424
+PA|Wayne|Gouldsboro|Cherry Drive|18424
+PA|Wayne|Gouldsboro|Cherry Lane|18424
+PA|Wayne|Gouldsboro|Cherry Street|18424
+PA|Wayne|Gouldsboro|Chestnut Drive|18424
+PA|Wayne|Gouldsboro|Cheyenne Trail|18424
+PA|Wayne|Gouldsboro|Chipmunk Path|18424
+PA|Wayne|Gouldsboro|Chipmunk S|18424
+PA|Wayne|Gouldsboro|Chipmunk Way|18424
+PA|Wayne|Gouldsboro|Choctaw Trail|18424
+PA|Wayne|Gouldsboro|Christine Court|18424
+PA|Wayne|Gouldsboro|Circle Drive|18424
+PA|Wayne|Gouldsboro|Clifton Beach Road|18424
+PA|Wayne|Gouldsboro|Clifton Court|18424
+PA|Wayne|Gouldsboro|Clifton Manor Drive|18424
+PA|Wayne|Gouldsboro|Clifton Road|18424
+PA|Wayne|Gouldsboro|Cochise Trail|18424
+PA|Wayne|Gouldsboro|Coco Lane|18424
+PA|Wayne|Gouldsboro|Cole Lane|18424
+PA|Wayne|Gouldsboro|Coleman Court|18424
+PA|Wayne|Gouldsboro|Comanche Path|18424
+PA|Wayne|Gouldsboro|Commanche Trail|18424
+PA|Wayne|Gouldsboro|Conservancy Court|18424
+PA|Wayne|Gouldsboro|Coolbaugh Avenue|18424
+PA|Wayne|Gouldsboro|Coolbaugh Road|18424
+PA|Wayne|Gouldsboro|Country Club Drive|18424
+PA|Wayne|Gouldsboro|Covington Lake Drive|18424
+PA|Wayne|Gouldsboro|Covington Way|18424
+PA|Wayne|Gouldsboro|Cowboy Corridor|18424
+PA|Wayne|Gouldsboro|Crazy Papoose Trail|18424
+PA|Wayne|Gouldsboro|Beech Drive|18424
+PA|Wayne|Gouldsboro|Creek View Drive, West|18424
+PA|Wayne|Gouldsboro|Cross Street|18424
+PA|Wayne|Gouldsboro|Crow Court|18424
+PA|Wayne|Gouldsboro|D Place|18424
+PA|Wayne|Gouldsboro|Deer Run|18424
+PA|Wayne|Gouldsboro|Delawanna Trail|18424
+PA|Wayne|Gouldsboro|Delbert Drive|18424
+PA|Wayne|Gouldsboro|Diamond Drive|18424
+PA|Wayne|Gouldsboro|Dogwood Lane|18424
+PA|Wayne|Gouldsboro|Dombek Drive|18424
+PA|Wayne|Gouldsboro|Dorantown Road|18424
+PA|Wayne|Gouldsboro|Douglas Drive|18424
+PA|Wayne|Gouldsboro|Drinker Tpke|18424
+PA|Wayne|Gouldsboro|E Beech Street|18424
+PA|Wayne|Gouldsboro|E Creek View Drive|18424
+PA|Wayne|Gouldsboro|E Place|18424
+PA|Wayne|Gouldsboro|Eagles View Drive|18424
+PA|Wayne|Gouldsboro|Earth Drive|18424
+PA|Wayne|Gouldsboro|East Avenue|18424
+PA|Wayne|Gouldsboro|East Drive|18424
+PA|Wayne|Gouldsboro|Echo Lake Road|18424
+PA|Wayne|Gouldsboro|Eibes Road|18424
+PA|Wayne|Gouldsboro|Elkalaka Trail|18424
+PA|Wayne|Gouldsboro|Emerald Avenue|18424
+PA|Wayne|Gouldsboro|Encas Trail|18424
+PA|Wayne|Gouldsboro|English Way|18424
+PA|Wayne|Gouldsboro|Equestrian Trail|18424
+PA|Wayne|Gouldsboro|Escatawa Trail|18424
+PA|Wayne|Gouldsboro|Etowah Trail|18424
+PA|Wayne|Gouldsboro|Eucas Trail|18424
+PA|Wayne|Gouldsboro|Evergreen Drive|18424
+PA|Wayne|Gouldsboro|Eyler Road|18424
+PA|Wayne|Gouldsboro|F Place|18424
+PA|Wayne|Gouldsboro|Fairway Lane|18424
+PA|Wayne|Gouldsboro|Fawn Court|18424
+PA|Wayne|Gouldsboro|Fawn Path|18424
+PA|Wayne|Gouldsboro|Fawn Trail|18424
+PA|Wayne|Gouldsboro|Fern Drive|18424
+PA|Wayne|Gouldsboro|Fern Lane|18424
+PA|Wayne|Gouldsboro|Festival Way|18424
+PA|Wayne|Gouldsboro|Fiesta Drive|18424
+PA|Wayne|Gouldsboro|Fir Lane|18424
+PA|Wayne|Gouldsboro|Firefighter Lane|18424
+PA|Wayne|Gouldsboro|Fisher Lane|18424
+PA|Wayne|Gouldsboro|Floral Drive|18424
+PA|Wayne|Gouldsboro|Forest Lane|18424
+PA|Wayne|Gouldsboro|Forti Court|18424
+PA|Wayne|Gouldsboro|Fountain Drive|18424
+PA|Wayne|Gouldsboro|Fox Farm Road|18424
+PA|Wayne|Gouldsboro|Fox Terrace|18424
+PA|Wayne|Gouldsboro|Foxwood Lane|18424
+PA|Wayne|Gouldsboro|Freytown Road|18424
+PA|Wayne|Gouldsboro|Frytown Road|18424
+PA|Wayne|Gouldsboro|G Place|18424
+PA|Wayne|Gouldsboro|Galaxie Place|18424
+PA|Wayne|Gouldsboro|Gas Hollow Road|18424
+PA|Wayne|Gouldsboro|Gemini Trail|18424
+PA|Wayne|Gouldsboro|Geronimo Drive|18424
+PA|Wayne|Gouldsboro|Geronimo Trail|18424
+PA|Wayne|Gouldsboro|Glenside Drive|18424
+PA|Wayne|Gouldsboro|Golf Course Drive|18424
+PA|Wayne|Gouldsboro|Grove Lane|18424
+PA|Wayne|Gouldsboro|Hagen Run Drive|18424
+PA|Wayne|Gouldsboro|Haleiwa Trail|18424
+PA|Wayne|Gouldsboro|Halsey Place|18424
+PA|Wayne|Gouldsboro|Hawthorn Drive|18424
+PA|Wayne|Gouldsboro|Hemlock Court|18424
+PA|Wayne|Gouldsboro|Hemlock Lane|18424
+PA|Wayne|Gouldsboro|Hemlock Trail|18424
+PA|Wayne|Gouldsboro|Hikers Court|18424
+PA|Wayne|Gouldsboro|Hillcrest Drive|18424
+PA|Wayne|Gouldsboro|Holiday Drive|18424
+PA|Wayne|Gouldsboro|Holly Lane|18424
+PA|Wayne|Gouldsboro|Hopkins Hollow|18424
+PA|Wayne|Gouldsboro|Hunters Court|18424
+PA|Wayne|Gouldsboro|Hurok Court|18424
+PA|Wayne|Gouldsboro|Indian Maiden Trail|18424
+PA|Wayne|Gouldsboro|Ingrid Drive|18424
+PA|Wayne|Gouldsboro|Iron Court|18424
+PA|Wayne|Gouldsboro|Iroquois Avenue|18424
+PA|Wayne|Gouldsboro|Iroquois Path|18424
+PA|Wayne|Gouldsboro|Jamboree Drive|18424
+PA|Wayne|Gouldsboro|John Drive|18424
+PA|Wayne|Gouldsboro|Jones Drive|18424
+PA|Wayne|Gouldsboro|Joseph Lane|18424
+PA|Wayne|Gouldsboro|Jubilee Road|18424
+PA|Wayne|Gouldsboro|K Lane|18424
+PA|Wayne|Gouldsboro|Kaley Trail|18424
+PA|Wayne|Gouldsboro|Kayenta Trail|18424
+PA|Wayne|Gouldsboro|Kechi Trail|18424
+PA|Wayne|Gouldsboro|Keokee Trail|18424
+PA|Wayne|Gouldsboro|Keystone Road|18424
+PA|Wayne|Gouldsboro|Kickapoo Road|18424
+PA|Wayne|Gouldsboro|Kimberly Road|18424
+PA|Wayne|Gouldsboro|Kiowa Path|18424
+PA|Wayne|Gouldsboro|Kiowa Trail|18424
+PA|Wayne|Gouldsboro|Kitchen Road|18424
+PA|Wayne|Gouldsboro|L C Larsen Drive|18424
+PA|Wayne|Gouldsboro|Lake Avenue|18424
+PA|Wayne|Gouldsboro|Lake Court|18424
+PA|Wayne|Gouldsboro|Lake Drive|18424
+PA|Wayne|Gouldsboro|Lake Drive E|18424
+PA|Wayne|Gouldsboro|Lake Drive N|18424
+PA|Wayne|Gouldsboro|Lake Drive W|18424
+PA|Wayne|Gouldsboro|Lake Natalie Drive|18424
+PA|Wayne|Gouldsboro|Lakeshore Drive|18424
+PA|Wayne|Gouldsboro|Lakeview Timbers Drive|18424
+PA|Wayne|Gouldsboro|Lanoka Trail|18424
+PA|Wayne|Gouldsboro|Laural Court|18424
+PA|Wayne|Gouldsboro|Laurel Drive|18424
+PA|Wayne|Gouldsboro|Lazy Squaw Trail|18424
+PA|Wayne|Gouldsboro|Lc Larsen Drive|18424
+PA|Wayne|Gouldsboro|Leah Lane|18424
+PA|Wayne|Gouldsboro|Lehigh Lane|18424
+PA|Wayne|Gouldsboro|Lehigh River Court|18424
+PA|Wayne|Gouldsboro|Lehigh River Drive, North|18424
+PA|Wayne|Gouldsboro|Lehigh River Drive, South|18424
+PA|Wayne|Gouldsboro|Lehigh Road|18424
+PA|Wayne|Gouldsboro|Lewis Avenue|18424
+PA|Wayne|Gouldsboro|Lilac Lane|18424
+PA|Wayne|Gouldsboro|Lily Lane|18424
+PA|Wayne|Gouldsboro|Lincoln Place|18424
+PA|Wayne|Gouldsboro|Lisa Lane|18424
+PA|Wayne|Gouldsboro|Livingston Lane|18424
+PA|Wayne|Gouldsboro|Locust Lane|18424
+PA|Wayne|Gouldsboro|Louis Lane|18424
+PA|Wayne|Gouldsboro|Lyman Lane|18424
+PA|Wayne|Gouldsboro|Magnolia Drive|18424
+PA|Wayne|Gouldsboro|Main Street|18424
+PA|Wayne|Gouldsboro|Main Street, North|18424
+PA|Wayne|Gouldsboro|Mallard Court|18424
+PA|Wayne|Gouldsboro|Maple Drive|18424
+PA|Wayne|Gouldsboro|Maple Lane|18424
+PA|Wayne|Gouldsboro|Maple Road|18424
+PA|Wayne|Gouldsboro|Maple Street|18424
+PA|Wayne|Gouldsboro|Marcie Terrace|18424
+PA|Wayne|Gouldsboro|Maurice Drive|18424
+PA|Wayne|Gouldsboro|Mc Esther Drive|18424
+PA|Wayne|Gouldsboro|Melvin Street|18424
+PA|Wayne|Gouldsboro|Mermaid Mall|18424
+PA|Wayne|Gouldsboro|Middle Ridge Drive|18424
+PA|Wayne|Gouldsboro|Mildred Drive|18424
+PA|Wayne|Gouldsboro|Millcreek Road|18424
+PA|Wayne|Gouldsboro|Mink Court|18424
+PA|Wayne|Gouldsboro|Mink Lane|18424
+PA|Wayne|Gouldsboro|Minnow Lane|18424
+PA|Wayne|Gouldsboro|Mohawk Trail|18424
+PA|Wayne|Gouldsboro|Mohican Path|18424
+PA|Wayne|Gouldsboro|Moonlight Drive|18424
+PA|Wayne|Gouldsboro|Mountain Glen Court|18424
+PA|Wayne|Gouldsboro|Mountain Glen Drive|18424
+PA|Wayne|Gouldsboro|Mountain Side Drive|18424
+PA|Wayne|Gouldsboro|Mountainside Drive|18424
+PA|Wayne|Gouldsboro|N 1st Street|18424
+PA|Wayne|Gouldsboro|N Lehigh River Drive|18424
+PA|Wayne|Gouldsboro|N Main Street|18424
+PA|Wayne|Gouldsboro|N Shore Drive|18424
+PA|Wayne|Gouldsboro|Nadine Lane|18424
+PA|Wayne|Gouldsboro|Natalie Lane|18424
+PA|Wayne|Gouldsboro|Nature Drive|18424
+PA|Wayne|Gouldsboro|Navajo Path|18424
+PA|Wayne|Gouldsboro|Navajo Trail|18424
+PA|Wayne|Gouldsboro|Nellie Lane|18424
+PA|Wayne|Gouldsboro|Nimitz Lane|18424
+PA|Wayne|Gouldsboro|North Road|18424
+PA|Wayne|Gouldsboro|Norton Drive|18424
+PA|Wayne|Gouldsboro|Camporee Court|18424
+PA|Wayne|Gouldsboro|Ojibwa Trail|18424
+PA|Wayne|Gouldsboro|Old Crow Trail|18424
+PA|Wayne|Gouldsboro|Old Silver Mine Trail|18424
+PA|Wayne|Gouldsboro|Oneida Drive|18424
+PA|Wayne|Gouldsboro|Onondaga Road|18424
+PA|Wayne|Gouldsboro|Osceola Circle|18424
+PA|Wayne|Gouldsboro|Osseo Trail|18424
+PA|Wayne|Gouldsboro|Otter Court|18424
+PA|Wayne|Gouldsboro|Ouaka Trail|18424
+PA|Wayne|Gouldsboro|Packanack Drive|18424
+PA|Wayne|Gouldsboro|Page Drive|18424
+PA|Wayne|Gouldsboro|Palomino Trail|18424
+PA|Wayne|Gouldsboro|Park Drive|18424
+PA|Wayne|Gouldsboro|Partridge Place|18424
+PA|Wayne|Gouldsboro|Pathfinder Place|18424
+PA|Wayne|Gouldsboro|Pawnee Path|18424
+PA|Wayne|Gouldsboro|Pawnee Road|18424
+PA|Wayne|Gouldsboro|Peace Pipe Way|18424
+PA|Wayne|Gouldsboro|Perch Court|18424
+PA|Wayne|Gouldsboro|Perch Lane|18424
+PA|Wayne|Gouldsboro|Perch Road|18424
+PA|Wayne|Gouldsboro|Pheasant Trail|18424
+PA|Wayne|Gouldsboro|Phillips Road|18424
+PA|Wayne|Gouldsboro|Pine Grove Road|18424
+PA|Wayne|Gouldsboro|Pine Lane|18424
+PA|Wayne|Gouldsboro|Pinewood|18424
+PA|Wayne|Gouldsboro|Pioneer Place|18424
+PA|Wayne|Gouldsboro|Place, East|18424
+PA|Wayne|Gouldsboro|Plank Road|18424
+PA|Wayne|Gouldsboro|Pocono Drive|18424
+PA|Wayne|Gouldsboro|Pocono Mobile Mnr|18424
+PA|Wayne|Gouldsboro|Pond Court|18424
+PA|Wayne|Gouldsboro|Poplar Place|18424
+PA|Wayne|Gouldsboro|Porcupine Place|18424
+PA|Wayne|Gouldsboro|Pow Wow Way|18424
+PA|Wayne|Gouldsboro|Primrose Lane|18424
+PA|Wayne|Gouldsboro|Primrose Terrace|18424
+PA|Wayne|Gouldsboro|Quail Trail|18424
+PA|Wayne|Gouldsboro|Quick Island Road|18424
+PA|Wayne|Gouldsboro|R 3001, South|18424
+PA|Wayne|Gouldsboro|Raccoon Court|18424
+PA|Wayne|Gouldsboro|Raccoon Lane|18424
+PA|Wayne|Gouldsboro|Falls Lane|18424
+PA|Wayne|Gouldsboro|Recreation Run|18424
+PA|Wayne|Gouldsboro|Red Wing Path|18424
+PA|Wayne|Gouldsboro|Ridge Court|18424
+PA|Wayne|Gouldsboro|Ridge Drive|18424
+PA|Wayne|Gouldsboro|Ridge Drive, West|18424
+PA|Wayne|Gouldsboro|Ridge Road|18424
+PA|Wayne|Gouldsboro|River Court|18424
+PA|Wayne|Gouldsboro|River Road|18424
+PA|Wayne|Gouldsboro|Riverfront Way|18424
+PA|Wayne|Gouldsboro|Robert Lane|18424
+PA|Wayne|Gouldsboro|Robin Lane|18424
+PA|Wayne|Gouldsboro|Rock Moss|18424
+PA|Wayne|Gouldsboro|Roughrider Run|18424
+PA|Wayne|Gouldsboro|Roundup Trail|18424
+PA|Wayne|Gouldsboro|Rte 507|18424
+PA|Wayne|Gouldsboro|Ruby Road|18424
+PA|Wayne|Gouldsboro|S Lehigh River Drive|18424
+PA|Wayne|Gouldsboro|S R 3001|18424
+PA|Wayne|Gouldsboro|Sailor's Street|18424
+PA|Wayne|Gouldsboro|Sandy Beach Road|18424
+PA|Wayne|Gouldsboro|Scott Drive|18424
+PA|Wayne|Gouldsboro|Rainbow Drive|18424
+PA|Wayne|Gouldsboro|Seip Drive|18424
+PA|Wayne|Gouldsboro|Sena Trail|18424
+PA|Wayne|Gouldsboro|Seneca Drive|18424
+PA|Wayne|Gouldsboro|Seven Point Trail|18424
+PA|Wayne|Gouldsboro|Shady Lane|18424
+PA|Wayne|Gouldsboro|Sharon Lane|18424
+PA|Wayne|Gouldsboro|Shawnee Path|18424
+PA|Wayne|Gouldsboro|Sheffick Drive|18424
+PA|Wayne|Gouldsboro|Sheffick Drive W|18424
+PA|Wayne|Gouldsboro|Sheffick Road|18424
+PA|Wayne|Gouldsboro|Shetland Trail|18424
+PA|Wayne|Gouldsboro|Shore Drive, North|18424
+PA|Wayne|Gouldsboro|Shoshoni Trail|18424
+PA|Wayne|Gouldsboro|Second Street|18424
+PA|Wayne|Gouldsboro|Silver Cloud Way|18424
+PA|Wayne|Gouldsboro|Creek View Drive, East|18424
+PA|Wayne|Gouldsboro|Sitting Bull Trail|18424
+PA|Wayne|Gouldsboro|Skihill Drive|18424
+PA|Wayne|Gouldsboro|Oconee Trail|18424
+PA|Wayne|Gouldsboro|Sky Hawk Trail|18424
+PA|Wayne|Gouldsboro|Sioux Path|18424
+PA|Wayne|Gouldsboro|Skyhawk Trail|18424
+PA|Wayne|Gouldsboro|Skyline Drive|18424
+PA|Wayne|Gouldsboro|Sly Raven Trail|18424
+PA|Wayne|Gouldsboro|Smoke Signal Path|18424
+PA|Wayne|Gouldsboro|Solitude Drive|18424
+PA|Wayne|Gouldsboro|South Avenue|18424
+PA|Wayne|Gouldsboro|Sportsman Path|18424
+PA|Wayne|Gouldsboro|Spring Lane|18424
+PA|Wayne|Gouldsboro|Sky Raven Trail|18424
+PA|Wayne|Gouldsboro|Spruce Lane|18424
+PA|Wayne|Gouldsboro|Sprvance Lane|18424
+PA|Wayne|Gouldsboro|Spruce Drive|18424
+PA|Wayne|Gouldsboro|Sr2017|18424
+PA|Wayne|Gouldsboro|Sr4013|18424
+PA|Wayne|Gouldsboro|Starlight Drive|18424
+PA|Wayne|Gouldsboro|State Park Court|18424
+PA|Wayne|Gouldsboro|Stag Court|18424
+PA|Wayne|Gouldsboro|State Park Drive|18424
+PA|Wayne|Gouldsboro|State Route 307|18424
+PA|Wayne|Gouldsboro|State Route 435|18424
+PA|Wayne|Gouldsboro|Summit Drive|18424
+PA|Wayne|Gouldsboro|Summit Road|18424
+PA|Wayne|Gouldsboro|Sunnyside Court|18424
+PA|Wayne|Gouldsboro|Silvi Lane|18424
+PA|Wayne|Gouldsboro|Sunnyside Road|18424
+PA|Wayne|Gouldsboro|Sunset Drive|18424
+PA|Wayne|Gouldsboro|Sunset Road|18424
+PA|Wayne|Gouldsboro|Sunshine Drive|18424
+PA|Wayne|Gouldsboro|T300|18424
+PA|Wayne|Gouldsboro|T301|18424
+PA|Wayne|Gouldsboro|T-301|18424
+PA|Wayne|Gouldsboro|T302|18424
+PA|Wayne|Gouldsboro|T303|18424
+PA|Wayne|Gouldsboro|T-304|18424
+PA|Wayne|Gouldsboro|T306|18424
+PA|Wayne|Gouldsboro|T307|18424
+PA|Wayne|Gouldsboro|T308|18424
+PA|Wayne|Gouldsboro|T309|18424
+PA|Wayne|Gouldsboro|T-341|18424
+PA|Wayne|Gouldsboro|T342|18424
+PA|Wayne|Gouldsboro|T346|18424
+PA|Wayne|Gouldsboro|T-346|18424
+PA|Wayne|Gouldsboro|T-347|18424
+PA|Wayne|Gouldsboro|T-354|18424
+PA|Wayne|Gouldsboro|T-355|18424
+PA|Wayne|Gouldsboro|T-356|18424
+PA|Wayne|Gouldsboro|T-357|18424
+PA|Wayne|Gouldsboro|T-359|18424
+PA|Wayne|Gouldsboro|T-360|18424
+PA|Wayne|Gouldsboro|T597|18424
+PA|Wayne|Gouldsboro|Taheya Trail|18424
+PA|Wayne|Gouldsboro|Tamarack Road|18424
+PA|Wayne|Gouldsboro|Tamarack Trail|18424
+PA|Wayne|Gouldsboro|Tennis Terrace|18424
+PA|Wayne|Gouldsboro|Theta Drive|18424
+PA|Wayne|Gouldsboro|Third Street|18424
+PA|Wayne|Gouldsboro|Thistle Lane|18424
+PA|Wayne|Gouldsboro|Thomas Lane|18424
+PA|Wayne|Gouldsboro|Thoroughbred Terrace|18424
+PA|Wayne|Gouldsboro|Tobyhanna Road|18424
+PA|Wayne|Gouldsboro|Tom Tom Way|18424
+PA|Wayne|Gouldsboro|Tom-A-Hawk Path|18424
+PA|Wayne|Gouldsboro|Totem Pole Lane|18424
+PA|Wayne|Gouldsboro|Trail Blazer Terrace|18424
+PA|Wayne|Gouldsboro|Trailer Park Road|18424
+PA|Wayne|Gouldsboro|Trolling Terrace|18424
+PA|Wayne|Gouldsboro|Trout Lane|18424
+PA|Wayne|Gouldsboro|Tulip Lane|18424
+PA|Wayne|Gouldsboro|Turkey Terrace|18424
+PA|Wayne|Gouldsboro|Tuscarora Trail|18424
+PA|Wayne|Gouldsboro|Ute Path|18424
+PA|Wayne|Gouldsboro|Valley Road|18424
+PA|Wayne|Gouldsboro|W Creek View Drive|18424
+PA|Wayne|Gouldsboro|W Ridge Drive|18424
+PA|Wayne|Gouldsboro|Wanatah Trail|18424
+PA|Wayne|Gouldsboro|Wancoma Trail|18424
+PA|Wayne|Gouldsboro|Sr2013|18424
+PA|Wayne|Gouldsboro|War Dance Path|18424
+PA|Wayne|Gouldsboro|Warbler Drive|18424
+PA|Wayne|Gouldsboro|Watawga Way E|18424
+PA|Wayne|Gouldsboro|Watawga Way W|18424
+PA|Wayne|Gouldsboro|Waterfront Way|18424
+PA|Wayne|Gouldsboro|Waukanee Trail|18424
+PA|Wayne|Gouldsboro|Waunakee Trail|18424
+PA|Wayne|Gouldsboro|Weitz Road|18424
+PA|Wayne|Gouldsboro|Werner Lane|18424
+PA|Wayne|Gouldsboro|West Avenue|18424
+PA|Wayne|Gouldsboro|Westwood Drive|18424
+PA|Wayne|Gouldsboro|Wetaghala Trail|18424
+PA|Wayne|Gouldsboro|White Dove|18424
+PA|Wayne|Gouldsboro|Wichita Court|18424
+PA|Wayne|Gouldsboro|Wild Turkey Lane|18424
+PA|Wayne|Gouldsboro|Wildflower Circle|18424
+PA|Wayne|Gouldsboro|Wildlife Way|18424
+PA|Wayne|Gouldsboro|Williams Drive|18424
+PA|Wayne|Gouldsboro|Winnebago Court|18424
+PA|Wayne|Gouldsboro|Winoa|18424
+PA|Wayne|Gouldsboro|Winona|18424
+PA|Wayne|Gouldsboro|Wise Owl Trail|18424
+PA|Wayne|Gouldsboro|Wolf Run|18424
+PA|Wayne|Gouldsboro|Sunnyside Drive|18424
+PA|Wayne|Gouldsboro|Woodland Way|18424
+PA|Wayne|Gouldsboro|Woods End Road|18424
+PA|Wayne|Gouldsboro|Woods Lane|18424
+PA|Wayne|Gouldsboro|Yellow Feather Path|18424
+PA|Wayne|Gouldsboro|Young Brave Trail|18424
+PA|Wayne|Gouldsboro|Zwally Court|18424
+PA|Wayne|Gouldsboro|Woodland Drive|18424
+PA|Wayne|Gouldsboro|Sky Hawk Lane|18424
+PA|Wayne|Gouldsboro|Wapato Trail|18424
+PA|Wayne|Lakeville|1st Street|18438
+PA|Wayne|Lakeville|5th Street|18438
+PA|Wayne|Lakeville|8th Street|18438
+PA|Wayne|Lakeville|Ammerman Road|18438
+PA|Wayne|Lakeville|Arapaho Drive|18438
+PA|Wayne|Lakeville|Avoy Road|18438
+PA|Wayne|Lakeville|Bear Cave Lane|18438
+PA|Wayne|Lakeville|Bear Paw Court|18438
+PA|Wayne|Lakeville|Bear Paw Drive|18438
+PA|Wayne|Lakeville|Bellemonte Avenue|18438
+PA|Wayne|Lakeville|Bender Drive|18438
+PA|Wayne|Lakeville|Berry Hill Road|18438
+PA|Wayne|Lakeville|Berry Lane|18438
+PA|Wayne|Lakeville|Beverly Drive|18438
+PA|Wayne|Lakeville|4th Street|18438
+PA|Wayne|Lakeville|Birch Lane|18438
+PA|Wayne|Lakeville|Blue Bird Court|18438
+PA|Wayne|Lakeville|Boneridge Road|18438
+PA|Wayne|Lakeville|Boulder Point Road|18438
+PA|Wayne|Lakeville|Briar Hill Drive|18438
+PA|Wayne|Lakeville|Briar Hill, North|18438
+PA|Wayne|Lakeville|Briar Hill, South|18438
+PA|Wayne|Lakeville|Cardinal Court|18438
+PA|Wayne|Lakeville|Cardinal Lane|18438
+PA|Wayne|Lakeville|Cardinalla|18438
+PA|Wayne|Lakeville|Cedar Court|18438
+PA|Wayne|Lakeville|Cherokee Lane|18438
+PA|Wayne|Lakeville|Chickadee Court|18438
+PA|Wayne|Lakeville|Chipmunk Court|18438
+PA|Wayne|Lakeville|Chippawa Court|18438
+PA|Wayne|Lakeville|Circle Drive|18438
+PA|Wayne|Lakeville|Circle Drive E|18438
+PA|Wayne|Lakeville|Comanche Drive|18438
+PA|Wayne|Lakeville|Cove Point Circle|18438
+PA|Wayne|Lakeville|Covered Bridge Drive|18438
+PA|Wayne|Lakeville|Crane Road|18438
+PA|Wayne|Lakeville|Crest Circle|18438
+PA|Wayne|Lakeville|Crestview Drive|18438
+PA|Wayne|Lakeville|Dalske Road|18438
+PA|Wayne|Lakeville|Daniels Road|18438
+PA|Wayne|Lakeville|Deer Park Lane|18438
+PA|Wayne|Lakeville|Deer Run Road|18438
+PA|Wayne|Lakeville|3rd Street|18438
+PA|Wayne|Lakeville|Elm Street|18438
+PA|Wayne|Lakeville|Evergreen Drive|18438
+PA|Wayne|Lakeville|Fawn Court|18438
+PA|Wayne|Lakeville|Fernwood Road|18438
+PA|Wayne|Lakeville|Finn Swamp Road|18438
+PA|Wayne|Lakeville|First Street|18438
+PA|Wayne|Lakeville|Forest Drive|18438
+PA|Wayne|Lakeville|Forest Drive N|18438
+PA|Wayne|Lakeville|Forever Green Road|18438
+PA|Wayne|Lakeville|Hemlock Circle|18438
+PA|Wayne|Lakeville|Hemlock Drive|18438
+PA|Wayne|Lakeville|Hemlock Lane|18438
+PA|Wayne|Lakeville|Hickory Drive|18438
+PA|Wayne|Lakeville|Highland Court|18438
+PA|Wayne|Lakeville|Highland Drive|18438
+PA|Wayne|Lakeville|Historic Drive|18438
+PA|Wayne|Lakeville|Iroquois Drive|18438
+PA|Wayne|Lakeville|Joan Drive|18438
+PA|Wayne|Lakeville|Joan Road|18438
+PA|Wayne|Lakeville|Kleinhans Pond Road|18438
+PA|Wayne|Lakeville|Knapp Road|18438
+PA|Wayne|Lakeville|Knollwood Road|18438
+PA|Wayne|Lakeville|Kostige Road|18438
+PA|Wayne|Lakeville|Lake Shore Drive|18438
+PA|Wayne|Lakeville|Lakeland Drive|18438
+PA|Wayne|Lakeville|Lakeshore Drive|18438
+PA|Wayne|Lakeville|Lakeside Drive|18438
+PA|Wayne|Lakeville|Lakeside Drive, East|18438
+PA|Wayne|Lakeville|Lakeside Drive, West|18438
+PA|Wayne|Lakeville|Lakeside Road|18438
+PA|Wayne|Lakeville|Lakeview Court|18438
+PA|Wayne|Lakeville|Lakeview Drive|18438
+PA|Wayne|Lakeville|Lakeview Street|18438
+PA|Wayne|Lakeville|Lakeville Court|18438
+PA|Wayne|Lakeville|Large Rock Road|18438
+PA|Wayne|Lakeville|E Lakeside Drive|18438
+PA|Wayne|Lakeville|Laurel Circle|18438
+PA|Wayne|Lakeville|Ledge Road|18438
+PA|Wayne|Lakeville|Lone Oak Road|18438
+PA|Wayne|Lakeville|Lower Road|18438
+PA|Wayne|Lakeville|Maple Drive|18438
+PA|Wayne|Lakeville|Maple Street|18438
+PA|Wayne|Lakeville|Martins Cove Road|18438
+PA|Wayne|Lakeville|Meadowwood Circle W|18438
+PA|Wayne|Lakeville|Mohawk Court|18438
+PA|Wayne|Lakeville|Murphys Drive|18438
+PA|Wayne|Lakeville|N Briar Hill|18438
+PA|Wayne|Lakeville|Oak Drive|18438
+PA|Wayne|Lakeville|Oak Hill|18438
+PA|Wayne|Lakeville|Oak Lane|18438
+PA|Wayne|Lakeville|Ojibway Drive|18438
+PA|Wayne|Lakeville|Oriole Court|18438
+PA|Wayne|Lakeville|Overlook Drive|18438
+PA|Wayne|Lakeville|Paradise Park Drive|18438
+PA|Wayne|Lakeville|Park Road|18438
+PA|Wayne|Lakeville|Paupack Point Road|18438
+PA|Wayne|Lakeville|Pine Beach Road|18438
+PA|Wayne|Lakeville|Pine Hill Drive|18438
+PA|Wayne|Lakeville|Pine Street|18438
+PA|Wayne|Lakeville|Pine Tree Court|18438
+PA|Wayne|Lakeville|Pine Tree Lane|18438
+PA|Wayne|Lakeville|6th Street|18438
+PA|Wayne|Lakeville|Pumphouse Road|18438
+PA|Wayne|Lakeville|Purdytown Road|18438
+PA|Wayne|Lakeville|Purdytown Tpke|18438
+PA|Wayne|Lakeville|Ridge Crest Drive|18438
+PA|Wayne|Lakeville|Ridge Road|18438
+PA|Wayne|Lakeville|Rock Hill Road|18438
+PA|Wayne|Lakeville|Rock Road|18438
+PA|Wayne|Lakeville|Ruffed Grouse Road|18438
+PA|Wayne|Lakeville|S Briar Hill|18438
+PA|Wayne|Lakeville|S Wynd Drive|18438
+PA|Wayne|Lakeville|Seminole Drive|18438
+PA|Wayne|Lakeville|Shadow Rock Place|18438
+PA|Wayne|Lakeville|Sheps Court|18438
+PA|Wayne|Lakeville|Shore Line Drive|18438
+PA|Wayne|Lakeville|Shortcut Road|18438
+PA|Wayne|Lakeville|Spring Brook Circle|18438
+PA|Wayne|Lakeville|Spring Street|18438
+PA|Wayne|Lakeville|State Route 2002|18438
+PA|Wayne|Lakeville|State Route 590|18438
+PA|Wayne|Lakeville|Stone Ledge Drive|18438
+PA|Wayne|Lakeville|Stone Ledge Road|18438
+PA|Wayne|Lakeville|Summit Circle|18438
+PA|Wayne|Lakeville|Sunny Point Road|18438
+PA|Wayne|Lakeville|T363|18438
+PA|Wayne|Lakeville|T395|18438
+PA|Wayne|Lakeville|T396|18438
+PA|Wayne|Lakeville|T399|18438
+PA|Wayne|Lakeville|Birch Drive|18438
+PA|Wayne|Lakeville|Tennis Club Circle|18438
+PA|Wayne|Lakeville|Terrace Drive|18438
+PA|Wayne|Lakeville|Vista Court|18438
+PA|Wayne|Lakeville|W Lakeside Drive|18438
+PA|Wayne|Lakeville|Wallenpaupack Road|18438
+PA|Wayne|Lakeville|Walts Landing Road|18438
+PA|Wayne|Lakeville|Welwood Avenue|18438
+PA|Wayne|Lakeville|White Oak Drive|18438
+PA|Wayne|Lakeville|Woodland Drive|18438
+PA|Wayne|Lakeville|Wren Court|18438
+PA|Wayne|Lakeville|Wynd Drive, South|18438
+PA|Wayne|Milanville|Apple Tree Lane|18443
+PA|Wayne|Lakeville|Ledge Drive|18438
+PA|Wayne|Milanville|Bacon Street|18443
+PA|Wayne|Milanville|Boyds Mill Road|18443
+PA|Wayne|Milanville|Boyds Mills Road|18443
+PA|Wayne|Milanville|Brucher Road|18443
+PA|Wayne|Milanville|Butternut Flats|18443
+PA|Wayne|Milanville|Calkins Road|18443
+PA|Wayne|Milanville|Card Lane|18443
+PA|Wayne|Milanville|Cloud View Road|18443
+PA|Wayne|Milanville|Curtis Lane|18443
+PA|Wayne|Milanville|Davis Road|18443
+PA|Wayne|Milanville|Decourt Road|18443
+PA|Wayne|Milanville|Atco Road|18443
+PA|Wayne|Milanville|Floral Ridge Run|18443
+PA|Wayne|Milanville|Haase Road|18443
+PA|Wayne|Milanville|Henderson Road|18443
+PA|Wayne|Milanville|High Bridge Road|18443
+PA|Wayne|Milanville|John Davis Road|18443
+PA|Wayne|Milanville|Johnnys Place|18443
+PA|Wayne|Lakeville|Poplar Street|18438
+PA|Wayne|Milanville|Log Cabin Lane|18443
+PA|Wayne|Milanville|Maltese Boulevard|18443
+PA|Wayne|Milanville|Memory Lane|18443
+PA|Wayne|Milanville|Milanville Road|18443
+PA|Wayne|Milanville|O Leary Lane|18443
+PA|Wayne|Milanville|Random Harvest Lane|18443
+PA|Wayne|Milanville|Riggs Road|18443
+PA|Wayne|Milanville|River Road|18443
+PA|Wayne|Milanville|Riverview Hideaway Drive|18443
+PA|Wayne|Milanville|Sheard Road|18443
+PA|Wayne|Milanville|Sheards Road|18443
+PA|Wayne|Lakeville|T400|18438
+PA|Wayne|Milanville|Spring Brook Road|18443
+PA|Wayne|Milanville|Spruce Swamp Road|18443
+PA|Wayne|Milanville|T515|18443
+PA|Wayne|Milanville|T525|18443
+PA|Wayne|Milanville|T527|18443
+PA|Wayne|Milanville|T529|18443
+PA|Wayne|Milanville|T535|18443
+PA|Wayne|Milanville|T-622|18443
+PA|Wayne|Milanville|T624|18443
+PA|Wayne|Milanville|T632|18443
+PA|Wayne|Milanville|T636|18443
+PA|Wayne|Milanville|T638|18443
+PA|Wayne|Milanville|T685|18443
+PA|Wayne|Hamlin|3rd Street|18427
+PA|Wayne|Hamlin|Cedarwood Terrace|18427
+PA|Wayne|Hamlin|Cemetery Road|18427
+PA|Wayne|Hamlin|Crane Road|18427
+PA|Wayne|Hamlin|Daniels Road|18427
+PA|Wayne|Hamlin|Easy Street|18427
+PA|Wayne|Hamlin|Evergreen Drive|18427
+PA|Wayne|Hamlin|Hamlin Highway|18427
+PA|Wayne|Hamlin|Heritage Drive|18427
+PA|Wayne|Hamlin|Island Lane|18427
+PA|Wayne|Hamlin|J & J Road|18427
+PA|Wayne|Hamlin|J and J Road|18427
+PA|Wayne|Hamlin|J&J Road|18427
+PA|Wayne|Hamlin|Kensington Road|18427
+PA|Wayne|Hamlin|Lakewood Drive|18427
+PA|Wayne|Hamlin|Navaho Lane|18427
+PA|Wayne|Hamlin|Pinewood Court|18427
+PA|Wayne|Hamlin|Rockaway Road|18427
+PA|Wayne|Hamlin|Rockway Road|18427
+PA|Wayne|Hamlin|Salem Park Lane|18427
+PA|Wayne|Hamlin|Sawmill Road|18427
+PA|Wayne|Hamlin|T321|18427
+PA|Wayne|Hamlin|T342|18427
+PA|Wayne|Hamlin|T367|18427
+PA|Wayne|Hamlin|T396|18427
+PA|Wayne|Hamlin|T399|18427
+PA|Wayne|Hamlin|Third Road|18427
+PA|Wayne|Hamlin|Township Building Road|18427
+PA|Wayne|Hamlin|Woodhill Lane|18427
+PA|Wayne|Equinunk|Adams Road|18417
+PA|Wayne|Equinunk|Ann Mitchell Road|18417
+PA|Wayne|Equinunk|Arnolds Road|18417
+PA|Wayne|Equinunk|Ash Lane|18417
+PA|Wayne|Equinunk|Aspen Lane|18417
+PA|Wayne|Equinunk|Bad Dog Hill|18417
+PA|Wayne|Equinunk|Beech Lane|18417
+PA|Wayne|Equinunk|Beech Road|18417
+PA|Wayne|Equinunk|Birch Lane|18417
+PA|Wayne|Equinunk|Black Bear Trail|18417
+PA|Wayne|Equinunk|Braman Road|18417
+PA|Wayne|Equinunk|Brasco Drive|18417
+PA|Wayne|Equinunk|Bridle Way|18417
+PA|Wayne|Equinunk|Brown Trout Trail|18417
+PA|Wayne|Milanville|Lassley Road|18443
+PA|Wayne|Equinunk|Bush Road|18417
+PA|Wayne|Equinunk|Callicoon Road|18417
+PA|Wayne|Equinunk|Cherry Lane|18417
+PA|Wayne|Equinunk|Chicopee Road|18417
+PA|Wayne|Equinunk|Clinton Street|18417
+PA|Wayne|Equinunk|Cooley Creek Road|18417
+PA|Wayne|Equinunk|Costello Lane|18417
+PA|Wayne|Equinunk|Coyote Lane|18417
+PA|Wayne|Equinunk|Creek Road|18417
+PA|Wayne|Equinunk|Crestview Drive|18417
+PA|Wayne|Equinunk|Crooked Creek Road|18417
+PA|Wayne|Equinunk|Dave's Hill|18417
+PA|Wayne|Equinunk|Dillontown Road|18417
+PA|Wayne|Equinunk|Doherty Road|18417
+PA|Wayne|Equinunk|Double D Drive|18417
+PA|Wayne|Equinunk|Duck Harbor Road|18417
+PA|Wayne|Equinunk|Dukes Road|18417
+PA|Wayne|Equinunk|Duran Road|18417
+PA|Wayne|Equinunk|E Hill Road|18417
+PA|Wayne|Equinunk|Equinunk Creek Road|18417
+PA|Wayne|Equinunk|Factory Road|18417
+PA|Wayne|Equinunk|Fawn Haven Trail|18417
+PA|Wayne|Equinunk|Fawn Lane|18417
+PA|Wayne|Equinunk|Fernwood Lane|18417
+PA|Wayne|Equinunk|Fiddler Lane|18417
+PA|Wayne|Equinunk|Fork Mountain Road|18417
+PA|Wayne|Equinunk|Galloway Road|18417
+PA|Wayne|Equinunk|Gills Hill Road|18417
+PA|Wayne|Equinunk|Golden Annie Lane|18417
+PA|Wayne|Equinunk|Greaves Road|18417
+PA|Wayne|Equinunk|Green Acres Boulevard|18417
+PA|Wayne|Equinunk|Grist|18417
+PA|Wayne|Equinunk|Grist Mill Road|18417
+PA|Wayne|Equinunk|Grocery Hill Road|18417
+PA|Wayne|Equinunk|Hancock Highway|18417
+PA|Wayne|Equinunk|Hathaway Road|18417
+PA|Wayne|Equinunk|Hawley Road|18417
+PA|Wayne|Equinunk|Hellmers Hill Road|18417
+PA|Wayne|Equinunk|Hellmers Road|18417
+PA|Wayne|Equinunk|Highridge Road|18417
+PA|Wayne|Equinunk|Highwood Lane|18417
+PA|Wayne|Equinunk|Hill Road, East|18417
+PA|Wayne|Equinunk|Kellam Road|18417
+PA|Wayne|Equinunk|Kellom Road|18417
+PA|Wayne|Milanville|Fallsdale Road|18443
+PA|Wayne|Equinunk|Lake Shore Drive|18417
+PA|Wayne|Equinunk|Laurel Lane|18417
+PA|Wayne|Equinunk|Layton Road|18417
+PA|Wayne|Milanville|Sobsal Acres Drive|18443
+PA|Wayne|Equinunk|Longwood Drive|18417
+PA|Wayne|Equinunk|Lookout Summit Court|18417
+PA|Wayne|Equinunk|Lordville Road|18417
+PA|Wayne|Equinunk|Mansfield Road|18417
+PA|Wayne|Equinunk|Maple Drive|18417
+PA|Wayne|Equinunk|Marshmere|18417
+PA|Wayne|Equinunk|Melody Drive|18417
+PA|Wayne|Equinunk|Minkler Mt Road|18417
+PA|Wayne|Equinunk|Minkler Road|18417
+PA|Wayne|Equinunk|Mud Pond Road|18417
+PA|Wayne|Equinunk|Oak Lane|18417
+PA|Wayne|Equinunk|Old Hathaway Road|18417
+PA|Wayne|Equinunk|Old Union Road|18417
+PA|Wayne|Equinunk|Percys Road|18417
+PA|Wayne|Equinunk|Pine Mill Road|18417
+PA|Wayne|Equinunk|Rambling Brook Lane|18417
+PA|Wayne|Equinunk|River Road|18417
+PA|Wayne|Equinunk|River Side Road|18417
+PA|Wayne|Equinunk|Rodenberg Road|18417
+PA|Wayne|Equinunk|Rodenburg Road|18417
+PA|Wayne|Equinunk|Rory Lane|18417
+PA|Wayne|Equinunk|Rotten Road|18417
+PA|Wayne|Equinunk|Rutledgedale Road|18417
+PA|Wayne|Equinunk|Sandercock Road|18417
+PA|Wayne|Equinunk|Sandy Beach Lane|18417
+PA|Wayne|Equinunk|Schnackenberg Road|18417
+PA|Wayne|Equinunk|Schnakenberg Road|18417
+PA|Wayne|Equinunk|Shadows Lane|18417
+PA|Wayne|Equinunk|Shank Road|18417
+PA|Wayne|Equinunk|Smith Road|18417
+PA|Wayne|Equinunk|Spring House Lane|18417
+PA|Wayne|Equinunk|Spruce Lane|18417
+PA|Wayne|Equinunk|Sr1025|18417
+PA|Wayne|Equinunk|Stalker Road|18417
+PA|Wayne|Equinunk|Stockport Road|18417
+PA|Wayne|Equinunk|Stonegate Road|18417
+PA|Wayne|Equinunk|Swamp Road|18417
+PA|Wayne|Equinunk|T 605|18417
+PA|Wayne|Equinunk|T 616|18417
+PA|Wayne|Equinunk|T 617|18417
+PA|Wayne|Equinunk|T 623|18417
+PA|Wayne|Equinunk|T 724|18417
+PA|Wayne|Equinunk|T462|18417
+PA|Wayne|Equinunk|T-476|18417
+PA|Wayne|Equinunk|T513|18417
+PA|Wayne|Equinunk|T555|18417
+PA|Wayne|Equinunk|T601|18417
+PA|Wayne|Equinunk|T603|18417
+PA|Wayne|Equinunk|T612|18417
+PA|Wayne|Equinunk|T616|18417
+PA|Wayne|Equinunk|T617|18417
+PA|Wayne|Equinunk|T621|18417
+PA|Wayne|Equinunk|T623|18417
+PA|Wayne|Equinunk|T-627|18417
+PA|Wayne|Equinunk|T629|18417
+PA|Wayne|Equinunk|T633|18417
+PA|Wayne|Equinunk|T635|18417
+PA|Wayne|Equinunk|T639|18417
+PA|Wayne|Equinunk|T641|18417
+PA|Wayne|Equinunk|T643|18417
+PA|Wayne|Equinunk|T645|18417
+PA|Wayne|Equinunk|T647|18417
+PA|Wayne|Equinunk|T651|18417
+PA|Wayne|Equinunk|T-653|18417
+PA|Wayne|Equinunk|T662|18417
+PA|Wayne|Equinunk|T664|18417
+PA|Wayne|Equinunk|T668|18417
+PA|Wayne|Equinunk|Lester Road|18417
+PA|Wayne|Equinunk|Buckley Road|18417
+PA|Wayne|Equinunk|T690|18417
+PA|Wayne|Equinunk|T719|18417
+PA|Wayne|Equinunk|T732|18417
+PA|Wayne|Equinunk|T740|18417
+PA|Wayne|Equinunk|T742|18417
+PA|Wayne|Equinunk|T744|18417
+PA|Wayne|Equinunk|T746|18417
+PA|Wayne|Equinunk|T748|18417
+PA|Wayne|Equinunk|T676|18417
+PA|Wayne|Equinunk|T756|18417
+PA|Wayne|Equinunk|T758|18417
+PA|Wayne|Equinunk|T760|18417
+PA|Wayne|Equinunk|T764|18417
+PA|Wayne|Equinunk|Teeple Road|18417
+PA|Wayne|Equinunk|Wallerville Road|18417
+PA|Wayne|Equinunk|Whitleigh Road|18417
+PA|Wayne|Equinunk|Wilcox Road|18417
+PA|Wayne|Equinunk|Woods Road|18417
+PA|Wayne|Equinunk|Kinneyville Road|18417
+PA|Wayne|Equinunk|T-672|18417
+PA|Wayne|Equinunk|T750|18417
+PA|Wayne|Newfoundland|Accomac Trail|18445
+PA|Wayne|Newfoundland|Acres Road|18445
+PA|Wayne|Newfoundland|Ahwahnee Trail|18445
+PA|Wayne|Newfoundland|Akers Road|18445
+PA|Wayne|Newfoundland|Alder Drive|18445
+PA|Wayne|Newfoundland|Anawna Trail|18445
+PA|Wayne|Newfoundland|Anowa Trail|18445
+PA|Wayne|Newfoundland|Arrowhead Circle|18445
+PA|Wayne|Newfoundland|Arrowhead Court|18445
+PA|Wayne|Newfoundland|Aspen Drive|18445
+PA|Wayne|Newfoundland|Arrowhead Drive|18445
+PA|Wayne|Newfoundland|Aspen Road|18445
+PA|Wayne|Newfoundland|Balsam Drive|18445
+PA|Wayne|Newfoundland|Basswood Drive|18445
+PA|Wayne|Newfoundland|Bear Drive|18445
+PA|Wayne|Newfoundland|Beaver Run Road|18445
+PA|Wayne|Newfoundland|Beehn Road|18445
+PA|Wayne|Newfoundland|Brantwood Road|18445
+PA|Wayne|Newfoundland|Breezewood Drive|18445
+PA|Wayne|Newfoundland|Buchter Lane|18445
+PA|Wayne|Newfoundland|Buckhorn Drive|18445
+PA|Wayne|Newfoundland|Bumpers Drive|18445
+PA|Wayne|Newfoundland|Butternut Road|18445
+PA|Wayne|Newfoundland|Canoochee Trail|18445
+PA|Wayne|Newfoundland|Carlton Hill Road|18445
+PA|Wayne|Newfoundland|Cedar Run Road|18445
+PA|Wayne|Newfoundland|Charphil Drive|18445
+PA|Wayne|Newfoundland|Chestnut Drive|18445
+PA|Wayne|Newfoundland|Chimayo Trail|18445
+PA|Wayne|Newfoundland|Chipmunk Path|18445
+PA|Wayne|Newfoundland|Cindy Court|18445
+PA|Wayne|Newfoundland|Cobblewood Road|18445
+PA|Wayne|Newfoundland|Country Lane|18445
+PA|Wayne|Newfoundland|County Road 3001|18445
+PA|Wayne|Newfoundland|Crestmont Drive|18445
+PA|Wayne|Newfoundland|Culledka Trail|18445
+PA|Wayne|Newfoundland|Daffodil Drive|18445
+PA|Wayne|Newfoundland|Deer Lane|18445
+PA|Wayne|Newfoundland|Deerfield Drive|18445
+PA|Wayne|Newfoundland|Derby Drive|18445
+PA|Wayne|Newfoundland|Diamond Court|18445
+PA|Wayne|Newfoundland|Dover Drive|18445
+PA|Wayne|Newfoundland|Driftwood Road|18445
+PA|Wayne|Newfoundland|E Sterling Road|18445
+PA|Wayne|Newfoundland|Edge Hill Road|18445
+PA|Wayne|Newfoundland|Elk Drive|18445
+PA|Wayne|Newfoundland|Elkatawa Trail|18445
+PA|Wayne|Newfoundland|Emerald Avenue|18445
+PA|Wayne|Newfoundland|Emerald Court|18445
+PA|Wayne|Newfoundland|Fawn Ridge Drive|18445
+PA|Wayne|Newfoundland|Felton Lane|18445
+PA|Wayne|Newfoundland|Fernwood Drive|18445
+PA|Wayne|Newfoundland|Forks Bridge Road|18445
+PA|Wayne|Newfoundland|Fountain Drive|18445
+PA|Wayne|Newfoundland|Full Moon Lane|18445
+PA|Wayne|Newfoundland|Gardner Road|18445
+PA|Wayne|Newfoundland|Gas Hollow Road|18445
+PA|Wayne|Newfoundland|Geiges Lane|18445
+PA|Wayne|Newfoundland|German Valley Road|18445
+PA|Wayne|Newfoundland|Geronimo Trail|18445
+PA|Wayne|Newfoundland|Gilbralter Drive|18445
+PA|Wayne|Newfoundland|Gilpin Road|18445
+PA|Wayne|Newfoundland|Grandwin Drive|18445
+PA|Wayne|Newfoundland|Grenoble Drive|18445
+PA|Wayne|Newfoundland|Haags Lane|18445
+PA|Wayne|Newfoundland|Hausler Drive|18445
+PA|Wayne|Newfoundland|Hawk Lane|18445
+PA|Wayne|Newfoundland|Hazelton Road|18445
+PA|Wayne|Newfoundland|Hazzleton Road|18445
+PA|Wayne|Newfoundland|Hemlock Grove Road|18445
+PA|Wayne|Newfoundland|Hemlock Way|18445
+PA|Wayne|Newfoundland|Hickory Run Road|18445
+PA|Wayne|Newfoundland|Hillside Terrace|18445
+PA|Wayne|Newfoundland|Hilltop Court|18445
+PA|Wayne|Newfoundland|Hilltop Drive|18445
+PA|Wayne|Newfoundland|Hilltop Road|18445
+PA|Wayne|Newfoundland|Hirshorn Drive|18445
+PA|Wayne|Newfoundland|Hiwasse Trail|18445
+PA|Wayne|Newfoundland|Hopedale Road|18445
+PA|Wayne|Newfoundland|Huckelberry Hill Road|18445
+PA|Wayne|Newfoundland|Huckelberry Road|18445
+PA|Wayne|Newfoundland|Huckleberry Road|18445
+PA|Wayne|Newfoundland|Imnaha Trail|18445
+PA|Wayne|Newfoundland|Ironwood Drive|18445
+PA|Wayne|Newfoundland|Iroquois Avenue|18445
+PA|Wayne|Newfoundland|Jericho Road|18445
+PA|Wayne|Newfoundland|Kilgore Road|18445
+PA|Wayne|Newfoundland|Lake Russell Road|18445
+PA|Wayne|Newfoundland|Lakeview Drive|18445
+PA|Wayne|Newfoundland|Laurel Road|18445
+PA|Wayne|Newfoundland|Legion Road|18445
+PA|Wayne|Newfoundland|Lehigh Road|18445
+PA|Wayne|Newfoundland|Lincoln Green Lane|18445
+PA|Wayne|Newfoundland|Locust Drive|18445
+PA|Wayne|Newfoundland|Long River Road|18445
+PA|Wayne|Newfoundland|Main Street|18445
+PA|Wayne|Newfoundland|Maple Lane|18445
+PA|Wayne|Newfoundland|Maplewood Drive|18445
+PA|Wayne|Newfoundland|Maverick Drive|18445
+PA|Wayne|Newfoundland|Meadow Drive|18445
+PA|Wayne|Newfoundland|Menoken Trail|18445
+PA|Wayne|Newfoundland|Middle Ridge Drive|18445
+PA|Wayne|Newfoundland|Mill Creek Road|18445
+PA|Wayne|Newfoundland|Millcreek Road|18445
+PA|Wayne|Newfoundland|Monte Carlo Drive|18445
+PA|Wayne|Newfoundland|Mountain Drive|18445
+PA|Wayne|Newfoundland|Mountain View Road|18445
+PA|Wayne|Newfoundland|Mountainview Road|18445
+PA|Wayne|Newfoundland|Nevin Road|18445
+PA|Wayne|Newfoundland|New Foundland Drive|18445
+PA|Wayne|Newfoundland|Niobe Trail|18445
+PA|Wayne|Newfoundland|N-S Tpke|18445
+PA|Wayne|Newfoundland|Cherrywood Drive|18445
+PA|Wayne|Newfoundland|Oslo Road|18445
+PA|Wayne|Newfoundland|Overlook Road|18445
+PA|Wayne|Newfoundland|Panther Lake Terrace|18445
+PA|Wayne|Newfoundland|Panther Road|18445
+PA|Wayne|Newfoundland|Peet Road|18445
+PA|Wayne|Newfoundland|Phillips Road|18445
+PA|Wayne|Newfoundland|Pine Grove Road|18445
+PA|Wayne|Newfoundland|Pine Tree Lane|18445
+PA|Wayne|Newfoundland|Pocono Drive|18445
+PA|Wayne|Newfoundland|Ponderosa Drive|18445
+PA|Wayne|Newfoundland|R 3001, South|18445
+PA|Wayne|Newfoundland|Raccoon Lane|18445
+PA|Wayne|Newfoundland|Raintree Road|18445
+PA|Wayne|Newfoundland|Rainbow Trout Terrace|18445
+PA|Wayne|Newfoundland|Redwood Drive|18445
+PA|Wayne|Newfoundland|Ridge Drive, West|18445
+PA|Wayne|Newfoundland|Ridge Road|18445
+PA|Wayne|Newfoundland|Rita Drive|18445
+PA|Wayne|Newfoundland|Riverview Lane|18445
+PA|Wayne|Newfoundland|Robin Hood Drive|18445
+PA|Wayne|Newfoundland|Robinson Road|18445
+PA|Wayne|Newfoundland|Roemerville Road|18445
+PA|Wayne|Newfoundland|Rte 196|18445
+PA|Wayne|Newfoundland|Rte 507|18445
+PA|Wayne|Newfoundland|Russells Way|18445
+PA|Wayne|Newfoundland|S R 3001|18445
+PA|Wayne|Newfoundland|S Turnpike Road|18445
+PA|Wayne|Newfoundland|Schelbert Road|18445
+PA|Wayne|Newfoundland|Shady Lane Drive|18445
+PA|Wayne|Newfoundland|Shelbert Road|18445
+PA|Wayne|Newfoundland|Side Drive, West|18445
+PA|Wayne|Newfoundland|Skihill Drive|18445
+PA|Wayne|Newfoundland|Sky Line Drive|18445
+PA|Wayne|Newfoundland|Skyline Drive|18445
+PA|Wayne|Newfoundland|Snowdrift Road|18445
+PA|Wayne|Newfoundland|Red Oak Lane|18445
+PA|Wayne|Newfoundland|Spring Court|18445
+PA|Wayne|Newfoundland|Spring Hill Road|18445
+PA|Wayne|Newfoundland|Spruce Lane|18445
+PA|Wayne|Newfoundland|Squire Lane|18445
+PA|Wayne|Newfoundland|St Moritz Drive|18445
+PA|Wayne|Newfoundland|State Route 191|18445
+PA|Wayne|Newfoundland|State Route 3046|18445
+PA|Wayne|Newfoundland|State Route 447|18445
+PA|Wayne|Newfoundland|Sterling Road|18445
+PA|Wayne|Newfoundland|Sterling Road, East|18445
+PA|Wayne|Newfoundland|Stillwater Drive|18445
+PA|Wayne|Newfoundland|Stoney Lonesome Road|18445
+PA|Wayne|Newfoundland|Stowe Drive|18445
+PA|Wayne|Newfoundland|Stowe Road|18445
+PA|Wayne|Newfoundland|Sugar Hill Road|18445
+PA|Wayne|Newfoundland|Sun Valley Drive|18445
+PA|Wayne|Newfoundland|Sun Valley Road|18445
+PA|Wayne|Newfoundland|Sunrise Drive|18445
+PA|Wayne|Newfoundland|Sunrise Lane|18445
+PA|Wayne|Newfoundland|Sycamore Drive|18445
+PA|Wayne|Newfoundland|T 326|18445
+PA|Wayne|Newfoundland|T303|18445
+PA|Wayne|Newfoundland|T305|18445
+PA|Wayne|Newfoundland|T-311|18445
+PA|Wayne|Newfoundland|T313|18445
+PA|Wayne|Newfoundland|T314|18445
+PA|Wayne|Newfoundland|T318|18445
+PA|Wayne|Newfoundland|T324|18445
+PA|Wayne|Newfoundland|T329|18445
+PA|Wayne|Newfoundland|T331|18445
+PA|Wayne|Newfoundland|T-333|18445
+PA|Wayne|Newfoundland|T-334|18445
+PA|Wayne|Newfoundland|T336|18445
+PA|Wayne|Newfoundland|T337|18445
+PA|Wayne|Newfoundland|T338|18445
+PA|Wayne|Newfoundland|T339|18445
+PA|Wayne|Newfoundland|T343|18445
+PA|Wayne|Newfoundland|T347|18445
+PA|Wayne|Newfoundland|T366|18445
+PA|Wayne|Newfoundland|T387|18445
+PA|Wayne|Newfoundland|Tanglewood Drive|18445
+PA|Wayne|Newfoundland|Teakwood Drive|18445
+PA|Wayne|Newfoundland|Terieste Terrace|18445
+PA|Wayne|Newfoundland|Timber Ridge Drive|18445
+PA|Wayne|Newfoundland|Timberlane Trail|18445
+PA|Wayne|Newfoundland|Timbertop Trail|18445
+PA|Wayne|Newfoundland|Trieste Terrace|18445
+PA|Wayne|Newfoundland|Trout Terrace|18445
+PA|Wayne|Newfoundland|Turnpike Road, South|18445
+PA|Wayne|Newfoundland|Twin Rocks Road|18445
+PA|Wayne|Newfoundland|Ute Path|18445
+PA|Wayne|Newfoundland|Vail Road|18445
+PA|Wayne|Newfoundland|Valley Road|18445
+PA|Wayne|Newfoundland|Valley View Drive|18445
+PA|Wayne|Newfoundland|Valley View Road|18445
+PA|Wayne|Newfoundland|W Ridge Drive|18445
+PA|Wayne|Newfoundland|W Side Drive|18445
+PA|Wayne|Newfoundland|White Birch Lane|18445
+PA|Wayne|Newfoundland|Wildcat Road|18445
+PA|Wayne|Newfoundland|Wildrooke Drive|18445
+PA|Wayne|Newfoundland|Willow Run Road|18445
+PA|Wayne|Newfoundland|Woodstock Road|18445
+PA|Wayne|Newfoundland|Woodstone Road|18445
+PA|Wayne|Newfoundland|Zeigler Drive|18445
+PA|Wayne|Newfoundland|Zion Road|18445
+PA|Wayne|Newfoundland|Zurich Drive|18445
+PA|Wayne|Newfoundland|Split Rock Road|18445
+PA|Wayne|Lakewood|Beaver Hollow Road|18439
+PA|Wayne|Lakewood|Bilas Lane|18439
+PA|Wayne|Lakewood|Brittany Run|18439
+PA|Wayne|Lakewood|Como Road|18439
+PA|Wayne|Lakewood|Creamery Road|18439
+PA|Wayne|Lakewood|Creamton Road|18439
+PA|Wayne|Newfoundland|N-S Turnpike Road|18445
+PA|Wayne|Lakewood|Crosstown Highway|18439
+PA|Wayne|Lakewood|Crosstown Road|18439
+PA|Wayne|Lakewood|Czapnik Road|18439
+PA|Wayne|Lakewood|Daw Road|18439
+PA|Wayne|Lakewood|Equinunk Creek Road|18439
+PA|Wayne|Lakewood|High Lake Road|18439
+PA|Wayne|Lakewood|Ice House Lane|18439
+PA|Wayne|Lakewood|Library Road|18439
+PA|Wayne|Lakewood|Crooked Creek Road|18439
+PA|Wayne|Lakewood|Meadowbrook Lane|18439
+PA|Wayne|Lakewood|Murphy Hill Road|18439
+PA|Wayne|Lakewood|Nimrod Road|18439
+PA|Wayne|Lakewood|Old State Road|18439
+PA|Wayne|Lakewood|Pine Street|18439
+PA|Wayne|Lakewood|Poyntelle Road|18439
+PA|Wayne|Lakewood|Preston Road, South|18439
+PA|Wayne|Lakewood|Rainbow Road|18439
+PA|Wayne|Lakewood|Red Shale Road|18439
+PA|Wayne|Lakewood|Rock Lake Drive|18439
+PA|Wayne|Lakewood|Rock Lake Road|18439
+PA|Wayne|Lakewood|Rutledge Road|18439
+PA|Wayne|Lakewood|S Preston Road|18439
+PA|Wayne|Lakewood|Stockport Road|18439
+PA|Wayne|Lakewood|Stockport Tpke|18439
+PA|Wayne|Lakewood|Stone Hedge Lane|18439
+PA|Wayne|Lakewood|T 507|18439
+PA|Wayne|Lakewood|T 605|18439
+PA|Wayne|Lakewood|T 608|18439
+PA|Wayne|Lakewood|T 684|18439
+PA|Wayne|Lakewood|T571|18439
+PA|Wayne|Lakewood|T573|18439
+PA|Wayne|Lakewood|T577|18439
+PA|Wayne|Lakewood|T587|18439
+PA|Wayne|Lakewood|T598|18439
+PA|Wayne|Lakewood|T599|18439
+PA|Wayne|Lakewood|T680|18439
+PA|Wayne|Lakewood|T696|18439
+PA|Wayne|Lakewood|T708|18439
+PA|Wayne|Lakewood|T710|18439
+PA|Wayne|Lakewood|T719|18439
+PA|Wayne|Lakewood|7th Street|18439
+PA|Wayne|Lakewood|T722|18439
+PA|Wayne|Lakewood|T726|18439
+PA|Wayne|Lakewood|T730|18439
+PA|Wayne|Lakewood|Tarabul Drive|18439
+PA|Wayne|Lakewood|Tr505|18439
+PA|Wayne|Lakewood|Tr598|18439
+PA|Wayne|Lakewood|Tully Road|18439
+PA|Wayne|Lakewood|Upper Woods Road|18439
+PA|Wayne|Lakewood|Weed Street|18439
+PA|Wayne|Lakewood|White Rock Drive|18439
+PA|Wayne|Lakewood|Woods Road|18439
+PA|Wayne|Lakewood|Wrighter Lake Road|18439
+PA|Wayne|Sterling|Bortree Road|18463
+PA|Wayne|Sterling|Boulder Road|18463
+PA|Wayne|Sterling|Colonel Linbergh Lane|18463
+PA|Wayne|Sterling|Crest View Road|18463
+PA|Wayne|Sterling|Maple Acre Road|18463
+PA|Wayne|Lakewood|Little Spruce Lane|18439
+PA|Wayne|Sterling|Maple Grove Road|18463
+PA|Wayne|Sterling|Pradon Road|18463
+PA|Wayne|Sterling|River Road|18463
+PA|Wayne|Sterling|Rte 196|18463
+PA|Wayne|Sterling|Spring Hill Road|18463
+PA|Wayne|Sterling|Sterling Gardens Road|18463
+PA|Wayne|Sterling|Sterling Road|18463
+PA|Wayne|Sterling|T 323|18463
+PA|Wayne|Sterling|T317|18463
+PA|Wayne|Sterling|T330|18463
+PA|Wayne|Sterling|T336|18463
+PA|Wayne|Sterling|Twin Rocks Road|18463
+PA|Wayne|Sterling|Wallenpaupack Drive|18463
+PA|Wayne|Sterling|Wildcat Road|18463
+PA|Wayne|Prompton|Balsam Swamp Road|18456
+PA|Wayne|Prompton|Beech Grove Road|18456
+PA|Wayne|Prompton|Birch Lane|18456
+PA|Wayne|Prompton|Burns Road|18456
+PA|Wayne|Sterling|Maple Grove|18463
+PA|Wayne|Prompton|Creek Drive|18456
+PA|Wayne|Prompton|Gillow Lane|18456
+PA|Wayne|Prompton|Grand Army of the Republic Highway|18456
+PA|Wayne|Prompton|Grange Road|18456
+PA|Wayne|Prompton|Hemp Lane|18456
+PA|Wayne|Prompton|Prompton Road|18456
+PA|Wayne|Prompton|Prompton Vw|18456
+PA|Wayne|Prompton|River Road|18456
+PA|Wayne|Prompton|Roosevelt Highway|18456
+PA|Wayne|Newfoundland|T320|18445
+PA|Wayne|Prompton|Stanton Hill Road|18456
+PA|Wayne|Prompton|Station Hill Road|18456
+PA|Wayne|Prompton|Swallow Hill Drive|18456
+PA|Wayne|Prompton|T 444|18456
+PA|Wayne|Prompton|Church Street|18456
+PA|Wayne|Prompton|T 540|18456
+PA|Wayne|Prompton|T R 437|18456
+PA|Wayne|Prompton|T462|18456
+PA|Wayne|Prompton|Town Hill Road|18456
+PA|Wayne|Prompton|Wood Road|18456
+PA|Wayne|Tyler Hill|Beezy Acres Lane|18469
+PA|Wayne|Tyler Hill|Blue Heron Road|18469
+PA|Wayne|Tyler Hill|Bridge Drive|18469
+PA|Wayne|Tyler Hill|Brook Road|18469
+PA|Wayne|Tyler Hill|Canfield Road|18469
+PA|Wayne|Tyler Hill|Cherrywood Lane|18469
+PA|Wayne|Tyler Hill|Cochecton Tpke|18469
+PA|Wayne|Tyler Hill|Cottage Lane|18469
+PA|Wayne|Tyler Hill|Coulters Road|18469
+PA|Wayne|Tyler Hill|Dana Drive|18469
+PA|Wayne|Prompton|Rutkosky Road|18456
+PA|Wayne|Tyler Hill|Ellison Road|18469
+PA|Wayne|Tyler Hill|Fallsdale Farms Drive|18469
+PA|Wayne|Tyler Hill|Fallsdale Road|18469
+PA|Wayne|Tyler Hill|Four Story Court|18469
+PA|Wayne|Tyler Hill|Flat Rock Road|18469
+PA|Wayne|Tyler Hill|Fox Run Drive|18469
+PA|Wayne|Tyler Hill|Galilee Road|18469
+PA|Wayne|Prompton|T 528|18456
+PA|Wayne|Tyler Hill|Hilltop Road|18469
+PA|Wayne|Tyler Hill|Hogwarts Hill|18469
+PA|Wayne|Tyler Hill|Hopkins Road|18469
+PA|Wayne|Tyler Hill|Laurel Lake Lane|18469
+PA|Wayne|Tyler Hill|Laurel Lane|18469
+PA|Wayne|Tyler Hill|Maple Lane|18469
+PA|Wayne|Tyler Hill|Mc Knight Hill Road|18469
+PA|Wayne|Tyler Hill|Meadow Lane Road|18469
+PA|Wayne|Tyler Hill|Meadowlark Drive|18469
+PA|Wayne|Tyler Hill|Moes Manor|18469
+PA|Wayne|Tyler Hill|Owl Wood Road|18469
+PA|Wayne|Tyler Hill|Rainbows End Drive|18469
+PA|Wayne|Tyler Hill|Rutledge Bros Drive|18469
+PA|Wayne|Tyler Hill|Rutledgedale Road|18469
+PA|Wayne|Tyler Hill|Sky Lake Road|18469
+PA|Wayne|Tyler Hill|Springview Road|18469
+PA|Wayne|Tyler Hill|Sr1025|18469
+PA|Wayne|Tyler Hill|Stone Arch Road|18469
+PA|Wayne|Tyler Hill|T R 650|18469
+PA|Wayne|Tyler Hill|T539|18469
+PA|Wayne|Tyler Hill|T543|18469
+PA|Wayne|Tyler Hill|T634|18469
+PA|Wayne|Tyler Hill|T677|18469
+PA|Wayne|Tyler Hill|Twin Brook Farm Lane|18469
+PA|Wayne|Tyler Hill|Wescott Road|18469
+PA|Wayne|Starrucca|B 770|18462
+PA|Wayne|Starrucca|B704|18462
+PA|Wayne|Starrucca|B-768|18462
+PA|Wayne|Starrucca|B783|18462
+PA|Wayne|Starrucca|Baka Road|18462
+PA|Wayne|Starrucca|Beaver Hollow Road|18462
+PA|Wayne|Starrucca|Black Bear Pass|18462
+PA|Wayne|Starrucca|Buchanan Road|18462
+PA|Wayne|Lakewood|T721|18439
+PA|Wayne|Starrucca|Crosstown Highway|18462
+PA|Wayne|Starrucca|Dixie Highway|18462
+PA|Wayne|Starrucca|Downton Drive|18462
+PA|Wayne|Starrucca|E Shore Drive|18462
+PA|Wayne|Starrucca|Faigle Road|18462
+PA|Wayne|Starrucca|Fairmount Road|18462
+PA|Wayne|Starrucca|Farrell Cors|18462
+PA|Wayne|Tyler Hill|Griffith Road|18469
+PA|Wayne|Starrucca|Island Lake Road|18462
+PA|Wayne|Starrucca|Island Pond Road|18462
+PA|Wayne|Starrucca|Jacob Ladder Road|18462
+PA|Wayne|Starrucca|Kellogg Road|18462
+PA|Wayne|Starrucca|King Hill Road|18462
+PA|Wayne|Starrucca|Hickory Hill Road|18462
+PA|Wayne|Starrucca|Maple Grove Road|18462
+PA|Wayne|Starrucca|Penn Hill Road|18462
+PA|Wayne|Starrucca|Pleasant Valley Road|18462
+PA|Wayne|Starrucca|Rabbit Run|18462
+PA|Wayne|Starrucca|Reynolds Road|18462
+PA|Wayne|Starrucca|Scott Center Road|18462
+PA|Wayne|Starrucca|Shadigee Creek Road|18462
+PA|Wayne|Starrucca|Shore Drive, East|18462
+PA|Wayne|Starrucca|Shehawken Road|18462
+PA|Wayne|Starrucca|Shrawder Mountain Road|18462
+PA|Wayne|Starrucca|Starrucca Creek Road|18462
+PA|Wayne|Starrucca|State Route 4039|18462
+PA|Wayne|Starrucca|Stephano Road|18462
+PA|Wayne|Starrucca|T595|18462
+PA|Wayne|Starrucca|T657|18462
+PA|Wayne|Starrucca|Little Ireland Road|18462
+PA|Wayne|Starrucca|T704|18462
+PA|Wayne|Starrucca|T706|18462
+PA|Wayne|Starrucca|T710|18462
+PA|Wayne|Starrucca|T766|18462
+PA|Wayne|Starrucca|Coxton Lake Road|18462
+PA|Wayne|Starrucca|T783|18462
+PA|Wayne|Starrucca|T-790|18462
+PA|Wayne|Starrucca|T-789|18462
+PA|Wayne|Starrucca|Tr593|18462
+PA|Wayne|Starrucca|Travis Road|18462
+PA|Wayne|Starrucca|Tr714|18462
+PA|Wayne|Starrucca|Welch Road|18462
+PA|Wayne|Starrucca|Wilderness Drive|18462
+PA|Wayne|Starrucca|Wrighter Lake Road|18462
+PA|Wayne|Starrucca|T781|18462
+PA|Wayne|Tyler Hill|Eagle Peak|18469
+PA|Wayne|Starrucca|T661|18462
+PA|Wayne|Pleasant Mount|Ayoub Road|18453
+PA|Wayne|Pleasant Mount|Bethany Tpke|18453
+PA|Wayne|Pleasant Mount|Black Bear Lane|18453
+PA|Wayne|Pleasant Mount|Brooking Road|18453
+PA|Wayne|Pleasant Mount|Bush Road|18453
+PA|Wayne|Pleasant Mount|Camp Road|18453
+PA|Wayne|Pleasant Mount|Cimahosky Road|18453
+PA|Wayne|Pleasant Mount|Creamery Road|18453
+PA|Wayne|Pleasant Mount|Creamton Drive|18453
+PA|Wayne|Pleasant Mount|Creamton Road|18453
+PA|Wayne|Pleasant Mount|Creek Road|18453
+PA|Wayne|Pleasant Mount|Cribbs Road|18453
+PA|Wayne|Pleasant Mount|Crooked Creek Road|18453
+PA|Wayne|Pleasant Mount|Crossman Road|18453
+PA|Wayne|Pleasant Mount|Daw Road|18453
+PA|Wayne|Pleasant Mount|Dix Road|18453
+PA|Wayne|Pleasant Mount|Dixon Valley Road|18453
+PA|Wayne|Pleasant Mount|Dozy Road|18453
+PA|Wayne|Pleasant Mount|Equestrian Road|18453
+PA|Wayne|Pleasant Mount|Franks Old Road|18453
+PA|Wayne|Pleasant Mount|Great Bend Tpke|18453
+PA|Wayne|Pleasant Mount|Hatchery Road|18453
+PA|Wayne|Pleasant Mount|Hemlock Road|18453
+PA|Wayne|Pleasant Mount|Highland Road|18453
+PA|Wayne|Pleasant Mount|Highland Trail|18453
+PA|Wayne|Pleasant Mount|Jesss Road|18453
+PA|Wayne|Pleasant Mount|Johnson Creek Road|18453
+PA|Wayne|Pleasant Mount|Kilkenny Lane|18453
+PA|Wayne|Pleasant Mount|Korba Road|18453
+PA|Wayne|Pleasant Mount|Kotar Road|18453
+PA|Wayne|Pleasant Mount|Leonard Road|18453
+PA|Wayne|Pleasant Mount|Maple Avenue|18453
+PA|Wayne|Pleasant Mount|Moody Road|18453
+PA|Wayne|Pleasant Mount|Murphy Hill Road|18453
+PA|Wayne|Pleasant Mount|Niagara Drive|18453
+PA|Wayne|Pleasant Mount|Niagara Road|18453
+PA|Wayne|Pleasant Mount|Non Hill Road|18453
+PA|Wayne|Pleasant Mount|North Road|18453
+PA|Wayne|Pleasant Mount|Old Newburgh Tpke|18453
+PA|Wayne|Pleasant Mount|Padwa Road|18453
+PA|Wayne|Pleasant Mount|Paluch Road|18453
+PA|Wayne|Pleasant Mount|Peterson Road|18453
+PA|Wayne|Pleasant Mount|Pleasant Stream Drive|18453
+PA|Wayne|Pleasant Mount|Pleasant View Drive|18453
+PA|Wayne|Pleasant Mount|Pleasant Way|18453
+PA|Wayne|Pleasant Mount|Poplar Road|18453
+PA|Wayne|Pleasant Mount|Preston Drive, South|18453
+PA|Wayne|Pleasant Mount|Preston Road, South|18453
+PA|Wayne|Pleasant Mount|Reiter Road|18453
+PA|Wayne|Pleasant Mount|Rock Lake Road|18453
+PA|Wayne|Pleasant Mount|S Preston Drive|18453
+PA|Wayne|Pleasant Mount|S Preston Road|18453
+PA|Wayne|Pleasant Mount|S Shore Road|18453
+PA|Wayne|Pleasant Mount|Shefeild Road|18453
+PA|Wayne|Pleasant Mount|Sheffield Road|18453
+PA|Wayne|Pleasant Mount|Shore Road, South|18453
+PA|Wayne|Pleasant Mount|Sullivan Road|18453
+PA|Wayne|Pleasant Mount|T 395|18453
+PA|Wayne|Pleasant Mount|T 507|18453
+PA|Wayne|Pleasant Mount|T 608|18453
+PA|Wayne|Pleasant Mount|T483|18453
+PA|Wayne|Pleasant Mount|T487|18453
+PA|Wayne|Pleasant Mount|T489|18453
+PA|Wayne|Pleasant Mount|Baxter Road|18453
+PA|Wayne|Pleasant Mount|Bigelow Lake Road|18453
+PA|Wayne|Pleasant Mount|Belmont Tpke|18453
+PA|Wayne|Pleasant Mount|T495|18453
+PA|Wayne|Pleasant Mount|T536|18453
+PA|Wayne|Pleasant Mount|T567|18453
+PA|Wayne|Pleasant Mount|T586|18453
+PA|Wayne|Pleasant Mount|T599|18453
+PA|Wayne|Pleasant Mount|T600|18453
+PA|Wayne|Pleasant Mount|T611|18453
+PA|Wayne|Pleasant Mount|T614|18453
+PA|Wayne|Pleasant Mount|T722|18453
+PA|Wayne|Pleasant Mount|Tr505|18453
+PA|Wayne|Pleasant Mount|Tr598|18453
+PA|Wayne|Pleasant Mount|Tr602|18453
+PA|Wayne|Pleasant Mount|Tr612|18453
+PA|Wayne|Pleasant Mount|Tr613|18453
+PA|Wayne|Pleasant Mount|Trl 586|18453
+PA|Wayne|Pleasant Mount|Trl 594|18453
+PA|Wayne|Pleasant Mount|Trl 596|18453
+PA|Wayne|Pleasant Mount|Trl 610|18453
+PA|Wayne|Pleasant Mount|Turner Court|18453
+PA|Wayne|Pleasant Mount|Turner Road|18453
+PA|Wayne|Pleasant Mount|Twp Road 590|18453
+PA|Wayne|Pleasant Mount|Upper Woods Road|18453
+PA|Wayne|Pleasant Mount|Welcome Home Lane|18453
+PA|Wayne|Pleasant Mount|White Tail Lane|18453
+PA|Wayne|Pleasant Mount|Wilderness Road|18453
+PA|Wayne|Pleasant Mount|Wildwood Trail|18453
+PA|Wayne|Pleasant Mount|Woodland Drive|18453
+PA|Wayne|Preston Park|Creamton Road|18455
+PA|Wayne|Preston Park|Crosstown Highway|18455
+PA|Wayne|Preston Park|Curtis Road|18455
+PA|Wayne|Preston Park|Geer Road|18455
+PA|Wayne|Pleasant Mount|T497|18453
+PA|Wayne|Preston Park|Old State Road|18455
+PA|Wayne|Preston Park|Roney Road|18455
+PA|Wayne|Preston Park|Rose Hill Road|18455
+PA|Wayne|Preston Park|Shehawken Road|18455
+PA|Wayne|Preston Park|Stockport Road|18455
+PA|Wayne|Preston Park|T 589|18455
+PA|Wayne|Preston Park|T-589|18455
+PA|Wayne|Preston Park|T716|18455
+PA|Wayne|Preston Park|T718|18455
+PA|Wayne|Preston Park|T720|18455
+PA|Wayne|Preston Park|T721|18455
+PA|Wayne|South Canaan|Dazel Drive|18459
+PA|Wayne|South Canaan|Gramps Lane|18459
+PA|Wayne|South Canaan|Greenacre Drive|18459
+PA|Wayne|South Canaan|Hetzel Road|18459
+PA|Wayne|South Canaan|Lake Shore Drive|18459
+PA|Wayne|South Canaan|Oakview Lane|18459
+PA|Wayne|South Canaan|Rte 434|18459
+PA|Wayne|South Canaan|T385|18459
+PA|Wayne|Pleasant Mount|T503|18453
+PA|Wayne|South Sterling|Carlton Hill Road|18460
+PA|Wayne|South Sterling|Carlton Road|18460
+PA|Wayne|South Sterling|Carowa Trail|18460
+PA|Wayne|South Sterling|Hiwasse Trail|18460
+PA|Wayne|South Sterling|Huntingdon Drive|18460
+PA|Wayne|South Sterling|la Anna Road|18460
+PA|Wayne|South Sterling|Lake Russell Road|18460
+PA|Wayne|South Sterling|Lily Pond Drive|18460
+PA|Wayne|South Sterling|Menoken Trail|18460
+PA|Wayne|South Sterling|Osborne Road|18460
+PA|Wayne|South Sterling|Panther Hill Circle|18460
+PA|Wayne|South Sterling|Panther Hill Drive|18460
+PA|Wayne|South Sterling|Pine Grove Road|18460
+PA|Wayne|South Sterling|S Sterling Road|18460
+PA|Wayne|South Sterling|Sterling Road, South|18460
+PA|Wayne|South Sterling|T307|18460
+PA|Wayne|South Sterling|T345|18460
+PA|Wayne|South Sterling|T366|18460
+PA|Wayne|South Sterling|Woodchuck Road|18460
+PA|Wayne|Waymart|Adams Drive|18472
+PA|Wayne|Waymart|Amy Drive|18472
+PA|Wayne|Waymart|Anderson Lane|18472
+PA|Wayne|Waymart|Arrow Lane|18472
+PA|Wayne|Waymart|Baker Road, North|18472
+PA|Wayne|Waymart|Baker Road, South|18472
+PA|Wayne|Waymart|Baldwin Road|18472
+PA|Wayne|Waymart|Bannon Drive|18472
+PA|Wayne|Waymart|Bee Tree Lane|18472
+PA|Wayne|Waymart|Belmont Street|18472
+PA|Wayne|Waymart|Belmont Tpke|18472
+PA|Wayne|Waymart|Beynon Drive|18472
+PA|Wayne|Waymart|Big John Road|18472
+PA|Wayne|Waymart|Billie Joe Road|18472
+PA|Wayne|Waymart|Birch Lane|18472
+PA|Wayne|Waymart|Boots Lane|18472
+PA|Wayne|Waymart|Bound Brook Road|18472
+PA|Wayne|Waymart|Bronson Drive|18472
+PA|Wayne|Waymart|Brookside Road|18472
+PA|Wayne|Waymart|Bucklands Lane|18472
+PA|Wayne|Waymart|Burns Road|18472
+PA|Wayne|Waymart|Burrier Road|18472
+PA|Wayne|Waymart|Canaan Road|18472
+PA|Wayne|Waymart|Carbondale Road|18472
+PA|Wayne|Waymart|Carbondale Road, West|18472
+PA|Wayne|Waymart|Carol Drive|18472
+PA|Wayne|Waymart|Cavage Road|18472
+PA|Wayne|Waymart|Cemetery Road|18472
+PA|Wayne|Waymart|Center Street|18472
+PA|Wayne|Waymart|Chets Drive|18472
+PA|Wayne|Waymart|Club House Road|18472
+PA|Wayne|Waymart|Cole Road|18472
+PA|Wayne|Waymart|Creamton Drive|18472
+PA|Wayne|Waymart|Creek Drive|18472
+PA|Wayne|Waymart|Cross Road|18472
+PA|Wayne|Waymart|Cross Road Road|18472
+PA|Wayne|Waymart|Curtis Lane|18472
+PA|Wayne|Waymart|Curtis Pond Road|18472
+PA|Wayne|Waymart|Daley Lane|18472
+PA|Wayne|Waymart|Daniels Road|18472
+PA|Wayne|Waymart|Davis Road|18472
+PA|Wayne|Waymart|Davitt Road|18472
+PA|Wayne|Waymart|Dazel Drive|18472
+PA|Wayne|Waymart|Deer Run Lane|18472
+PA|Wayne|Waymart|Dicarlo Lane|18472
+PA|Wayne|Waymart|Dutchman Hill|18472
+PA|Wayne|Waymart|E Elk Forest Drive|18472
+PA|Wayne|Waymart|East Street|18472
+PA|Wayne|Waymart|Easton Tpke|18472
+PA|Wayne|Waymart|Edwards Lane|18472
+PA|Wayne|Waymart|Elk Forest Drive, East|18472
+PA|Wayne|Waymart|Elk Forest Drive, North|18472
+PA|Wayne|Waymart|Elk Forest Drive, West|18472
+PA|Wayne|Waymart|Elk Lake Drive|18472
+PA|Wayne|Waymart|Evergreen Street|18472
+PA|Wayne|Waymart|Fermoy Lane|18472
+PA|Wayne|Waymart|Fireman's Lane|18472
+PA|Wayne|Waymart|Florence Street|18472
+PA|Wayne|Waymart|Fobes Drive|18472
+PA|Wayne|Waymart|Fox Cabin Road|18472
+PA|Wayne|Waymart|Fox Lane Road|18472
+PA|Wayne|Waymart|Fox Road|18472
+PA|Wayne|Waymart|Gallik Road|18472
+PA|Wayne|Waymart|Giles Lane|18472
+PA|Wayne|Waymart|Giles Road|18472
+PA|Wayne|Waymart|Gillette Road|18472
+PA|Wayne|Waymart|Gramps Lane|18472
+PA|Wayne|Waymart|Gravity Planes Road|18472
+PA|Wayne|Waymart|Gravity Street|18472
+PA|Wayne|Waymart|Greenacre Drive|18472
+PA|Wayne|Waymart|Gto Alley|18472
+PA|Wayne|Waymart|Hemlock Drive|18472
+PA|Wayne|Waymart|Hemlock Road|18472
+PA|Wayne|Waymart|Hinds Road|18472
+PA|Wayne|Waymart|Honesdale Road|18472
+PA|Wayne|Waymart|Howell Lane|18472
+PA|Wayne|Waymart|Hull Road|18472
+PA|Wayne|Waymart|Island Road|18472
+PA|Wayne|Waymart|Jacob Road|18472
+PA|Wayne|Waymart|Jamesway Drive|18472
+PA|Wayne|Waymart|Jubinsky Road|18472
+PA|Wayne|Waymart|Keen Lake Road|18472
+PA|Wayne|Waymart|Keen Lane|18472
+PA|Wayne|Waymart|Kennedy Lane|18472
+PA|Wayne|Waymart|Knobby Knoll Lane|18472
+PA|Wayne|Waymart|Lake Quinn Road|18472
+PA|Wayne|Waymart|Lake Shore Drive|18472
+PA|Wayne|Preston Park|Holbert Road|18455
+PA|Wayne|Waymart|Leah Lane|18472
+PA|Wayne|Waymart|Lever Lane|18472
+PA|Wayne|Waymart|Larkin Lane|18472
+PA|Wayne|Waymart|Lillie Road|18472
+PA|Wayne|Waymart|Little Keen Road|18472
+PA|Wayne|Waymart|Lizzys Lane|18472
+PA|Wayne|Waymart|Lock Street|18472
+PA|Wayne|Waymart|Lockwood Drive|18472
+PA|Wayne|Waymart|Maple Grove Road|18472
+PA|Wayne|Waymart|Maple Hill Road|18472
+PA|Wayne|Waymart|Maple Street|18472
+PA|Wayne|Waymart|Marion Drive|18472
+PA|Wayne|Waymart|Marion Street|18472
+PA|Wayne|Waymart|Martzen Drive|18472
+PA|Wayne|Waymart|Mathews Road|18472
+PA|Wayne|Waymart|Maycheck Drive|18472
+PA|Wayne|Waymart|McAvoy|18472
+PA|Wayne|Waymart|McKinney Road|18472
+PA|Wayne|Waymart|Memorial Links Road|18472
+PA|Wayne|Waymart|Merwin Street|18472
+PA|Wayne|Waymart|Mican Road|18472
+PA|Wayne|Waymart|Mill Brook Road|18472
+PA|Wayne|Waymart|Miller Road|18472
+PA|Wayne|Waymart|Libra Mews|18472
+PA|Wayne|Waymart|Molly Lane|18472
+PA|Wayne|Waymart|Mizianty Lane|18472
+PA|Wayne|Waymart|Money Pit Lane|18472
+PA|Wayne|South Sterling|Canoochee Trail|18460
+PA|Wayne|Waymart|Myrtle Street|18472
+PA|Wayne|Waymart|N Baker Road|18472
+PA|Wayne|Waymart|Mount Linn Vw|18472
+PA|Wayne|Waymart|New Street|18472
+PA|Wayne|Waymart|Nicholas Way|18472
+PA|Wayne|Waymart|Nursery Drive|18472
+PA|Wayne|Waymart|Oak Lane|18472
+PA|Wayne|Waymart|O'Connell Circle|18472
+PA|Wayne|Waymart|O'Connell Road|18472
+PA|Wayne|Waymart|Old Racht Road|18472
+PA|Wayne|Waymart|Old Route 6|18472
+PA|Wayne|Waymart|Ostowski Road|18472
+PA|Wayne|Waymart|Owego Tpke|18472
+PA|Wayne|Waymart|Palko Drive|18472
+PA|Wayne|Waymart|Park Lane|18472
+PA|Wayne|Waymart|Patterson Street|18472
+PA|Wayne|Waymart|Pazel Road|18472
+PA|Wayne|Waymart|Pebble Lane|18472
+PA|Wayne|Waymart|Perry Road|18472
+PA|Wayne|Waymart|Posdon Drive|18472
+PA|Wayne|Waymart|Prospect Street|18472
+PA|Wayne|Waymart|Racht Road|18472
+PA|Wayne|Waymart|Ravnikar Road|18472
+PA|Wayne|Waymart|Robbins Lane|18472
+PA|Wayne|Waymart|Robinson Road|18472
+PA|Wayne|Waymart|Rockwell Lane|18472
+PA|Wayne|Waymart|Rockys Ridge|18472
+PA|Wayne|Waymart|Roosevelt Highway|18472
+PA|Wayne|Waymart|Rude Road|18472
+PA|Wayne|Waymart|Russells Lane|18472
+PA|Wayne|Waymart|S Baker Road|18472
+PA|Wayne|Waymart|S Smith Road|18472
+PA|Wayne|Waymart|Salem View Drive|18472
+PA|Wayne|Waymart|Savage Road|18472
+PA|Wayne|Waymart|Schweinsburg Road|18472
+PA|Wayne|Waymart|Mulcare Lane|18472
+PA|Wayne|Waymart|Sensentine Road|18472
+PA|Wayne|Waymart|Scott Drive|18472
+PA|Wayne|Waymart|Sherwood Drive|18472
+PA|Wayne|Waymart|Shore Road, West|18472
+PA|Wayne|Waymart|Silvercrest Drive|18472
+PA|Wayne|Waymart|Skubic Road|18472
+PA|Wayne|Waymart|Sleepy Hollow Road|18472
+PA|Wayne|Waymart|Smith Road|18472
+PA|Wayne|Waymart|Smith Road, South|18472
+PA|Wayne|Waymart|South Street|18472
+PA|Wayne|Waymart|Spewak Road|18472
+PA|Wayne|Waymart|St Tikhons Road|18472
+PA|Wayne|Waymart|Stanton Drive|18472
+PA|Wayne|Waymart|State Route 296|18472
+PA|Wayne|Waymart|State Route 3026|18472
+PA|Wayne|Waymart|State Route 3030|18472
+PA|Wayne|Waymart|Stove Pipe Road|18472
+PA|Wayne|Waymart|Syrylo Drive|18472
+PA|Wayne|Waymart|Szostowski Road|18472
+PA|Wayne|Waymart|T 391|18472
+PA|Wayne|Waymart|T 393|18472
+PA|Wayne|Waymart|T 395|18472
+PA|Wayne|Waymart|T 399|18472
+PA|Wayne|Waymart|T 401|18472
+PA|Wayne|Waymart|T 412|18472
+PA|Wayne|Waymart|T 422|18472
+PA|Wayne|Waymart|T 424|18472
+PA|Wayne|Waymart|T 436|18472
+PA|Wayne|Waymart|T 438|18472
+PA|Wayne|Waymart|T 439|18472
+PA|Wayne|Waymart|T 450|18472
+PA|Wayne|Waymart|T 452|18472
+PA|Wayne|Waymart|T 456|18472
+PA|Wayne|Waymart|T 458|18472
+PA|Wayne|Pleasant Mount|T501|18453
+PA|Wayne|Waymart|T 463|18472
+PA|Wayne|Waymart|T 464|18472
+PA|Wayne|Waymart|T 466|18472
+PA|Wayne|Waymart|T 510|18472
+PA|Wayne|Waymart|T 528|18472
+PA|Wayne|Waymart|T 534|18472
+PA|Wayne|Waymart|T 540|18472
+PA|Wayne|Waymart|T 546|18472
+PA|Wayne|Waymart|T397|18472
+PA|Wayne|Waymart|T399|18472
+PA|Wayne|Waymart|T 460|18472
+PA|Wayne|Waymart|T418|18472
+PA|Wayne|Waymart|T420|18472
+PA|Wayne|Waymart|T426|18472
+PA|Wayne|Waymart|T-428|18472
+PA|Wayne|Waymart|T430|18472
+PA|Wayne|Waymart|T433|18472
+PA|Wayne|Waymart|T435|18472
+PA|Wayne|Waymart|T439|18472
+PA|Wayne|Waymart|T441|18472
+PA|Wayne|Waymart|T462|18472
+PA|Wayne|Waymart|T-465|18472
+PA|Wayne|Waymart|T-467|18472
+PA|Wayne|Waymart|T479|18472
+PA|Wayne|Waymart|T-512|18472
+PA|Wayne|Waymart|T514|18472
+PA|Wayne|Waymart|T516|18472
+PA|Wayne|Waymart|T537|18472
+PA|Wayne|Waymart|T-539|18472
+PA|Wayne|Waymart|T-541|18472
+PA|Wayne|Waymart|T548|18472
+PA|Wayne|Waymart|T611|18472
+PA|Wayne|Waymart|Tannery Road|18472
+PA|Wayne|Waymart|Terrrel Road|18472
+PA|Wayne|Waymart|The Oasis|18472
+PA|Wayne|Waymart|N Elk Forest Drive|18472
+PA|Wayne|Waymart|Tr481|18472
+PA|Wayne|Waymart|Thoroughbred Drive|18472
+PA|Wayne|Waymart|Tuthill Road|18472
+PA|Wayne|Waymart|Urmanec Road|18472
+PA|Wayne|Waymart|Vansant Drive|18472
+PA|Wayne|Waymart|Vine Street|18472
+PA|Wayne|Waymart|Vinton Mtn Road|18472
+PA|Wayne|Waymart|Volunteer Way|18472
+PA|Wayne|Waymart|W Carbondale Road|18472
+PA|Wayne|Waymart|W Elk Forest Drive|18472
+PA|Wayne|Waymart|W Shore Road|18472
+PA|Wayne|Waymart|Warren Rix Drive|18472
+PA|Wayne|Waymart|Wash Road|18472
+PA|Wayne|Waymart|Water Street|18472
+PA|Wayne|Waymart|Wayman Drive|18472
+PA|Wayne|Waymart|Wayman Road|18472
+PA|Wayne|Waymart|White Rock Drive|18472
+PA|Wayne|Waymart|Woodbine Drive|18472
+PA|Wayne|Waymart|Woodlands Drive|18472
+PA|Wayne|Waymart|Yamialkowski Road|18472
+PA|Wayne|Waymart|Yander Drive|18472
+PA|Wayne|Waymart|Yarnes Road|18472
+PA|Wayne|Poyntelle|5th Street|18454
+PA|Wayne|Poyntelle|2nd Street|18454
+PA|Wayne|Poyntelle|6th Street|18454
+PA|Wayne|Poyntelle|Cribbs Road|18454
+PA|Wayne|Poyntelle|Crosstown Highway|18454
+PA|Wayne|Poyntelle|Dixie Highway|18454
+PA|Wayne|Waymart|T416|18472
+PA|Wayne|Poyntelle|Hines Road|18454
+PA|Wayne|Poyntelle|Huckleberry Lane|18454
+PA|Wayne|Poyntelle|Lake Drive|18454
+PA|Wayne|Poyntelle|Lake Lorain Road|18454
+PA|Wayne|Poyntelle|Lakeside Drive|18454
+PA|Wayne|Poyntelle|Spruce Lake Road|18454
+PA|Wayne|Poyntelle|T688|18454
+PA|Wayne|Poyntelle|T692|18454
+PA|Wayne|Honesdale|10th Street|18431
+PA|Wayne|Honesdale|11th Street|18431
+PA|Wayne|Honesdale|11th Street, West|18431
+PA|Wayne|Honesdale|12th Street|18431
+PA|Wayne|Honesdale|13th Street|18431
+PA|Wayne|Honesdale|14th Street|18431
+PA|Wayne|Honesdale|15th Street|18431
+PA|Wayne|Honesdale|16th Street|18431
+PA|Wayne|Honesdale|17th Street|18431
+PA|Wayne|Honesdale|18th Street|18431
+PA|Wayne|Honesdale|4th Street|18431
+PA|Wayne|Honesdale|5th Street|18431
+PA|Wayne|Honesdale|6th Street|18431
+PA|Wayne|Honesdale|7th Street|18431
+PA|Wayne|Honesdale|8th Street|18431
+PA|Wayne|Honesdale|9th Street|18431
+PA|Wayne|Honesdale|Adams Pond Road|18431
+PA|Wayne|Poyntelle|Hemlock Lane|18454
+PA|Wayne|Honesdale|Airport Road|18431
+PA|Wayne|Honesdale|Alden Lake Road|18431
+PA|Wayne|Honesdale|Alden Road|18431
+PA|Wayne|Honesdale|Alvarez Way|18431
+PA|Wayne|Honesdale|Arbor Street|18431
+PA|Wayne|Honesdale|Ash Street|18431
+PA|Wayne|Honesdale|Avery Lane|18431
+PA|Wayne|Honesdale|Baker Road|18431
+PA|Wayne|Honesdale|Bates Road|18431
+PA|Wayne|Honesdale|Bayly Road|18431
+PA|Wayne|Honesdale|Beach Lake Highway|18431
+PA|Wayne|Honesdale|Beagle Hollow Lane|18431
+PA|Wayne|Honesdale|Bear Swamp Road|18431
+PA|Wayne|Honesdale|Beardsley Road|18431
+PA|Wayne|Honesdale|Bede Circle|18431
+PA|Wayne|Honesdale|Beech Grove Road|18431
+PA|Wayne|Honesdale|Beech Rock Road|18431
+PA|Wayne|Honesdale|Beech Street|18431
+PA|Wayne|Honesdale|Beechnut Drive|18431
+PA|Wayne|Honesdale|Beechnut Road|18431
+PA|Wayne|Honesdale|Air Park Road|18431
+PA|Wayne|Honesdale|Bethany Drive|18431
+PA|Wayne|Honesdale|Bethany Lake|18431
+PA|Wayne|Honesdale|Bethany Lake Court|18431
+PA|Wayne|Honesdale|Bethany Tpke|18431
+PA|Wayne|Waymart|Trailer Drive|18472
+PA|Wayne|Honesdale|Big Pine Road|18431
+PA|Wayne|Honesdale|Birch Street|18431
+PA|Wayne|Honesdale|Birdsall Street|18431
+PA|Wayne|Honesdale|Black Bear Trail|18431
+PA|Wayne|Honesdale|Blakestead Drive|18431
+PA|Wayne|Honesdale|Block Cellar Road|18431
+PA|Wayne|Honesdale|Blue Moon Lane|18431
+PA|Wayne|Honesdale|Bethel School Road|18431
+PA|Wayne|Honesdale|Blueberry Hill Drive|18431
+PA|Wayne|Honesdale|Bodine Lane|18431
+PA|Wayne|Honesdale|Bomber Lane|18431
+PA|Wayne|Honesdale|Bowen Road|18431
+PA|Wayne|Honesdale|Brandywine Drive|18431
+PA|Wayne|Honesdale|Breech Grove Road|18431
+PA|Wayne|Honesdale|Bridge Street|18431
+PA|Wayne|Honesdale|Brill Road|18431
+PA|Wayne|Honesdale|Bristol Place|18431
+PA|Wayne|Honesdale|Broad Street|18431
+PA|Wayne|Honesdale|Brook Road|18431
+PA|Wayne|Honesdale|Brookside Road|18431
+PA|Wayne|Honesdale|Brown Street|18431
+PA|Wayne|Honesdale|Bruce Place|18431
+PA|Wayne|Honesdale|Bryant Road|18431
+PA|Wayne|Honesdale|Bryn Mawr Road|18431
+PA|Wayne|Honesdale|Bobcat Lane|18431
+PA|Wayne|Honesdale|Buckingham Road|18431
+PA|Wayne|Honesdale|Bucks Cove Road|18431
+PA|Wayne|Honesdale|Bunnell Pond Road|18431
+PA|Wayne|Honesdale|Bunny Run Lane|18431
+PA|Wayne|Honesdale|Bunting Road|18431
+PA|Wayne|Honesdale|Burke Road|18431
+PA|Wayne|Honesdale|Burlam Road|18431
+PA|Wayne|Honesdale|Butternut Flats|18431
+PA|Wayne|Honesdale|Cabin Corner|18431
+PA|Wayne|Honesdale|Cadjaw Pond Road|18431
+PA|Wayne|Honesdale|Cadwalder Road|18431
+PA|Wayne|Honesdale|Calkins Road|18431
+PA|Wayne|Honesdale|Camp Road|18431
+PA|Wayne|Honesdale|Canal Street|18431
+PA|Wayne|Honesdale|Canning Drive|18431
+PA|Wayne|Waymart|Silver Crest Drive|18472
+PA|Wayne|Honesdale|Carley Brook Farms|18431
+PA|Wayne|Honesdale|Bryw Mawr Road|18431
+PA|Wayne|Honesdale|Carney Road|18431
+PA|Wayne|Honesdale|Carroll Street|18431
+PA|Wayne|Honesdale|Castle Street|18431
+PA|Wayne|Honesdale|Center Avenue|18431
+PA|Wayne|Honesdale|Chapel Street|18431
+PA|Wayne|Honesdale|Carney Lane|18431
+PA|Wayne|Honesdale|Carley Brook Road|18431
+PA|Wayne|Honesdale|Cherry Drive|18431
+PA|Wayne|Honesdale|Beechwood Drive|18431
+PA|Wayne|Honesdale|Cherry Street|18431
+PA|Wayne|Honesdale|Cherry Ter N|18431
+PA|Wayne|Honesdale|Cherry Ter S|18431
+PA|Wayne|Honesdale|Cherrywood Lane|18431
+PA|Wayne|Honesdale|Chets Boulevard|18431
+PA|Wayne|Honesdale|Church Street|18431
+PA|Wayne|Honesdale|Cinclar Place|18431
+PA|Wayne|Honesdale|Clark Road|18431
+PA|Wayne|Honesdale|Clark Street|18431
+PA|Wayne|Honesdale|Cliff Street|18431
+PA|Wayne|Honesdale|Cochecton Tpke|18431
+PA|Wayne|Honesdale|Coffee Pot Lane|18431
+PA|Wayne|Honesdale|Colebrook Lane|18431
+PA|Wayne|Honesdale|Cherry Crst|18431
+PA|Wayne|Honesdale|Corey Street|18431
+PA|Wayne|Honesdale|Cottage Avenue|18431
+PA|Wayne|Honesdale|Cottage Street|18431
+PA|Wayne|Honesdale|Cougar Xing|18431
+PA|Wayne|Honesdale|Court Street|18431
+PA|Wayne|Honesdale|Coyote Run|18431
+PA|Wayne|Honesdale|Cramer Creek Drive|18431
+PA|Wayne|Honesdale|Commercial Street|18431
+PA|Wayne|Honesdale|Creamton Drive|18431
+PA|Wayne|Honesdale|Crestmont Drive|18431
+PA|Wayne|Honesdale|Crum Lane|18431
+PA|Wayne|Honesdale|Czar Lane|18431
+PA|Wayne|Honesdale|Dam Road|18431
+PA|Wayne|Honesdale|Daniels Road|18431
+PA|Wayne|Honesdale|Deer Lane|18431
+PA|Wayne|Honesdale|Dein Street|18431
+PA|Wayne|Honesdale|Delaware Street|18431
+PA|Wayne|Honesdale|Demo Drive|18431
+PA|Wayne|Honesdale|Dennis Road|18431
+PA|Wayne|Honesdale|Dillmuth Road|18431
+PA|Wayne|Honesdale|Dirlam Boulevard|18431
+PA|Wayne|Honesdale|Dirlam Road|18431
+PA|Wayne|Honesdale|Dog Pond Trail|18431
+PA|Wayne|Honesdale|Doherty Road|18431
+PA|Wayne|Honesdale|Donovan Road|18431
+PA|Wayne|Honesdale|Dream View Drive|18431
+PA|Wayne|Honesdale|Duck Harbor Road|18431
+PA|Wayne|Honesdale|Dug Road|18431
+PA|Wayne|Honesdale|Cherry Hill Road|18431
+PA|Wayne|Honesdale|Dusty Road|18431
+PA|Wayne|Honesdale|Dyberry Drive|18431
+PA|Wayne|Honesdale|Dyberry Place|18431
+PA|Wayne|Honesdale|E Tryon Street|18431
+PA|Wayne|Honesdale|East Street|18431
+PA|Wayne|Honesdale|Dunn Road|18431
+PA|Wayne|Honesdale|Edna Lane|18431
+PA|Wayne|Honesdale|Egypt Drive|18431
+PA|Wayne|Honesdale|Eighmy Road|18431
+PA|Wayne|Honesdale|Eisele Lane|18431
+PA|Wayne|Honesdale|Electric Avenue|18431
+PA|Wayne|Honesdale|Elizabeth Avenue|18431
+PA|Wayne|Honesdale|Ellen Memorial Lane|18431
+PA|Wayne|Honesdale|Cherokee Drive|18431
+PA|Wayne|Honesdale|Elm Street|18431
+PA|Wayne|Honesdale|Erie Hts|18431
+PA|Wayne|Honesdale|Erie Street|18431
+PA|Wayne|Honesdale|Erk Road|18431
+PA|Wayne|Honesdale|Eroh Road|18431
+PA|Wayne|Honesdale|Evans Road|18431
+PA|Wayne|Honesdale|Easy Street|18431
+PA|Wayne|Honesdale|Crescent Hill Drive|18431
+PA|Wayne|Honesdale|Fairview Drive|18431
+PA|Wayne|Honesdale|Fallsdale Road|18431
+PA|Wayne|Honesdale|Finally Able Lane|18431
+PA|Wayne|Honesdale|Fives Road|18431
+PA|Wayne|Honesdale|Fords Road|18431
+PA|Wayne|Honesdale|Evergreen Lane|18431
+PA|Wayne|Honesdale|Forest Street|18431
+PA|Wayne|Honesdale|Fortenia Hts|18431
+PA|Wayne|Honesdale|Fair Avenue|18431
+PA|Wayne|Honesdale|Four Story Lane|18431
+PA|Wayne|Honesdale|Fox Chase Lane|18431
+PA|Wayne|Honesdale|Fox Hill Road|18431
+PA|Wayne|Honesdale|Freethy Pond Road|18431
+PA|Wayne|Honesdale|Funaro Court|18431
+PA|Wayne|Honesdale|Gager Road|18431
+PA|Wayne|Honesdale|Forest Road|18431
+PA|Wayne|Honesdale|Four Story Court|18431
+PA|Wayne|Honesdale|Garrett Hill Road|18431
+PA|Wayne|Honesdale|Gassen Road|18431
+PA|Wayne|Honesdale|Gibbons Park Road|18431
+PA|Wayne|Honesdale|Girdland Road|18431
+PA|Wayne|Honesdale|Girdline Road|18431
+PA|Wayne|Honesdale|Gobblers Knob Road|18431
+PA|Wayne|Honesdale|Golden Road|18431
+PA|Wayne|Honesdale|Golf Hill Road|18431
+PA|Wayne|Honesdale|Goodenough Lane|18431
+PA|Wayne|Honesdale|Goodman Street|18431
+PA|Wayne|Honesdale|Grand Army of the Republic Highway|18431
+PA|Wayne|Honesdale|Grandmas Lane|18431
+PA|Wayne|Honesdale|Grandview Avenue|18431
+PA|Wayne|Honesdale|Grange Road|18431
+PA|Wayne|Honesdale|Gravity Street|18431
+PA|Wayne|Honesdale|Gallik Road|18431
+PA|Wayne|Honesdale|Green Street|18431
+PA|Wayne|Honesdale|Gridline Road|18431
+PA|Wayne|Honesdale|Grimms Road|18431
+PA|Wayne|Honesdale|Grove Street|18431
+PA|Wayne|Honesdale|Hackmatack Row|18431
+PA|Wayne|Honesdale|Haines School Road|18431
+PA|Wayne|Honesdale|Halliday Drive|18431
+PA|Wayne|Honesdale|Hancock Highway|18431
+PA|Wayne|Honesdale|Hansdale and Delaware Tpke|18431
+PA|Wayne|Honesdale|Happy Hollow Lane|18431
+PA|Wayne|Honesdale|Hartman Drive|18431
+PA|Wayne|Honesdale|Great Bend Tpke|18431
+PA|Wayne|Honesdale|Haun Lane|18431
+PA|Wayne|Honesdale|Heaven Lane|18431
+PA|Wayne|Honesdale|Hemlock Heights Drive|18431
+PA|Wayne|Honesdale|Hemlock Hollow Drive|18431
+PA|Wayne|Honesdale|Hemlock Street|18431
+PA|Wayne|Honesdale|Gallina Pond Drive|18431
+PA|Wayne|Honesdale|Elm Place|18431
+PA|Wayne|Honesdale|Hidden Brook Road|18431
+PA|Wayne|Honesdale|Hidden Pond Estate|18431
+PA|Wayne|Honesdale|High Street|18431
+PA|Wayne|Honesdale|Highhouse Road|18431
+PA|Wayne|Honesdale|Highland Acres Drive|18431
+PA|Wayne|Honesdale|Hill Top Drive|18431
+PA|Wayne|Honesdale|Hillcrest Circle|18431
+PA|Wayne|Honesdale|Hillcrest Drive|18431
+PA|Wayne|Honesdale|Hillcrest Road|18431
+PA|Wayne|Honesdale|Hillside Avenue|18431
+PA|Wayne|Honesdale|Hoadleys Road|18431
+PA|Wayne|Honesdale|Holgate Road|18431
+PA|Wayne|Honesdale|Holiday Drive|18431
+PA|Wayne|Honesdale|Holiday Park Drive|18431
+PA|Wayne|Honesdale|Holiday Street|18431
+PA|Wayne|Honesdale|Holly Drive|18431
+PA|Wayne|Honesdale|Honesdale and Delaware Tpke|18431
+PA|Wayne|Honesdale|Honey Bear Hollow|18431
+PA|Wayne|Honesdale|Horizon Vw|18431
+PA|Wayne|Honesdale|Horseshoe Drive|18431
+PA|Wayne|Honesdale|Hickory Road|18431
+PA|Wayne|Honesdale|Industrial Pt|18431
+PA|Wayne|Honesdale|Intervale Road|18431
+PA|Wayne|Honesdale|Iron Horse Lane|18431
+PA|Wayne|Honesdale|Irving Street|18431
+PA|Wayne|Honesdale|Irwin Pond Trail|18431
+PA|Wayne|Honesdale|Jensen Road|18431
+PA|Wayne|Honesdale|Johnson Lane|18431
+PA|Wayne|Honesdale|Katie Lane|18431
+PA|Wayne|Honesdale|Kellows Road|18431
+PA|Wayne|Honesdale|Kelly Point Way|18431
+PA|Wayne|Honesdale|Kennedy Road|18431
+PA|Wayne|Honesdale|Kernwood Drive|18431
+PA|Wayne|Honesdale|Kilroe Road|18431
+PA|Wayne|Honesdale|King Acres Road|18431
+PA|Wayne|Honesdale|King Arthurs Court|18431
+PA|Wayne|Honesdale|Korb Street|18431
+PA|Wayne|Honesdale|Kratz Road|18431
+PA|Wayne|Honesdale|Krol Lane|18431
+PA|Wayne|Honesdale|Krols Lane|18431
+PA|Wayne|Honesdale|Kuhn Lane|18431
+PA|Wayne|Honesdale|Lake Ariel Highway|18431
+PA|Wayne|Honesdale|Lake Drive|18431
+PA|Wayne|Honesdale|Lake Shore Drive|18431
+PA|Wayne|Honesdale|Lakeside Avenue|18431
+PA|Wayne|Honesdale|Lakeside Drive|18431
+PA|Wayne|Honesdale|Hidden|18431
+PA|Wayne|Honesdale|Lakeview Heights Drive|18431
+PA|Wayne|Honesdale|Large Rock Road|18431
+PA|Wayne|Honesdale|Laurel Drive|18431
+PA|Wayne|Honesdale|Laurel Hill Drive|18431
+PA|Wayne|Honesdale|Laurella Lane|18431
+PA|Wayne|Honesdale|Leaf Drive|18431
+PA|Wayne|Honesdale|Leba Lane|18431
+PA|Wayne|Honesdale|Ledgefield Drive|18431
+PA|Wayne|Honesdale|Ledgefield Road|18431
+PA|Wayne|Honesdale|Huckleberry Lane|18431
+PA|Wayne|Honesdale|Lincoln Street|18431
+PA|Wayne|Honesdale|Lindas Lane|18431
+PA|Wayne|Honesdale|Linden Lane|18431
+PA|Wayne|Honesdale|Hartman Road|18431
+PA|Wayne|Honesdale|Linwood Drive|18431
+PA|Wayne|Honesdale|Linwood Street|18431
+PA|Wayne|Honesdale|Liptak Boulevard|18431
+PA|Wayne|Honesdale|Locust Avenue|18431
+PA|Wayne|Honesdale|Locust Lane|18431
+PA|Wayne|Honesdale|Locust Street|18431
+PA|Wayne|Honesdale|Lois Lane|18431
+PA|Wayne|Honesdale|London Drive|18431
+PA|Wayne|Honesdale|Long Meadow Drive|18431
+PA|Wayne|Honesdale|Lakeview Drive|18431
+PA|Wayne|Honesdale|Loscigs Road|18431
+PA|Wayne|Honesdale|Louie Drive|18431
+PA|Wayne|Honesdale|Lower Woods Road|18431
+PA|Wayne|Honesdale|Main Street|18431
+PA|Wayne|Honesdale|Mangs Road|18431
+PA|Wayne|Honesdale|Maple Avenue|18431
+PA|Wayne|Honesdale|Maple Lane|18431
+PA|Wayne|Honesdale|Maple Ridge Trail|18431
+PA|Wayne|Honesdale|Lightning Drive|18431
+PA|Wayne|Honesdale|Maplewood Drive|18431
+PA|Wayne|Honesdale|Marguerite Lane|18431
+PA|Wayne|Honesdale|Marshall Farms Lane|18431
+PA|Wayne|Honesdale|Meadow Drive|18431
+PA|Wayne|Honesdale|Meadow Lane|18431
+PA|Wayne|Honesdale|Meadow View Lane|18431
+PA|Wayne|Honesdale|Meadowbrook Hts|18431
+PA|Wayne|Honesdale|Meadowlark Lane|18431
+PA|Wayne|Honesdale|Melody Road|18431
+PA|Wayne|Honesdale|Middle Avenue|18431
+PA|Wayne|Honesdale|Middle Creek Road|18431
+PA|Wayne|Honesdale|Mill Street|18431
+PA|Wayne|Honesdale|Miller Drive|18431
+PA|Wayne|Honesdale|Miller Pond Drive|18431
+PA|Wayne|Honesdale|Miller Pond Road|18431
+PA|Wayne|Honesdale|Miller Road|18431
+PA|Wayne|Honesdale|Misty Hollow|18431
+PA|Wayne|Honesdale|Moran Street|18431
+PA|Wayne|Honesdale|Mountain Creek Court|18431
+PA|Wayne|Honesdale|Mountain Side Farm|18431
+PA|Wayne|Honesdale|Mountainview Drive|18431
+PA|Wayne|Honesdale|Mapleview Drive|18431
+PA|Wayne|Honesdale|Mullen Drive|18431
+PA|Wayne|Honesdale|Muller Lane|18431
+PA|Wayne|Honesdale|Murphy Court|18431
+PA|Wayne|Honesdale|Myrtle Road|18431
+PA|Wayne|Honesdale|Long Pond Road|18431
+PA|Wayne|Honesdale|Natures Drive|18431
+PA|Wayne|Honesdale|Navajo Road|18431
+PA|Wayne|Honesdale|Niles Pond Road|18431
+PA|Wayne|Honesdale|Nobles Road|18431
+PA|Wayne|Honesdale|Noshav Drive|18431
+PA|Wayne|Honesdale|Nra Drive|18431
+PA|Wayne|Honesdale|Oconnell Drive|18431
+PA|Wayne|Honesdale|Old Barn Road|18431
+PA|Wayne|Honesdale|Old Salem Pike|18431
+PA|Wayne|Honesdale|Old State Road|18431
+PA|Wayne|Honesdale|Old Time Drive|18431
+PA|Wayne|Honesdale|Old Wayne Street|18431
+PA|Wayne|Honesdale|Old Willow Avenue|18431
+PA|Wayne|Honesdale|Olds Drive|18431
+PA|Wayne|Honesdale|Olive Street|18431
+PA|Wayne|Honesdale|Orchard Hill Lane|18431
+PA|Wayne|Honesdale|Orchard Lane|18431
+PA|Wayne|Honesdale|Orchard Road|18431
+PA|Wayne|Honesdale|Oregon Tpke|18431
+PA|Wayne|Honesdale|Overlook Avenue|18431
+PA|Wayne|Honesdale|Overlook Lane|18431
+PA|Wayne|Honesdale|Owego Tpke|18431
+PA|Wayne|Honesdale|Park Street|18431
+PA|Wayne|Honesdale|Park Street, West|18431
+PA|Wayne|Honesdale|Parker Road|18431
+PA|Wayne|Honesdale|Parkway Drive|18431
+PA|Wayne|Honesdale|Paynter Drive|18431
+PA|Wayne|Honesdale|Pdh Drive|18431
+PA|Wayne|Honesdale|Peaceful Hill|18431
+PA|Wayne|Honesdale|N Redshale Road|18431
+PA|Wayne|Honesdale|Petroski Drive|18431
+PA|Wayne|Honesdale|Pine Mill Road|18431
+PA|Wayne|Honesdale|Pine Street|18431
+PA|Wayne|Honesdale|Pinewood Terrace|18431
+PA|Wayne|Honesdale|Pinnacle Drive|18431
+PA|Wayne|Honesdale|Pintler Road|18431
+PA|Wayne|Honesdale|Pintlers Road|18431
+PA|Wayne|Honesdale|Pleasant Vly Road|18431
+PA|Wayne|Honesdale|Ponderosa Drive|18431
+PA|Wayne|Honesdale|Poor Farm Road|18431
+PA|Wayne|Honesdale|Poppy Lane|18431
+PA|Wayne|Honesdale|Price Lane|18431
+PA|Wayne|Honesdale|Prompton Road|18431
+PA|Wayne|Honesdale|Lintner Road|18431
+PA|Wayne|Honesdale|Propst Path|18431
+PA|Wayne|Honesdale|Prospect Street|18431
+PA|Wayne|Honesdale|Purple Heart Drive|18431
+PA|Wayne|Honesdale|Purple Heart Road|18431
+PA|Wayne|Honesdale|Putnam Street|18431
+PA|Wayne|Honesdale|Quarry Road|18431
+PA|Wayne|Honesdale|Quiet Acres Lane|18431
+PA|Wayne|Honesdale|Mousley Lane|18431
+PA|Wayne|Honesdale|Racht Road|18431
+PA|Wayne|Honesdale|Raninu Road|18431
+PA|Wayne|Honesdale|Ranner Drive|18431
+PA|Wayne|Honesdale|Ray Street|18431
+PA|Wayne|Honesdale|Redshale Road, North|18431
+PA|Wayne|Honesdale|Redshale Road, South|18431
+PA|Wayne|Honesdale|Reid Avenue|18431
+PA|Wayne|Honesdale|Reinhardt Hill|18431
+PA|Wayne|Honesdale|Reining Road|18431
+PA|Wayne|Honesdale|Ridd Lane|18431
+PA|Wayne|Honesdale|Ridge Lake Drive|18431
+PA|Wayne|Honesdale|Ridge Street|18431
+PA|Wayne|Honesdale|Riefler Road|18431
+PA|Wayne|Honesdale|Riley Rose Lane|18431
+PA|Wayne|Honesdale|Ripple Lane|18431
+PA|Wayne|Honesdale|Riverdale Road|18431
+PA|Wayne|Honesdale|Riverside Drive|18431
+PA|Wayne|Honesdale|Rock Street|18431
+PA|Wayne|Honesdale|Rockledge Drive|18431
+PA|Wayne|Honesdale|Rocky Springs Road|18431
+PA|Wayne|Honesdale|Roeder Street|18431
+PA|Wayne|Honesdale|Roosevelt Highway|18431
+PA|Wayne|Honesdale|Pearl Street|18431
+PA|Wayne|Honesdale|Rose Lane|18431
+PA|Wayne|Honesdale|Rosehill Road|18431
+PA|Wayne|Honesdale|Rosencrance Road|18431
+PA|Wayne|Honesdale|Roundout Drive|18431
+PA|Wayne|Honesdale|Runoff Lane|18431
+PA|Wayne|Honesdale|Russell Street|18431
+PA|Wayne|Honesdale|Rutledgedale Road|18431
+PA|Wayne|Honesdale|S R 4029|18431
+PA|Wayne|Honesdale|S Redshale Road|18431
+PA|Wayne|Honesdale|Saddleback Path|18431
+PA|Wayne|Honesdale|Schaffer Drive|18431
+PA|Wayne|Honesdale|Schoolhouse Road|18431
+PA|Wayne|Honesdale|Shady Lane|18431
+PA|Wayne|Honesdale|Shady Lawn Drive|18431
+PA|Wayne|Honesdale|Sharp Road|18431
+PA|Wayne|Honesdale|Shieldsboro Road|18431
+PA|Wayne|Honesdale|Shuman Road|18431
+PA|Wayne|Honesdale|Sierra Valley Lane|18431
+PA|Wayne|Honesdale|Siko Road|18431
+PA|Wayne|Honesdale|Singletree Drive|18431
+PA|Wayne|Honesdale|Ski Run Road|18431
+PA|Wayne|Honesdale|Skidmore Road|18431
+PA|Wayne|Honesdale|Skinner Drive|18431
+PA|Wayne|Honesdale|Skinner Road|18431
+PA|Wayne|Honesdale|Skyline Drive|18431
+PA|Wayne|Honesdale|Slish Road|18431
+PA|Wayne|Honesdale|Smith Farm Road|18431
+PA|Wayne|Honesdale|Smith Hill Road|18431
+PA|Wayne|Honesdale|Smith Lane|18431
+PA|Wayne|Honesdale|Smith Pond Road|18431
+PA|Wayne|Honesdale|Smiths Lane|18431
+PA|Wayne|Honesdale|Someday Drive|18431
+PA|Wayne|Honesdale|Sound Drive|18431
+PA|Wayne|Honesdale|Spinner Road|18431
+PA|Wayne|Honesdale|Spring Hill Road|18431
+PA|Wayne|Honesdale|Rose Land Drive|18431
+PA|Wayne|Honesdale|Spruce Street|18431
+PA|Wayne|Honesdale|Spry Road|18431
+PA|Wayne|Honesdale|Spur Road|18431
+PA|Wayne|Honesdale|Sr1025|18431
+PA|Wayne|Honesdale|Sr4017|18431
+PA|Wayne|Honesdale|Stanton Street|18431
+PA|Wayne|Honesdale|State Route 1001|18431
+PA|Wayne|Honesdale|State Route 191|18431
+PA|Wayne|Honesdale|State Route 2007|18431
+PA|Wayne|Honesdale|State Route 2008|18431
+PA|Wayne|Honesdale|State Route 3031|18431
+PA|Wayne|Honesdale|State Route 3032|18431
+PA|Wayne|Honesdale|State Route 3033|18431
+PA|Wayne|Honesdale|State Route 4006|18431
+PA|Wayne|Honesdale|State Route 652|18431
+PA|Wayne|Honesdale|State Route 670|18431
+PA|Wayne|Honesdale|Stevenson Spring|18431
+PA|Wayne|Honesdale|Steves Place|18431
+PA|Wayne|Honesdale|Stinger Street|18431
+PA|Wayne|Honesdale|Stone Street|18431
+PA|Wayne|Honesdale|Stonewall Drive|18431
+PA|Wayne|Honesdale|Stonewall Farm Drive|18431
+PA|Wayne|Honesdale|Stoney Pine Road|18431
+PA|Wayne|Honesdale|Stourbridge Lane|18431
+PA|Wayne|Honesdale|Sugar Street|18431
+PA|Wayne|Honesdale|Summit Drive|18431
+PA|Wayne|Honesdale|Sunny Slope Drive|18431
+PA|Wayne|Honesdale|Sunrise Avenue|18431
+PA|Wayne|Honesdale|Sunset Avenue|18431
+PA|Wayne|Honesdale|Sunset Drive|18431
+PA|Wayne|Honesdale|T 359|18431
+PA|Wayne|Honesdale|T 438|18431
+PA|Wayne|Honesdale|T 444|18431
+PA|Wayne|Honesdale|T 446|18431
+PA|Wayne|Honesdale|T 448|18431
+PA|Wayne|Honesdale|T 449|18431
+PA|Wayne|Honesdale|T 458|18431
+PA|Wayne|Honesdale|T 468|18431
+PA|Wayne|Honesdale|T 472|18431
+PA|Wayne|Honesdale|T 475|18431
+PA|Wayne|Honesdale|T 483|18431
+PA|Wayne|Honesdale|T 484|18431
+PA|Wayne|Honesdale|T 562|18431
+PA|Wayne|Honesdale|T 617|18431
+PA|Wayne|Honesdale|T R 467|18431
+PA|Wayne|Honesdale|R 4029, South|18431
+PA|Wayne|Honesdale|T R 509|18431
+PA|Wayne|Honesdale|T R 554|18431
+PA|Wayne|Honesdale|T R 558|18431
+PA|Wayne|Honesdale|T R 566|18431
+PA|Wayne|Honesdale|T-405|18431
+PA|Wayne|Honesdale|T407|18431
+PA|Wayne|Honesdale|T409|18431
+PA|Wayne|Honesdale|T-409|18431
+PA|Wayne|Honesdale|T411|18431
+PA|Wayne|Honesdale|T413|18431
+PA|Wayne|Honesdale|T415|18431
+PA|Wayne|Honesdale|T416|18431
+PA|Wayne|Honesdale|T423|18431
+PA|Wayne|Honesdale|T425|18431
+PA|Wayne|Honesdale|T431|18431
+PA|Wayne|Honesdale|T436|18431
+PA|Wayne|Honesdale|T444|18431
+PA|Wayne|Honesdale|T445|18431
+PA|Wayne|Honesdale|T446|18431
+PA|Wayne|Honesdale|T447|18431
+PA|Wayne|Honesdale|T453|18431
+PA|Wayne|Honesdale|T455|18431
+PA|Wayne|Honesdale|T461|18431
+PA|Wayne|Honesdale|T463|18431
+PA|Wayne|Honesdale|T469|18431
+PA|Wayne|Honesdale|T472|18431
+PA|Wayne|Honesdale|T-474|18431
+PA|Wayne|Honesdale|T475|18431
+PA|Wayne|Honesdale|T-478|18431
+PA|Wayne|Honesdale|T479|18431
+PA|Wayne|Honesdale|T480|18431
+PA|Wayne|Honesdale|T481|18431
+PA|Wayne|Honesdale|T482|18431
+PA|Wayne|Honesdale|T486|18431
+PA|Wayne|Honesdale|T494|18431
+PA|Wayne|Honesdale|T496|18431
+PA|Wayne|Honesdale|T498|18431
+PA|Wayne|Honesdale|T508|18431
+PA|Wayne|Honesdale|T511|18431
+PA|Wayne|Honesdale|T513|18431
+PA|Wayne|Honesdale|T516|18431
+PA|Wayne|Honesdale|T530|18431
+PA|Wayne|Honesdale|T544|18431
+PA|Wayne|Honesdale|T546|18431
+PA|Wayne|Honesdale|T550|18431
+PA|Wayne|Honesdale|T551|18431
+PA|Wayne|Honesdale|T554|18431
+PA|Wayne|Honesdale|T556|18431
+PA|Wayne|Honesdale|T557|18431
+PA|Wayne|Honesdale|T558|18431
+PA|Wayne|Honesdale|T560|18431
+PA|Wayne|Honesdale|T564|18431
+PA|Wayne|Honesdale|T566|18431
+PA|Wayne|Honesdale|T570|18431
+PA|Wayne|Honesdale|T576|18431
+PA|Wayne|Honesdale|T578|18431
+PA|Wayne|Honesdale|T612|18431
+PA|Wayne|Honesdale|T614|18431
+PA|Wayne|Honesdale|T620|18431
+PA|Wayne|Honesdale|T642|18431
+PA|Wayne|Honesdale|Terrace Hts|18431
+PA|Wayne|Honesdale|Terrace Street|18431
+PA|Wayne|Honesdale|Terrance Street|18431
+PA|Wayne|Honesdale|Texas Palmayra Highway|18431
+PA|Wayne|Honesdale|Theobald Road|18431
+PA|Wayne|Honesdale|Tighe Lane|18431
+PA|Wayne|Honesdale|Top of the Hill Drive|18431
+PA|Wayne|Honesdale|Torrey Road|18431
+PA|Wayne|Honesdale|Tower Hill Road|18431
+PA|Wayne|Honesdale|Tr533|18431
+PA|Wayne|Honesdale|Tr540|18431
+PA|Wayne|Honesdale|Tracy Street|18431
+PA|Wayne|Honesdale|Trails End Road|18431
+PA|Wayne|Honesdale|Trails Road|18431
+PA|Wayne|Honesdale|Tryon Street|18431
+PA|Wayne|Honesdale|Tryon Street, East|18431
+PA|Wayne|Honesdale|Union Street|18431
+PA|Wayne|Honesdale|Upper Crossroads|18431
+PA|Wayne|Honesdale|Upper Woods Road|18431
+PA|Wayne|Honesdale|US Highway 6|18431
+PA|Wayne|Honesdale|Valley Ridge Road|18431
+PA|Wayne|Honesdale|Van Street|18431
+PA|Wayne|Honesdale|Vanishing Pond Road|18431
+PA|Wayne|Honesdale|Vasko Drive|18431
+PA|Wayne|Honesdale|Via Sulla Ciama|18431
+PA|Wayne|Honesdale|Victoria Lane|18431
+PA|Wayne|Honesdale|Village Lane|18431
+PA|Wayne|Honesdale|Vine Street|18431
+PA|Wayne|Honesdale|W 11th Street|18431
+PA|Wayne|Honesdale|W Park Street|18431
+PA|Wayne|Honesdale|Wallys Mountain|18431
+PA|Wayne|Honesdale|Walnut Street|18431
+PA|Wayne|Honesdale|Wanaka Road|18431
+PA|Wayne|Honesdale|Wanoka Lane|18431
+PA|Wayne|Honesdale|Wanoka Road|18431
+PA|Wayne|Honesdale|Warren Hts|18431
+PA|Wayne|Honesdale|Warren Street|18431
+PA|Wayne|Honesdale|Warring Road|18431
+PA|Wayne|Honesdale|Washington Street|18431
+PA|Wayne|Honesdale|Watts Hill Road|18431
+PA|Wayne|Honesdale|Wayne Avenue|18431
+PA|Wayne|Honesdale|Wayne Street|18431
+PA|Wayne|Honesdale|Weniger Hill Road|18431
+PA|Wayne|Honesdale|West Street|18431
+PA|Wayne|Honesdale|Westside Avenue|18431
+PA|Wayne|Honesdale|White Birch Lane|18431
+PA|Wayne|Honesdale|White Mills Road|18431
+PA|Wayne|Honesdale|White Tail Place|18431
+PA|Wayne|Honesdale|Wild Acres Drive|18431
+PA|Wayne|Honesdale|Williams Valley Drive|18431
+PA|Wayne|Honesdale|Willow Avenue|18431
+PA|Wayne|Honesdale|Windsor Lane|18431
+PA|Wayne|Honesdale|Windy Hill Road|18431
+PA|Wayne|Honesdale|Wolff Lane|18431
+PA|Wayne|Honesdale|Wood Avenue|18431
+PA|Wayne|Honesdale|Wood Street|18431
+PA|Wayne|Honesdale|Woodin Street|18431
+PA|Wayne|Honesdale|Woodlyn Lane N|18431
+PA|Wayne|Honesdale|Woodlyn Lane S|18431
+PA|Wayne|Honesdale|Young Street|18431
+PA|Wayne|Lake Ariel|1st Avenue|18436
+PA|Wayne|Lake Ariel|2nd Avenue|18436
+PA|Wayne|Lake Ariel|3rd Avenue|18436
+PA|Wayne|Lake Ariel|4th Avenue|18436
+PA|Wayne|Lake Ariel|5th Avenue|18436
+PA|Wayne|Lake Ariel|Adams Road|18436
+PA|Wayne|Lake Ariel|Advent Road|18436
+PA|Wayne|Lake Ariel|Altemier Road|18436
+PA|Wayne|Lake Ariel|Anderson Road|18436
+PA|Wayne|Lake Ariel|Andromeda Circle|18436
+PA|Wayne|Lake Ariel|Ann Esther Lane|18436
+PA|Wayne|Lake Ariel|Apache Court|18436
+PA|Wayne|Lake Ariel|Apple Gate Road|18436
+PA|Wayne|Lake Ariel|Applegate Road|18436
+PA|Wayne|Lake Ariel|Aquarius Drive|18436
+PA|Wayne|Lake Ariel|Aquarius Lane|18436
+PA|Wayne|Lake Ariel|Archbald Mountain Road|18436
+PA|Wayne|Lake Ariel|Aries Meadows|18436
+PA|Wayne|Lake Ariel|Arnold Drive|18436
+PA|Wayne|Lake Ariel|Arrowhead Court|18436
+PA|Wayne|Lake Ariel|Avoy Place|18436
+PA|Wayne|Lake Ariel|Avoy Road|18436
+PA|Wayne|Lake Ariel|Balanovich Road|18436
+PA|Wayne|Lake Ariel|Batzel Road|18436
+PA|Wayne|Lake Ariel|Bear Drive|18436
+PA|Wayne|Lake Ariel|Bear Hill Road|18436
+PA|Wayne|Lake Ariel|Bear Rock Road|18436
+PA|Wayne|Lake Ariel|Bear Trail Road|18436
+PA|Wayne|Lake Ariel|Bear Tree Road|18436
+PA|Wayne|Lake Ariel|Bear View Drive|18436
+PA|Wayne|Lake Ariel|Beaver Lake Drive|18436
+PA|Wayne|Lake Ariel|Beaver Pond Road|18436
+PA|Wayne|Lake Ariel|Beech Circle|18436
+PA|Wayne|Lake Ariel|Beech Lane|18436
+PA|Wayne|Lake Ariel|Beechwood Drive|18436
+PA|Wayne|Lake Ariel|Bell Road|18436
+PA|Wayne|Lake Ariel|Benjamin Road|18436
+PA|Wayne|Lake Ariel|Berkley Drive|18436
+PA|Wayne|Lake Ariel|Berry Lane|18436
+PA|Wayne|Lake Ariel|Bidwell Hill|18436
+PA|Wayne|Lake Ariel|Bidwell Hill Road|18436
+PA|Wayne|Lake Ariel|Big Hills Road|18436
+PA|Wayne|Lake Ariel|Big Spring Lane|18436
+PA|Wayne|Lake Ariel|Birch Street|18436
+PA|Wayne|Lake Ariel|Birchwood Lane|18436
+PA|Wayne|Lake Ariel|Bird Lane|18436
+PA|Wayne|Lake Ariel|Bison Trail|18436
+PA|Wayne|Lake Ariel|Black Bear Road|18436
+PA|Wayne|Lake Ariel|Blue Bird Court|18436
+PA|Wayne|Lake Ariel|Blue Bird Drive|18436
+PA|Wayne|Lake Ariel|Blue Bird Lane|18436
+PA|Wayne|Lake Ariel|Blue Spruce Lane|18436
+PA|Wayne|Lake Ariel|Boat House Road|18436
+PA|Wayne|Lake Ariel|Boathouse Road|18436
+PA|Wayne|Lake Ariel|Bob Black Road|18436
+PA|Wayne|Lake Ariel|Boulder Court|18436
+PA|Wayne|Lake Ariel|Boulder Road|18436
+PA|Wayne|Lake Ariel|Brentwood Court|18436
+PA|Wayne|Lake Ariel|Brentwood Drive|18436
+PA|Wayne|Lake Ariel|Briar Hill, South|18436
+PA|Wayne|Lake Ariel|Briar Lane|18436
+PA|Wayne|Lake Ariel|Brook Way|18436
+PA|Wayne|Lake Ariel|Brookfield Road|18436
+PA|Wayne|Honesdale|Prompton Vw|18431
+PA|Wayne|Lake Ariel|Brundage Drive|18436
+PA|Wayne|Lake Ariel|Burke Road|18436
+PA|Wayne|Lake Ariel|Burnwood Court|18436
+PA|Wayne|Lake Ariel|Burnwood Puente|18436
+PA|Wayne|Lake Ariel|Butler Hill Road|18436
+PA|Wayne|Lake Ariel|C Bidwell Road|18436
+PA|Wayne|Honesdale|Spring Meadow Court|18431
+PA|Wayne|Honesdale|T R 477|18431
+PA|Wayne|Lake Ariel|Cancer Mews|18436
+PA|Wayne|Lake Ariel|Canoe Terrace|18436
+PA|Wayne|Lake Ariel|Canoochee Court|18436
+PA|Wayne|Lake Ariel|Canyon Road|18436
+PA|Wayne|Lake Ariel|Capricorn Circle|18436
+PA|Wayne|Lake Ariel|Canary Drive|18436
+PA|Wayne|Lake Ariel|Bruin Road|18436
+PA|Wayne|Lake Ariel|Calypso Drive|18436
+PA|Wayne|Lake Ariel|Caroline Circle|18436
+PA|Wayne|Lake Ariel|Cathy Valley Lane|18436
+PA|Wayne|Lake Ariel|Catterson Road|18436
+PA|Wayne|Lake Ariel|Cedar Drive|18436
+PA|Wayne|Lake Ariel|Cedarwood Terrace|18436
+PA|Wayne|Lake Ariel|Center Road|18436
+PA|Wayne|Lake Ariel|Center Street|18436
+PA|Wayne|Lake Ariel|Chapman Road|18436
+PA|Wayne|Lake Ariel|Charles Road|18436
+PA|Wayne|Lake Ariel|Chealsey Lane|18436
+PA|Wayne|Lake Ariel|Cherokee Court|18436
+PA|Wayne|Lake Ariel|Cherokee Terrace|18436
+PA|Wayne|Lake Ariel|Chestnut Hill Drive|18436
+PA|Wayne|Lake Ariel|Chestnut Hill Road|18436
+PA|Wayne|Lake Ariel|Chestnut Road|18436
+PA|Wayne|Lake Ariel|Chip Court|18436
+PA|Wayne|Lake Ariel|Chipmunk Lane|18436
+PA|Wayne|Lake Ariel|Chippewa Court|18436
+PA|Wayne|Lake Ariel|Chivers Road|18436
+PA|Wayne|Lake Ariel|Circle Drive|18436
+PA|Wayne|Lake Ariel|Circle Road|18436
+PA|Wayne|Lake Ariel|Cliff Drive|18436
+PA|Wayne|Lake Ariel|Cliffwood Road|18436
+PA|Wayne|Lake Ariel|Collins Avenue|18436
+PA|Wayne|Lake Ariel|Commanche Circle|18436
+PA|Wayne|Lake Ariel|Cortez Road|18436
+PA|Wayne|Lake Ariel|Cardinalla|18436
+PA|Wayne|Lake Ariel|Cottage Lane|18436
+PA|Wayne|Lake Ariel|Country Lane|18436
+PA|Wayne|Lake Ariel|Cove Heights Lane|18436
+PA|Wayne|Lake Ariel|Cove Point Lane|18436
+PA|Wayne|Lake Ariel|Cree Lane|18436
+PA|Wayne|Lake Ariel|Crest View Road|18436
+PA|Wayne|Lake Ariel|Crestwood Court|18436
+PA|Wayne|Lake Ariel|Cub Road|18436
+PA|Wayne|Lake Ariel|Cygnus Road|18436
+PA|Wayne|Lake Ariel|Cypress Court|18436
+PA|Wayne|Lake Ariel|Czubowicz Road|18436
+PA|Wayne|Lake Ariel|Daisy Lane|18436
+PA|Wayne|Lake Ariel|Daniels Road|18436
+PA|Wayne|Lake Ariel|Deacon Hill Road|18436
+PA|Wayne|Lake Ariel|Debbie Drive|18436
+PA|Wayne|Lake Ariel|Deer Laurel Road|18436
+PA|Wayne|Lake Ariel|Deer Park Road|18436
+PA|Wayne|Lake Ariel|Deer Trail Road|18436
+PA|Wayne|Lake Ariel|Deer Valley Road|18436
+PA|Wayne|Lake Ariel|Deerfield Court|18436
+PA|Wayne|Lake Ariel|Deerfield Road|18436
+PA|Wayne|Lake Ariel|Deerfoot Circle|18436
+PA|Wayne|Lake Ariel|Deerfoot Road|18436
+PA|Wayne|Lake Ariel|Dogwood Court|18436
+PA|Wayne|Lake Ariel|Dogwood Lane|18436
+PA|Wayne|Lake Ariel|Dogwood Place|18436
+PA|Wayne|Lake Ariel|Draco Drive|18436
+PA|Wayne|Lake Ariel|Dunhill Court|18436
+PA|Wayne|Lake Ariel|Dusty Lane|18436
+PA|Wayne|Lake Ariel|E Island Lane|18436
+PA|Wayne|Lake Ariel|E Lake Road|18436
+PA|Wayne|Lake Ariel|E Shore Drive|18436
+PA|Wayne|Lake Ariel|Eagle Court|18436
+PA|Wayne|Lake Ariel|Eagle Nest Road|18436
+PA|Wayne|Lake Ariel|Eagle Nest Tear|18436
+PA|Wayne|Lake Ariel|Cottage Drive|18436
+PA|Wayne|Lake Ariel|Eagle View Terrace|18436
+PA|Wayne|Lake Ariel|Easton Tpke|18436
+PA|Wayne|Lake Ariel|Edgefield Road|18436
+PA|Wayne|Lake Ariel|Eisenhauer Road|18436
+PA|Wayne|Lake Ariel|Eleanor Lane|18436
+PA|Wayne|Lake Ariel|Ellys Court|18436
+PA|Wayne|Lake Ariel|Elm Street|18436
+PA|Wayne|Lake Ariel|Elmwood Court|18436
+PA|Wayne|Lake Ariel|Enslin's Road|18436
+PA|Wayne|Lake Ariel|Equity Drive|18436
+PA|Wayne|Lake Ariel|Equity Road|18436
+PA|Wayne|Lake Ariel|Eskra Road|18436
+PA|Wayne|Lake Ariel|Carbondale Road|18436
+PA|Wayne|Lake Ariel|Evergreen Drive|18436
+PA|Wayne|Lake Ariel|Evergreen Mobile Home Park|18436
+PA|Wayne|Lake Ariel|Everly Road|18436
+PA|Wayne|Lake Ariel|Fairway Court|18436
+PA|Wayne|Lake Ariel|Fairway Drive, North|18436
+PA|Wayne|Lake Ariel|Fairway Drive, South|18436
+PA|Wayne|Lake Ariel|Faller Road|18436
+PA|Wayne|Lake Ariel|Falls Road|18436
+PA|Wayne|Lake Ariel|Farwood Court|18436
+PA|Wayne|Lake Ariel|Father John Drive|18436
+PA|Wayne|Lake Ariel|Fawn Hill Court|18436
+PA|Wayne|Lake Ariel|Fawn Road|18436
+PA|Wayne|Lake Ariel|Fawnwood Terrace|18436
+PA|Wayne|Lake Ariel|Fern Road|18436
+PA|Wayne|Lake Ariel|Fernwood Road|18436
+PA|Wayne|Lake Ariel|Finn Swamp Road|18436
+PA|Wayne|Lake Ariel|Florence Road|18436
+PA|Wayne|Lake Ariel|Folls Road|18436
+PA|Wayne|Lake Ariel|Forest Court|18436
+PA|Wayne|Lake Ariel|Forest Lane|18436
+PA|Wayne|Lake Ariel|Forest Road|18436
+PA|Wayne|Lake Ariel|Freight House Road|18436
+PA|Wayne|Lake Ariel|Garden Drive|18436
+PA|Wayne|Lake Ariel|Gate Road, North|18436
+PA|Wayne|Lake Ariel|Gemini Circle|18436
+PA|Wayne|Lake Ariel|George Drive|18436
+PA|Wayne|Lake Ariel|Glen Road|18436
+PA|Wayne|Lake Ariel|Glenn Road|18436
+PA|Wayne|Lake Ariel|Glenwood Lane|18436
+PA|Wayne|Lake Ariel|Golf Club Road|18436
+PA|Wayne|Lake Ariel|Golf Park Drive|18436
+PA|Wayne|Lake Ariel|Goose Bud Road|18436
+PA|Wayne|Lake Ariel|Goose Pd Road|18436
+PA|Wayne|Lake Ariel|Goose Pond Road|18436
+PA|Wayne|Lake Ariel|Gordon Drive|18436
+PA|Wayne|Lake Ariel|Grandview Court|18436
+PA|Wayne|Lake Ariel|Grandview Drive|18436
+PA|Wayne|Lake Ariel|Granite Court|18436
+PA|Wayne|Lake Ariel|Gravity Road|18436
+PA|Wayne|Lake Ariel|Green Valley Circle|18436
+PA|Wayne|Lake Ariel|Green Valley Cirle|18436
+PA|Wayne|Lake Ariel|Greenview Court|18436
+PA|Wayne|Lake Ariel|Griffin Road|18436
+PA|Wayne|Lake Ariel|Hahn Road|18436
+PA|Wayne|Lake Ariel|Halawasa Lane|18436
+PA|Wayne|Lake Ariel|Hamlin Highway|18436
+PA|Wayne|Lake Ariel|Hanlon Road|18436
+PA|Wayne|Lake Ariel|Harkins Lane|18436
+PA|Wayne|Lake Ariel|Harmony Drive|18436
+PA|Wayne|Lake Ariel|Hawk Mew Circle|18436
+PA|Wayne|Lake Ariel|Hemlock Court|18436
+PA|Wayne|Lake Ariel|Hemlock Drive|18436
+PA|Wayne|Lake Ariel|Hemlock Lane|18436
+PA|Wayne|Lake Ariel|Hemlock Path|18436
+PA|Wayne|Lake Ariel|Hemlock Road|18436
+PA|Wayne|Lake Ariel|Hibernation Road|18436
+PA|Wayne|Lake Ariel|Hickory Court|18436
+PA|Wayne|Lake Ariel|Hickory Drive|18436
+PA|Wayne|Lake Ariel|Hidden Lake Drive|18436
+PA|Wayne|Lake Ariel|Evans Road|18436
+PA|Wayne|Lake Ariel|Hidden Valley Court|18436
+PA|Wayne|Lake Ariel|Hideaway Court|18436
+PA|Wayne|Lake Ariel|High Point Court|18436
+PA|Wayne|Lake Ariel|High Point Drive|18436
+PA|Wayne|Lake Ariel|Highview Terrace|18436
+PA|Wayne|Lake Ariel|Hill Road|18436
+PA|Wayne|Lake Ariel|Hill Street|18436
+PA|Wayne|Lake Ariel|Hillberry Lane|18436
+PA|Wayne|Lake Ariel|Hilltop Drive|18436
+PA|Wayne|Lake Ariel|Hilltop Road|18436
+PA|Wayne|Lake Ariel|Eagle Nest Terrace|18436
+PA|Wayne|Lake Ariel|Hi-View Drive|18436
+PA|Wayne|Lake Ariel|Hidden Valley|18436
+PA|Wayne|Lake Ariel|Honey Bear Road|18436
+PA|Wayne|Lake Ariel|Hummingbird Lane|18436
+PA|Wayne|Lake Ariel|Hurok Court|18436
+PA|Wayne|Lake Ariel|Hitchcock Road|18436
+PA|Wayne|Lake Ariel|Indian Drive|18436
+PA|Wayne|Lake Ariel|Indian Rocks Road|18436
+PA|Wayne|Lake Ariel|Industrial Park Road|18436
+PA|Wayne|Lake Ariel|Iroquois Way|18436
+PA|Wayne|Lake Ariel|Island Lane|18436
+PA|Wayne|Lake Ariel|Island Lane, East|18436
+PA|Wayne|Lake Ariel|Island View Drive|18436
+PA|Wayne|Lake Ariel|Jefferson Boulevard|18436
+PA|Wayne|Lake Ariel|Keating Road|18436
+PA|Wayne|Lake Ariel|Keystone Road|18436
+PA|Wayne|Lake Ariel|Kizer Pond Road|18436
+PA|Wayne|Lake Ariel|Klepadlo Road|18436
+PA|Wayne|Lake Ariel|Klepadlo Road, South|18436
+PA|Wayne|Lake Ariel|Knollwood Road|18436
+PA|Wayne|Lake Ariel|Labar Road|18436
+PA|Wayne|Lake Ariel|Lacawac Road|18436
+PA|Wayne|Lake Ariel|Lakawac Road|18436
+PA|Wayne|Lake Ariel|Lake Ariel Highway|18436
+PA|Wayne|Lake Ariel|Lake Heights Court|18436
+PA|Wayne|Lake Ariel|Lake Henry Road|18436
+PA|Wayne|Lake Ariel|Lake Loretta Drive|18436
+PA|Wayne|Lake Ariel|Cardinal Lane|18436
+PA|Wayne|Lake Ariel|Lake Road, East|18436
+PA|Wayne|Lake Ariel|Lake Road|18436
+PA|Wayne|Lake Ariel|Lake Road, West|18436
+PA|Wayne|Lake Ariel|Lake Shore Drive|18436
+PA|Wayne|Lake Ariel|Lake Spangenberg Road|18436
+PA|Wayne|Lake Ariel|Lake Spangenburg Road|18436
+PA|Wayne|Lake Ariel|Lakeland Colony North Road|18436
+PA|Wayne|Lake Ariel|Lakeland Drive|18436
+PA|Wayne|Lake Ariel|Lakeshore Drive|18436
+PA|Wayne|Lake Ariel|Lakeside Drive, West|18436
+PA|Wayne|Lake Ariel|Lakeview Court|18436
+PA|Wayne|Lake Ariel|Lakeview Drive|18436
+PA|Wayne|Lake Ariel|Lakeview Drive E|18436
+PA|Wayne|Lake Ariel|Lakeview Drive W|18436
+PA|Wayne|Lake Ariel|Lakeview Road|18436
+PA|Wayne|Lake Ariel|Lakewood Court|18436
+PA|Wayne|Lake Ariel|Lakewood Drive|18436
+PA|Wayne|Lake Ariel|Lamberton Road|18436
+PA|Wayne|Lake Ariel|Landmark Drive|18436
+PA|Wayne|Lake Ariel|Larch Trail|18436
+PA|Wayne|Lake Ariel|Laurel Court|18436
+PA|Wayne|Lake Ariel|Laurel Drive|18436
+PA|Wayne|Lake Ariel|Laurel Puente|18436
+PA|Wayne|Lake Ariel|Ledgedale Road|18436
+PA|Wayne|Lake Ariel|Leo Mews|18436
+PA|Wayne|Lake Ariel|Libra Mews|18436
+PA|Wayne|Lake Ariel|Lake Quinn Road|18436
+PA|Wayne|Lake Ariel|Lions Road|18436
+PA|Wayne|Lake Ariel|Little Lake Road|18436
+PA|Wayne|Lake Ariel|Living Water Road|18436
+PA|Wayne|Lake Ariel|Living Waters Road|18436
+PA|Wayne|Lake Ariel|Log Road|18436
+PA|Wayne|Lake Ariel|Loretta Drive|18436
+PA|Wayne|Lake Ariel|Lotus Terrace|18436
+PA|Wayne|Lake Ariel|Luzerne-Wayne Tpke|18436
+PA|Wayne|Lake Ariel|Maple Avenue|18436
+PA|Wayne|Lake Ariel|Maple Court|18436
+PA|Wayne|Lake Ariel|Maple Drive|18436
+PA|Wayne|Lake Ariel|Maple Lane|18436
+PA|Wayne|Lake Ariel|Maplewood Court|18436
+PA|Wayne|Lake Ariel|Maplewood Road|18436
+PA|Wayne|Lake Ariel|Marina Drive|18436
+PA|Wayne|Lake Ariel|Marion Lake Road|18436
+PA|Wayne|Lake Ariel|Martindale Mew|18436
+PA|Wayne|Lake Ariel|Martini Road|18436
+PA|Wayne|Lake Ariel|McKinney Road|18436
+PA|Wayne|Lake Ariel|Meadow View Drive|18436
+PA|Wayne|Lake Ariel|Mele Way|18436
+PA|Wayne|Lake Ariel|Mellon Road|18436
+PA|Wayne|Lake Ariel|Homers Drive|18436
+PA|Wayne|Lake Ariel|Mid-Valley Road|18436
+PA|Wayne|Lake Ariel|Milkwood Terrace|18436
+PA|Wayne|Lake Ariel|Mill Brook Road|18436
+PA|Wayne|Lake Ariel|Miller Road|18436
+PA|Wayne|Lake Ariel|Millwood Place|18436
+PA|Wayne|Lake Ariel|Mockingbird Lane|18436
+PA|Wayne|Lake Ariel|Mohican Road|18436
+PA|Wayne|Lake Ariel|Monticello Road|18436
+PA|Wayne|Lake Ariel|Moon Road|18436
+PA|Wayne|Lake Ariel|Moore Drive|18436
+PA|Wayne|Lake Ariel|Moore Road|18436
+PA|Wayne|Lake Ariel|Line Road|18436
+PA|Wayne|Lake Ariel|Moosic Gap Road|18436
+PA|Wayne|Lake Ariel|Moosic Lk Road|18436
+PA|Wayne|Lake Ariel|Mott Drive|18436
+PA|Wayne|Lake Ariel|Mount Cobb Highway|18436
+PA|Wayne|Lake Ariel|Mount Cobb Road|18436
+PA|Wayne|Lake Ariel|Mountain Crest Drive|18436
+PA|Wayne|Lake Ariel|Mountain Road|18436
+PA|Wayne|Lake Ariel|Mountain Top Drive|18436
+PA|Wayne|Lake Ariel|Murnin Edgefield Road|18436
+PA|Wayne|Lake Ariel|Mustang Road|18436
+PA|Wayne|Lake Ariel|N Fairway Drive|18436
+PA|Wayne|Lake Ariel|N Gate Road|18436
+PA|Wayne|Lake Ariel|N Shore Lane|18436
+PA|Wayne|Lake Ariel|Najavd Road|18436
+PA|Wayne|Lake Ariel|Navaho Lane|18436
+PA|Wayne|Lake Ariel|Navaho Terrace|18436
+PA|Wayne|Lake Ariel|Northgate Court|18436
+PA|Wayne|Lake Ariel|Northgate Ct S|18436
+PA|Wayne|Lake Ariel|Northgate Road|18436
+PA|Wayne|Lake Ariel|Northshore Lane|18436
+PA|Wayne|Lake Ariel|Northshore Road|18436
+PA|Wayne|Lake Ariel|Northwood Place|18436
+PA|Wayne|Lake Ariel|Northwood Terrace|18436
+PA|Wayne|Lake Ariel|Nova Road|18436
+PA|Wayne|Lake Ariel|Oak Circle|18436
+PA|Wayne|Lake Ariel|Oak Court|18436
+PA|Wayne|Lake Ariel|Oak Drive|18436
+PA|Wayne|Lake Ariel|Oak Lane|18436
+PA|Wayne|Lake Ariel|Oak Road|18436
+PA|Wayne|Lake Ariel|Oak Street|18436
+PA|Wayne|Lake Ariel|Oak Terrace|18436
+PA|Wayne|Lake Ariel|Oakland Lane|18436
+PA|Wayne|Lake Ariel|Oaklane Avenue|18436
+PA|Wayne|Lake Ariel|Oakview Drive|18436
+PA|Wayne|Lake Ariel|Oakview Lane|18436
+PA|Wayne|Lake Ariel|Oakwood Court|18436
+PA|Wayne|Lake Ariel|Old Gravity Road|18436
+PA|Wayne|Lake Ariel|Old Lake Road|18436
+PA|Wayne|Lake Ariel|Old Mill Road|18436
+PA|Wayne|Lake Ariel|Oriole Lane|18436
+PA|Wayne|Lake Ariel|Orion Way|18436
+PA|Wayne|Lake Ariel|Osprey Circle|18436
+PA|Wayne|Lake Ariel|Owl Lane|18436
+PA|Wayne|Lake Ariel|Panther Circle|18436
+PA|Wayne|Lake Ariel|Par Court|18436
+PA|Wayne|Lake Ariel|Par Drive|18436
+PA|Wayne|Lake Ariel|Parkwood Court|18436
+PA|Wayne|Lake Ariel|Parkwood Drive|18436
+PA|Wayne|Lake Ariel|Peacefield Lane|18436
+PA|Wayne|Lake Ariel|Pebble Court|18436
+PA|Wayne|Lake Ariel|Middle Creek Road|18436
+PA|Wayne|Lake Ariel|Pices Lane|18436
+PA|Wayne|Lake Ariel|Piefer Road|18436
+PA|Wayne|Lake Ariel|Pine Crest Court|18436
+PA|Wayne|Lake Ariel|Pine Lane|18436
+PA|Wayne|Lake Ariel|Pinewood Court|18436
+PA|Wayne|Lake Ariel|Pocono Court|18436
+PA|Wayne|Lake Ariel|Polaris Way|18436
+PA|Wayne|Lake Ariel|Pond Road|18436
+PA|Wayne|Lake Ariel|Pump House Road|18436
+PA|Wayne|Lake Ariel|Pumphouse Road|18436
+PA|Wayne|Lake Ariel|Purdytown Tpke|18436
+PA|Wayne|Lake Ariel|Purtytown Tpke|18436
+PA|Wayne|Lake Ariel|Quaking Aspen Lane|18436
+PA|Wayne|Lake Ariel|Raccoon Circle|18436
+PA|Wayne|Lake Ariel|Rainbow Drive|18436
+PA|Wayne|Lake Ariel|Ramble Road|18436
+PA|Wayne|Lake Ariel|Red Cedar Road|18436
+PA|Wayne|Lake Ariel|Red Hawk Drive|18436
+PA|Wayne|Lake Ariel|Red Oak Lane|18436
+PA|Wayne|Lake Ariel|Reed Road|18436
+PA|Wayne|Lake Ariel|Reid Road|18436
+PA|Wayne|Lake Ariel|Renwood Court|18436
+PA|Wayne|Lake Ariel|Ridge Road|18436
+PA|Wayne|Lake Ariel|Ridge View Road|18436
+PA|Wayne|Lake Ariel|Ridgeview Court|18436
+PA|Wayne|Lake Ariel|Ridgewood Circle|18436
+PA|Wayne|Lake Ariel|Ridgewood Court|18436
+PA|Wayne|Lake Ariel|Roaming Wood Court|18436
+PA|Wayne|Lake Ariel|Huron Court|18436
+PA|Wayne|Lake Ariel|Roamingwood Road|18436
+PA|Wayne|Lake Ariel|Moosiac Gap Road|18436
+PA|Wayne|Lake Ariel|Roaming Wood Road|18436
+PA|Wayne|Lake Ariel|Rock Away Court|18436
+PA|Wayne|Lake Ariel|Rockaway Road|18436
+PA|Wayne|Lake Ariel|Rockpoint Court|18436
+PA|Wayne|Lake Ariel|Rockway Road|18436
+PA|Wayne|Lake Ariel|Rolling Acres Road|18436
+PA|Wayne|Lake Ariel|Rolling Hills|18436
+PA|Wayne|Lake Ariel|Rolling Hills Drive|18436
+PA|Wayne|Lake Ariel|Rose Road|18436
+PA|Wayne|Lake Ariel|Rosebank Road|18436
+PA|Wayne|Lake Ariel|Rosecroft Road|18436
+PA|Wayne|Lake Ariel|Rosengrant Road|18436
+PA|Wayne|Lake Ariel|Ruffed Grouse Path|18436
+PA|Wayne|Lake Ariel|Ryan Hill Road|18436
+PA|Wayne|Lake Ariel|S Briar Hill|18436
+PA|Wayne|Lake Ariel|S Fairway Drive|18436
+PA|Wayne|Lake Ariel|S Klepadlo Road|18436
+PA|Wayne|Lake Ariel|S Shore Drive|18436
+PA|Wayne|Lake Ariel|Saggitarius Circle|18436
+PA|Wayne|Lake Ariel|Salem Park Lane|18436
+PA|Wayne|Lake Ariel|Salem Place|18436
+PA|Wayne|Lake Ariel|Samson Road|18436
+PA|Wayne|Lake Ariel|Sanctuary Road|18436
+PA|Wayne|Lake Ariel|Sandra Road|18436
+PA|Wayne|Lake Ariel|Sandy Court|18436
+PA|Wayne|Lake Ariel|Pheasant Court|18436
+PA|Wayne|Lake Ariel|Sassafras Mew|18436
+PA|Wayne|Lake Ariel|Sawmill Road|18436
+PA|Wayne|Lake Ariel|Schafran Road|18436
+PA|Wayne|Lake Ariel|Schiavetta Trail|18436
+PA|Wayne|Lake Ariel|Schott Road|18436
+PA|Wayne|Lake Ariel|Scorpio Mews|18436
+PA|Wayne|Lake Ariel|Scott Road|18436
+PA|Wayne|Lake Ariel|Seeley Road|18436
+PA|Wayne|Lake Ariel|Seely Road|18436
+PA|Wayne|Lake Ariel|Seneca Drive|18436
+PA|Wayne|Lake Ariel|Shady Lane|18436
+PA|Wayne|Lake Ariel|Shaffer Road|18436
+PA|Wayne|Lake Ariel|Sheerer Road|18436
+PA|Wayne|Lake Ariel|Shiloh Drive|18436
+PA|Wayne|Lake Ariel|Shirley Lane|18436
+PA|Wayne|Lake Ariel|Shore Drive|18436
+PA|Wayne|Lake Ariel|Shore Drive, East|18436
+PA|Wayne|Lake Ariel|Shore Drive, South|18436
+PA|Wayne|Lake Ariel|Shore Drive, West|18436
+PA|Wayne|Lake Ariel|Shore Lane, North|18436
+PA|Wayne|Lake Ariel|Shore Pointe Drive|18436
+PA|Wayne|Lake Ariel|Silkmans Road|18436
+PA|Wayne|Lake Ariel|Silver Spring Road|18436
+PA|Wayne|Lake Ariel|Ski Bluff Terrace|18436
+PA|Wayne|Lake Ariel|Slate Court|18436
+PA|Wayne|Lake Ariel|Sledzinski Road|18436
+PA|Wayne|Lake Ariel|Snowshoe Circle|18436
+PA|Wayne|Lake Ariel|Spangenberg Road|18436
+PA|Wayne|Lake Ariel|Split Rail Lane|18436
+PA|Wayne|Lake Ariel|Splitrail Lane|18436
+PA|Wayne|Lake Ariel|Spring Box Lane|18436
+PA|Wayne|Lake Ariel|Spring Hill Road|18436
+PA|Wayne|Lake Ariel|Spruce Lane|18436
+PA|Wayne|Lake Ariel|Squirrel Mews|18436
+PA|Wayne|Lake Ariel|Sr2001|18436
+PA|Wayne|Lake Ariel|Sassafras Lane|18436
+PA|Wayne|Lake Ariel|St Mary Church Road|18436
+PA|Wayne|Lake Ariel|Stahley's Lane|18436
+PA|Wayne|Lake Ariel|Star View Place|18436
+PA|Wayne|Lake Ariel|Starview Terrace|18436
+PA|Wayne|Lake Ariel|State Route 191|18436
+PA|Wayne|Lake Ariel|State Route 196|18436
+PA|Wayne|Lake Ariel|State Route 2003|18436
+PA|Wayne|Lake Ariel|State Route 296|18436
+PA|Wayne|Lake Ariel|State Route 3008|18436
+PA|Wayne|Lake Ariel|State Route 3011|18436
+PA|Wayne|Lake Ariel|State Route 3012|18436
+PA|Wayne|Lake Ariel|State Route 3014|18436
+PA|Wayne|Lake Ariel|State Route 3016|18436
+PA|Wayne|Lake Ariel|State Route 3017|18436
+PA|Wayne|Lake Ariel|State Route 3018|18436
+PA|Wayne|Lake Ariel|State Route 3019|18436
+PA|Wayne|Lake Ariel|State Route 3023|18436
+PA|Wayne|Lake Ariel|State Route 3025|18436
+PA|Wayne|Lake Ariel|State Route 3027|18436
+PA|Wayne|Lake Ariel|State Route 3029|18436
+PA|Wayne|Lake Ariel|State Route 3034|18436
+PA|Wayne|Lake Ariel|State Route 3040|18436
+PA|Wayne|Lake Ariel|State Route 348|18436
+PA|Wayne|Lake Ariel|Sterling Shore Road|18436
+PA|Wayne|Lake Ariel|Sterling View Drive|18436
+PA|Wayne|Lake Ariel|Stevens Road|18436
+PA|Wayne|Lake Ariel|Stickman Lane|18436
+PA|Wayne|Lake Ariel|Stock Farm Road|18436
+PA|Wayne|Lake Ariel|Stonefield Drive|18436
+PA|Wayne|Lake Ariel|Stoney Road|18436
+PA|Wayne|Lake Ariel|Stony Court|18436
+PA|Wayne|Lake Ariel|Stony Lane|18436
+PA|Wayne|Lake Ariel|Sugar Bush Lane|18436
+PA|Wayne|Lake Ariel|Sugar Maple Meadow|18436
+PA|Wayne|Lake Ariel|Sugar Maple Meadows|18436
+PA|Wayne|Lake Ariel|Sugar Maple Mews|18436
+PA|Wayne|Lake Ariel|Sundew Road|18436
+PA|Wayne|Lake Ariel|Sunny Slope Drive|18436
+PA|Wayne|Lake Ariel|Sunrise Blvd E|18436
+PA|Wayne|Lake Ariel|Sunrise Boulevard|18436
+PA|Wayne|Lake Ariel|Sunrise Court|18436
+PA|Wayne|Lake Ariel|Sunrise Terrace|18436
+PA|Wayne|Lake Ariel|Sunset Court|18436
+PA|Wayne|Lake Ariel|Sunset Drive|18436
+PA|Wayne|Lake Ariel|Sweetwater Road|18436
+PA|Wayne|Lake Ariel|Swetz Road|18436
+PA|Wayne|Lake Ariel|Swingle Lane|18436
+PA|Wayne|Lake Ariel|Swingle Road|18436
+PA|Wayne|Lake Ariel|Swoyer Road|18436
+PA|Wayne|Lake Ariel|T 333|18436
+PA|Wayne|Lake Ariel|T 339|18436
+PA|Wayne|Lake Ariel|T 341|18436
+PA|Wayne|Lake Ariel|T 345|18436
+PA|Wayne|Lake Ariel|T 353|18436
+PA|Wayne|Lake Ariel|T 355|18436
+PA|Wayne|Lake Ariel|T 356|18436
+PA|Wayne|Lake Ariel|T 359|18436
+PA|Wayne|Lake Ariel|Robin Bird Court|18436
+PA|Wayne|Lake Ariel|T 368|18436
+PA|Wayne|Lake Ariel|T 370|18436
+PA|Wayne|Lake Ariel|T 372|18436
+PA|Wayne|Lake Ariel|T 381|18436
+PA|Wayne|Lake Ariel|T 382|18436
+PA|Wayne|Lake Ariel|T 387|18436
+PA|Wayne|Lake Ariel|T 388|18436
+PA|Wayne|Lake Ariel|T 390|18436
+PA|Wayne|Lake Ariel|T 395|18436
+PA|Wayne|Lake Ariel|T 436|18436
+PA|Wayne|Lake Ariel|Robin Lane|18436
+PA|Wayne|Lake Ariel|T315|18436
+PA|Wayne|Lake Ariel|T334|18436
+PA|Wayne|Lake Ariel|Sr2003|18436
+PA|Wayne|Lake Ariel|T348|18436
+PA|Wayne|Lake Ariel|T-350|18436
+PA|Wayne|Lake Ariel|T351|18436
+PA|Wayne|Lake Ariel|T352|18436
+PA|Wayne|Lake Ariel|T355|18436
+PA|Wayne|Lake Ariel|T360|18436
+PA|Wayne|Lake Ariel|T362|18436
+PA|Wayne|Lake Ariel|T364|18436
+PA|Wayne|Lake Ariel|T366|18436
+PA|Wayne|Lake Ariel|T367|18436
+PA|Wayne|Lake Ariel|T-368|18436
+PA|Wayne|Lake Ariel|T370|18436
+PA|Wayne|Lake Ariel|T371|18436
+PA|Wayne|Lake Ariel|T372|18436
+PA|Wayne|Lake Ariel|T373|18436
+PA|Wayne|Lake Ariel|T-375|18436
+PA|Wayne|Lake Ariel|T376|18436
+PA|Wayne|Lake Ariel|T377|18436
+PA|Wayne|Lake Ariel|T 362|18436
+PA|Wayne|Lake Ariel|T346|18436
+PA|Wayne|Lake Ariel|T381|18436
+PA|Wayne|Lake Ariel|T 437|18436
+PA|Wayne|Lake Ariel|T384|18436
+PA|Wayne|Lake Ariel|T391|18436
+PA|Wayne|Lake Ariel|T392|18436
+PA|Wayne|Lake Ariel|T394|18436
+PA|Wayne|Lake Ariel|T399|18436
+PA|Wayne|Lake Ariel|T401|18436
+PA|Wayne|Lake Ariel|T402|18436
+PA|Wayne|Lake Ariel|T404|18436
+PA|Wayne|Lake Ariel|T406|18436
+PA|Wayne|Lake Ariel|T408|18436
+PA|Wayne|Lake Ariel|T410|18436
+PA|Wayne|Lake Ariel|T412|18436
+PA|Wayne|Lake Ariel|T418|18436
+PA|Wayne|Lake Ariel|T420|18436
+PA|Wayne|Lake Ariel|T424|18436
+PA|Wayne|Lake Ariel|T431|18436
+PA|Wayne|Lake Ariel|T432|18436
+PA|Wayne|Lake Ariel|T433|18436
+PA|Wayne|Lake Ariel|T434|18436
+PA|Wayne|Lake Ariel|T437|18436
+PA|Wayne|Lake Ariel|T438|18436
+PA|Wayne|Lake Ariel|T440|18436
+PA|Wayne|Lake Ariel|T443|18436
+PA|Wayne|Lake Ariel|T444|18436
+PA|Wayne|Lake Ariel|T445|18436
+PA|Wayne|Lake Ariel|T446|18436
+PA|Wayne|Lake Ariel|T447|18436
+PA|Wayne|Lake Ariel|T382|18436
+PA|Wayne|Lake Ariel|T451|18436
+PA|Wayne|Lake Ariel|T449|18436
+PA|Wayne|Lake Ariel|T452|18436
+PA|Wayne|Lake Ariel|T457|18436
+PA|Wayne|Lake Ariel|T459|18436
+PA|Wayne|Lake Ariel|T460|18436
+PA|Wayne|Lake Ariel|T462|18436
+PA|Wayne|Lake Ariel|T378|18436
+PA|Wayne|Lake Ariel|T464|18436
+PA|Wayne|Lake Ariel|T465|18436
+PA|Wayne|Lake Ariel|T466|18436
+PA|Wayne|Lake Ariel|T-470|18436
+PA|Wayne|Lake Ariel|Tall Oaks Road|18436
+PA|Wayne|Lake Ariel|T463|18436
+PA|Wayne|Lake Ariel|Tanglewood Lane|18436
+PA|Wayne|Lake Ariel|Tannery Road|18436
+PA|Wayne|Lake Ariel|Tarot Court|18436
+PA|Wayne|Lake Ariel|Taurus Circle|18436
+PA|Wayne|Lake Ariel|Tennis Lane|18436
+PA|Wayne|Lake Ariel|Theobald Road|18436
+PA|Wayne|Lake Ariel|Theobold Road|18436
+PA|Wayne|Lake Ariel|Thornwood Terrace|18436
+PA|Wayne|Lake Ariel|Tisdel Road|18436
+PA|Wayne|Lake Ariel|Timberlane Court|18436
+PA|Wayne|Lake Ariel|Tomahawk Court|18436
+PA|Wayne|Lake Ariel|Tomahawk Road|18436
+PA|Wayne|Lake Ariel|Traco Road|18436
+PA|Wayne|Lake Ariel|Trap Court|18436
+PA|Wayne|Lake Ariel|Trapper Road|18436
+PA|Wayne|Lake Ariel|Tresslarville Road|18436
+PA|Wayne|Lake Ariel|Tulip Lane|18436
+PA|Wayne|Lake Ariel|Uban Road|18436
+PA|Wayne|Lake Ariel|Underwood Lane|18436
+PA|Wayne|Lake Ariel|Van Leuven Road|18436
+PA|Wayne|Lake Ariel|Van Lueven Road|18436
+PA|Wayne|Lake Ariel|Victoria Circle|18436
+PA|Wayne|Lake Ariel|Victoria Lane|18436
+PA|Wayne|Lake Ariel|Vista Court|18436
+PA|Wayne|Lake Ariel|W Lakeside Drive|18436
+PA|Wayne|Lake Ariel|W Lake Road|18436
+PA|Wayne|Lake Ariel|W Shore Drive|18436
+PA|Wayne|Lake Ariel|Wagon Road|18436
+PA|Wayne|Lake Ariel|Wallace Road|18436
+PA|Wayne|Lake Ariel|Wallenpaupack Drive|18436
+PA|Wayne|Lake Ariel|Waynewood Road|18436
+PA|Wayne|Lake Ariel|Wedge Road|18436
+PA|Wayne|Lake Ariel|Westshore Drive|18436
+PA|Wayne|Lake Ariel|Westwood Court|18436
+PA|Wayne|Lake Ariel|Westwood Drive|18436
+PA|Wayne|Lake Ariel|Tamarack Lane|18436
+PA|Wayne|Lake Ariel|White Birch Park|18436
+PA|Wayne|Lake Ariel|White Pine Circle|18436
+PA|Wayne|Lake Ariel|White Road|18436
+PA|Wayne|Lake Ariel|White Tail Lane|18436
+PA|Wayne|Lake Ariel|T380|18436
+PA|Wayne|Lake Ariel|Wild Turkey Circle|18436
+PA|Wayne|Lake Ariel|Wildwood Court|18436
+PA|Wayne|Lake Ariel|Wildwood Terrace|18436
+PA|Wayne|Lake Ariel|Willard Road|18436
+PA|Wayne|Lake Ariel|Williams Road|18436
+PA|Wayne|Lake Ariel|Willow Court|18436
+PA|Wayne|Lake Ariel|Willow Drive|18436
+PA|Wayne|Lake Ariel|Willow Lane|18436
+PA|Wayne|Lake Ariel|Wimmers Road|18436
+PA|Wayne|Lake Ariel|Windemere Court|18436
+PA|Wayne|Lake Ariel|Windemere Lane|18436
+PA|Wayne|Lake Ariel|Windemere Place|18436
+PA|Wayne|Lake Ariel|Windmere Place|18436
+PA|Wayne|Lake Ariel|Windsor Drive|18436
+PA|Wayne|Lake Ariel|Wolf Mew Circle|18436
+PA|Wayne|Lake Ariel|Wood Road|18436
+PA|Wayne|Lake Ariel|Woodcrest Lane|18436
+PA|Wayne|Lake Ariel|Woodhill Lane|18436
+PA|Wayne|Lake Ariel|Woodland Court|18436
+PA|Wayne|Lake Ariel|Woodpoint Court|18436
+PA|Wayne|Lake Ariel|Woodridge Court|18436
+PA|Wayne|Lake Ariel|Woodridge Drive|18436
+PA|Wayne|Lake Ariel|Woodruff Lane|18436
+PA|Wayne|Lake Ariel|Woodview Terrace|18436
+PA|Wayne|Lake Ariel|Youngs Road|18436
+PA|Wayne|Lake Ariel|Zeiler Lane|18436
+PA|Wayne|Orson|Dorantown Road|18449
+PA|Wayne|Lake Ariel|T448|18436
+PA|Wayne|Lake Ariel|Wild Acres Road|18436
+PA|Wayne|Lake Ariel|White Birch Lane|18436
+PA|Wayne|Starlight|Autumn Leaves Road|18461
+PA|Wayne|Starlight|D'Agati Road|18461
+PA|Wayne|Starlight|Depot Hill Road|18461
+PA|Wayne|Starlight|Dix Road|18461
+PA|Wayne|Starlight|Faigle Road|18461
+PA|Wayne|Starlight|Fairmount Road|18461
+PA|Wayne|Starlight|Fall Brook Road|18461
+PA|Wayne|Starlight|Falls Brook Road|18461
+PA|Wayne|Starlight|Falls Creek Road|18461
+PA|Wayne|Starlight|Hancock Highway|18461
+PA|Wayne|Starlight|Hiawatha Road|18461
+PA|Wayne|Starlight|Island Lake Road|18461
+PA|Wayne|Starlight|Kane Road|18461
+PA|Wayne|Starlight|Myrick Road|18461
+PA|Wayne|Starlight|Newton Road|18461
+PA|Wayne|Starlight|O and W Road|18461
+PA|Wayne|Starlight|Crosstown Highway|18461
+PA|Wayne|Starlight|Penn York Road|18461
+PA|Wayne|Starlight|Old State Road|18461
+PA|Wayne|Starlight|River Road|18461
+PA|Wayne|Starlight|Roberts Road|18461
+PA|Wayne|Starlight|Sands Road|18461
+PA|Wayne|Starlight|Starlight Lake Road|18461
+PA|Wayne|Starlight|T 613|18461
+PA|Wayne|Starlight|T 743|18461
+PA|Wayne|Starlight|T607|18461
+PA|Wayne|Starlight|T609|18461
+PA|Wayne|Starlight|T611|18461
+PA|Wayne|Starlight|T665|18461
+PA|Wayne|Starlight|T738|18461
+PA|Wayne|Starlight|T741|18461
+PA|Wayne|Starlight|T743|18461
+PA|Wayne|Starlight|T746|18461
+PA|Wayne|Starlight|T747|18461
+PA|Wayne|Starlight|T766|18461
+PA|Wayne|Starlight|T774|18461
+PA|Wayne|Starlight|T780|18461
+PA|Wayne|Starlight|T781|18461
+PA|Wayne|Starlight|T783|18461
+PA|Wayne|Starlight|Willoway Road|18461
+PA|Wayne|Starlight|Winterdale Road|18461
+PA|Wayne|White Mills|Bucks Cove Road|18473
+PA|Wayne|White Mills|Canal Drive|18473
+PA|Wayne|White Mills|Canal Street|18473
+PA|Wayne|White Mills|Charles Street|18473
+PA|Wayne|White Mills|Church Street|18473
+PA|Wayne|White Mills|Coal Crst|18473
+PA|Wayne|White Mills|Delaware Street|18473
+PA|Wayne|White Mills|Easton Tpke|18473
+PA|Wayne|White Mills|Elizabeth Street|18473
+PA|Wayne|White Mills|Erie Street|18473
+PA|Wayne|White Mills|Evergreen Street|18473
+PA|Wayne|White Mills|Grandview Avenue|18473
+PA|Wayne|White Mills|Hudson Drive|18473
+PA|Wayne|White Mills|Lock Street|18473
+PA|Wayne|White Mills|Lonesome Lock Road|18473
+PA|Wayne|White Mills|O'Connell Road|18473
+PA|Wayne|White Mills|Old Route 6|18473
+PA|Wayne|White Mills|Old State Road|18473
+PA|Wayne|White Mills|Post Coal Crst|18473
+PA|Wayne|White Mills|School Street|18473
+PA|Wayne|White Mills|State Route 2006|18473
+PA|Wayne|White Mills|Stegner Street|18473
+PA|Wayne|White Mills|T 450|18473
+PA|Wayne|White Mills|T 468|18473
+PA|Wayne|White Mills|T403|18473
+PA|Wayne|White Mills|T411|18473
+PA|Wayne|White Mills|T470|18473
+PA|Wayne|White Mills|T-470|18473
+PA|Wayne|Starlight|Creek Road|18461
+PA|Wayne|White Mills|T-475|18473
+PA|Wayne|White Mills|Texas Palmayra Highway|18473
+PA|Wayne|White Mills|Texas Palmyra Highway|18473
+PA|Wayne|White Mills|Texas-Palmyra Avenue|18473
+PA|Wayne|White Mills|Towpath Road|18473
+PA|Wayne|White Mills|Whirling Post|18473
+PA|Wayne|White Mills|Whirling Post Lane|18473
+PA|Wayne|White Mills|T473|18473
+PA|Wayne|Starlight|Pleasant Valley Road|18461
+PA|Wayne|Starlight|Cottage Road|18461

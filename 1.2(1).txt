@@ -1,0 +1,76 @@
+{ "form_pages" : [
+  {
+    "display_order": 1,
+    "embedded_errors": [],
+    "form_fields": [
+      {
+        "display_order": 1,
+        "embedded_errors": [],
+        "field_id": 39,
+        "fields": {
+          "embedded_errors": [],
+          "field_option_type_id": 0,
+          "field_options": [],
+          "field_type_id": 23,
+          "field_value_destination_type_id": 1,
+          "global_optin_user_outgoing_mappings": [],
+          "help_text": "",
+          "id": 39,
+          "is_editable": false,
+          "is_required": true,
+          "is_starred": true,
+          "label_text": "Email",
+          "maximum_length_or_value": 100,
+          "name": "Email",
+          "organization_id": 1,
+          "relevance": 0,
+          "required_text": "",
+          "user_attribute_type_id": 0
+        },
+        "form_page_id": 1060081,
+        "help_text": "",
+        "id": 4293985,
+        "is_removable": true,
+        "is_required": true,
+        "label_text": "Email",
+        "placeholder_text": "",
+        "required_text": ""
+      },
+      {
+        "display_order": 2,
+        "embedded_errors": [],
+        "field_id": 41475,
+        "fields": {
+          "embedded_errors": [],
+          "field_option_type_id": 0,
+          "field_options": [],
+          "field_type_id": 8,
+          "field_value_destination_type_id": 1,
+          "global_optin_user_outgoing_mappings": [],
+          "id": 41475,
+          "is_editable": false,
+          "is_required": false,
+          "is_starred": false,
+          "label_text": "By clicking the submit button below, I agree to the <a href=\"javascript:;\" data-page-type-id=\"18\">Terms of Service</a> and <a href=\"javascript:;\" data-page-type-id=\"3\">Privacy Policy</a>",
+          "name": "Agree to Terms and Privacy Policy",
+          "organization_id": 1,
+          "relevance": 0,
+          "required_text": "",
+          "user_attribute_type_id": 233502
+        },
+        "form_page_id": 1060081,
+        "help_text": "",
+        "id": 4293986,
+        "is_removable": true,
+        "is_required": false,
+        "label_text": "By clicking the submit button below, I agree to the <a href=\"javascript:;\" data-page-type-id=\"18\">Terms of Service</a> and <a href=\"javascript:;\" data-page-type-id=\"3\">Privacy Policy</a>",
+        "placeholder_text": "",
+        "required_text": ""
+      }
+    ],
+    "form_id": 815252,
+    "id": 1060081,
+    "name": "Page 1",
+    "page_number": 1
+  }
+] }
